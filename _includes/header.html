@@ -1,0 +1,21 @@
+<header class="header">
+    <div class="container">
+        <div class="wrapper">
+            {% if page.course %}
+            <div class="course">
+                <h1><a href="/kurssit/{{ page.course }}">{{ page.course | upcase}}</a></h1>
+            </div>
+            <div class="owl">
+                <a href="/"><img src="/img/owl-{{theme}}.png" alt="" height="88" width="90" /></a>
+            </div>
+            {% else %}
+            <div class="author">
+                <h1><a href="/">Riikka Koskenranta</a></h1>
+            </div>
+            <div class="owl">
+                <a href="/"><img src="/img/owl-blog.png" alt="" height="88" width="90" /></a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</header>

@@ -1,0 +1,16 @@
+name: Riikka Koskenrannan sivut
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "autolink", "tables", "with_toc_data"]
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - CNAME
+  - Gruntfile.coffee
+  - bower.json
+  - package.json
+  - riikkak.github.io.iml
+  - libpeerconnection.log
+  - less
+  - node_modules

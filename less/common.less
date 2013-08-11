@@ -1,0 +1,160 @@
+//
+// General
+// --------------------------------------------------
+
+body, html, .content-wrapper {
+  height: 100%;
+}
+
+body > .content-wrapper {
+  height: auto;
+  min-height: 100%;
+}
+
+.content-wrapper {
+  padding-bottom: 120px;
+}
+
+//
+// Header
+// --------------------------------------------------
+
+.header {
+  background-color: @header-bg;
+  height: 150px;
+  color: @header-color;
+
+  .container {
+    padding-top: 25px;
+  }
+
+  .wrapper {
+    .make-row();
+
+    .author, .course {
+      .make-column(8);
+      .make-small-column(8);
+
+      h1 {
+        font-size: 42px;
+      }
+
+      a {
+        color: @header-color;
+
+        &:hover, &:focus {
+          color: @header-color;
+          text-decoration: none;
+        }
+      }
+    }
+
+    .owl {
+      .make-column(4);
+      .make-small-column(4);
+
+      img {
+        .pull-right;
+      }
+    }
+  }
+}
+
+//
+// Content
+// --------------------------------------------------
+
+.header-row {
+  .make-row();
+
+  .main-header {
+    .make-column(8);
+    .make-small-column(12);
+  }
+}
+
+.content-row {
+  .make-row();
+
+  .main-content {
+    .make-column(8);
+    .make-small-column(12);
+  }
+
+  .posts {
+    .make-column(8);
+    .make-small-column(12);
+  }
+}
+
+//
+// Post
+// --------------------------------------------------
+
+.post {
+  .title {
+    font-size: 25px;
+  }
+
+  .entry {
+    margin-top: 0.5em;
+  }
+}
+
+
+//
+// Footer
+// --------------------------------------------------
+
+.site-footer {
+  clear: both;
+  position: relative;
+  z-index: 10;
+  height: 100px;
+  margin-top: -100px;
+  background-color: @footer-bg;
+  color: @footer-color;
+
+  .wrapper {
+    .make-row();
+
+    .footer-text {
+      padding-top: 30px;
+      margin: 0;
+      .make-column(12);
+      .make-small-column(12);
+    }
+  }
+}
+
+@media (max-width: @screen-phone-max) {
+  .site-footer .wrapper .footer-text {
+    padding-top: 10px;
+  }
+}
+
+//
+// Helpers
+// --------------------------------------------------
+
+@screen-tiny-max: (@screen-small - 1);
+@screen-phone-max: @screen-tiny-max;
+
+.top-buffer() {
+  padding-top: 20px;
+}
+
+// Only display content to screen readers
+// See: http://a11yproject.com/posts/how-to-hide-content/
+// -------------------------
+
+.sr-only {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}

@@ -1,0 +1,7 @@
+<article class="post">
+    <h1 class="title">{{ post.title }}</h1>
+    <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M%Z' }}">{{ post.date | date: "%d.%m.%Y"}}</time>
+    <div class="entry">
+        {{ post.content | strip_html | truncatewords: 100 }}
+    </div>
+</article>

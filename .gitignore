@@ -1,2 +1,11 @@
+# Jekyll
 _site/
+
+# OS and IDE files
 .DS_Store
+*.iml
+.idea
+
+# Built-time dependencies/files
+node_modules
+libpeerconnection.log

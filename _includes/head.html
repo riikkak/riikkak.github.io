@@ -1,0 +1,21 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="Riikka Koskenranta">
+
+<title>
+    {% if page.title == "Riikka Koskenranta" %}
+    {{ page.title }}
+    {% else %}
+    {{ page.title }}{% if page.course %} - {{ page.course | upcase }}{% endif %} &middot; Riikka Koskenranta
+    {% endif %}
+</title>
+
+{% include theme-selector.html %}
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="/bower_components/html5shiv-dist/html5shiv-printshiv.js"></script>
+<script src="/bower_components/respond/respond.min.js"></script>
+<![endif]-->

@@ -1,0 +1,16 @@
+{
+    "name": "riikkak.github.io",
+    "version": "0.0.1",
+    "main": "dist/bootstrap.css",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "jquery": "~1.10",
+        "bootstrap": "3.0.0-rc1",
+        "html5shiv-dist": "~3.6.2",
+        "respond": "~1.2.0"
+    }
+}

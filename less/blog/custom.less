@@ -1,0 +1,88 @@
+//
+// Frontpage
+// --------------------------------------------------
+
+.frontpage {
+  margin-top: 100px;
+
+  .wrapper {
+    .make-row();
+
+    .blog, .courses {
+      .make-column(6);
+      .make-small-column(12);
+
+      a {
+        .btn;
+        .btn-primary;
+        .btn-large;
+        .btn-block;
+        padding: 23px 16px;
+        font-size: 28px;
+      }
+    }
+  }
+}
+
+@media (max-width: @screen-phone-max) {
+  .frontpage {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    .wrapper .courses {
+      margin-top: 10px;
+    }
+  }
+}
+
+//
+// Courses
+// --------------------------------------------------
+
+.course-menu {
+  .courses {
+    .make-row();
+
+    .courses-heading {
+      .make-column(12);
+      .make-small-column(12);
+
+      h1 {
+        margin: 40px 0;
+      }
+
+    }
+
+    .language-wrapper {
+      .make-column(6);
+      .make-small-column(12);
+
+      .language {
+        .panel;
+        .panel-primary;
+
+        h3 {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
+
+//
+// Navbar
+// --------------------------------------------------
+
+.navbar {
+  &-brand {
+    font-family: 'Lobster', cursive;
+  }
+}
+
+//
+// Typography
+// --------------------------------------------------
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lobster', cursive;
+}

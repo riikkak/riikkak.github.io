@@ -1,0 +1,28 @@
+{% assign theme = 'blog' %}
+{% if page.tags != empty %}
+    {% for tag in page.tags %}
+        {% if tag contains 'ena' %}
+            {% assign theme = 'english' %}
+        {% elsif tag contains 'rub' %}
+            {% assign theme = 'swedish' %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+{% if page.theme != null %}
+    {% case page.theme %}
+    {% when 'english' %}
+        {% assign theme = 'english' %}
+    {% when 'swedish' %}
+        {% assign theme = 'swedish' %}
+    {% endcase %}
+{% endif %}
+
+{% case theme %}
+{% when 'english' %}
+<link rel="stylesheet" href="/themes/english/css/styles.min.css">
+{% when 'swedish' %}
+<link rel="stylesheet" href="/themes/swedish/css/styles.min.css">
+{% else %}
+<link rel="stylesheet" href="/themes/blog/css/styles.min.css">
+{% endcase %}
