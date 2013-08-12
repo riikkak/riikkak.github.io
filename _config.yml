@@ -18,14 +18,3 @@ exclude:
 prose:
   siteurl: 'http://riikka.koskenranta.fi'
   media: 'media'
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Otsikko"
-          value: ""
-      - name: "tags"
-        field:
-          element: "hidden"
-          value: "blogi"
