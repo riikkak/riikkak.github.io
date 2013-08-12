@@ -4262,13 +4262,19 @@ body > .content-wrapper {
 @media (min-width: 768px) {
   .header-row .main-header {
     float: left;
-    width: 66.66666666666666%;
+    width: 100%;
   }
 }
 @media (max-width: 767px) {
   .header-row .main-header {
     width: 100%;
   }
+}
+.header-row .main-header h1 {
+  margin: 0 0 10px;
+}
+.content-row {
+  padding-top: 20px;
 }
 .content-row:before,
 .content-row:after {
@@ -4314,13 +4320,16 @@ body > .content-wrapper {
 @media (min-width: 768px) {
   .content-row .main-content {
     float: left;
-    width: 66.66666666666666%;
+    width: 100%;
   }
 }
 @media (max-width: 767px) {
   .content-row .main-content {
     width: 100%;
   }
+}
+.content-row .main-content table {
+  background-color: #ffffff;
 }
 .content-row .posts {
   position: relative;

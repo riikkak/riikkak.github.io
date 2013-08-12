@@ -93,17 +93,26 @@ body > .content-wrapper {
   .make-row();
 
   .main-header {
-    .make-column(8);
+    .make-column(12);
     .make-small-column(12);
+
+    h1 {
+      margin: 0 0 10px;
+    }
   }
 }
 
 .content-row {
+  .top-buffer();
   .make-row();
 
   .main-content {
-    .make-column(8);
+    .make-column(12);
     .make-small-column(12);
+
+    table {
+      background-color: @white;
+    }
   }
 
   .posts {
