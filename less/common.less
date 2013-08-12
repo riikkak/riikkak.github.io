@@ -118,6 +118,10 @@ body > .content-wrapper {
   .info-content {
     .make-column(9);
     .make-small-column(12);
+
+    h2:first-child {
+      margin-top: 0;
+    }
   }
 
   .sidebar {
@@ -129,6 +133,39 @@ body > .content-wrapper {
     margin-top: -20px;
     .make-column(8);
     .make-small-column(12);
+  }
+}
+
+.page-sidebar {
+  &.affix {
+    position:static;
+  }
+
+  .page-sidenav {
+    background-color: @footer-bg;
+  }
+}
+
+/* Tablets/desktops and up */
+@media screen and (min-width: 992px) {
+  .page-sidebar.affix,
+  .page-sidebar.affix-bottom {
+    width: 213px;
+  }
+  .page-sidebar.affix {
+    position: fixed;
+    top: 50px;
+  }
+
+  .page-sidebar.affix-bottom {
+    position: absolute;
+  }
+
+  .page-sidebar.affix-bottom, .page-sidebar.affix {
+    .page-sidenav {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
   }
 }
 
