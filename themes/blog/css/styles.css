@@ -4332,6 +4332,7 @@ body > .content-wrapper {
   background-color: #ffffff;
 }
 .content-row .posts {
+  margin-top: -20px;
   position: relative;
   float: left;
   min-height: 1px;
