@@ -14,3 +14,69 @@ exclude:
   - libpeerconnection.log
   - less
   - node_modules
+
+prose:
+  media: "media"
+  siteurl: "http://riikka.koskenranta.fi"
+  relativeLinks: 'http://riikka.koskenranta.fi/api/links.jsonp'
+  site:
+      tags: "http://riikka.koskenranta.fi/api/tags.jsonp"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Otsikko"
+          value: ""
+      - name: "tags"
+        field:
+          element: "hidden"
+          value: "blog"
+    kurssit/ena1/_posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Otsikko"
+          value: ""
+      - name: "tags"
+        field:
+          element: "select"
+          label: "Valitse sivu"
+          placeholder: "Valitse"
+          options:
+            - name: "Etusivu"
+              value: "ena1 etusivu"
+            - name: "Läksyt"
+              value: "ena1 läksyt"
+    kurssit/ena4/_posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Otsikko"
+          value: ""
+      - name: "tags"
+        field:
+          element: "select"
+          label: "Valitse sivu"
+          placeholder: "Valitse"
+          options:
+            - name: "Etusivu"
+              value: "ena4 etusivu"
+            - name: "Läksyt"
+              value: "ena4 läksyt"
+    kurssit/rub6/_posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Otsikko"
+          value: ""
+      - name: "tags"
+        field:
+          element: "select"
+          label: "Valitse sivu"
+          placeholder: "Valitse"
+          options:
+            - name: "Etusivu"
+              value: "rub6 etusivu"
+            - name: "Läksyt"
+              value: "rub6 läksyt"
