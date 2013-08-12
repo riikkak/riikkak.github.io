@@ -16,8 +16,9 @@ exclude:
   - node_modules
 
 prose:
-  media: "media"
-  siteurl: "http://riikka.koskenranta.fi"
+  rooturl: '_posts'
+  siteurl: 'http://riikka.koskenranta.fi'
+  media: 'media'
   metadata:
     _posts:
       - name: "title"
