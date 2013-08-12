@@ -11,7 +11,7 @@ course: ena1
             <h1>{{ page.title }}</h1>
         </div>
     </div>
-    <div class="content-row top-buffer">
+    <div class="content-row">
         <div class="main-content">
 
         </div>
