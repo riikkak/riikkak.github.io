@@ -4649,9 +4649,14 @@ fieldset[disabled] .frontpage .wrapper .courses a.active {
   }
 }
 .course-menu .courses .courses-heading h1 {
-  margin: 40px 0;
+  margin: 20px 0;
+}
+.course-menu .courses .courses-heading p {
+  font-size: 16px;
+  text-align: justify;
 }
 .course-menu .courses .language-wrapper {
+  padding-top: 20px;
   position: relative;
   float: left;
   min-height: 1px;
