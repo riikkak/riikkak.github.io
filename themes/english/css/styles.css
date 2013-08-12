@@ -4331,6 +4331,42 @@ body > .content-wrapper {
 .content-row .main-content table {
   background-color: #ffffff;
 }
+.content-row .info-content {
+  position: relative;
+  float: left;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 768px) {
+  .content-row .info-content {
+    float: left;
+    width: 75%;
+  }
+}
+@media (max-width: 767px) {
+  .content-row .info-content {
+    width: 100%;
+  }
+}
+.content-row .sidebar {
+  position: relative;
+  float: left;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 768px) {
+  .content-row .sidebar {
+    float: left;
+    width: 25%;
+  }
+}
+@media (max-width: 767px) {
+  .content-row .sidebar {
+    width: 100%;
+  }
+}
 .content-row .posts {
   margin-top: -20px;
   position: relative;
