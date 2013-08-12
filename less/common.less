@@ -37,6 +37,7 @@ body > .content-wrapper {
 
       h1 {
         font-size: 42px;
+        color: @header-color;
       }
 
       a {
@@ -47,6 +48,10 @@ body > .content-wrapper {
           text-decoration: none;
         }
       }
+
+      .desc {
+        font-size: 24px;
+      }
     }
 
     .owl {
@@ -55,6 +60,26 @@ body > .content-wrapper {
 
       img {
         .pull-right;
+      }
+    }
+  }
+}
+
+@media (orientation:portrait) and (max-width: @screen-tablet) {
+  .header .wrapper {
+    .author, .course {
+      .desc {
+        display: block;
+      }
+    }
+  }
+}
+
+@media (max-width: @screen-phone-max) {
+  .header .wrapper {
+    .author, .course {
+      .desc {
+        display: none;
       }
     }
   }
