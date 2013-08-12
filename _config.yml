@@ -18,17 +18,4 @@ exclude:
 prose:
   media: "media"
   siteurl: "http://riikka.koskenranta.fi"
-  relativeLinks: 'http://riikka.koskenranta.fi/api/links.jsonp'
-  site:
-    tags: "http://riikka.koskenranta.fi/api/tags.jsonp"
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Otsikko"
-          value: ""
-      - name: "tags"
-        field:
-          element: "hidden"
-          value: "blogi"
+
