@@ -4156,18 +4156,19 @@ body > .content-wrapper {
   .header .wrapper .author,
   .header .wrapper .course {
     float: left;
-    width: 66.66666666666666%;
+    width: 83.33333333333334%;
   }
 }
 @media (max-width: 767px) {
   .header .wrapper .author,
   .header .wrapper .course {
-    width: 66.66666666666666%;
+    width: 83.33333333333334%;
   }
 }
 .header .wrapper .author h1,
 .header .wrapper .course h1 {
   font-size: 42px;
+  color: #ffffff;
 }
 .header .wrapper .author a,
 .header .wrapper .course a {
@@ -4180,6 +4181,10 @@ body > .content-wrapper {
   color: #ffffff;
   text-decoration: none;
 }
+.header .wrapper .author .desc,
+.header .wrapper .course .desc {
+  font-size: 24px;
+}
 .header .wrapper .owl {
   position: relative;
   float: left;
@@ -4190,16 +4195,28 @@ body > .content-wrapper {
 @media (min-width: 768px) {
   .header .wrapper .owl {
     float: left;
-    width: 33.33333333333333%;
+    width: 16.666666666666664%;
   }
 }
 @media (max-width: 767px) {
   .header .wrapper .owl {
-    width: 33.33333333333333%;
+    width: 16.666666666666664%;
   }
 }
 .header .wrapper .owl img {
   float: right;
+}
+@media (orientation: portrait) and (max-width: 768px) {
+  .header .wrapper .author .desc,
+  .header .wrapper .course .desc {
+    display: block;
+  }
+}
+@media (max-width: 767px) {
+  .header .wrapper .author .desc,
+  .header .wrapper .course .desc {
+    display: none;
+  }
 }
 .header-row:before,
 .header-row:after {
