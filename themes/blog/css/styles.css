@@ -4355,6 +4355,7 @@ body > .content-wrapper {
 }
 .post .entry {
   margin-top: 0.5em;
+  text-align: justify;
 }
 .site-footer {
   clear: both;
@@ -4701,6 +4702,27 @@ fieldset[disabled] .frontpage .wrapper .courses a.active {
 }
 .course-menu .courses .language-wrapper .language h3 {
   font-size: 16px;
+}
+.blog-header {
+  position: relative;
+  float: left;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 768px) {
+  .blog-header {
+    float: left;
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .blog-header {
+    width: 100%;
+  }
+}
+.blog-header h1 {
+  margin: 20px 0 0;
 }
 .navbar-brand {
   font-family: 'Lobster', cursive;
