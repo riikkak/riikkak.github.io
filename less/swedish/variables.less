@@ -14,7 +14,7 @@
 @black: #000;
 @header-bg: #5e554d;
 @header-color: @white;
-@footer-bg: #de9997;
+@footer-bg: #81b1b2;
 @footer-color: @white;
 
 // Grays
@@ -38,7 +38,7 @@
 // Scaffolding
 // -------------------------
 
-@body-bg:               #fad9b9;
+@body-bg:               lighten(#fad9b9, 5%);
 @text-color:            @gray-darker;
 
 // Links
@@ -192,16 +192,16 @@
 
 // Basics of a navbar
 @navbar-height:                    50px;
-@navbar-color:                     #777;
-@navbar-bg:                        #81b1b2;
+@navbar-color:                     @black;
+@navbar-bg:                        #de9997;
 @navbar-padding-horizontal:        floor(@grid-gutter-width / 2);  // ~15px
 @navbar-padding-vertical:          ((@navbar-height - @line-height-computed) / 2);
 
 // Navbar links
-@navbar-link-color:                #777;
-@navbar-link-hover-color:          #333;
+@navbar-link-color:                @black;
+@navbar-link-hover-color:          @white;
 @navbar-link-hover-bg:             transparent;
-@navbar-link-active-color:         #555;
+@navbar-link-active-color:         @white;
 @navbar-link-active-bg:            darken(@navbar-bg, 10%);
 @navbar-link-disabled-color:       #ccc;
 @navbar-link-disabled-bg:          transparent;
