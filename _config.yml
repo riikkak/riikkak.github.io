@@ -2,6 +2,7 @@ name: Riikka Koskenrannan sivut
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "autolink", "tables", "with_toc_data"]
+baseurl:
 
 exclude:
   - README.md
@@ -17,6 +18,7 @@ exclude:
 
 prose:
   siteurl: 'http://riikka.koskenranta.fi'
+  rooturl: '_posts'
   media: 'media'
   relativeLinks: 'http://riikka.koskenranta.fi/api/links.jsonp'
   site:
