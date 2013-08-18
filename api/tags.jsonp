@@ -5,7 +5,17 @@ callback({
 {% capture t %}{{tag[0]}}{% endcapture %}
   "{{t}}": [
     {% for post in site.tags[t] %}
-    {{post | json}}{% unless forloop.last %},{% endunless %}
+    {
+      "tags": [{% for pt in post.tags %}"{{pt}}"{% unless forloop.last %},{% endunless %}{% endfor %}],
+      "categories": [{% for pc in post.categories %}"{{pc}}"{% unless forloop.last %},{% endunless %}{% endfor %}],
+      "title": "{{ post.title }}",
+      "url": "{{ post.url }}",
+      "path": "{{ post.path }}",
+      "date": "{{ post.date }}",
+      "id": "{{ post.id }}",
+      "content": "{{ post.content | strip_newlines | replace:'"','\"' }}"
+    }
+    {% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
   {% unless forloop.last %},{% endunless %}
