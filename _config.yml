@@ -18,3 +18,6 @@ exclude:
 prose:
   siteurl: 'http://riikka.koskenranta.fi'
   media: 'media'
+  relativeLinks: 'http://riikka.koskenranta.fi/api/links.jsonp'
+  site:
+    tags: "http://riikka.koskenranta.fi/api/tags.jsonp"
