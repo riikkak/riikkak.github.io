@@ -28,7 +28,7 @@ Pikkusiskosi tai -veljesi on kokeillut ensimmäistä kertaa tupakkaa ja haluat v
 
 Lähde: [Kielikompassi](https://kielikompassi.jyu.fi/puheviestinta/tietomajakka/maja_perusteita_argumentointi.shtml)
 
-**Aineen otsikot löydät kirjan sivulta 106.**
+**Aineen otsikot löydät kirjan sivulta 106. Aineen pituus 150-250 sanaa.**
 
 ### Hyvän aineen tunnusmerkkejä
 
