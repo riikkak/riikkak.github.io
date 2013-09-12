@@ -15,6 +15,7 @@ exclude:
   - libpeerconnection.log
   - less
   - node_modules
+  - vendor
 
 prose:
   siteurl: 'http://riikka.koskenranta.fi'
