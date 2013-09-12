@@ -2,6 +2,9 @@ name: Riikka Koskenrannan sivut
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "autolink", "tables", "with_toc_data"]
+safe: true
+lsi: false
+pygments: true
 baseurl:
 
 exclude:
