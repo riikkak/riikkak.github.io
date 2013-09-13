@@ -74,13 +74,13 @@ module.exports = (grunt) ->
         options:
           livereload: true
 
-  grunt.loadNpmTasks('grunt-concurrent');
+  grunt.loadNpmTasks('grunt-concurrent')
   grunt.loadNpmTasks('grunt-contrib-clean')
   grunt.loadNpmTasks('grunt-contrib-copy')
-  grunt.loadNpmTasks('grunt-contrib-less');
+  grunt.loadNpmTasks('grunt-contrib-less')
   grunt.loadNpmTasks('grunt-contrib-watch')
-  grunt.loadNpmTasks('grunt-exec');
-  grunt.loadNpmTasks('grunt-recess');
+  grunt.loadNpmTasks('grunt-exec')
+  grunt.loadNpmTasks('grunt-recess')
 
   grunt.registerTask('build-blog', ['copy', 'less:blogTheme', 'recess:minifyBlog', 'clean'])
   grunt.registerTask('build-english', ['copy', 'less:englishTheme', 'recess:minifyEnglish', 'clean'])
@@ -89,3 +89,4 @@ module.exports = (grunt) ->
   grunt.registerTask('dist-css', ['copy', 'less', 'minify-css', 'clean'])
   grunt.registerTask('default', ['dist-css', 'exec:build'])
   grunt.registerTask('serve', ['dist-css', 'concurrent'])
+
