@@ -1,0 +1,66 @@
+---
+layout: default
+title: Aikataulu
+theme: swedish
+course: rub1
+---
+
+<div class="container">
+    <div class="header-row">
+        <div class="main-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="content-row">
+        <div class="main-content">
+            <table class="table table-bordered table-striped">
+                <thead>
+                <tr>
+                    <th>Pvm</th>
+                    <th>Tunnin aihe</th>
+                    <th>Kielioppi</th>
+                    <th>Muuta</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% assign event = "to 3.10.|Aloitus" %}
+                {% include schedule.html %}
+                {% assign event = "ma 7.10.|DEL 1: text 1|substantiivien taivutus" %}
+                {% include schedule.html %}
+                {% assign event = "ti 8.10.|DEL 1: text 1|substantiivien taivutus" %}
+                {% include schedule.html %}
+                {% assign event = "to 10.10.|muut aiheet|substantiivien taivutus" %}
+                {% include schedule.html %}
+                {% assign event = "ma 14.10.|DEL 2: text 2|määräysmuodot" %}
+                {% include schedule.html %}
+                {% assign event = "ti 15.10.|DEL 2: text 2|adj. taivutus" %}
+                {% include schedule.html %}
+                {% assign event = "to 17.10.|DEL 2: muut aiheet|adj. taivutus|Sanakoe: Text 1 & 2" %}
+                {% include schedule.html %}
+                {% assign event = "ma 28.10.|DEL 2: muut aiheet|subt. & adj. kertaus" %}
+                {% include schedule.html %}
+                {% assign event = "ti 29.10.|DEL 3: text 3|verbit" %}
+                {% include schedule.html %}
+                {% assign event = "to 31.10.|DEL 3: text 3|verbit" %}
+                {% include schedule.html %}
+                {% assign event = "ma 4.11.|DEL 3: muut aiheet|verbit|Sanakoe: Text 3" %}
+                {% include schedule.html %}
+                {% assign event = "ti 5.11.|DEL 4: text 4||KOTIAINEEN PALAUTUS" %}
+                {% include schedule.html %}
+                {% assign event = "to 7.11.|DEL 4: text 4|päälause" %}
+                {% include schedule.html %}
+                {% assign event = "ma 11.11.|DEL 4: muut aiheet|päälause" %}
+                {% include schedule.html %}
+                {% assign event = "ti 12.11.|DEL 4: muut aiheet|päälause|Sanakoe: Text 4" %}
+                {% include schedule.html %}
+                {% assign event = "to 14.11.|DEL 5: text 5|sivulause" %}
+                {% include schedule.html %}
+                {% assign event = "ma 18.11.|DEL 5: text 5" %}
+                {% include schedule.html %}
+                {% assign event = "ti 19.11.|DEL 5: muut aiheet||Kuuntelukoe ja Sanakoe: Text 5" %}
+                {% include schedule.html %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
