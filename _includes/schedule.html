@@ -1,0 +1,8 @@
+{% assign e_columns = event | split: "|" %}
+{% assign e_size = e_columns | size %}
+<tr>
+    <td>{% if e_size > 0 %}{{ e_columns[0] }}{% endif %}</td>
+    <td>{% if e_size > 1 %}{{ e_columns[1] }}{% endif %}</td>
+    <td>{% if e_size > 2 %}{{ e_columns[2] }}{% endif %}</td>
+{% if page.event_columns != 3 %}<td>{% if e_size > 3 %}{{ e_columns[3] }}{% endif %}</td>{% endif %}
+</tr>
