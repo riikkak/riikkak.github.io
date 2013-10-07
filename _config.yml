@@ -19,6 +19,9 @@ exclude:
   - less
   - node_modules
   - vendor
+  - Gemfile
+  - Gemfile.lock
+  - atlassian-ide-plugin.xml
 
 prose:
   siteurl: 'http://riikka.koskenranta.fi'
