@@ -1,0 +1,66 @@
+---
+layout: default
+title: Aikataulu
+theme: english
+course: ena4.2
+---
+
+<div class="container">
+    <div class="header-row">
+        <div class="main-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="content-row">
+        <div class="main-content">
+            <table class="table table-bordered table-striped">
+                <thead>
+                <tr>
+                    <th>Pvm</th>
+                    <th>Tunnin aihe</th>
+                    <th>Kielioppi</th>
+                    <th>Muuta</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% assign event = "to 3.10.|Aloitus, text 1" %}
+                {% include schedule.html %}
+                {% assign event = "ma 7.10.|Text 2" %}
+                {% include schedule.html %}
+                {% assign event = "ke 9.10.|Text 2" %}
+                {% include schedule.html %}
+                {% assign event = "to 10.10.|Text 2|apuverbit" %}
+                {% include schedule.html %}
+                {% assign event = "ma 14.10.|Text 3||Sanakoe: Text 2" %}
+                {% include schedule.html %}
+                {% assign event = "ke 16.10.|Text 3|apuverbit" %}
+                {% include schedule.html %}
+                {% assign event = "to 17.10.|Text 4|apuverbit|Sanakoe: Text 3" %}
+                {% include schedule.html %}
+                {% assign event = "ma 28.10.|Text 5|apuverbit" %}
+                {% include schedule.html %}
+                {% assign event = "ke 30.10.|Text 5|apuverbit" %}
+                {% include schedule.html %}
+                {% assign event = "to 31.10.|Text 6||Sanakoe: Text 5" %}
+                {% include schedule.html %}
+                {% assign event = "ma 4.11.|Text 7|paljoussanat|KOTIAINEEN PALAUTUS" %}
+                {% include schedule.html %}
+                {% assign event = "ke 6.11.|Text 8|paljoussanat" %}
+                {% include schedule.html %}
+                {% assign event = "to 7.11.|Text 8|paljoussanat" %}
+                {% include schedule.html %}
+                {% assign event = "ma 11.11.|Text 9|relatiivipronominit|Sanakoe: Text 8" %}
+                {% include schedule.html %}
+                {% assign event = "ke 13.11.|Kuuntelukoe" %}
+                {% include schedule.html %}
+                {% assign event = "to 14.11.|Text 10|relatiivipronominit" %}
+                {% include schedule.html %}
+                {% assign event = "ma 18.11.|Text 10|relatiivipronominit" %}
+                {% include schedule.html %}
+                {% assign event = "Ke 20.11.|Text 11||Sanakoe: Text 10" %}
+                {% include schedule.html %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
