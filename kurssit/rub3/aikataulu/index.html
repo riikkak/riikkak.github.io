@@ -1,0 +1,66 @@
+---
+layout: default
+title: Aikataulu
+theme: swedish
+course: rub3
+---
+
+<div class="container">
+    <div class="header-row">
+        <div class="main-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="content-row">
+        <div class="main-content">
+            <table class="table table-bordered table-striped">
+                <thead>
+                <tr>
+                    <th>Pvm</th>
+                    <th>Tunnin aihe</th>
+                    <th>Kielioppi</th>
+                    <th>Muuta</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% assign event = "pe 4.10.|Aloitus|lukusanat" %}
+                {% include schedule.html %}
+                {% assign event = "ti 8.10.|Text 1: uutena|pronominit" %}
+                {% include schedule.html %}
+                {% assign event = "ke 9.10.|Text 1: vanhana|interrogatiivipronominit" %}
+                {% include schedule.html %}
+                {% assign event = "pe 11.10.|Tien neuvominen|interrogatiivipronominit" %}
+                {% include schedule.html %}
+                {% assign event = "ti 15.10.|Text 2: uutena|demonstratiivipronominit|Sanakoe: Text 1" %}
+                {% include schedule.html %}
+                {% assign event = "ke 16.10.|Text 2: vanhana|indefiniittipronominit" %}
+                {% include schedule.html %}
+                {% assign event = "pe 18.10.|Ruotsinruotsi ja suomenruotsi|indefiniittipronominit" %}
+                {% include schedule.html %}
+                {% assign event = "ti 29.10.|Del 2: muut asiat|indefiniittipronominit" %}
+                {% include schedule.html %}
+                {% assign event = "ke 30.10.|Ajanilmauksista ja säästä||Sanakoe: Text 2" %}
+                {% include schedule.html %}
+                {% assign event = "pe 1.11.|Luetunymmärtäminen" %}
+                {% include schedule.html %}
+                {% assign event = "ti 5.11.|Text 3: uutena|Erisnimensuku|KOTIAINEEN PALAUTUS" %}
+                {% include schedule.html %}
+                {% assign event = "ke 6.11.|Text 3: vanhana|Erisnimensuku" %}
+                {% include schedule.html %}
+                {% assign event = "pe 8.11.|Lappi, Suomen luonto||Sanakoe: Text 3" %}
+                {% include schedule.html %}
+                {% assign event = "ti 12.11.|Text 5: uutena" %}
+                {% include schedule.html %}
+                {% assign event = "ke 13.11.|Text 5: vanhana|prepositioilmauksia" %}
+                {% include schedule.html %}
+                {% assign event = "pe 15.11.|Text 6|prepositioilmauksia|Sanakoe: Text 4 ja 5" %}
+                {% include schedule.html %}
+                {% assign event = "ti 19.11.|Text 6" %}
+                {% include schedule.html %}
+                {% assign event = "ke 20.11.|Kuuntelukoe" %}
+                {% include schedule.html %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
