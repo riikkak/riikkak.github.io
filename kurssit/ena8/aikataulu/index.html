@@ -1,0 +1,70 @@
+---
+layout: default
+title: Aikataulu
+theme: english
+course: ena8
+event_columns: 3
+---
+
+<div class="container">
+    <div class="header-row">
+        <div class="main-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="content-row">
+        <div class="main-content">
+            <table class="table table-bordered table-striped">
+                <thead>
+                <tr>
+                    <th>Pvm</th>
+                    <th>Tunnin aihe</th>
+                    <th>Muuta</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% assign event = "to 3.10.|Aloitus, course intro" %}
+                {% include schedule.html %}
+                {% assign event = "ma 7.10.|Part 1" %}
+                {% include schedule.html %}
+                {% assign event = "ke 9.10.|Part 1" %}
+                {% include schedule.html %}
+                {% assign event = "to 10.10.|Part 2||Phrasal verbs" %}
+                {% include schedule.html %}
+                {% assign event = "ma 14.10.|KOKEEN PALAUTUS||EI TUNTIA" %}
+                {% include schedule.html %}
+                {% assign event = "ke 16.10.|Part 2" %}
+                {% include schedule.html %}
+                {% assign event = "to 17.10.|Part 3|WE: Telephone vocabulary and phrases + Helth and well-being" %}
+                {% include schedule.html %}
+                {% assign event = "ma 28.10.|Part 4" %}
+                {% include schedule.html %}
+                {% assign event = "ke 30.10.|Part 4" %}
+                {% include schedule.html %}
+                {% assign event = "to 31.10.|Part 5" %}
+                {% include schedule.html %}
+                {% assign event = "ma 4.11.|Part 5|WE: Human values + Society and welfare + Working life" %}
+                {% include schedule.html %}
+                {% assign event = "ke 6.11.|Part 9" %}
+                {% include schedule.html %}
+                {% assign event = "to 7.11.|Part 7" %}
+                {% include schedule.html %}
+                {% assign event = "ma 11.11.|Part 7" %}
+                {% include schedule.html %}
+                {% assign event = "ke 13.11.|Part 8" %}
+                {% include schedule.html %}
+                {% assign event = "to 14.11.|Part 6|WE: The media + Crime and punishment + Money and the economy" %}
+                {% include schedule.html %}
+                {% assign event = "ma 18.11.|Part 10" %}
+                {% include schedule.html %}
+                {% assign event = "ke 20.11.|Part 10|WE: Part 10: Science and technology, Sciences" %}
+                {% include schedule.html %}
+                {% assign event = "|VALMISTAVA|SUULLISIA KOKEITA" %}
+                {% include schedule.html %}
+                {% assign event = "|KOEPÄIVÄ|SUULLISIA KOKEITA" %}
+                {% include schedule.html %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
