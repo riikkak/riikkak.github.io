@@ -23,7 +23,9 @@ course: ena8
 <div class="info-content">
 <h2 id="saannot">Säännöt</h2>
 
-
+##REK-Rules
+1. Ole ajoissa.
+2. Pipot, huput ja lippikset pois päästä. Ulkovaatteet jätetään käytävälle tai omaan lokeroon. 3. Pidä jokaisella tunnilla mukana kynä, kumi, kurssikirja ja vihko.4. Huolehdi omalta osaltasi työrauhan toteutumisesta.5. Se ei ole tyhmä joka kysyy vaan se joka jättää kysymättä. Kysyvä ei tieltä eksy.6. Palauta työsi ajallaan.7. Huolehdi sanakokeiden tekemisestä.8. Jos joku asia meni yli hilseen, pyydä rohkeasti apua. 9. Jos olet poissa, ota selvää tunnilla tehdyistä asioista ja tee ne + annetut kotitehtävät.
 
 </div>
 </div>
