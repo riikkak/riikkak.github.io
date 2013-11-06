@@ -16,7 +16,7 @@ course: ena4.2
 
 ## Argumentatiivinen essee
 
-Torstain oppitunnin aikana kirjoitamme argumentatiivisen esseen. Lue alla oleva info ja valitse aihe, josta kirjoitat ja tee suunnitelma aineellesi.
+Torstain oppitunnin aikana kirjoitamme argumentatiivisen esseen. Lue alla oleva info ja valitse aihe, josta kirjoitat ja tee suunnitelma aineellesi vihkoon (ranskalaisin viivoin tai mind-map).
 
 Englannin neljännen kurssin teemat liikkuvat yhteiskunnallisissa aiheissa (uskonto, politiikka, rikos ja rangaistus). 
 
