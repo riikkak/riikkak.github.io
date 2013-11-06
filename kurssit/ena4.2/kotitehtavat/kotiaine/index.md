@@ -14,6 +14,49 @@ course: ena4.2
 <div class="content-row">
 <div class="main-content">
 
+## Argumentatiivinen essee
+
+Torstain oppitunnin aikana kirjoitamme argumentatiivisen esseen. Lue alla oleva info ja valitse aihe, josta kirjoitat ja tee suunnitelma aineellesi.
+
+Englannin neljännen kurssin teemat liikkuvat yhteiskunnallisissa aiheissa (uskonto, politiikka, rikos ja rangaistus). 
+
+Yhteiskuntaan ja jokapäiväiseen elämäämme liittyy keskeisesti vaikuttaminen. Vaikuttaminen on jotain mikä on osa meidän arkeamme ja kohtaamme sitä jokapäivä esim. mainonnassa tai politiikassa. 
+
+Argumentoinnilla tarkoitetaan niitä keinoja, joita käytämme vaikuttaaksemme kuulijoihin, heidän mielipiteisiinsä tai uskomuksiinsa. Argumentoinnin tarkoituksena on vahvistaa ja tukea omia näkemyksiä ja ehdotuksia (Hollihan & Baaske 1994). 
+
+**Esimerkki argumentoinnista**
+
+Pikkusiskosi tai -veljesi on kokeillut ensimmäistä kertaa tupakkaa ja haluat vakuuttaa hänelle, että se ei ollut hyvä idea nyt, eikä sitä kannata jatkaa. Todennäköisesti perustelet näkökantasi kertomalla monipuolisesti tupakan haittapuolista ja siten pyrit vaikuttamaan hänen asenteisiinsa ja käyttäytymiseensä. Vaikuttamisella on tarkoitus korjata, vahvistaa tai muuttaa toisten asenteita (Miller 1980). Vaikuttamisessa on tärkeää osata argumentoida hyvin oman näkökannan puolesta.
+
+Lähde: [Kielikompassi](https://kielikompassi.jyu.fi/puheviestinta/tietomajakka/maja_perusteita_argumentointi.shtml)
+
+### Aineen otsikot
+It’s never black or white, discuss the pros and cons of one these topics.
+
+1. One man’s terrorist is another man’s freedom fighter
+2. The car is a luxury we can do without
+3. A woman’s place is in the home
+4. The earth can look after itself
+5. We should all be vegetarians
+
+Vaihtoehtoisesti voit valita jonkin kirjan aiheista s. 106.
+
+### Hyvän aineen tunnusmerkkejä
+
+Hyvä aine on hyvin suunniteltu ja jäsennelty. Tee hyvä suunnitelma (ranskaisin viivoin, mind-map tms.) ennen kuin alat kirjoittamaan. 
+
+Muistathan hyvän esseen rakenteen. Jaa teksti 4-5 kappaleseen. Ensimmäisen kappaleeseen johdanto (fakta, omamielipide tms). Kaksi tai kolme seuraavaa kappaletta ovat sitten asian käsittelyä eri näkökulmista (for-against). Viimeiseen kappaleeseen kirjoita yhteenveto aineesta, jossa kokoat aineen langanpätkät yhteen. Hyvässä aineessa on siis aina selkeä aloitus ja lopetus, sekä välillä hyvää, monipuolista aiheen käsittelyä.
+
+Tässä esseessä panosta erityisesti linkittävien sanojen ja fraasien käyttöön. Listan niistä löydät kirjan s. 105
+
+Kun tuntuu, että teksti on valmis, lue se ääneen itsellesi tai vaikka perheenjäsenelle tai kaverille. Ääneenluku auttaa huomaamaan virheet, joita ei kirjoittaessa välttämättä huomaa.
+
+### Muotoilu
+Aine kirjoitetaan joko konseptille tai koneella.  
+**Konseptille kirjoittaessa:**
+Piirrä konseptiin koeviikon konseptin mukaiset marginaalit. Ensimmäisen sivun oikeaan reunaan  2,5 ruudun levyinen marginaali, vasempaan reunaan 1,5 ruudun. Konseptin aukeamalle vasempaan reunaan 2,5 ruutua,  keskisaumaan 3 ruutua ja vasempaan reunaan 2,5. Konseptin takasivun vasmpaan runaan 2,5 ruutua ja oikeaan reunaan 1,5. 
+Kirjoita nimesi ja luokkasi etusivulle, oikeaan yläkulmaan. Kirjoita aineen numero ja otsikko kymmenennelle riville, jätä rivi tyhjää ja aloita varsinainen teksti 12. riviltä. Aine kirjoitetaan **joka toiselle riville**, uusi kappale aloitetaan 4 ruudun sisennyksellä. Laske lopuksi sanamäärä ja merkitse se aineen loppuun.
+
 ##The Amish - essay
 
 ### First task
