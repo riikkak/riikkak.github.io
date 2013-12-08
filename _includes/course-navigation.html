@@ -24,12 +24,18 @@
                         <li{% if selNav == "läksyt" %} class="active"{% endif %}>
                             <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat" class="selected">Läksyt</a>
                         </li>
+                        {% if page.course contains "ena5" %}
+                        <li{% if selNav == "portfolio" %} class="active"{% endif %}>
+                            <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/portfolio">Portfolio</a>
+                        </li>
+                        {% else %}
                         <li{% if selNav == "kotiaine" %} class="active"{% endif %}>
                             <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/kotiaine">Kotiaine</a>
                         </li>
                         <li{% if selNav == "itsenäinen työ" %} class="active"{% endif %}>
                             <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/itsenainen-tyo">Itsenäinen työ</a>
                         </li>
+                        {% endif %}
                         <li{% if selNav == "kurssikoe" %} class="active"{% endif %}>
                             <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/kurssikoe">Kurssikoe</a>
                         </li>
@@ -38,22 +44,15 @@
                 <li{% if selNav == "info" %} class="active"{% endif %}>
                     <a href="/kurssit/{{ page.course }}/info">Info</a>
                 </li>
-                <li{% if selNav == "monisteet" %} class="active"{% endif %}>
-                    <a href="/kurssit/{{ page.course }}/monisteet">Monisteet</a>
-                </li>
-                <li{% if selNav == "linkkeja" %} class="active"{% endif %}>
-                    <a href="/kurssit/{{ page.course }}/linkkeja">Linkkejä</a>
-                </li>
                 <li class="dropdown">
                     <a id="dKurssit" href="/kurssit" data-toggle="dropdown">Kurssit <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="dKurssit">
                         <li class="dropdown-header">Englanti</li>
-                        <li><a tabindex="-1" href="/kurssit/ena4.2">ENA4</a></li>
-                        <li><a tabindex="-1" href="/kurssit/ena8">ENA8</a></li>
+                        <li><a tabindex="-1" href="/kurssit/ena5.2">ENA5.2</a></li>
+                        <li><a tabindex="-1" href="/kurssit/ena5.3">ENA5.3</a></li>
                         <li class="divider"></li>
                         <li class="dropdown-header">Ruotsi</li>
-                        <li><a tabindex="-1" href="/kurssit/rub1">RUB1</a></li>
-                        <li><a tabindex="-1" href="/kurssit/rub3">RUB3</a></li>
+                        <li><a tabindex="-1" href="/kurssit/rub4">RUB4</a></li>
                     </ul>
                 </li>
             </ul>
