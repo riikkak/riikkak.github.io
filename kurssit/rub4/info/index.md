@@ -23,6 +23,22 @@ course: rub4
 <div class="info-content">
 <h2 id="saannot">Säännöt</h2>
 
+* Ole ajoissa
+* Pipo ja takit pois jo ennen luokkaan tuloa
+* Pidä työvälineet mukana (kirja, vihko, kynä, kumi)
+* Ole läsnä, myös henkisesti
+* Sinulla on vastuu omasta oppimisestasi
+* Ota selvää itse mitä pitää tehdä, jos olit poissa
+* Anna toisille työrauha
+
+<h2 id="kurssiarviointi">Kurssiarvionti</h2>
+
+RUB4-kurssin arviointiin vaikuttaa kurssikokeen arvosana ja tuntiaktiivisuus- ja käyttäytyminen, mukaan lukien
+myöhästymiset ja läsnäolo, sekä kotitehtävät (sis. kotiaine ja myös mahdolliset plussatehtävät).
+
+Sanakokeet muodostavat 1/3 kurssikokeen arvosanasta ja niitä pidetään kurssin aikana 4: tekstit 2,3,4 ja 6. Sanakokeet
+tehdään kurssiaikataulun mukaisina päivinä. Jos olet sairaana sanakoepäivänä, sanakoe on sinulla seuraavaa
+läsnäolotuntia edeltävällä välitunnilla, tule itse pyytämään sanakoe opettajalta.
 
 
 </div>

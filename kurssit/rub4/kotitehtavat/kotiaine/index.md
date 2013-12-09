@@ -14,6 +14,9 @@ course: rub4
 <div class="content-row">
 <div class="main-content">
 
+Kurssin kotiaine on B-ruotsin oppimäärässä vaadittavan pituinen, kurssin teemoja noudattava aine. Tarkemmat ohjeet
+tulevat tänne n. viikkoa ennen aineen palautuspäivää.
+
 </div>
 </div>
 </div>
