@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "Maanantain tunnille"
-tags: rub4 läksyt
----
+   layout: post
+   title: "Maanantain tunnille"
+   tags: rub4 läksyt
+   ---
 
 Perjantaina teillä oli itsenäistä työskentelyä. Huolehdithan että sinulla on maanantaiksi tehtynä kaikki perjantaina
 annetut tehtävät, sekä kotitehtävät jotka olivat siis:
