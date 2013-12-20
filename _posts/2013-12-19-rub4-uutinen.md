@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "God jul!"
+title: God jul!
 tags: rub4 etusivu
 ---
 
