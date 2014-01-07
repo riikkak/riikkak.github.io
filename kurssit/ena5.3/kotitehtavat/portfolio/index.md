@@ -69,6 +69,76 @@ kansilehti.
 
 Järjestä portfolio niin, että omasta mielestäsi paras teksti on ensimmäisenä.
 
+###Speech
+
+Toisena portfolion tehtävänäsi on kirjoittaa puhe (150-250 sanaa). Puheessa, kuten muissakin kirjallisissa tuotoksissa
+tulee ensisijaisesti keskittyä tekstin rakenteeseen ja sisältöön. Vaikka osa aiheista voi tuntua helpoilta ja
+houkuttavat kirjoittamaan puhekielisen puheen, älä sorru siihen loukkuun, vaan kirjoita asiallinen teksti, ja
+käytä mahdollisimman monipuolista, oman tasosi mukaista sanavarastoa. Vältä kuitenkin sanakirjan käyttöä! Jos on pakko
+tturvautua, käytä kirjan sanastoa. Suunnittele  puheesi tarkasti, ennen kirjoittamista. Aloita tutustumalla ohjeisiin
+["kuinka kirjoittaa puhe"](http://www.write-out-loud.com/howtowritespeech.html).Apua aloitukseen, lopetukseen ja
+siirtymiin saat myös kirjan s. 131-132.
+
+Käy tutustumassa sitten [neljään puhetyyppiin](http://www.ismckenzie.com/4-basic-types-of-speeches/) ja valitse sen
+jälkeen puuheellesi aihe alla olevasta listasta:
+
+1. __Informative__
+    * Acupuncture
+    * Artificial insemination
+    * Atomic Energy
+    * Chat Rooms
+    * Donating money to charity
+    * Learning foreign languages
+    * Existence of Ghosts
+    * Internet standards
+    * Keeping animals in zoos
+    * Space Exploration
+    * About you
+
+
+2. __Demonstrative__
+    * to be a vegetarian
+    * to clean your car
+    * to organize a surprise party
+    * to use your breath when you sing
+    * to build a good web site
+    * to dry your hair
+    * to start a bed & breakfast
+    * to knit
+    * to prepare for a test
+    * to write an excellent paper
+
+
+3. __Persuasive__
+    * Academic Dishonesty
+    * Biological and Chemical Weapons
+    * Birth Control
+    * Breast Feeding in Public
+    * Death Penalty
+    * Depression
+    * Dieting
+    * Fat Tax On Food
+    * Gambling
+    * Recycling
+    * School Violence
+    * Violent Video Games
+
+
+4. __Entertaining__
+    * How to buy condoms discreetly.
+    * How to impress woman.
+    * How to slowly drive your girl friend crazy.
+    * The male guide to selecting an outfit.
+    * Things men would never say.
+    * Why Santa Claus is a woman.
+    * Clean your house in 30 minutes.
+    * Things your mom would never say.
+    * How to explain icehockey or Finnish baseball to a foreigner.
+
+Puheen suulliseen esitykseen tulee myös valmistautua. Hio kirjallinen versio ensin huippuunsa, ja sen jälkeen lue
+puhetta ääneen useaan kertaan ja esitä se vaikka sikole, kummille, kaimalle tai kamulle, miksei vaikka kissalle, niin
+että puhe tulee suustasi maanantain luonnollisesti, ei paperista luettuna. Muista myös katsekontakti yleisöön!
+
 </div>
 </div>
 </div>
