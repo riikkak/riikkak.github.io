@@ -1,8 +1,19 @@
 {% assign e_columns = event | split: "|" %}
 {% assign e_size = e_columns | size %}
+{% if page.event_columns %}
+    {% assign e_colspan = page.event_columns %}
+{% else %}
+    {% assign e_colspan = 4 %}
+{% endif %}
 <tr>
-    <td>{% if e_size > 0 %}{{ e_columns[0] }}{% endif %}</td>
-    <td>{% if e_size > 1 %}{{ e_columns[1] }}{% endif %}</td>
+    {% if e_size <= 1 %}
+    <td colspan="{{ e_colspan }}" style="text-align: center">{{ event }}</td>
+    {% else %}
+    <td>{{ e_columns[0] }}</td>
+    <td>{{ e_columns[1] }}</td>
     <td>{% if e_size > 2 %}{{ e_columns[2] }}{% endif %}</td>
-{% if page.event_columns != 3 %}<td>{% if e_size > 3 %}{{ e_columns[3] }}{% endif %}</td>{% endif %}
+    {% if page.event_columns != 3 %}
+    <td>{% if e_size > 3 %}{{ e_columns[3] }}{% endif %}</td>
+    {% endif %}
+    {% endif %}
 </tr>

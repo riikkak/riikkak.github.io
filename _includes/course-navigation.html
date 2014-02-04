@@ -29,9 +29,20 @@
                             <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/portfolio">Portfolio</a>
                         </li>
                         {% else %}
-                        <li{% if selNav == "kotiaine" %} class="active"{% endif %}>
-                            <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/kotiaine">Kotiaine</a>
-                        </li>
+                            {% if page.course == "ena6" %}
+                            <li{% if selNav == "kotiaine" %} class="active"{% endif %}>
+                                <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/kirjallinen-tiivistelma">
+                                    Kirjallinen tiivistelmä</a>
+                            </li>
+                            <li{% if selNav == "kotiaine" %} class="active"{% endif %}>
+                                <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/suullinen-tiivistelma">
+                                    Suullinen tiivistelmä</a>
+                            </li>
+                            {% else %}
+                            <li{% if selNav == "kotiaine" %} class="active"{% endif %}>
+                                <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/kotiaine">Kotiaine</a>
+                            </li>
+                            {% endif %}
                         <li{% if selNav == "itsenäinen työ" %} class="active"{% endif %}>
                             <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat/itsenainen-tyo">Itsenäinen työ</a>
                         </li>
@@ -48,11 +59,10 @@
                     <a id="dKurssit" href="/kurssit" data-toggle="dropdown">Kurssit <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="dKurssit">
                         <li class="dropdown-header">Englanti</li>
-                        <li><a tabindex="-1" href="/kurssit/ena5.2">ENA5.2</a></li>
-                        <li><a tabindex="-1" href="/kurssit/ena5.3">ENA5.3</a></li>
+                        <li><a tabindex="-1" href="/kurssit/ena6">ENA6</a></li>
                         <li class="divider"></li>
                         <li class="dropdown-header">Ruotsi</li>
-                        <li><a tabindex="-1" href="/kurssit/rub4">RUB4</a></li>
+                        <li><a tabindex="-1" href="/kurssit/rub2">RUB2</a></li>
                     </ul>
                 </li>
             </ul>

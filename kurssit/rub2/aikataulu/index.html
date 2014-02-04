@@ -1,0 +1,74 @@
+---
+layout: default
+title: Aikataulu
+theme: swedish
+course: rub2
+---
+
+<div class="container">
+    <div class="header-row">
+        <div class="main-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="content-row">
+        <div class="main-content">
+            <table class="table table-bordered table-striped">
+                <thead>
+                <tr>
+                    <th>Pvm</th>
+                    <th>Tunnin aihe</th>
+                    <th>Kielioppi</th>
+                    <th>Muuta</th>
+                </tr>
+                </thead>
+                <tbody>
+
+                {% assign event = "ti 4.2.|Aloitus" %}
+                {% include schedule.html %}
+                {% assign event = "to 6.2.|Text 1 uutena|sanajärjestys" %}
+                {% include schedule.html %}
+                {% assign event = "ma 10.2.|Text 1 vanhana||YO-kuuntelu, itsenäinen" %}
+                {% include schedule.html %}
+                {% assign event = "ti 11.2.|Text 1 tarkistus||<strong>kotiaineen ohjeistus</strong>" %}
+                {% include schedule.html %}
+                {% assign event = "to 13.2.|Hus och hem|relatiivilause|<strong>Sanakoe: Text 1</strong>" %}
+                {% include schedule.html %}
+                {% assign event = "ma 17.2.|Text 2 uutena" %}
+                {% include schedule.html %}
+                {% assign event = "ti 18.2.|Text 2 vanhana|epäsuora kysymyslause" %}
+                {% include schedule.html %}
+                {% assign event = "to 20.2.|Mat och dryck" %}
+                {% include schedule.html %}
+                {% assign event = "ma 24.4.|Kläder||<strong>Sanakoe: Text 2</strong>" %}
+                {% include schedule.html %}
+                {% assign event = "ti 25.2.|Text 3 uutena|persoonapronominit" %}
+                {% include schedule.html %}
+                {% assign event = "to 27.2.|Text 3 vanhana" %}
+                {% include schedule.html %}
+                {% assign event = "<strong>Hiihtoloma 3.-7.3.</strong>" %}
+                {% include schedule.html %}
+                {% assign event = "ma 10.3.|Text 3 kertaus|refleksiivipronominit" %}
+                {% include schedule.html %}
+                {% assign event = "ti 11.3.|Harjoituksia||<strong>Sanakoe: Text 3</strong>" %}
+                {% include schedule.html %}
+                {% assign event = "to 13.3.|Text4 uutena|adjektiivit ja adverbit" %}
+                {% include schedule.html %}
+                {% assign event = "ma 17.3.|Text 4 vanhana" %}
+                {% include schedule.html %}
+                {% assign event = "ti 18.3.|Hälsan" %}
+                {% include schedule.html %}
+                {% assign event = "to 20.3.|Del 5 harjoituksia|lukusanat|<strong>Sanakoe: Text 4</strong>" %}
+                {% include schedule.html %}
+                {% assign event = "ma 24.3.|Del 5 harjoituksia" %}
+                {% include schedule.html %}
+                {% assign event = "?|Valmistava tunti" %}
+                {% include schedule.html %}
+                {% assign event = "?|Koe" %}
+                {% include schedule.html %}
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
