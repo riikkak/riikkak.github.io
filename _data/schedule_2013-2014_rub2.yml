@@ -1,0 +1,55 @@
+- date: ti 4.2.
+  title: Aloitus
+- date: to 6.2.
+  title: Text 1 uutena
+  grammar: sanajärjestys
+- date: ma 10.2.
+  title: Text 1 vanhana
+  grammar: 
+  other: "YO-kuuntelu, itsenäinen"
+- date: ti 11.2.
+  title: Text 1 tarkistus
+  other: <strong>kotiaineen ohjeistus</strong>
+- date: to 13.2.
+  title: Hus och hem
+  grammar: relatiivilause
+  other: "<strong>Sanakoe: Text 1</strong>"
+- date: ma 17.2.
+  title: Text 2 uutena
+- date: ti 18.2.
+  title: Text 2 vanhana
+  grammar: epäsuora kysymyslause
+- date: to 20.2.
+  title: Mat och dryck
+- date: ma 24.4.
+  title: Kläder
+  other: "<strong>Sanakoe: Text 2</strong>"
+- date: ti 25.2.
+  title: Text 3 uutena
+  grammar: persoonapronominit
+- date: to 27.2.
+  title: Text 3 vanhana
+- alert: "<strong>Hiihtoloma 3.-7.3.</strong>"
+- date: ma 10.3.
+  title: Text 3 kertaus
+  grammar: refleksiivipronominit
+- date: ti 11.3.
+  title: Harjoituksia
+  other: "<strong>Sanakoe: Text 3</strong>"
+- date: to 13.3.
+  title: Text4 uutena
+  grammar: adjektiivit ja adverbit
+- date: ma 17.3.
+  title: Text 4 vanhana
+- date: ti 18.3.
+  title: Hälsan
+- date: to 20.3.
+  title: Del 5 harjoituksia
+  grammar: lukusanat
+  other: "<strong>Sanakoe: Text 4</strong>"
+- date: ma 24.3.
+  title: Del 5 harjoituksia
+- date: "?"
+  title: Valmistava tunti
+- date: "?"
+  title: Koe
