@@ -33,14 +33,14 @@ luonnos. Kukaan ei saa aikaan onnistunutta tiivitelmää kertaheitolla...
 ajatellen)on lukea tarkkaan tehtävänanto, millä kielellä tiivistelmä pyydetään kirjoittamaan. Tässä tehtävässä
 **kirjoituskielenä on englanti**.
 
-3. Tiivistelmän pituus on **n. 100 sanaa**. Sanojen ylityksestä tulee pistevähennys. Maksimi pisteet 10, eli piste per
+3. Tiivistelmän pituus on **n. 100 sanaa**. Sanojen ylityksestä tulee pistevähennys. Maksimipisteet 10, eli piste per
 pääkohta.Merkitse sanamäärä tekstin loppuun. Tiivistelmässä ei käytetä kappalejakoa.
 
 4. Tiivistelmässä esiteltävien asioiden ei tarvitse tulla samassa järjestyksessä, kuin alkuperäistekstissä, vaan voit
 muokata järjestystä mahdollisimman yhtenäisen, loogisen tekstin aikaansaamiseksi. Vältä luettelomaisuutta!
 
-**5. Palauta tiivitelmävihkonen kokonaisuudessaan. Vihkosessa tulee olla teksti alleviivattuna, muistiinpanot, luonnos,
-sekä varsinainen lopullinen tiivistelmä.**
+**5. Palauta tiivistelmävihkonen kokonaisuudessaan. Vihkosessa tulee olla teksti alleviivattuna, muistiinpanot, luonnos,
+sekä varsinainen lopullinen tiivistelmä, jotta kurssin osasuoritus hyväksytään.**
 
 </div>
 </div>
