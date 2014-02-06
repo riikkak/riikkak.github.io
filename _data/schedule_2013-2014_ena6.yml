@@ -1,0 +1,73 @@
+- date: ti 4.2
+  title: Aloitus, kurssin teemat
+- date: ke 5.2
+  title: Text 1 uutena
+  grammar: lukusanat
+- date: pe 7.2
+  title: Text 1 vanhana
+  grammar: lukusanat
+  prework: account for-care for
+- date: ti 11.12
+  title: Text 2
+  grammar: lukusanat
+  prework: charge with-insist on
+- date: ke 12.2
+  title: Text 5
+  other: "Sanakoe: Texts 1 & 2"
+- date: pe 14.2
+  title: "#wanhat"
+  grammar: "#ei tuntia"
+  prework: "#tanssitaan"
+  other: "#partytime"
+- date: ti 18.2
+  title: Text 4 uutena
+  grammar: infinitiivi ja -ing
+  prework: interfere in-recover from
+  other: <strong>TIIVISTELMÄN PALAUTUS</strong>
+- date: ke 19.2
+  title: Text 4
+  grammar: infinitiivi ja -ing
+  prework: refer to-wait for
+- date: pe 21.2
+  title: Text 4
+  grammar: infiniitvi ja -ing
+  prework: addiction to-expert in/on
+- date: ti 25.2
+  title: Text 3 alku
+  prework: faith in-visit to
+  other: "Sanakoe: Text 4"
+- date: ke 26.2
+  title: text 3 loppu
+  prework: accustomed to-disappointed in/with sb
+- date: pe 28.2
+  title: Harjoituksia
+  prework: engaged to-peculiar to
+  other: <strong>SUULLINEN TIIVISTELMÄ</strong>
+- alert: <strong>Hiihtoloma 3.-7.3</strong>
+- date: ti 11.3
+  title: Text 6 uutena
+  grammar: verbi + prep.
+  prework: pleased about-wrong with
+- date:  ke 12.3
+  title: Text 6 vanhana
+  grammar: substantiivi + prep.
+  other: <strong>Kotiaineen palautus</strong>
+- date: pe 14.3
+  title: Text 10
+  grammar: adjektiivi + prep.
+  other: "Sanakoe: Text 6"
+- date: ti 18.3
+  title: Text 9 uutena
+  grammar: prepositioilmaukset
+- date: ke 19.3
+  title: Text 9 vanhana
+  grammar: latinan lainat
+- date: pe 21.3
+  title: <strong>Kuuntelukoe</strong>
+  grammar: latinan lainat
+  other: "Sanakoe: Text 9"
+- date: ??
+  title: Valmistava tunti
+  prework: kertausmoniste
+- date: ??
+  title: Kurssikoe
