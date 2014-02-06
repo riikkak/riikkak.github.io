@@ -1,0 +1,40 @@
+{% assign columns = 3 %}
+<table class="table table-bordered table-striped">
+    <thead>
+    <tr>
+        <th>Pvm</th>
+        <th>Tunnin aihe</th>
+        {% unless include.no_grammar %}
+        <th>Kielioppi</th>
+        {% assign columns = columns | plus: 1 %}
+        {% endunless %}
+        {% if include.prework %}
+        <th>Etukäteistehtävä</th>
+        {% assign columns = columns | plus: 1 %}
+        {% endif %}
+        <th>Muuta</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for event in include.data %}
+    <tr>
+        {% unless event.alert %}
+        <td>{{ event.date }}</td>
+        <td>{{ event.title }}</td>
+        {% unless include.no_grammar %}
+        <td>{{ event.grammar }}</td>
+        {% endunless %}
+        {% if include.prework %}
+        <td>{{ event.prework }}</td>
+        {% endif %}
+        <td>{{ event.other }}</td>
+        {% else %}
+        <td colspan="{{ columns }}" style="text-align: center">
+            {{ event.alert }}
+        </td>
+        {% endunless %}
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
