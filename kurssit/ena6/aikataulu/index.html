@@ -13,19 +13,7 @@ course: ena6
     </div>
     <div class="content-row">
         <div class="main-content">
-            <table class="table table-bordered table-striped">
-                <thead>
-                <tr>
-                    <th>Pvm</th>
-                    <th>Tunnin aihe</th>
-                    <th>Kielioppi</th>
-                    <th>Muuta</th>
-                </tr>
-                </thead>
-                <tbody>
-
-                </tbody>
-            </table>
+            {% include course-schedule.html data=site.data.schedule_2013-2014_ena6 prework=true %}
         </div>
     </div>
 </div>
