@@ -4,4 +4,4 @@ title: "Maanantain tunti"
 tags: rub2 etusivu
 ---
 
-Maanantain kontaktiopetustunnin korvaavat tehtävät löydät nyt [kotitehtävien alta](riikka.koskenranta.fi/kurssit/rub2/kotitehtavat/itsenainen-tyo/).
+Maanantain kontaktiopetustunnin korvaavat tehtävät löydät nyt kotitehtävien alta.
