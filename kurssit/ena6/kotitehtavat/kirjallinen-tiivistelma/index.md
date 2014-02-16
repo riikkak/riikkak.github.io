@@ -31,7 +31,7 @@ luonnos. Kukaan ei saa aikaan onnistunutta tiivitelmää kertaheitolla...
 
 2. Kirjan sivulla 126 löydät myös ohjeita tiivitelmän laatimiseen. Tärkeintä tiivistelmän tekemisessä (yo-koettakin
 ajatellen)on lukea tarkkaan tehtävänanto, millä kielellä tiivistelmä pyydetään kirjoittamaan. Tässä tehtävässä
-**kirjoituskielenä on englanti**.
+**kirjoituskielenä on suomi**.
 
 3. Tiivistelmän pituus on **n. 100 sanaa**. Sanojen ylityksestä tulee pistevähennys. Maksimipisteet 10, eli piste per
 pääkohta.Merkitse sanamäärä tekstin loppuun. Tiivistelmässä ei käytetä kappalejakoa.
