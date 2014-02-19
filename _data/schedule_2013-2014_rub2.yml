@@ -11,18 +11,21 @@
   title: Text 1 tarkistus
   other: <strong>kotiaineen ohjeistus</strong>
 - date: to 13.2.
-  title: Hus och hem
-  grammar: relatiivilause
+  title: Tehtävien tarkastus, Penkkari-sählinkiä
   other: "<strong>Sanakoe: Text 1</strong>"
 - date: ma 17.2.
   title: Text 2 uutena
+  grammar: relatiivilause
 - date: ti 18.2.
   title: Text 2 vanhana
-  grammar: epäsuora kysymyslause
+  grammar: relatiivilause
 - date: to 20.2.
-  title: Mat och dryck
+  title: Hus och hem - Mat och dryck
+  grammar: epäsuorakysymyslause
+  other: <strong>Kotiaineen palautus</strong>
 - date: ma 24.4.
   title: Kläder
+  grammar: epäsuorakysymyslause
   other: "<strong>Sanakoe: Text 2</strong>"
 - date: ti 25.2.
   title: Text 3 uutena
