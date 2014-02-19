@@ -39,13 +39,14 @@ Kurssiarvioinnin muodostavat kurssikoe ja muut arviointiin vaikuttavat tekijät
 ####Kurssikoe
 
 Kurssikokeen muodostavat:
+
 1. Kuuntelukoe (50p)
 2. Luetunymmärtäminen (50p)
 3. Kielioppi (n. 70p)
 4. Aine (50p)
 5. Suullinen + kirjallinen tiivistelmä ja kotiaine (30p)
 
-Yhteensä 250p.
+**Yhteensä 250p**
 
 Kokeen lopullinen arvosana lasketaan kurssikokeen(x2) ja sanakokeiden keskiarvon summasta (x1)
 
