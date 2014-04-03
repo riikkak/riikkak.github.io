@@ -22,7 +22,7 @@
                        data-toggle="dropdown" data-target="#">Kotitehtävät <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="dKotitehtavat">
                         <li{% if selNav == "läksyt" %} class="active"{% endif %}>
-                            <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat" class="selected">Läksyt</a>
+                            <a tabindex="-1" href="/kurssit/{{ page.course }}/kotitehtavat">Läksyt</a>
                         </li>
                         {% if page.course contains "ena5" %}
                         <li{% if selNav == "portfolio" %} class="active"{% endif %}>
