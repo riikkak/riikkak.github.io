@@ -1,5 +1,5 @@
 - name: ena1
-  desc:
+  desc: "identiteetti, ulkonäkö, koti ja perhe, elämäntapavalinnat"
   period: 1
 
 - name: ena3
@@ -7,26 +7,26 @@
   period: 5
 
 - name: ena4
-  desc:
+  desc: "yhteiskunta, uskonto, politiikka, vaikuttaminen"
   period: 1
 
 - name: ena4
-  desc:
+  desc: "yhteiskunta, uskonto, politiikka, vaikuttaminen"
   url: ena4.2
   period: 2
 
 - name: ena5.2
   code: 5
-  desc:
+  desc: "kulttuuri"
   period: 3
 
 - name: ena5.3
   code: 7
-  desc:
+  desc: "kulttuuri"
   period: 3
 
 - name: ena6
-  desc:
+  desc: "tiede, talous ja tekniikka"
   period: 4
 
 - name: ena7
@@ -34,25 +34,25 @@
   period: 5
 
 - name: ena8
-  desc:
+  desc: "suullisen kielitaidon kurssi"
   period: 2
 
 - name: rub1
-  desc:
+  desc: "vapaa-aika, perhe, koulu ja harrastukset"
   period: 2
 
 - name: rub2
-  desc:
+  desc: "asuminen, ruoka, terveys ja työ"
   period: 4
 
 - name: rub3
-  desc:
+  desc: "Suomi, Ahvenanmaa ja suomenruotsalaiset"
   period: 2
 
 - name: rub4
-  desc:
+  desc: "ihmissuhteet, kulttuurien välinen kohtaaminen ja uskonto"
   period: 3
 
 - name: rub6
-  desc:
+  desc: "suullinen kielitaito ja sanasto arkipäivän tilanteissa"
   period: 1
