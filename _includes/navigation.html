@@ -1,0 +1,115 @@
+<nav class="navbar navbar-static-top" role="navigation">
+    <div class="container">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".course-navbar-collapse">
+            <span class="sr-only">Vaihda navigaatio</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/kurssit/{{ page.course }}">{{page.course | upcase}}</a>
+        <div class="nav-collapse collapse course-navbar-collapse">
+            {% assign selNav = page.title %}
+            <ul class="nav navbar-nav">
+            {% for courses in include.navItems %}
+                {% if courses.course == page.course %}
+                {% for navItem in courses.pages %}
+                {% assign url = navItem.page | downcase %}
+                {% if navItem.url %}
+                    {% assign url = navItem.url %}
+                {% endif %}
+
+                {% unless navItem.subpages %}
+                <li{% if selNav == navItem.page %} class="active"{% endif %}>
+                {% unless forloop.first %}
+                    <a href="/kurssit/{{ page.course }}/{{ url }}">{{ navItem.page }}</a>
+                {% else %}
+                    <a href="/kurssit/{{ page.course }}">{{ navItem.page }}</a>
+                {% endunless %}
+                </li>
+                {% else %}
+                {% for subNavItem in navItem.subpages %}
+                    {% if subNavItem.page == selNav %}
+                        {% assign navSelected = true %}
+                    {% endif %}
+                {% endfor %}
+                <li class="dropdown{% if navSelected %} active{% endif %}">
+                    {% assign navSelected = false %}
+                    <a id="d{{ url }}" href="/kurssit/{{ page.course }}/{{ url }}"
+                       data-toggle="dropdown" data-target="#">{{ navItem.page }} <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu" role="menu" aria-labelledby="d{{ url }}">
+                        {% for subNavItem in navItem.subpages %}
+                        {% assign subNavUrl = subNavItem.page | downcase %}
+                        {% if subNavItem.url %}
+                            {% assign subNavUrl = subNavItem.url %}
+                        {% endif %}
+                        <li{% if selNav == subNavItem.page %} class="active"{% endif %}>
+                            <a tabindex="-1" href="/kurssit/{{ page.course }}/{{ url }}/{{ subNavUrl }}">
+                                {{ subNavItem.page }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                {% endunless %}
+            {% endfor %}
+            <li class="dropdown">
+                <a id="dKurssit" href="/kurssit" data-toggle="dropdown">Kurssit <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dKurssit">
+                    {% assign course_db=site.data.courses_2013-2014 %}
+                    {% assign cur_period=site.data.period_2013-2014.current %}
+
+                    {% assign eng_courses = "" %}
+                    {% assign eng_urls = "" %}
+                    {% assign swe_courses = "" %}
+                    {% assign swe_urls = "" %}
+                    {% for course in course_db %}
+                        {% if course.period == cur_period %}
+                            {% if course.name contains "ena" %}
+                                {% assign eng_courses = course.name | append:"|" | append:eng_courses %}
+                                {% unless course.url %}
+                                    {% assign eng_urls = course.name | append:"|" | append:eng_urls %}
+                                {% else %}
+                                    {% assign eng_urls = course.url | append:"|" | append:eng_urls %}
+                                {% endunless %}
+                            {% elsif course.name contains "rub" %}
+                                {% assign swe_courses = course.name | append:"|" | append:swe_courses %}
+                                {% unless course.url %}
+                                    {% assign swe_urls = course.name | append:"|" | append:swe_urls %}
+                                {% else %}
+                                    {% assign swe_urls = course.url | append:"|" | append:swe_urls %}
+                                {% endunless %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {% assign eng_courses = eng_courses | split:"|" %}
+                    {% assign eng_urls = eng_urls | split:"|" %}
+                    {% assign eng_size = eng_courses | size %}
+                    {% assign swe_courses = swe_courses | split:"|" %}
+                    {% assign swe_urls = swe_urls | split:"|" %}
+                    {% assign swe_size = swe_courses | size %}
+
+                    {% if eng_size > 0 %}
+                    <li class="dropdown-header">Englanti</li>
+                    {% for name in eng_courses reversed %}
+                    <li><a tabindex="-1" href="/kurssit/{{ eng_urls[forloop.rindex0] }}">{{ name | upcase }}</a></li>
+                    {% endfor %}
+                    {% if swe_size > 0 %}
+                    <li class="divider"></li>
+                    {% endif %}
+                    {% endif %}
+                    {% if swe_size > 0 %}
+                    <li class="dropdown-header">Ruotsi</li>
+                    {% for name in swe_courses reversed %}
+                    <li><a tabindex="-1" href="/kurssit/{{ swe_urls[forloop.rindex0] }}">{{ name | upcase }}</a></li>
+                    {% endfor %}
+                    {% endif %}
+                </ul>
+            </li>
+            {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>

@@ -7,7 +7,12 @@
     <div class="content-wrapper">
         {% include header.html %}
 
-        {% include course-navigation.html %}
+        {% assign newNavCourses = "ena3|ena7" | split:"|" %}
+        {% unless newNavCourses contains page.course %}
+            {% include course-navigation.html %}
+        {% else %}
+            {% include navigation.html navItems=site.data.navigation_2013-2014 %}
+        {% endunless %}
 
         {{ content }}
     </div>

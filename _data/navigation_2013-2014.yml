@@ -1,0 +1,42 @@
+# ----- ENA3 ----- #
+- course: ena3
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Itsenäinen työ
+        url: itsenainen-tyo
+      - page: Curriculum Vitae
+        url: curriculum-vitae
+      - page: Kotiaine
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+  - page: Vinkkipankki
+# ----- ENA7 ----- #
+- course: ena7
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+    - page: Läksyt
+      url: ""
+    - page: Kotiaine
+    - page: Itsenäinen työ
+      url: itsenainen-tyo
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+  - page: Vinkkipankki
