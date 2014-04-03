@@ -4,9 +4,7 @@
 <div class="list-group">
     {% for course in include.db %}
     {% if course.name contains include.name and course.period == include.period %}
-    {% assign url = course.name %}
-    {% if course.url %}{% assign url = course.url %}{% endif %}
-    <a href="/kurssit/{{ url }}" class="list-group-item">
+    <a href="/kurssit/{{ course.name | downcase }}" class="list-group-item">
         {{ course.name | upcase }}
         {% if course.code %} (koodi {{course.code}}){% endif %}
     </a>
@@ -19,9 +17,7 @@
 <div class="list-group">
     {% for course in include.db %}
     {% if course.name contains include.name and course.period < include.period %}
-    {% assign url = course.name %}
-    {% if course.url %}{% assign url = course.url %}{% endif %}
-    <a href="/kurssit/{{ url }}" class="list-group-item">
+    <a href="/kurssit/{{ course.name | downcase }}" class="list-group-item">
         {{ course.name | upcase }}{% if course.code %} (koodi {{course.code}}){% endif %} - {{ course.period }}. jakso
     </a>
     {% endif %}

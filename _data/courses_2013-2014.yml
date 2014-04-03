@@ -10,9 +10,8 @@
   desc: "yhteiskunta, uskonto, politiikka, vaikuttaminen"
   period: 1
 
-- name: ena4
+- name: ena4.2
   desc: "yhteiskunta, uskonto, politiikka, vaikuttaminen"
-  url: ena4.2
   period: 2
 
 - name: ena5.2
