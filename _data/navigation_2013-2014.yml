@@ -1,3 +1,15 @@
+# ----- ENA1 ----- #
+- course: ena1
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Kotiaine
+  - page: Info
 # ----- ENA3 ----- #
 - course: ena3
   pages:
@@ -20,6 +32,75 @@
     - page: Arviointi
     - page: Kurssikoe
   - page: Vinkkipankki
+# ----- ENA4 ----- #
+- course: ena4
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Kotiaine
+      - page: Itsenäinen työ
+        url: itsenainen-tyo
+  - page: Info
+# ----- ENA4.2 ----- #
+- course: ena4.2
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Kotiaine
+  - page: Info
+# ----- ENA5.2 ----- #
+- course: ena5.2
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Portfolio
+      - page: Kurssikoe
+  - page: Info
+# ----- ENA5.3 ----- #
+- course: ena5.3
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Portfolio
+      - page: Kurssikoe
+  - page: Info
+# ----- ENA6 ----- #
+- course: ena6
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Kirjallinen tiivistelmä
+        url: kirjallinen-tiivistelma
+      - page: Suullinen tiivistelm
+        url: suullinen-tiivistelma
+      - page: Itsenäinen työ
+        url: itsenainen-tyo
+  - page: Info
 # ----- ENA7 ----- #
 - course: ena7
   pages:
@@ -40,3 +121,66 @@
     - page: Arviointi
     - page: Kurssikoe
   - page: Vinkkipankki
+# ----- ENA8 ----- #
+- course: ena8
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+  - page: Info
+# ----- RUB1 ----- #
+- course: rub1
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+  - page: Info
+# ----- RUB2 ----- #
+- course: rub2
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+    - page: Läksyt
+      url: ""
+    - page: Itsenäinen työ
+      url: itsenainen-tyo
+  - page: Info
+# ----- RUB3 ----- #
+- course: rub3
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+    - page: Läksyt
+      url: ""
+    - page: Kotiaine
+    - page: Itsenäinen työ
+      url: itsenainen-tyo
+# ----- RUB4 ----- #
+- course: rub4
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+    - page: Läksyt
+      url: ""
+    - page: Kotiaine
+    - page: Kurssikoe
+  - page: Info
+# ----- RUB6 ----- #
+- course: rub6
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+  - page: Info
