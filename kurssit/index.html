@@ -4,6 +4,9 @@ title: Kurssit
 published: true
 ---
 
+{% assign course_db=site.data.courses_2013-2014 %}
+{% assign cur_period=site.data.period_2013-2014.current %}
+
 <div class="course-menu">
     <div class="container">
         <div class="courses">
@@ -20,25 +23,28 @@ published: true
                     <div class="panel-heading">
                         <h2 class="panel-title">Englanti</h2>
                     </div>
-                    <h3>Menossa olevat kurssit</h3>
-                    <div class="list-group">
-                        <a href="/kurssit/ena6" class="list-group-item">ENA6</a>
-                    </div>
-                    <h3>Menneet kurssit</h3>
-                    <div class="list-group">
-                        <a href="/kurssit/ena1" class="list-group-item">ENA1 - 1. jakso</a>
-                        <a href="/kurssit/ena4" class="list-group-item">ENA4 - 1. jakso</a>
-                        <a href="/kurssit/ena4.2" class="list-group-item">ENA4 - 2. jakso</a>
-                        <a href="/kurssit/ena8" class="list-group-item">ENA8 - 2. jakso</a>
-                        <a href="/kurssit/ena5.2" class="list-group-item">ENA5.2 (koodi 5) - 3. jakso</a>
-                        <a href="/kurssit/ena5.3" class="list-group-item">ENA5.3 (koodi 7) - 3. jakso</a>
-                    </div>
 
-                    <h3>Tulevat kurssit 2013-2014</h3>
-                    <ul class="list-group">
-                        <li class="list-group-item">ENA3 - 5. jakso</li>
-                        <li class="list-group-item">ENA7 - 5. jakso</li>
-                    </ul>
+                    {% for course in course_db %}
+                    {% if course.name contains "ena" and course.period == cur_period %}{% assign cur_english = true %}
+                    {% elsif course.name contains "ena" and course.period < cur_period %}{% assign past_english = true %}
+                    {% elsif course.name contains "ena" and course.period > cur_period %}{% assign future_english = true %}
+                    {% elsif course.name contains "rub" and course.period == cur_period %}{% assign cur_swedish = true %}
+                    {% elsif course.name contains "rub" and course.period < cur_period %}{% assign past_swedish = true %}
+                    {% elsif course.name contains "rub" and course.period > cur_period %}{% assign future_swedish = true %}
+                    {% endif %}
+                    {% endfor %}
+
+                    {% if cur_english %}
+                    {% include course-list.html db=course_db time="current" name="ena" period=cur_period %}
+                    {% endif %}
+
+                    {% if past_english %}
+                    {% include course-list.html db=course_db time="past" name="ena" period=cur_period %}
+                    {% endif %}
+
+                    {% if future_english %}
+                    {% include course-list.html db=course_db time="future" name="ena" period=cur_period year="2013-2014" %}
+                    {% endif %}
                 </div>
             </div>
             <div class="language-wrapper">
@@ -46,18 +52,17 @@ published: true
                     <div class="panel-heading">
                         <h2 class="panel-title">Ruotsi</h2>
                     </div>
-                    <h3>Menossa olevat kurssit</h3>
-                    <div class="list-group">
-                        <a href="/kurssit/rub2" class="list-group-item">RUB2</a>
-                    </div>
+                    {% if cur_swedish %}
+                    {% include course-list.html db=course_db time="current" name="rub" period=cur_period %}
+                    {% endif %}
 
-                    <h3>Menneet kurssit</h3>
-                    <div class="list-group">
-                        <a href="/kurssit/rub6" class="list-group-item">RUB6 - 1. jakso</a>
-                        <a href="/kurssit/rub1" class="list-group-item">RUB1 - 2. jakso</a>
-                        <a href="/kurssit/rub3" class="list-group-item">RUB3 - 2. jakso</a>
-                        <a href="/kurssit/rub4" class="list-group-item">RUB4 - 3. jakso</a>
-                    </div>
+                    {% if past_swedish %}
+                    {% include course-list.html db=course_db time="past" name="rub" period=cur_period %}
+                    {% endif %}
+
+                    {% if future_swedish %}
+                    {% include course-list.html db=course_db time="future" name="rub" period=cur_period year="2013-2014" %}
+                    {% endif %}
                 </div>
             </div>
         </div>

@@ -1,0 +1,41 @@
+{% case include.time %}
+{% when "current" %}
+<h3>Menossa olevat kurssit</h3>
+<div class="list-group">
+    {% for course in include.db %}
+    {% if course.name contains include.name and course.period == include.period %}
+    {% assign url = course.name %}
+    {% if course.url %}{% assign url = course.url %}{% endif %}
+    <a href="/kurssit/{{ url }}" class="list-group-item">
+        {{ course.name | upcase }}
+        {% if course.code %} (koodi {{course.code}}){% endif %}
+    </a>
+    {% endif %}
+    {% endfor %}
+</div>
+
+{% when "past" %}
+<h3>Menneet kurssit</h3>
+<div class="list-group">
+    {% for course in include.db %}
+    {% if course.name contains include.name and course.period < include.period %}
+    {% assign url = course.name %}
+    {% if course.url %}{% assign url = course.url %}{% endif %}
+    <a href="/kurssit/{{ url }}" class="list-group-item">
+        {{ course.name | upcase }}{% if course.code %} (koodi {{course.code}}){% endif %} - {{ course.period }}. jakso
+    </a>
+    {% endif %}
+    {% endfor %}
+</div>
+
+{% when "future" %}
+<h3>Tulevat kurssit {{ include.year }}</h3>
+<ul class="list-group">
+    {% for course in include.db %}
+    {% if course.name contains include.name and course.period > include.period %}
+    <li class="list-group-item">{{ course.name | upcase }}{% if course.code %} (koodi {{course.code}}){% endif %}
+        - {{ course.period }}. jakso</li>
+    {% endif %}
+    {% endfor %}
+</ul>
+{% endcase %}
