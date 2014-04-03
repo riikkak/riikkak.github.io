@@ -1,0 +1,23 @@
+---
+layout: default
+title: Läksyt
+theme: english
+course: ena7
+---
+
+<div class="container">
+    <div class="header-row">
+        <div class="main-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="content-row">
+        <section class="posts">
+            {% for post in site.posts %}
+                {% if post.tags contains 'ena7' and post.tags contains 'läksyt' %}
+                    {% include post.html %}
+                {% endif %}
+            {% endfor %}
+        </section>
+    </div>
+</div>
