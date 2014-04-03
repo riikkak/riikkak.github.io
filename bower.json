@@ -8,9 +8,9 @@
         "bower_components"
     ],
     "dependencies": {
-        "jquery": "~1.10",
+        "jquery": "~1.11",
         "bootstrap": "3.0.0-rc1",
         "html5shiv-dist": "~3.6.2",
-        "respond": "~1.2.0"
+        "respond": "~1.4.0"
     }
 }
