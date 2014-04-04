@@ -32,6 +32,16 @@
     - page: Arviointi
     - page: Kurssikoe
   - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
 # ----- ENA4 ----- #
 - course: ena4
   pages:
@@ -121,6 +131,16 @@
     - page: Arviointi
     - page: Kurssikoe
   - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
 # ----- ENA8 ----- #
 - course: ena8
   pages:

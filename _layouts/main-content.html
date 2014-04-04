@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% include head.html %}
+</head>
+<body>
+<div class="content-wrapper">
+    {% include header.html %}
+
+    {% include navigation.html navItems=site.data.navigation_2013-2014 %}
+
+    <div class="container">
+        <div class="header-row">
+            <div class="main-header">
+                <h1>{{ page.title }}</h1>
+            </div>
+        </div>
+        <div class="content-row">
+            <div class="main-content">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
+</body>
+</html>
+
+
