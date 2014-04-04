@@ -1,0 +1,5 @@
+{% for post in site.posts %}
+    {% if post.tags contains include.course and post.tags contains 'läksyt' %}
+        {% include post.html %}
+    {% endif %}
+{% endfor %}
