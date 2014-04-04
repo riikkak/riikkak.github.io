@@ -5,11 +5,10 @@
 <meta name="author" content="Riikka Koskenranta">
 
 <title>
-    {% if page.title == "Riikka Koskenranta" %}
-    {{ page.title }}
-    {% else %}
-    {{ page.title }}{% if page.course %} - {{ page.course | upcase }}{% endif %} &middot; Riikka Koskenranta
-    {% endif %}
+    {% unless page.title == "Riikka Koskenranta" %}
+    {{ page.title }}{% if page.course %} - {{ page.course | upcase }}{% endif %} &middot;
+    {% endunless %}
+    Riikka Koskenranta
 </title>
 
 {% include theme-selector.html %}
