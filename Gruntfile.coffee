@@ -88,5 +88,5 @@ module.exports = (grunt) ->
   grunt.registerTask('minify-css', ['recess:minifyBlog', 'recess:minifyEnglish', 'recess:minifySwedish'])
   grunt.registerTask('dist-css', ['copy', 'less', 'minify-css', 'clean'])
   grunt.registerTask('default', ['dist-css', 'exec:build'])
-  grunt.registerTask('serve', ['dist-css', 'concurrent'])
+  grunt.registerTask('serve', ['concurrent'])
 
