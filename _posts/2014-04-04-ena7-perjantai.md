@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tiistain tunnille"
-tags: ena7
+tags: ena7 läksyt
 ---
 
 1. Lue ja suomenna text 1 
