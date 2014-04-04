@@ -1,0 +1,71 @@
+- date: pe 4.4.
+  title: Aloitus, kuuntelu
+  grammar: artikkelit
+- date: ti 8.4.
+  title: Text 1
+  grammar: artikkelit
+  prework: Lue ja suomenna text 1
+- date: ke 9.4.
+  title: Text 1
+  grammar: yksikkö/monikko
+- date: pe 11.4.
+  title: Text 2
+  grammar: paljoussanat
+  prework: Lue ja suomenna text 2
+  other: "<strong>Sanakoe: text 1</strong>"
+- date: ti 15.4.
+  title: Text 2
+  grammar: omistaminen
+- date: ke 16.4.
+  title: Text 3
+  grammar: relatiivipron.
+- date: pe 18.4.
+  title: Pitkäperjantai
+  other: <strong>EI TUNTIA</strong>
+- date: ti 22.4.
+  title: Text 5
+  grammar: indefiniittipron.
+  prework: Lue ja suomenna text 5
+- date: ke 23.4.
+  title: Text 5
+  grammar: sanajärjestys
+- date: pe 25.4.
+  title: Harjoituksia
+  grammar: epäsuora kerronta
+  other: "<strong>Sanakoe: text 5</strong>"
+- date: ti 29.4.
+  title: Text 4
+  grammar: Opiskele kotona, tee tehtävät
+- date: ke 30.4.
+  title: Text 8
+  grammar: it ja there
+- date: pe 2.5.
+  title: Ylimääräinen vapaapäivä
+  other: <strong>EI TUNTIA</strong>
+- date: ti 6.5.
+  title: Text 6
+  grammar: konjuktiot
+  prework: Lue ja suomenna text 6
+- date: ke 7.5.
+  title: Text 6
+  grammar: pilkutus
+- date: pe 9.5.
+  title: Text 7
+  grammar: Opiskele kotona, tee tehtävät
+  other: "<strong>Sanakoe: text 6</strong>"
+- date: ti 13.5.
+  title: Text 9
+  grammar: ehtovirkkeet
+  prework: Lue ja suomenna text 9
+- date: ke 14.5.
+  title: Text 9
+  grammar: passiivi
+- date: pe 16.5.
+  title: Kuuntelukoe
+  other: "<strong>Sanakoe: text 9</strong>"
+- date: ti 20.5.
+  title: Valmistava tunti
+  grammar: vaillinaiset apuverbit
+- date: ke 21.5.
+  title: <strong>KURSSIKOE</strong>
+  grammar: klo 8-11
