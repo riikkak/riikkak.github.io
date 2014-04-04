@@ -25,13 +25,16 @@ exclude:
 
 prose:
   siteurl: 'http://riikka.koskenranta.fi'
-  rooturl: '_posts'
   media: 'media'
   relativeLinks: 'http://riikka.koskenranta.fi/api/links.jsonp'
   site:
     tags: "http://riikka.koskenranta.fi/api/tags.jsonp"
   metadata:
     _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
       - name: "title"
         field:
           element: "text"
@@ -43,17 +46,13 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "ENA1 - Etusivu"
-              value: "ena1 etusivu"
-            - name: "ENA1 - Läksyt"
-              value: "ena1 läksyt"
-            - name: "ENA4 - Etusivu"
-              value: "ena4 etusivu"
-            - name: "ENA4 - Läksyt"
-              value: "ena4 läksyt"
-            - name: "RUB6 - Etusivu"
-              value: "rub6 etusivu"
-            - name: "RUB6 - Läksyt"
-              value: "rub6 läksyt"
+            - name: "ENA3 - Etusivu"
+              value: "ena3 etusivu"
+            - name: "ENA3 - Läksyt"
+              value: "ena3 läksyt"
+            - name: "ENA7 - Etusivu"
+              value: "ena7 etusivu"
+            - name: "ENA7 - Läksyt"
+              value: "ena7 läksyt"
             - name: "Blogi"
               value: "blogi"
