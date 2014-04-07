@@ -1,10 +1,18 @@
 module.exports = (grunt) ->
   grunt.initConfig
-    bowerDirectory: require('bower').config.directory
+    bower:
+      install:
+        options:
+          targetDir: './dist'
+          layout: (type, component) ->
+            type
+          install: true
+          verbose: false
+          cleanup: true
     copy:
       bootstrap:
         files: [
-          { expand: true, cwd: '<%= bowerDirectory %>/bootstrap/less', src: ['bootstrap.less'], dest: 'tmp/' }
+          { expand: true, cwd: 'less/bootstrap', src: ['bootstrap.less'], dest: 'tmp/' }
         ]
     clean: ['tmp']
     concurrent:
@@ -21,19 +29,19 @@ module.exports = (grunt) ->
       blogTheme:
         options:
           compress: false
-          paths: ['less/blog', 'tmp', '<%= bowerDirectory %>/bootstrap/less']
+          paths: ['less/blog', 'tmp', 'less/bootstrap']
         files:
           'themes/blog/css/styles.css': ['less/blog/main.less']
       englishTheme:
         options:
           compress: false
-          paths: ['less/english', 'tmp', '<%= bowerDirectory %>/bootstrap/less']
+          paths: ['less/english', 'tmp', 'less/bootstrap']
         files:
           'themes/english/css/styles.css': ['less/english/main.less']
       swedishTheme:
         options:
           compress: false
-          paths: ['less/swedish', 'tmp', '<%= bowerDirectory %>/bootstrap/less']
+          paths: ['less/swedish', 'tmp', 'less/bootstrap']
         files:
           'themes/swedish/css/styles.css': ['less/swedish/main.less']
     recess:
@@ -74,6 +82,7 @@ module.exports = (grunt) ->
         options:
           livereload: true
 
+  grunt.loadNpmTasks('grunt-bower-task')
   grunt.loadNpmTasks('grunt-concurrent')
   grunt.loadNpmTasks('grunt-contrib-clean')
   grunt.loadNpmTasks('grunt-contrib-copy')

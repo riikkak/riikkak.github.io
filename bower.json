@@ -12,5 +12,20 @@
         "bootstrap": "3.0.0-rc1",
         "html5shiv-dist": "~3.6.2",
         "respond": "~1.4.0"
+    },
+    "exportsOverride": {
+        "jquery": {
+            "js": "dist/*min*.*"
+        },
+        "bootstrap": {
+            "js": "dist/js/*min*.js",
+            "../less/bootstrap": "less/*.less"
+        },
+        "html5shiv-dist": {
+            "js": "html5shiv-printshiv.js"
+        },
+        "respond": {
+            "js": "dest/respond.min.js"
+        }
     }
 }
