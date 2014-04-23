@@ -1,18 +1,9 @@
 ---
-layout: default
+layout: content-main
 title: Arviointi
 theme: english
 course: ena7
 ---
-
-<div class="container">
-<div class="header-row">
-<div class="main-header">
-<h1>{{ page.title }}</h1>
-</div>
-</div>
-<div class="content-row">
-<div class="main-content">
 
 Kurssiarvioinnin muodostavat kurssikoe ja muut arviointiin vaikuttavat tekijät
 
@@ -41,7 +32,3 @@ Sanakokeita kurssilla on 4: teksti 1, 5, 6 ja 9.
 * Pistarit (teksteistä ja kieliopista)
 * Kotitehtävät
 * Plussatehtävät
-
-</div>
-</div>
-</div>

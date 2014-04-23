@@ -1,18 +1,9 @@
 ---
-layout: default
+layout: content-main
 title: Kotiaine
 theme: english
 course: ena7
 ---
-
-<div class="container">
-<div class="header-row">
-<div class="main-header">
-<h1>{{ page.title }}</h1>
-</div>
-</div>
-<div class="content-row">
-<div class="main-content">
 
 Valitse yksi alla olevista otsikoista ja kirjoita siitä 150-250 sanan mittainen aine. Ennen kuin aloitat, lue kirjan
 s. 168 asiaa yleisimmistä kirjoitustehtävätyypeistä.
@@ -76,8 +67,3 @@ Kun tuntuu, että teksti on valmis, lue se ääneen itsellesi tai vaikka perheen
 10. **Supernatural phenomena are nonsense!** (s. 84 7I)
     You dismiss all so-called supernatural phenomena as nonsense and strongly feel that nobody should be conned into
     believing such rubbish. Write a blog entry where you put forward your views and give some ground for them.
-
-
-</div>
-</div>
-</div>
