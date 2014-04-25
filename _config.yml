@@ -5,6 +5,7 @@ redcarpet:
 safe: true
 lsi: false
 pygments: true
+url: http://riikka.koskenranta.fi
 baseurl:
 
 exclude:
