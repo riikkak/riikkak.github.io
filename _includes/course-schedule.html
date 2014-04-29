@@ -17,17 +17,28 @@
     </thead>
     <tbody>
     {% for event in include.data %}
-    <tr>
+    {% unless event.alert or event.date contains "?" %}
+    {% assign date_array = event.date | split: " " %}
+    {% if date_array %}
+    {% assign date_array = date_array[1] | split: "." %}
+    {% assign event_day = date_array[0] %}
+    {% assign event_month = date_array[1] %}
+    {% assign event_year = 2014 %}
+    {% assign event_date = event_day | append:"-" | append:event_month | append:"-" | append:event_year | date:"%F" %}
+    {% endif %}
+    {% endunless %}
+    <tr itemscope itemtype="http://schema.org/Event">
         {% unless event.alert %}
-        <td>{{ event.date }}</td>
-        <td>{{ event.title }}</td>
+        <td class="hidden" itemprop="superEvent">{{ page.course | upcase }}</td>
+        <td itemprop="startDate" content="{{ event_date}}">{{ event.date }}</td>
+        <td itemprop="name">{{ event.title }}</td>
         {% unless include.no_grammar %}
         <td>{{ event.grammar }}</td>
         {% endunless %}
         {% if include.prework %}
         <td>{{ event.prework }}</td>
         {% endif %}
-        <td>{{ event.other }}</td>
+        <td itemprop="description">{{ event.other }}</td>
         {% else %}
         <td colspan="{{ columns }}" style="text-align: center">
             {{ event.alert }}

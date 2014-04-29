@@ -1,18 +1,9 @@
 ---
-layout: default
+layout: content-main
 title: Itsenäinen työ
 theme: english
 course: ena7
 ---
-
-<div class="container">
-<div class="header-row">
-<div class="main-header">
-<h1>{{ page.title }}</h1>
-</div>
-</div>
-<div class="content-row">
-<div class="main-content">
 
 Kurssin aikana tehdään itsenäisesti teksti 4 ja siihen liittyvät tehtävät. Teksti pitää olla itsenäisesti
 työstettynä aikatauluun merkittynä päivinä. Tekemättä jääneet tehtävät vaikuttavat arvosanaan.
@@ -20,7 +11,7 @@ työstettynä aikatauluun merkittynä päivinä. Tekemättä jääneet tehtävä
 ###Text 4 Doomsday Tourism
 
 1. Kuuntele ja lue teksti 4. Kuuntelemaan pääseet SanomaPron sivuilla. Luo ensin tunnukset, jos sinulla ei vielä niitä
-ole. (= rekisteröidy). Luotuasi tunnukset pääset 7. kurssin materiaaliin käsiksi avainkoodilla HLTF.
+ole. Luotuasi tunnukset pääset 7. kurssin materiaaliin käsiksi avainkoodilla HLTF.
 2. Kuunneltuasi tekstin pariin kertaan, tee tehtävä 4B ja 4D.
 3. Suomenna sitten teksti ja merkitse kohdat, jotka ovat vaikeita. Kysy sitten niistä käsittelytunnilla opettajalta.
 4. Tee harjoitukset 4C, 4F, 4G, 4H, 4I ja 4M.
@@ -58,6 +49,3 @@ tehtävistä tulee poissaolo. Kaikki tehtävät tulee olla tehtynä.
 suomeksi palluroin tai käsitekarttana. Eli tiivistä tekstin sisältö 14 asialla. Älä kirjoita kokonaisia pitkiä lauseita
 (ettei mene kääntämiseksi), vaan muutamalla sanalla.
 
-</div>
-</div>
-</div>
