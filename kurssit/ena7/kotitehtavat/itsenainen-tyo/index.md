@@ -21,7 +21,7 @@ Teksti 4 käsitellään yhdessä ja tehtävät tarkastetaan tiistain 29.4 tunnil
 **Teksti 7 jää pois aikataulusta, mutta sisältö kuuluu koealueeseen, joten suositellaan opiskeltavaksi itsenäisesti
 ennen koetta.**
 
-###Text 7 The Mystery of Crop Circles
+#####Text 7 The Mystery of Crop Circles
 
 1. Kuuntele ja lue teksti 7 (sanomapro.fi)
 2. Kuunneltuasi tekstin pariin kertaan, tee tehtävä 7B s. 78.
@@ -43,6 +43,7 @@ tunti englannin osalta ei anna lupaa olla pois päivän muilta oppitunneilta. Te
 tehtävistä tulee poissaolo. Kaikki tehtävät tulee olla tehtynä.
 
 **TEHTÄVÄT**
+
 1. Lue ja suomenna teksti 6.
 2. Tee sitten harjoitukset 6 C ja 6E.
 2. Teksti on jaettu 7 kappaleeseen. Poimi jokaisesta kappaleesta 2 keskeisintä asiaa ja tee niistä vihkoon tiivitelmä
