@@ -14,8 +14,8 @@ course: ena7
 <div class="content-row">
 <div class="main-content">
 
-Kurssin aikana tehdään itsenäisesti kaksi tekstiä ja niihin liittyvät tehtävät. Kukin teksti pitää olla itsenäisesti
-työstettynä aikatauluun merkittyinä päivinä. Tekemättä jääneet tehtävät vaikuttavat arvosanaan.
+Kurssin aikana tehdään itsenäisesti teksti 4 ja siihen liittyvät tehtävät. Teksti pitää olla itsenäisesti
+työstettynä aikatauluun merkittynä päivinä. Tekemättä jääneet tehtävät vaikuttavat arvosanaan.
 
 ###Text 4 Doomsday Tourism
 
@@ -26,6 +26,9 @@ ole. (= rekisteröidy). Luotuasi tunnukset pääset 7. kurssin materiaaliin käs
 4. Tee harjoitukset 4C, 4F, 4G, 4H, 4I ja 4M.
 
 Teksti 4 käsitellään yhdessä ja tehtävät tarkastetaan tiistain 29.4 tunnilla.
+
+**Teksti 7 jää pois aikataulusta, mutta sisältö kuuluu koealueeseen, joten suositellaan opiskeltavaksi itsenäisesti
+ennen koetta.**
 
 ###Text 7 The Mystery of Crop Circles
 
@@ -41,6 +44,19 @@ sanakoe, joten teksti täytyy työstää kotona hyvissä ajoin, ei edellisenä i
 
 Huom! Molempien itsenäisesti opiskeltavien tekstien osaaminen tullaan testaamaan ennen tehtävien tarkistamista.
 
+###Säästövapaan aikana
+
+Tiistain 6.5 tunnilla ei ole kontaktiopetusta vaan tehtävät tehdään aikataulun mukaisesti itsenäisesti. Voit tulla
+työskentelmään luokkaan (ovi avataan), tai tehdä tehtävät muualla koulun tiloissa, tai kotona. Kontaktiopetuksesta vapaa
+tunti englannin osalta ei anna lupaa olla pois päivän muilta oppitunneilta. Tehtävät löydät alta, tekemättömistä
+tehtävistä tulee poissaolo. Kaikki tehtävät tulee olla tehtynä.
+
+**TEHTÄVÄT**
+1. Lue ja suomenna teksti 6.
+2. Tee sitten harjoitukset 6 C ja 6E.
+2. Teksti on jaettu 7 kappaleeseen. Poimi jokaisesta kappaleesta 2 keskeisintä asiaa ja tee niistä vihkoon tiivitelmä
+suomeksi palluroin tai käsitekarttana. Eli tiivistä tekstin sisältö 14 asialla. Älä kirjoita kokonaisia pitkiä lauseita
+(ettei mene kääntämiseksi), vaan muutamalla sanalla.
 
 </div>
 </div>

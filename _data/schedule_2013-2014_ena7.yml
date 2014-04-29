@@ -37,7 +37,7 @@
   title: Text 4
   grammar: Opiskele kotona, tee tehtävät
 - date: ke 30.4.
-  title: Text 8
+  title: Text 4
   grammar: it ja there
   other: <strong>Kotiaineen palautus</strong>
 - date: pe 2.5.
@@ -51,8 +51,7 @@
   title: Text 6
   grammar: pilkutus
 - date: pe 9.5.
-  title: Text 7
-  grammar: Opiskele kotona, tee tehtävät
+  title: Text 8
   other: "<strong>Sanakoe: text 6</strong>"
 - date: ti 13.5.
   title: Text 9
