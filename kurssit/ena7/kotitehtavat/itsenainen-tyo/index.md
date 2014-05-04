@@ -46,7 +46,8 @@ tehtävistä tulee poissaolo. Kaikki tehtävät tulee olla tehtynä.
 
 1. Lue ja suomenna teksti 6.
 2. Tee sitten harjoitukset 6 C ja 6E.
-2. Teksti on jaettu 7 kappaleeseen. Poimi jokaisesta kappaleesta 2 keskeisintä asiaa ja tee niistä vihkoon tiivitelmä
+3. Teksti on jaettu 7 kappaleeseen. Poimi jokaisesta kappaleesta 2 keskeisintä asiaa ja tee niistä vihkoon tiivitelmä
 suomeksi palluroin tai käsitekarttana. Eli tiivistä tekstin sisältö 14 asialla. Älä kirjoita kokonaisia pitkiä lauseita
 (ettei mene kääntämiseksi), vaan muutamalla sanalla.
-
+4. Opiskele asiaa konjuktioista s. 133-134 ja 136. Lue, opiskele, ymmärrä, sisäistä. Eli opettele ulkoa. Tee sitten
+harjoitukset K 23 ja K25. Tee myös harjoitus K24, mutta vihkoon. Voit tarkistaa tehtävän itse kirjan ohjeiden mukaisesti.
