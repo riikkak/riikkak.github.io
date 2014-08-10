@@ -1,3 +1,6 @@
+before_install:
+ - sudo apt-get update -qq
+ - sudo apt-get install -qq libgsl0ldbl plotutils
 language: ruby
 script: "bundle exec jekyll build"
 rvm:
