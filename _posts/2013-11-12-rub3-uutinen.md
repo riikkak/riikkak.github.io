@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Senja opettaa"
 tags: rub3 läksyt
 ---

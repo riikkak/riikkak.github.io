@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tehtävää torstaiksi"
 tags: ena4 läksyt
 ---

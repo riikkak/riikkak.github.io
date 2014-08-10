@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Wednesday's lesson"
 tags: ena1 läksyt
 ---

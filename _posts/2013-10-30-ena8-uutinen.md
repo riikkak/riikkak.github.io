@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Suullinen tehtävä"
 tags: ena8 etusivu
 ---

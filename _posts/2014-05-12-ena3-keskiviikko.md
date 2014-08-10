@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Keskiviikolle"
 tags: ena3 läksyt
 ---

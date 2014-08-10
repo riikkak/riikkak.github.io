@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perjantaille"
 tags: ena6 läksyt
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantaille"
 tags: rub6 läksyt
 ---

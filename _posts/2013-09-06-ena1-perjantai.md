@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perjantain pätkä"
 tags: ena1 läksyt
 ---

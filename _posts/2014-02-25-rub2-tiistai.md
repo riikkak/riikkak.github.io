@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstaille duunii"
 tags: rub2 läksyt
 ---

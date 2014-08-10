@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Viimeinen sanakoe"
 tags: rub3 etusivu
 ---

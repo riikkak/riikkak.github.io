@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistaiksi harjoituksia"
 tags: rub2 läksyt
 ---

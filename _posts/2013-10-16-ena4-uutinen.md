@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Infoa sivuilla"
 tags: ena4.2 etusivu
 ---

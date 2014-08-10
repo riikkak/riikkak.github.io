@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Syysloman jälkeiselle maanantaille"
 tags: rub1 läksyt
 ---

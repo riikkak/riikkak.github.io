@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Keskiviikon aamun ratoksi"
 tags: ena4.2 läksyt
 ---

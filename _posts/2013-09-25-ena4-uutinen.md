@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Valmistava tunti"
 tags: ena4 etusivu
 ---

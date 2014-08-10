@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ensimmäinen läksy"
 tags: ena8 läksyt
 ---

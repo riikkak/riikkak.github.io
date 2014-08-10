@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tekstin 4 sanakoe"
 tags: rub1 etusivu
 ---

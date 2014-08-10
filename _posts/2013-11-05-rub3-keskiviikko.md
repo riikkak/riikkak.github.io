@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Keskiviikon keskipäivälle"
 tags: rub3 läksyt
 ---

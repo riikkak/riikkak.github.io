@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kaikki loppuu aikanaan"
 tags: ena1 etusivu
 ---

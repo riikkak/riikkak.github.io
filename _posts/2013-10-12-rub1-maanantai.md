@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantain tunnille"
 tags: rub1 läksyt
 ---

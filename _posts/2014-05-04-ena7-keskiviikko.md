@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistain tunti"
 tags: ena7 läksyt
 ---

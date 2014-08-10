@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sanakoe"
 tags: rub1 läksyt
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perjantaiksi"
 tags: ena1 läksyt
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tervetuloa"
 tags: ena6 etusivu
 ---

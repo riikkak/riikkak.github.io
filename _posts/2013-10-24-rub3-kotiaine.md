@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kotaineen ohjeet"
 tags: rub3 etusivu
 ---

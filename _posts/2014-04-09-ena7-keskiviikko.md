@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perjantaina"
 tags: ena7 läksyt
 ---

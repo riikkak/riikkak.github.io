@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistaiksi treenataan"
 tags: ena4 läksyt
 ---

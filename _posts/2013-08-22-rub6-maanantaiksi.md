@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maratonläksyt maanantaiksi"
 tags: rub6
 ---

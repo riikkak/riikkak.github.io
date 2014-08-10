@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Välkommen!"
 tags: rub1 etusivu
 ---

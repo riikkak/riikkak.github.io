@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Valmistelevalle tunnille ja kokeeseen"
 tags: rub4 etusivu
 ---

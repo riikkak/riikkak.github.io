@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kolmas sanakoe"
 tags: ena8 etusivu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kotiaine"
 tags: rub4 etusivu
 ---

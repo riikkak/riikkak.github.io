@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Freaky Friday"
 tags: ena1 läksyt
 ---

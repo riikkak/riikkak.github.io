@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "torstaille"
 tags: rub6 läksyt
 ---

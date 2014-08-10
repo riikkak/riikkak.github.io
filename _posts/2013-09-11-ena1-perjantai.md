@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Puuhaa perjantaita varten"
 tags: ena1 läksyt
 ---

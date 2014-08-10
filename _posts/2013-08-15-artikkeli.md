@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Iltalukemista"
 tags: rub6 etusivu
 ---

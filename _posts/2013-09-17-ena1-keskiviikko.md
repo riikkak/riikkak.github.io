@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Keskiviikoksi"
 tags: ena1 läksyt
 ---

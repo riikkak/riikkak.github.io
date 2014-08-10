@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Keskiviikko"
 tags: rub4 läksyt
 ---

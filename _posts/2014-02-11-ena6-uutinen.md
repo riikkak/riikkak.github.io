@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiivistelmä"
 tags: ena6 etusivu
 ---

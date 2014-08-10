@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Welcome!"
 tags: ena7 etusivu
 ---

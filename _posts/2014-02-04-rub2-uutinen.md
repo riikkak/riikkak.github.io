@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kurssi alkaa"
 tags: rub2 etusivu
 ---

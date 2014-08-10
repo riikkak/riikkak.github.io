@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantaiksi painetaan mieleen"
 tags: rub6 läksyt
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstai toivoa täynnä"
 tags: rub6 läksyt
 ---

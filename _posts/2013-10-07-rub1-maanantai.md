@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "2. tunti"
 tags: rub1 läksyt
 ---

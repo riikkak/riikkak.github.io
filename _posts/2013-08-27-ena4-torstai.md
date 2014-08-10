@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstai toivoa täynnä"
 tags: ena4 läksyt
 ---

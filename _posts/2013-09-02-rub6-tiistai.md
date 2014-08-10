@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tisdag"
 tags: rub6 läksyt
 ---

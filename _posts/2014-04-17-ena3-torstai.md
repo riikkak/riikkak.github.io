@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Keskiviikko loman jälkeen"
 tags: ena3 läksyt
 ---

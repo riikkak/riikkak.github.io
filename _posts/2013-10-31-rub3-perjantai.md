@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perjantain tunti"
 tags: rub3 läksyt
 ---

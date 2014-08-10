@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Läksyä perjantaille"
 tags: ena1 läksyt
 ---

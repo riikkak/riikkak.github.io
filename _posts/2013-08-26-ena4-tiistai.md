@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistaina"
 tags: ena4 läksyt
 ---

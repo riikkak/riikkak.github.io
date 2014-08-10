@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sanakoe ja kotiaine"
 tags: rub3 etusivu
 ---

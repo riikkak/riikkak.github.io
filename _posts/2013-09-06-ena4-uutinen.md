@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantain tunti"
 tags: ena4 etusivu
 ---

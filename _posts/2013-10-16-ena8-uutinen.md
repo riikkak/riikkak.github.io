@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sanakoe"
 tags: ena8 etusivu
 ---

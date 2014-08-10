@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstaille"
 tags: rub2 läksyt
 ---

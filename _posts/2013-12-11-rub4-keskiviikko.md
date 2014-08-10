@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Virhe edellisissä tehtävissä"
 tags: rub4 läksyt
 ---

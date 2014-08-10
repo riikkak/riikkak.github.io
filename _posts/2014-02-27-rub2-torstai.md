@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantain tunnille hiihtoloman jälkeen"
 tags: rub2 läksyt
 ---

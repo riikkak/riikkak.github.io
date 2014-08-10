@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Wednesday, word day"
 tags: ena1 läksyt
 ---

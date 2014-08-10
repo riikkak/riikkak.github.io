@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kotiaine"
 tags: ena6 etusivu
 ---

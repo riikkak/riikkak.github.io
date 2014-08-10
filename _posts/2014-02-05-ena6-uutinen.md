@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ensimmäinen sanakoe"
 tags: ena6 etusivu
 ---

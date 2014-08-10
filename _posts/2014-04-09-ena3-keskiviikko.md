@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstain tunnilla"
 tags: ena3 läksyt
 ---

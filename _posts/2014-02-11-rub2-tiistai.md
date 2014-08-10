@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstain tunnille"
 tags: rub2 läksyt
 ---

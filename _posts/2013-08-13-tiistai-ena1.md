@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistai 13.8"
 tags: ena1 läksyt
 ---

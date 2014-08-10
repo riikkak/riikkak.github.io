@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstaina"
 tags: rub1 läksyt
 ---

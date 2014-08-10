@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantaiksi"
 tags: rub6 läksyt
 ---

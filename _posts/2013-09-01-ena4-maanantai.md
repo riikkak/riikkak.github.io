@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantaiksi"
 tags: ena4 läksyt
 ---

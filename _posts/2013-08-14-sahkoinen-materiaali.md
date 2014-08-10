@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sähköinen materiaali"
 tags: ena1 etusivu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantain tunnille"
 tags: ena5.2 läksyt
 ---

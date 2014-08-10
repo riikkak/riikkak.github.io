@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantai"
 tags: ena4 etusivu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstaille täytyypi tuunata"
 tags: rub6 läksyt
 ---

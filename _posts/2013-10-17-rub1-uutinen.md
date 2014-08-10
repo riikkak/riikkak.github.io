@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Höstlovet!"
 tags: rub1 etusivu
 ---

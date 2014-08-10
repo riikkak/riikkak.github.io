@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistain tunti loman jälkeen"
 tags: ena6 läksyt
 ---

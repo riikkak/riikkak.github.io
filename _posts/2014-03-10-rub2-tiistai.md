@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Seuraava sanakoe"
 tags: rub2 etusivu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Työskentelyohjeet ti 18.2 tunnille"
 tags: ena6 läksyt
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistaiksi"
 tags: rub2 läksyt
 ---

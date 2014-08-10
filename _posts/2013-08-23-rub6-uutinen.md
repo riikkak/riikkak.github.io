@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sanakoepäivystys"
 tags: rub6 etusivu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Muutoksia aikatauluun"
 tags: ena1 etusivu
 ---

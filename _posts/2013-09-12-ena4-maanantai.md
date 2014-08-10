@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantaina mamma meni..."
 tags: ena4 läksyt
 ---

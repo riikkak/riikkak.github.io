@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sanakoepäivystys"
 tags: ena4 etusivu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistaille"
 tags: ena1 läksyt
 ---

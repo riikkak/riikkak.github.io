@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Torstaiksi, toiseksi viimeiselle tunnille"
 tags: ena4 läksyt
 ---

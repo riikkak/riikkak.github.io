@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sanakoe tiistaina"
 tags: ena1 läksyt
 ---

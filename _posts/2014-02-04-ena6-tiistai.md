@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ensimmäisen tunnin läksy"
 tags: ena6 läksyt
 ---

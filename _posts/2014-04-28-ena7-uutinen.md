@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistain tunnille"
 tags: ena7 etusivu
 ---

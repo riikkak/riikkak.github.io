@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kuuntelukoe"
 tags: rub1 etusivu
 ---

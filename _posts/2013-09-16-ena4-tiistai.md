@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistaiksi"
 tags: ena4 läksyt
 ---

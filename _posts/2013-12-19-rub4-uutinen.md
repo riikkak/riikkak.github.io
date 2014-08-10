@@ -1,5 +1,4 @@
 ---
-layout: post
 title: God jul!
 tags: rub4 etusivu
 ---

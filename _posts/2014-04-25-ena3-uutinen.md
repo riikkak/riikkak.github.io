@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Curriculum vitae"
 tags: ena3 etusivu
 ---

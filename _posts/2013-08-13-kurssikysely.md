@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kurssin aloituskysely"
 tags: ena1 etusivu
 ---

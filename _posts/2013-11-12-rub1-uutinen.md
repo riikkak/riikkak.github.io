@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Verbikoe"
 tags: rub1 etusivu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tiistaille"
 tags: rub1 läksyt
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Muistettavaa"
 tags: ena6 etusivu
 ---

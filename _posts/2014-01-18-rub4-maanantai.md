@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantain läksyt"
 tags: rub4 läksyt
 ---

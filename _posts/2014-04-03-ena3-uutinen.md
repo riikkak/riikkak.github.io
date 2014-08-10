@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Welcome!"
 tags: ena3 etusivu
 ---

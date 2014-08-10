@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maanantaiksi harjoituksia"
 tags: rub2 läksyt
 ---

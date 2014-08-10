@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Toinen sanakoe"
 tags: ena1 etusivu
 ---

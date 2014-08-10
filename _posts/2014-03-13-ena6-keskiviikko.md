@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perjantain tunnille"
 tags: ena6 läksyt 
 ---

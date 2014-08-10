@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perjantain tunnille"
 tags: rub4 läksyt
 ---
