@@ -1,0 +1,8 @@
+{% case page.semester %}
+{% when "2013-2014" %}
+    {% assign page_nav = site.data.navigation_2013-2014 %}
+    {% assign page_courses = site.data.courses_2013-2014 %}
+{% when "2014-2015" %}
+    {% assign page_nav = site.data.navigation_2014-2015 %}
+    {% assign page_courses = site.data.courses_2014-2015 %}
+{% endcase %}

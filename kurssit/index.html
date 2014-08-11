@@ -4,8 +4,25 @@ title: Kurssit
 published: true
 ---
 
-{% assign course_db=site.data.courses_2013-2014 %}
-{% assign cur_period=site.data.period_2013-2014.current %}
+{% assign course_db=site.data.courses_2014-2015 %}
+{% assign cur_period=page.period %}
+{% assign ena_count = 0 %}
+{% assign rub_count = 0 %}
+{% for course in course_db %}
+    {% if course.name contains "ena" %}
+        {% assign ena_count = ena_count | plus:1 %}
+    {% endif %}
+    {% if course.name contains "rub" %}
+        {% assign rub_count = rub_count | plus:1 %}
+    {% endif %}
+    {% if course.name contains "ena" and course.period == cur_period %}{% assign cur_english = true %}
+    {% elsif course.name contains "ena" and course.period < cur_period %}{% assign past_english = true %}
+    {% elsif course.name contains "ena" and course.period > cur_period %}{% assign future_english = true %}
+    {% elsif course.name contains "rub" and course.period == cur_period %}{% assign cur_swedish = true %}
+    {% elsif course.name contains "rub" and course.period < cur_period %}{% assign past_swedish = true %}
+    {% elsif course.name contains "rub" and course.period > cur_period %}{% assign future_swedish = true %}
+    {% endif %}
+{% endfor %}
 
 <div class="course-menu">
     <div class="container">
@@ -15,53 +32,51 @@ published: true
                 <p>Welcome! Välkommen!</p>
                 <p>Tervetuloa Riikka Koskenrannan (REK) kurssisivuille! Näiltä sivuilta löydät kaikki kurssieni aikana
                     tarvitsemasi infot aina kurssien aikatauluista kotitehtäviin. Valitse alta oma kurssisi ja sitten
-                    ei muuta kuin hommiin!</p>
+                    ei muuta kuin hommiin! <a href="/kurssit/arkisto">Kurssiarkistosta</a> löydät vanhat kurssit.</p>
             </div>
 
             <div class="language-wrapper">
                 <div class="language">
                     <div class="panel-heading">
-                        <h2 class="panel-title">Englanti</h2>
+                        <h2 class="panel-title">Englanti ({{ena_count}} kurssia)</h2>
                     </div>
 
-                    {% for course in course_db %}
-                    {% if course.name contains "ena" and course.period == cur_period %}{% assign cur_english = true %}
-                    {% elsif course.name contains "ena" and course.period < cur_period %}{% assign past_english = true %}
-                    {% elsif course.name contains "ena" and course.period > cur_period %}{% assign future_english = true %}
-                    {% elsif course.name contains "rub" and course.period == cur_period %}{% assign cur_swedish = true %}
-                    {% elsif course.name contains "rub" and course.period < cur_period %}{% assign past_swedish = true %}
-                    {% elsif course.name contains "rub" and course.period > cur_period %}{% assign future_swedish = true %}
-                    {% endif %}
-                    {% endfor %}
-
                     {% if cur_english %}
-                    {% include course-list.html db=course_db time="current" name="ena" period=cur_period %}
+                    {% include course-list.html db=course_db time="current" name="ena" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if past_english %}
-                    {% include course-list.html db=course_db time="past" name="ena" period=cur_period %}
+                    {% include course-list.html db=course_db time="past" name="ena" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if future_english %}
-                    {% include course-list.html db=course_db time="future" name="ena" period=cur_period year="2013-2014" %}
+                    {% include course-list.html db=course_db time="future" name="ena" period=cur_period year=site.semester %}
+                    {% endif %}
+
+                    {% if ena_count == 0 %}
+                        Ei kursseja tänä lukuvuonna.
                     {% endif %}
                 </div>
             </div>
             <div class="language-wrapper">
                 <div class="language">
                     <div class="panel-heading">
-                        <h2 class="panel-title">Ruotsi</h2>
+                        <h2 class="panel-title">Ruotsi ({{rub_count}} kurssia)</h2>
                     </div>
                     {% if cur_swedish %}
-                    {% include course-list.html db=course_db time="current" name="rub" period=cur_period %}
+                    {% include course-list.html db=course_db time="current" name="rub" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if past_swedish %}
-                    {% include course-list.html db=course_db time="past" name="rub" period=cur_period %}
+                    {% include course-list.html db=course_db time="past" name="rub" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if future_swedish %}
-                    {% include course-list.html db=course_db time="future" name="rub" period=cur_period year="2013-2014" %}
+                    {% include course-list.html db=course_db time="future" name="rub" period=cur_period year=site.semester %}
+                    {% endif %}
+
+                    {% if rub_count == 0 %}
+                    Ei kursseja tänä lukuvuonna.
                     {% endif %}
                 </div>
             </div>

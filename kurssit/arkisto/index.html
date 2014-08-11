@@ -1,0 +1,57 @@
+---
+layout: home
+title: Kurssit
+published: true
+---
+
+{% assign course_db=site.data.courses_2013-2014 %}
+{% assign year_url="2013-2014" %}
+{% assign big_number=1000 %}
+{% assign ena_count = 0 %}
+{% assign rub_count = 0 %}
+{% for course in course_db %}
+    {% if course.name contains "ena" %}
+        {% assign ena_count = ena_count | plus:1 %}
+    {% endif %}
+    {% if course.name contains "rub" %}
+        {% assign rub_count = rub_count | plus:1 %}
+    {% endif %}
+{% endfor %}
+
+<div class="course-menu">
+    <div class="container">
+        <div class="courses">
+            <div class="courses-heading">
+                <h1>Kurssiarkisto</h1>
+                <h2>2013-2014</h2>
+            </div>
+
+            <div class="language-wrapper">
+                <div class="language">
+                    <div class="panel-heading">
+                        <h2 class="panel-title">Englanti ({{ena_count}} kurssia)</h2>
+                    </div>
+
+                    {% include course-list.html db=course_db time="past" name="ena" period=big_number year=year_url %}
+
+                    {% if ena_count == 0 %}
+                        Ei kursseja tänä lukuvuonna.
+                    {% endif %}
+                </div>
+            </div>
+            <div class="language-wrapper">
+                <div class="language">
+                    <div class="panel-heading">
+                        <h2 class="panel-title">Ruotsi ({{rub_count}} kurssia)</h2>
+                    </div>
+
+                    {% include course-list.html db=course_db time="past" name="rub" period=big_number year=year_url %}
+
+                    {% if rub_count == 0 %}
+                        Ei kursseja tänä lukuvuonna.
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
