@@ -7,6 +7,27 @@ lsi: false
 highlighter: pygments
 url: http://riikka.koskenranta.fi
 baseurl:
+semester: 2014-2015
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      period: 1
+  -
+    scope:
+      path: "kurssit/2013-2014"
+    values:
+      semester: "2013-2014"
+      archived: true
+  -
+    scope:
+      path: "kurssit/2014-2015"
+    values:
+      semester: "2014-2015"
+      current: true
+      archived: false
 
 exclude:
   - README.md
