@@ -1,0 +1,96 @@
+# ----- RUB1.2 ----- #
+- course: rub1.2
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+  - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
+# ----- RUB3.2 ----- #
+- course: rub3.2
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+  - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
+# ----- RUB3.3 ----- #
+- course: rub3.3
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+  - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
+# ----- RUB3.4 ----- #
+- course: rub3.4
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+  - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
