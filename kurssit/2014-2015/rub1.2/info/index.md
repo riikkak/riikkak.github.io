@@ -9,7 +9,7 @@ course: rub1.2
 * Älä tule myöhässä - muista kuitenkin kohtelias kohdekielinen pahoittelu jos tulet.
 * Pipo ja takit viettävät koulupäivää omassa henkilökohtaisessa kaapissa.
 * Pidä kaikki työvälineet mukana (kirja, vihko, kynä, kumi). Jos jostain syystä olet unohtanut, informoi opettajaa.
-* Ole läsnä, myös henkisesti. Kännykkää ei käytetä tunnin aikana, paitsi sanakirjana.
+* Ole läsnä, myös henkisesti. Kännykkää ei käytetä tunnin aikana, paitsi pyydettäessä.
 * Sinulla on vastuu omasta oppimisestasi.
 * Säästä puhevoimiasi paritöihin.
 * Ota selvää itse mitä pitää tehdä, jos olit poissa.
