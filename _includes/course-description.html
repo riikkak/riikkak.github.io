@@ -2,7 +2,7 @@
     {% if course.name == page.course %}
     <div class="course">
         <h1>
-            <a href="/kurssit/{{ page.course }}">{{ page.course | upcase}}</a>
+            <a href="/kurssit/{{ page.semester }}/{{ page.course }}">{{ page.course | upcase}}</a>
             {% if course.desc %}
             <span class="desc">{{ "{" }}{{course.desc}}}</span>
             {% endif %}
