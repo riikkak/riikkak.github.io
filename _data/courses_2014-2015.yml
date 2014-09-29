@@ -23,18 +23,18 @@
   desc: "Suomi, Ahvenanmaa ja suomenruotsalaiset"
   period: 1
 
-- name: rub3.7
-  code: 7
+- name: rub3.6
+  code: 6
   desc: "Suomi, Ahvenanmaa ja suomenruotsalaiset"
   period: 2
 
 - name: rub4.2
-  code:
+  code: 8
   desc: "ihmissuhteet, kulttuurien välinen kohtaaminen ja uskonto"
   period: 2
 
 - name: rub4.3
-  code:
+  code: 2
   desc: "ihmissuhteet, kulttuurien välinen kohtaaminen ja uskonto"
   period: 2
 
