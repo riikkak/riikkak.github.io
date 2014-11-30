@@ -39,7 +39,7 @@ aikaiseksi.
 
 1 = Ei viittaa, tekee joitain tehtäviä joskus.
 
-0 = Ei elon merkkejä
+0 = Ei elonmerkkejä
 
 **Myöhästymiset ja läsnäolo**
 
