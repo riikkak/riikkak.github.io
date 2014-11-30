@@ -178,3 +178,91 @@
       - page: Kielioppi
       - page: Ääntäminen
         url: aantaminen
+# ----- RUB4.4 ----- #
+- course: rub4.4
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+  - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
+# ----- RUB4.5 ----- #
+- course: rub4.5
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+  - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
+# ----- RUB9.4 ----- #
+- course: rub9.4
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen
+# ----- RUB10.4 ----- #
+- course: rub10.4
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Vinkkipankki
+    subpages:
+      - page: Nettitehtävät
+        url: nettitehtavat
+      - page: Aine
+      - page: Kuuntelu
+      - page: Luettu
+      - page: Sanasto
+      - page: Kielioppi
+      - page: Ääntäminen
+        url: aantaminen

@@ -39,12 +39,12 @@
   period: 2
 
 - name: rub4.4
-  code:
+  code: 4
   desc: "ihmissuhteet, kulttuurien välinen kohtaaminen ja uskonto"
   period: 3
 
 - name: rub4.5
-  code:
+  code: 2
   desc: "ihmissuhteet, kulttuurien välinen kohtaaminen ja uskonto"
   period: 3
 
@@ -69,12 +69,12 @@
   period: 5
 
 - name: rub9.4
-  code:
+  code: 8
   desc: "abien kertauskurssi"
   period: 3
 
 - name: rub10.4
-  code:
+  code: 6
   desc: "kuuntelu ja kirjoittaminen abeille"
   period: 3
 
