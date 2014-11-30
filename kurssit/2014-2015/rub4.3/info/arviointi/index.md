@@ -5,7 +5,7 @@ theme: english
 course: rub4.3
 ---
 
-####RUB3-kurssin arviointiin vaikuttaa:
+####RUB4-kurssin arviointiin vaikuttaa:
 
 **Kurssikokeen arvosana**
 
