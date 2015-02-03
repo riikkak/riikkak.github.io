@@ -26,7 +26,7 @@ Kurssin aikana tapahtuvaa työskentelyä on:
 * tehtävien palauttaminen ajoissa
 * fyysinen ja henkinen läsnäolo
 
-Kurssiarvosana ei ole siis yhtäkuin kurssikokeesta saatu arvosana. Omalla aktiivisuudella voit vaikuttaa arvosanaasi 
+Kurssiarvosana ei ole siis yhtä kuin kurssikokeesta saatu arvosana. Omalla aktiivisuudella voit vaikuttaa arvosanaasi 
 huomattavasti.
 
 ###Sanakokeet:
