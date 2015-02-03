@@ -1,0 +1,66 @@
+- date: ke 4.2.
+  title: Aloitus, kurssin sisältö
+  grammar: lukusanat
+- date: pe 6.2.
+  title: På hotell och på bio
+  grammar: lukusanat pakettiin
+- date: ma 9.2.
+  title: Text 1 uutena
+  grammar: pronominit
+- date: ke 11.2.
+  title: Text 1 vanhana
+  grammar: pronominit
+- date: pe 13.2.
+  title: Wanhojen päivä
+  other: ei tuntia
+- date: ma 16.2.
+  title: Hus och hem
+  grammar: adjektiivit
+  other: Sanakoe 1
+- date: ke 18.12.
+  title: Text 2 uutena
+  grammar: adjektiivit
+- date: pe 20.2.
+  title: Text 2 vanhana
+  grammar: adjektiivin vertailu
+- date: ma 23.2.
+  title: Mat och dryck
+  grammar: adjektiivin vertailu
+  other: Kuuntelukoe 1
+- date: ke 25.2.
+  title: Kläder
+  other: Sanakoe 2
+- date: pe 27.2.
+  title: Vi får se...
+  grammar: Det som behövs.
+  other: Harjoitusaineen palautus
+- date: vko 10
+  title: Sportlov
+- date: ma 9.3.
+  title: Text 3 uutena
+  grammar: adverbit
+- date: ke 11.3.
+  title: Text 3 vanhana
+  grammar: adverbit
+- date: pe 13.3.
+  title: Kuuntelukoe 2
+  grammar: adverbit
+  other: Sanakoe 3
+- date: ma 16.3.
+  title: Text 4 uutena
+  grammar: sanajärjestys
+- date: ke 18.3.
+  title: Text 4 vanhana
+- date: pe 20.3.
+  title: Hälsa
+  grammar: sanajärjestys
+  other: Kuuntelukoe 3
+- date: ma 23.3.
+  title: Text 5
+  grammar: sanajärjestys
+  other: Sanakoe 4
+- date: ke 25.3.
+  title: Valmisteleva tunti
+- date: to 26.3.
+  title: Kurssikoe
+
