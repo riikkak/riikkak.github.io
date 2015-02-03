@@ -4375,6 +4375,12 @@ body > .content-wrapper {
   background-color: #99bbad;
   color: #ffffff;
 }
+.site-footer a {
+  color: #5b527f;
+}
+.site-footer a:hover {
+  color: #3a3451;
+}
 .site-footer .wrapper:before,
 .site-footer .wrapper:after {
   content: " ";
