@@ -8,6 +8,11 @@
   desc: "asuminen, ruoka, terveys ja työ"
   period: 5
 
+- name: rub2.8
+  code: 2
+  desc: "asuminen, ruoka, terveys ja työ"
+  period: 4
+
 - name: rub3.2
   code: 3
   desc: "Suomi, Ahvenanmaa ja suomenruotsalaiset"
@@ -49,8 +54,8 @@
   period: 3
 
 - name: rub4.7
-  code:
-  desc: "ihmissuhteet, kulttuurien välinen kohtaaminen ja uskonto"
+  code: 7
+  desc: "ihmissuhteet, ihmisoikeudet ja uskonto"
   period: 4
 
 - name: rub5.6
@@ -77,8 +82,3 @@
   code: 6
   desc: "kuuntelu ja kirjoittaminen abeille"
   period: 3
-
-- name: rub11.4
-  code:
-  desc: "kertauskurssi lukion alkuun"
-  period: 4
