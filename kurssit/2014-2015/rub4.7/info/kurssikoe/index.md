@@ -4,7 +4,6 @@ title: Kurssikoe
 theme: swedish
 course: rub4.7
 ---
-Kurssikoe pidetään koeviikolla, sille varattuna päivänä. 
 
 ###Valmisteleva tunti
 Koetta edeltävänä päivänä pidetään valmisteleva tunti, jolla kerrataan kurssin keskeiset asiat ennen koetta. 
@@ -13,14 +12,17 @@ viimeisellä tunnilla annetaan kertaustehtävät, jotka tulee olla tehtynä ja m
 
 ###Kurssikoe
 
-Kurssikoe koostuu viidestä osasta
+Kurssikoe pidetään koeviikolla, sille varattuna päivänä. Koe koostuu kuudesta osasta:
 
-1. Kuuntelu
-2. Luetunymmärtäminen
-3. Rakenne (=kielioppi)
-4. Reagointi
-5. Aine
+1. Sanat (ord)
+2. Kuullunymmärtäminen (hörförståelse)
+3. Luetunymmärtäminen (läsförståelse)
+4. Kielioppi (grammatik)
+5. Reagointi (reagering)
+6. Kirjoitelma (skriftlig framställning)
 
-Osat 1-4 ovat osa koeviikon koetta, aine kirjoitetaan kurssin aikana yhdellä oppitunnilla. 
+Kokeen osat 1, 2 ja 6 suoritetaan jo kurssin aikana. Sanakokeita on neljä (tekstit 1-5) ja kuullunymmärtämisen 
+koe on kahdessa osassa.
 
-Tarkempaa infoa kokeesta lähempänä koeviikkoa.
+Kokeen maksimi pistemäärä vaihtelee 280-300 välillä. Kokeen läpipääsyyn vaaditaan puolet pisteistä, tämä ei kuitenkaan 
+takaa vielä kurssin läpäisyä.

@@ -1,0 +1,67 @@
+- date: to 5.2.
+  title: Aloitus, kurssin sisältö
+  grammar: epäsäännöllisiä verbejä
+- date: pe 6.2.
+  title: Text 1 uutena
+  grammar: epäsäännöllisiä verbejä
+- date: ma 9.2.
+  title: Text 1 vanhana
+  grammar: epäsäännöllisiä verbejä
+- date: to 12.2.
+  title: Penkkarit
+  other: Ei tuntia
+- date: pe 13.2.
+  title: Wanhojen päivä
+  other: Ei tuntia
+- date: ma 16.2.
+  title: Text 2 uutena
+  grammar: apuverbit
+  other: Verbikoe
+- date: to 19.2.
+  title: Text 2 vanhana
+  grammar: apuverbit
+  other: Mini-kirjoitelman palautus
+- date: pe 20.2.
+  title: Del 2 - muut
+  grammar: apuverbit
+  other: Sanakoe 1
+- date: ma 23.3.
+  title: Text 3 uutena
+  grammar: infinitiivi
+- date: to 26.2.
+  title: Text 3 vanhana
+  grammar: infinitiivi
+- date: pe 27.2.
+  title: Del 3 - muut
+  other: Sanakoe 2 + Kuuntelukoe 1
+- date: vko 10
+  title: Sportlov
+  other: MUISTA LÄKSYT
+- date: ma 9.3.
+  title: Text 4 uutena
+  grammar: konditionaali
+- date: to 12.3.
+  title: Text 4 vanhana
+  grammar: konditionaali
+- date: pe 13.3.
+  title: Del 4 - muut
+  grammar: futuuri
+  other: Sanakoe 3 + Kuuntelu 2
+- date: ma 16.3.
+  title: Text 5 uutena
+  grammar: futuuri
+- date: to 19.3.
+  title: Text 5 vanhana
+  grammar: imperatiivi
+- date: pe 20.3.
+  title: Text 6 - TV
+  grammar: sanajärjestys
+  other: Sanakoe 4
+- date: ma 23.3.
+  title: KOEAINE
+  grammar: sanajärjestys
+- date: ti 31.3.
+  title: Valmisteleva tunti
+  other: Sanavihko
+- date: ke 1.4.
+  title: KURSSIKOE

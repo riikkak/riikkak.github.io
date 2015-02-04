@@ -15,3 +15,18 @@ course: rub2.8
 * Ota selvää itse mitä pitää tehdä, jos olit poissa.
 * Anna toisille työrauha.
 * Panosta tunnilla - vähemmän työtä kotona ja koeviikolla.
+
+####Fraaseja tunnille
+
+* Förlåt att jag kommer för sent. /Ursäkta att jag är för sen.
+* Tack!
+* Hejdå!
+* God morgon!
+* God dag!
+* Tjena!
+* Får jag jobba med paret?
+* Tyvärr måste jag gå lite tidigare i dag. Vad kan jag göra hemma?
+* Ursäkta, jag skulle behöva lite hjälp.
+* Ursäkta, kan jag gå på toan?
+* Kan vi få hemläxan?
+* Kan vi sluta lite tidigare i dag?
