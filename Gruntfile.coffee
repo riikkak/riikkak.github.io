@@ -22,9 +22,9 @@ module.exports = (grunt) ->
         tasks: ['watch', 'exec:serve']
     exec:
       build:
-        cmd: 'jekyll build'
+        cmd: 'bundle exec jekyll build'
       serve:
-        cmd: 'jekyll serve --watch'
+        cmd: 'bundle exec jekyll serve --watch'
     less:
       blogTheme:
         options:
