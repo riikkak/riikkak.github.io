@@ -4,7 +4,7 @@
   period: 1
 
 - name: rub2.6
-  code:
+  code: 3
   desc: "asuminen, ruoka, terveys ja työ"
   period: 5
 
@@ -59,17 +59,17 @@
   period: 4
 
 - name: rub5.6
-  code:
+  code: 6
   desc: "jatko-opinnot, työelämä, ympäristö, media ja liikenne"
   period: 5
 
 - name: rub5.7
-  code:
+  code: 7
   desc: "jatko-opinnot, työelämä, ympäristö, media ja liikenne"
   period: 5
 
 - name: rub6.4
-  code:
+  code: 8
   desc: "suullinen kielitaito ja sanasto arkipäivän tilanteissa"
   period: 5
 
