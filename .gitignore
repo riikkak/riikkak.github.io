@@ -9,3 +9,4 @@ _site/
 # Built-time dependencies/files
 node_modules
 libpeerconnection.log
+Gemfile.lock
