@@ -1,80 +1,64 @@
 - date: ti 7.4.
-  title:
-  grammar:
-  other:
+  title: Aloitus
+  grammar: substantiivien määräysmuodot
 - date: ke 8.4.
-  title:
-  grammar:
-  other:
+  title: Text 1 - uutena
+  grammar: substantiivien määräysmuodot
 - date: pe 10.4.
-  title:
-  grammar:
-  other:
+  title: Text 1 - vanhana
+  grammar: man-rakenne
 - date: ti 14.4.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia - studier
+  grammar: man-rakenne
 - date: ke 15.4.
-  title:
-  grammar:
-  other:
+  title: Text 2 - uutena
+  grammar: s-passiivi
 - date: pe 17.4.
-  title:
-  grammar:
-  other:
+  title: Text 2 - vanhana
+  grammar: s-passiivi
 - date: ti 21.4.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia - arbetsliv
+  grammar: s-passiivi
+  other: sana- ja kuuntelukoe 1
 - date: ke 22.4.
-  title:
-  grammar:
-  other:
+  title: Media och konsumtion
+  other: text 3 tehtävät valmiina
 - date: pe 24.4.
-  title:
-  grammar:
-  other:
+  title: Media och konsumtion
+  grammar: partisiipin preesens
 - date: ti 28.4.
-  title:
-  grammar:
-  other:
+  title: Text 5 - uutena
+  grammar: partisiipin preesens
 - date: ke 29.4.
-  title:
-  grammar:
-  other:
+  title: Text 5 - vanhana
+  grammar: partisiipin preesens
+  other: Kotiaineen palautus
 - date: pe 1.5.
-  title:
-  grammar:
-  other:
+  title: VAPPU
+  grammar: ei koulua
 - date: ti 5.5.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  other: sana- ja kuuntelukoe 2
+  grammar: partisiipin perfekti
 - date: ke 6.5.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: partisiipin perfekti
 - date: pe 8.5.
-  title:
-  grammar:
-  other:
+  title: Text 6 - uutena
+  grammar: partisiipin perfekti
 - date: ti 12.5.
-  title:
-  grammar:
-  other:
+  title: Text 6 - vanhana
+  grammar: partisiipin perfekti
 - date: ke 13.5.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: partisiipin perfekti
+  other: sana- ja kuuntelukoe 3
 - date: pe 15.5.
-  title:
-  grammar:
-  other:
+  title: Taksvärkki
+  grammar: ei kontaktiopetusta
 - date: ti 19.5.
-  title:
-  grammar:
-  other:
+  title: Valmistava tunti
+  grammar: kertaustehtävät
 - date: ke 20.5.
-  title:
-  grammar:
-  other:
+  title: KURSSIKOE
+  other: palauta työvihko

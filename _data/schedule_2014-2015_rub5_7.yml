@@ -1,80 +1,64 @@
 - date: to 9.4.
-  title:
-  grammar:
-  other:
+  title: Aloitus
+  grammar: substantiivien määräysmuodot
 - date: pe 10.4.
-  title:
-  grammar:
-  other:
+  title: Text 1 - uutena
+  grammar: substantiivien määräysmuodot
 - date: ma 13.4.
-  title:
-  grammar:
-  other:
+  title: Text 1 - vanhana
+  grammar: man-rakenne
 - date: to 16.4.
-  title:
-  grammar:
-  other:
+  title: Text 2- uutena
+  grammar: man-rakenne
 - date: pe 17.4.
-  title:
-  grammar:
-  other:
+  title: Text 2 - vanhana
+  grammar: s-passiivi
 - date: ma 20.4.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: s-passiivi
+  other: sana- ja kuuntelukoe 1
 - date: to 23.4.
-  title:
-  grammar:
-  other:
+  title: Media och konsumption
+  grammar: s-passiivi
 - date: pe 24.4.
-  title:
-  grammar:
-  other:
+  title: Media och konsumption
+  grammar: partisiipin preesens
 - date: ma 27.4.
-  title:
-  grammar:
-  other:
+  title: Text 5 - uutena
+  grammar: partisiipin preesens
 - date: to 30.4.
-  title:
-  grammar:
-  other:
+  title: Text 5 - vanhana
+  grammar: partisiipin preesens
 - date: pe 1.5.
-  title:
-  grammar:
-  other:
+  title: VAPPU
+  grammar: ei koulua
 - date: ma 4.5.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: partisiipin perfekti
+  other: sana- ja kuuntelukoe 2
 - date: to 7.5.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: partisiipin perfekti
 - date: pe 8.5.
-  title:
-  grammar:
-  other:
+  title: Text 6 -uutena
+  grammar: partisiipin perfekti
 - date: ma 11.5.
-  title:
-  grammar:
-  other:
+  title: Text 6 - vanhana
+  grammar: partisiipin perfekti
 - date: to 14.5.
-  title:
-  grammar:
-  other:
+  title: HELATORSTAI
+  grammar: ei koulua
 - date: pe 15.5.
-  title:
-  grammar:
-  other:
+  title: Taksvärkki
+  grammar: ei kontaktiopetusta
 - date: ma 18.5.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: partisiipin perfekti
+  other: sana- ja kuuntelukoe 3
 - date: ti 26.5.
-  title:
-  grammar:
-  other:
+  title: Valmisteleva tunti
+  grammar: kertausta
+  other: kertaustehtävät
 - date: ke 27.5.
-  title:
-  grammar:
-  other:
+  title: KURSSIKOE
+  other: palauta työvihko
