@@ -1,84 +1,71 @@
 - date: ti 7.4.
-  title:
-  grammar:
-  other:
+  title: Aloitus
+  grammar: lukusanat
 - date: to 9.4.
-  title:
-  grammar:
-  other:
+  title: Text 1
+  grammar: lukusanat
+  other: itsenäisesti työskennellen
 - date: ma 13.4.
-  title:
-  grammar:
-  other:
+  title: Text 1 - vanhana
+  grammar: lukusanat
 - date: ti 14.4.
-  title:
-  grammar:
-  other:
+  title: På hotell, på bio
+  grammar: pronominit
 - date: to 16.4.
-  title:
-  grammar:
-  other:
+  title: Hus och hem
+  grammar: pronominit
+  other: sanakoe 1
 - date: ma 20.4.
-  title:
-  grammar:
-  other:
+  title: Text 2 - uutena
+  grammar: adjektiivit
 - date: ti 21.4.
-  title:
-  grammar:
-  other:
+  title: Text 2 - vanhana
+  grammar: adjektiivit
 - date: to 23.4.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: adjektiivien vertailu
+  other: sanakoe 2 + kuuntelukoe 1
 - date: ma 27.4.
-  title:
-  grammar:
-  other:
+  title: Mat och dryck
+  grammar: adjektiivien vertailu
 - date: ti 28.4.
-  title:
-  grammar:
-  other:
+  title: Kläder
+  grammar: adjektiivien vertailu
 - date: to 30.4.
-  title:
-  grammar:
-  other:
+  title: Vi får se...
+  grammar: Det som behövs
+  other: Kotiaineen palautus
 - date: ma 4.5.
-  title:
-  grammar:
-  other:
+  title: Text 3 - uutena
+  grammar: adverbit
+  other: Text 3 - vanhana
 - date: ti 5.5.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: adverbit
+  other: sanakoe 3 + kuuntelukoe 2
 - date: to 7.5.
-  title:
-  grammar:
-  other:
+  title: Hälsa
+  grammar: sanajärjestys
 - date: ma 11.5.
-  title:
-  grammar:
-  other:
+  title: Text 4 - uutena
+  grammar: sanajärjestys
 - date: ti 12.5.
-  title:
-  grammar:
-  other:
+  title: Text 4 - vanhana
+  grammar: sanajärjestys
 - date: to 14.5.
-  title:
-  grammar:
-  other:
+  title: HELATORSTAI
+  grammar: ei koulua
 - date: ma 18.5.
-  title:
-  grammar:
-  other:
+  title: Harjoituksia
+  grammar: sanajärjestys
+  other: Sanakoe 4
 - date: ti 19.5.
-  title:
-  grammar:
-  other:
+  title: Text 5 purku
+  other: Kuuntelukoe 3
 - date: to 21.5.
-  title:
-  grammar:
-  other:
+  title: Valmisteleva tunti
+  grammar: kertausta
+  other: kertaustehtävät tehtyinä
 - date: pe 22.5.
-  title:
-  grammar:
-  other:
+  title: KURSSIKOE
+  other: työvihkon palautus
