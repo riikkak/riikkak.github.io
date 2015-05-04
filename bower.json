@@ -10,8 +10,8 @@
     "dependencies": {
         "jquery": "~1.11",
         "bootstrap": "3.0.0-rc1",
-        "html5shiv-dist": "~3.6.2",
-        "respond": "~1.4.0"
+        "html5shiv": "~3.7.2",
+        "respond": "~1.4.2"
     },
     "exportsOverride": {
         "jquery": {
@@ -21,8 +21,8 @@
             "js": "dist/js/*min*.js",
             "../less/bootstrap": "less/*.less"
         },
-        "html5shiv-dist": {
-            "js": "html5shiv-printshiv.js"
+        "html5shiv": {
+            "js": "dist/html5shiv-printshiv.min.js"
         },
         "respond": {
             "js": "dest/respond.min.js"
