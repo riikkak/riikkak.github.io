@@ -1,0 +1,89 @@
+- name: rub1.1
+  code: 5
+  desc: "vapaa-aika, perhe, koulu ja harrastukset"
+  period: 1
+
+- name: rub1.3
+  code: 2
+  desc: "vapaa-aika, perhe, koulu ja harrastukset"
+  period: 1
+
+- name: rub2.2
+  code: 5
+  desc: "asuminen, ruoka, terveys ja työ"
+  period: 3
+
+- name: rub2.4
+  code: 3
+  desc: "asuminen, ruoka, terveys ja työ"
+  period: 4
+
+- name: rub2.5
+  code: 4
+  desc: "asuminen, ruoka, terveys ja työ"
+  period: 4
+
+- name: rub3.3
+  code: 4
+  desc: "Suomi, Ahvenanmaa ja suomenruotsalaiset"
+  period: 1
+
+- name: rub3.6
+  code: 6
+  desc: "Suomi, Ahvenanmaa ja suomenruotsalaiset"
+  period: 2
+
+- name: rub3.8
+  code: 8
+  desc: "Suomi, Ahvenanmaa ja suomenruotsalaiset"
+  period: 2
+
+- name: rub4.5
+  code: 2
+  desc: "ihmissuhteet, kulttuurien välinen kohtaaminen ja uskonto"
+  period: 3
+
+- name: rub5.1
+  code: 2
+  desc: "jatko-opinnot, työelämä, ympäristö, media ja liikenne"
+  period: 2
+
+- name: rub5.7
+  code: 7
+  desc: "jatko-opinnot, työelämä, ympäristö, media ja liikenne"
+  period: 5
+
+- name: rub6.5
+  code: 8
+  desc: "suullinen kielitaito ja sanasto arkipäivän tilanteissa"
+  period: 5
+
+- name: rub7.1
+  code: 8
+  desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
+  period: 1
+
+- name: rub7.2
+  code: 5
+  desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
+  period: 2
+
+- name: rub7.5
+  code: 6
+  desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
+  period: 5
+
+- name: rub10.4
+  code: 6
+  desc: "kuuntelu ja kirjoittaminen abeille"
+  period: 3
+
+- name: rub11.2
+  code: 4
+  desc: "kertauskurssi lukion alkuun"
+  period: 2
+
+- name: rub11.3
+  code: 8
+  desc: "kertauskurssi lukion alkuun"
+  period: 3

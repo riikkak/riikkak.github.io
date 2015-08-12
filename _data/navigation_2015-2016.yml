@@ -1,0 +1,68 @@
+# ----- RUB1.1 ----- #
+- course: rub1.1
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB1.3 ----- #
+- course: rub1.3
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB3.3 ----- #
+- course: rub3.3
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB7.1 ----- #
+- course: rub7.1
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
