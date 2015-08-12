@@ -1,0 +1,38 @@
+{% assign big_number=1000 %}
+{% assign ena_count = 0 %}
+{% assign rub_count = 0 %}
+{% for course in include.course_db %}
+    {% if course.name contains "ena" %}
+        {% assign ena_count = ena_count | plus:1 %}
+    {% endif %}
+    {% if course.name contains "rub" %}
+        {% assign rub_count = rub_count | plus:1 %}
+    {% endif %}
+{% endfor %}
+
+<div class="language-wrapper">
+    <div class="language">
+        <div class="panel-heading">
+            <h2 class="panel-title">Englanti ({{ena_count}} kurssia)</h2>
+        </div>
+
+        {% include course-list.html db=include.course_db time="past" name="ena" period=big_number year=include.year_url %}
+
+        {% if ena_count == 0 %}
+        Ei kursseja tänä lukuvuonna.
+        {% endif %}
+    </div>
+</div>
+<div class="language-wrapper">
+    <div class="language">
+        <div class="panel-heading">
+            <h2 class="panel-title">Ruotsi ({{rub_count}} kurssia)</h2>
+        </div>
+
+        {% include course-list.html db=include.course_db time="past" name="rub" period=big_number year=include.year_url %}
+
+        {% if rub_count == 0 %}
+        Ei kursseja tänä lukuvuonna.
+        {% endif %}
+    </div>
+</div>
