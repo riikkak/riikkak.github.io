@@ -10,3 +10,4 @@ course: rub7.1
 4. Älä käytä kännykkää
 5. Pidä työvälineet mukana
 6. Tee läksyt
+7. Suorita itsenäiset tehtävät määräaikaan mennessä

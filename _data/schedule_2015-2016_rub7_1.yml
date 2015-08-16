@@ -1,37 +1,44 @@
 - date: pe 14.8
-  title: Aloitus, Text 1
+  title: Aloitus
+  grammar: Substantiivit
+  other: Sanajärjestys its.
 - date: ma 17.8
+  title: Text 1 uutena
+  grammar: subst. attr.
+  other: Kotiaineen ohjeistus
+- date: ke 19.8
   title: Text 1 vanhana
   grammar: subst. attr.
-- date: ke 19.8
-  title: Sanastoa
-  grammar: subst. attr.
 - date: pe 21.8
-  title: Koepäivä + harjoituksia
-  grammar: subst. attr.
-  other: Sana- ja kuuntelukoe 1
+  title: Koepäivä + sanastoa
+  grammar: omistus
+  other: Sana- ja kuuntelukoe 1, KOTIAINE
 - date: ma 24.8
   title: Text 2 uutena
+  grammar: omistus
 - date: ke 26.8
   title: Brott och straff
+  grammar: omistus
 - date: pe 28.8
   title:  Text 2 jatkuu
+  grammar: var-verbit
 - date: ma 31.8
-  title: Koepäivä + harjoituksia
+  title: Koepäivä + Politik
   other: Sana- ja kuuntelukoe 2
+  grammar: var-verbit
 - date: ke 2.9
-  title: Text
+  title: Politik
 - date: pe 4.9
-  title: Text
+  title: Hälsa
 - date: ma 7.9
-  title: Sanastoa
+  title: Harjoituksia
   other: YO KUUNTELUKOE
 - date: ke 9.9
-  title:
+  title: Text 4
 - date: pe 11.9
-  title:
+  title: Text 4
 - date: ma 14.9
-  title:
+  title: Harjoituksia
   other: Sanakoe 3
 - date: ke 16.9
   title: Viimeinen voitelu
@@ -39,5 +46,3 @@
   other: työt palautettava
 - date: pe 18.9
   title: YO KOE
-
-
