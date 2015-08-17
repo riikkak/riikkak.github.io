@@ -22,9 +22,9 @@ module.exports = (grunt) ->
         tasks: ['watch', 'exec:serve']
     exec:
       build:
-        cmd: 'bundle exec jekyll build'
+        cmd: 'export LC_CTYPE="C_BINARY" && bundle exec jekyll build'
       serve:
-        cmd: 'bundle exec jekyll serve --watch'
+        cmd: 'export LC_CTYPE="C_BINARY" && bundle exec jekyll serve --watch'
     less:
       blogTheme:
         options:
@@ -98,4 +98,3 @@ module.exports = (grunt) ->
   grunt.registerTask('dist-css', ['copy', 'less', 'minify-css', 'clean'])
   grunt.registerTask('default', ['dist-css', 'exec:build'])
   grunt.registerTask('serve', ['concurrent'])
-
