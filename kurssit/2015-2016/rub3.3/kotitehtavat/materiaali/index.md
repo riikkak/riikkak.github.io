@@ -4,3 +4,5 @@ title: Materiaali
 theme: swedish
 course: rub3.3
 ---
+
+- [Text 1 alleviivaukset](/media/rub3.3/text1_alleviivaukset.pdf)
