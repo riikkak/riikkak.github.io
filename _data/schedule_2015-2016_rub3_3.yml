@@ -18,15 +18,13 @@
   grammar: jatkuu
 - date: to 27.8.
   title: Text 2 vanhana
-  grammar: sama
-  other: Kotiaineen ohjeet
 - date: ma 31.9.
   title: Suomen luonto, Lappi
-  grammar: jatkuu
+  grammar: sama, sellainen, samanlainen
   other: Sana- ja kuuntelukoe 2
 - date: ti 1.9.
   title: Harjoituksia
-  grammar: sellainen, samanlainen
+  grammar: jatkuu
 - date: to 3.9.
   title: Ruoka, juoma
   grammar: paljoussanat s. 143
@@ -62,6 +60,3 @@
   grammar: KERTAUSTA
 - date: to 1.10
   title: KURSSIKOE
-
-
-

@@ -12,42 +12,41 @@
   grammar: subst. harjoituksia
 - date: ti 25.8.
   title: Text 2 vanhana
-  grammar: substantiivit - määr. vai epäm.
 - date: ke 26.8.
   title: Del 2 harjoituksia
-  grammar: adjektiivien taivutus
   other: Sana- ja kuuntelukoe 1
 - date: pe 28.8.
-  title: Text 3 uutena
-  grammar: adj. harjoituksia
-- date: ti 1.9.8.
-  title: Text 3 vanhana
-  grammar: adj.harjoituksia
+  title: Sukulaissanat
+  grammar: substantiivit - määr. vai epäm.
+- date: ti 1.9.
+  title: Koulusanastoa
+  grammar: adjektiivin taivutus
 - date: ke 2.9.
-  title: Harjoituksia
+  title: Teksti 3 uutena
+  grammar: adjektiivit jatkuu
   other: RO 30 min.
 - date: pe 4.9.
-  title: Del 3 harjoituksia
+  title: Teksti 3 vanhana
   grammar: adj. + subst. harjoituksia
-  other: Sana- ja kuuntelukoe 2
 - date: ti 8.9.
-  title: Text 4 uutena
+  title: Harjoituksia
   grammar: verbien taivutus
+  other: Sana- ja kuuntelukoe 2
 - date: ke 9.9.
-  title: Urheilu
+  title: Teksti 4
   grammar: verbiharjoituksia
 - date: pe 11.9.
   title: Urheilu
-  grammar: sanajärjestys
+  grammar: verbiharjoituksia
 - date: ti 15.9.
-  title: Text 5 uutena
+  title: Urheilu
   grammar: sanajärjestys
   other: OK:n kokous 30 min.
 - date: ke 16.9.
-  title: Luetunymmärtäminen
+  title: Teksti 5 uutena
   grammar: sanajärjestys
 - date: pe 18.9.
-  title: Musiikki
+  title: Musiikki luetunymmärtäminen
   grammar: sanajärjestys
 - date: ti 22.9.
   title: Harjoituksia
