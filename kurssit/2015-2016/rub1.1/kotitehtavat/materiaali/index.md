@@ -6,3 +6,4 @@ course: rub1.1
 ---
 
 - [Text 1 & 2 alleviivaukset](/media/rub1/text1_2_alleviivaukset.pdf)
+- [Text 3 alleviivaukset](/media/rub1/text3_alleviivaukset.pdf)
