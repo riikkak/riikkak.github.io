@@ -4,7 +4,10 @@ title: Kurssikoe
 theme: swedish
 course: rub1.3
 ---
-#Osat ja pisteytys
+
+[Koealue](/media/rub1/koealue.pdf)
+
+##Osat ja pisteytys
 Kurssikoe koostuu kuudesta osasta, joista osa suoritetaan jo kurssin aikana,
 osa koeviikon kokeessa.
 
