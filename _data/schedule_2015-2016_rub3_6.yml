@@ -1,62 +1,60 @@
-- date: to 13.8.
-  title: Aloitus
-  grammar: ajanilmaukset
-- date: ma 17.8.
-  title: Text 1 uutena
-- date: ti 18.8.
+- date: ma 5.10.
+  title: Aloitus, Text 1 uutena
+- date: to 8.10.
   title: Text 1 vanhana
-  grammar: Kysyvät pronominit
-- date: to 20.8.
-  title: Harjoituksia
-  grammar: jatkuu
-- date: ma 24.8.
-  title: Del 2 harjoituksia
+  grammar: ajanilmaukset
+- date: pe 9.10.
+  title: Del 1 harjoituksia
+  grammar: Interrogatiivipronominit
+- date: ma 12.10.
+  title: Sää, tienneuvominen
   grammar: tämä, nämä, se, ne
+- date: to 15.10.
+  title: Harjoituksia
+  grammar: jatkuu
   other: Sana- ja kuuntelukoe 1
-- date: ti 25.8.
+- date: pe 16.10.
+  title: Toivotukset, ruoka
+  grammar: sama
+  other: Kotiaineen ohjeet
+- date: ma 26.10.
   title: Text 2 uutena
-  grammar: jatkuu
-- date: to 27.8.
+  grammar: sellainen, samanlainen
+- date: to 29.10.
   title: Text 2 vanhana
-- date: ma 31.9.
-  title: Suomen luonto, Lappi
-  grammar: sama, sellainen, samanlainen
-  other: Sana- ja kuuntelukoe 2
-- date: ti 1.9.
+  grammar: pronominit jatkuu
+- date: pe 30.10.
   title: Harjoituksia
-  grammar: jatkuu
-- date: to 3.9.
-  title: Ruoka, juoma
-  grammar: paljoussanat s. 143
   other: Kotiaineen palautus
-- date: ma 7.9.
-  title: Sauna
-  grammar: joku, ei kukaan s. 139-140
-  other: Itsenäisesti
-- date: ti 8.9.
-  title: Sauna
+- date: ma 2.11.
+  title: Luontoa
+  grammar: jokin, ei mikään
+  other: Sanakoe- ja kuuntelukoe 2
+- date: to 5.11.
+  title: Luontoa
   grammar: jatkuu
-- date: to 10.9.
+- date: pe 6.11.
+  title: Sauna
+  grammar: toiset, muut
+- date: ma 9.11.
   title: Armeija
-  grammar: toiset, muut s. 141
-- date: ma 14.9.
-  title: Text 5 uutena
   grammar: kaikki s. 145
-- date: ti 15.9.
-  title: Text 5 vanhana
+- date: to 12.11.
+  title: Text 5 uutena
   grammar: jokainen, jokaikinen s. 147-149
-- date: to 17.9.
-  title: Harjoituksia
-  grammar: jatkuu
-- date: ma 21.9.
+- date: pe 13.11.
+  title: Text 5 vanhana
+  grammar: paljoussanat
+- date: ma 16.11.
   title: Harjoituksia
   grammar: koko, molemmat, itse s. 150-152
   other: Sana- ja kuuntelukoe 3
-- date: ti 22.9.
-  title: KOEAINE
-  grammar: harjoituksia
-- date: ke 30.9.
+- date: to 19.11.
+  title: Harjoituksia
+  grammar: Erisnimen suku
+- date: ke 25.11.
   title: VALMISTELEVA TUNTI
   grammar: KERTAUSTA
-- date: to 1.10
+- date: to 26.11
   title: KURSSIKOE
+  other: Palauta työvihko!

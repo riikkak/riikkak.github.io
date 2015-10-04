@@ -67,3 +67,11 @@ kurssiarvosanaan laskevasti.
 
 #Kurssikoe
 Kurssikoe koostuu kuudesta osasta, tarkempi erittely kurssikoe-sivulla.
+
+#Arvosana 4
+Nelonenkin on ansaittava ja edellyttää jo jonkin verran osaamista. Mikäli kaikki
+osasuoritukset (sanakokeet ja kuuntelukokeet, pistarit) jäävät alle 4 ja lisäksi
+kurssikoekin on numerona alle 4-, ei kurssista voi antaa arvosanaa vaan kurssi
+katsotaan keskeytyneeksi. Kurssiarvosanan saamiseksi ei riitä, että tulee paikalle
+ja istuu, vaan opetukseen on osallistuttava, tehtäviä tehtävä ja työvihko
+palautettava täytettynä.
