@@ -25,6 +25,7 @@
   grammar: pronominit jatkuu
 - date: pe 30.10.
   title: Harjoituksia
+  grammar: demonstratiivipronominit
   other: Kotiaineen palautus
 - date: ma 2.11.
   title: Luontoa
@@ -34,7 +35,7 @@
   title: Luontoa
   grammar: jatkuu
 - date: pe 6.11.
-  title: Sauna
+  title: Sauna + itsenäinen teksti
   grammar: toiset, muut
 - date: ma 9.11.
   title: Armeija

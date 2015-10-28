@@ -9,7 +9,9 @@ Kurssikoe koostuu kolmesta osasta:
 
 1. Sanakokeet
 2. Kuuntelukokeet
-3. Kurssikoe/yo-koe
+3. Kurssikoe
 
-Kontaktiopetus loppuu ruotsin kirjalliseen yo:hon. Koeviikon kurssikoe korvataan
-kotona itsenäisesti tehtävällä harjoitus YO-kokeella.
+Kurssikokeessa on Luetunymmärtäminen (LF), Kielioppi (G), Käännöslauseet (R) ja
+koeaine. Kieliopissa testataan substantiivinattribuutti, omistuksen ilmaiseminen,
+var-verbit uusista asioista ja vanhoista kerrataan taipumattomat adjektiivit,
+adverbit ja lauseenvastikkeet (kaikki työvihkossa).
