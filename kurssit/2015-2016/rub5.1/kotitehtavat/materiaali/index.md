@@ -9,3 +9,4 @@ course: rub5.1
 - [Text 1 ja 2 alleviivaukset](/media/rub5/text1_ja_2_alleviivaukset_vastaukset.pdf)
 - [Text 5 alleviivaukset](/media/rub5/text_5_alleviivaukset_vastaukset.pdf)
 - [Text 6 alleviivaukset](/media/rub5/text_6_alleviivaukset_vastaukset.pdf)
+- Text 5 suulliset harjoitukset [A](/media/rub5/suulliset_harjoitukset_a.jpg), [B](/media/rub5/suulliset_harjoitukset_b.jpg) ja [tarkastus](/media/rub5/suulliset_harjoitukset_tarkastus.jpg)
