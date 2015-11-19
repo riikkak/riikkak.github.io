@@ -5,7 +5,7 @@ theme: swedish
 course: rub3.6
 ---
 
-[Koealue](/media/rub3.6/koealue.pdf)
+[Koealue](/media/rub3/koealue.pdf)
 
 #Osat ja pisteytys
 Kurssikoe koostuu kuudesta osasta, joista osa suoritetaan jo kurssin aikana,
