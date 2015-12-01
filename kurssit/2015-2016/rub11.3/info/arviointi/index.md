@@ -17,3 +17,6 @@ ryhmän taitojen ja toiveiden mukaisesti.
 Kurssin aikana on muutamia pieniä testejä,lähinnä siksi että opiskelija saisi
 kuvan omasta etenemisestään. Testeissä testataan peruskielioppia, ei niinkään
 sanastoa.
+
+Kirjoitamme pitkin kurssia pieniä kirjoitusharjoituksia, jotka opiskelija korjaa
+opettajan merkintöjen mukaisesti.
