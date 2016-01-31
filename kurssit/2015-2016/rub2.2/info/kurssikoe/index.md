@@ -1,11 +1,32 @@
 ---
-layout: content-main
+layout: "content-main"
 title: Kurssikoe
 theme: swedish
 course: rub2.2
+published: true
 ---
 
-#Osat ja pisteytys
+
+#Koealue
+
+Kokeeseen luetaan kaikki kurssin aikana käsitellyt asiat.
+
+##Tekstit ja sanasto
+- Käsitellyt tekstit 1-5
+- Kaikki aihepiirisanastot: puhelin, koti ja asuminen, ruoka, vaatteet, terveys
+- Kertaa kirjan keskustelu- ja huudahdusfraasit (esim. på bio ja på hotell + muut)
+
+##Kielioppi
+- Lukusanat
+- Kaikki pronominit
+- Adjektiivit ja niiden vertailu
+- Adverbit ja vertailu
+- Sanajärjestys: suora ja käänteinen, sivulause, relatiivilause ja epäsuorakysymyslause
+Kurssiaikataulussa tarkemmat sivunumerot kielioppiasioille.
+
+Lue huolella työvihko ja huolehdi että se on täytetty ihan kokonaan (ihan kaikki tehtävät vaikka olisit ollut pois). Palautus kokeeseen tultaessa.
+
+##Osat ja pisteytys
 Kurssikoe koostuu kuudesta osasta, joista osa suoritetaan jo kurssin aikana,
 osa koeviikon kokeessa.
 
