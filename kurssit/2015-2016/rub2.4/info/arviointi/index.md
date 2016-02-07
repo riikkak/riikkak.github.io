@@ -1,9 +1,11 @@
 ---
-layout: content-main
+layout: "content-main"
 title: Arviointi
 theme: swedish
 course: rub2.4
+published: true
 ---
+
 
 Kurssin arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden
 aikana tapahtuvan työskentelyn eri osa-alueisiin. Alla tarkempi erittely.
@@ -16,10 +18,8 @@ tunti. Myös aktiivinen ja vuorovaikutuksellinen osallistuminen paritehtäviin o
 osa tuntiaktiivisuutta. Tuntiaktiivisuus voi vaikuttaa kurssiarvosanaan niin
 nousevasti kuin laskevastikin.
 
-
-
 #Sanakokeet
-Sanakokeita on kurssin aikana 3-4. Sanakokeet perustuvat niihin teksteihin,
+Sanakokeita on kurssin aikana 3. Sanakokeet perustuvat niihin teksteihin,
 jotka opiskellaan yhdessä tarkemmin. Sanakokeiden arviointi on kouluarvosana
 4-10. Numero voi myös jäädä alle 4, mikä on este kurssin läpipääsemiselle.
 
@@ -30,7 +30,7 @@ Lukemalla hyvin sanakokeisiin, voit siis jo huomattavasti vaikuttaa koearvosanaa
 
 #Läksyt
 Läksyjen tekeminen on oleellinen osa kurssisuoritusta ja niiden tekoa
-kontrolloidaan säännöllisesti. Läksyjen tekemättä jättäminen vaikuttaa
+kontrolloidaan säännöllisesti (läksylista). Läksyjen tekemättä jättäminen vaikuttaa
 kurssiarvosanaan laskevasti. Läksyjen huolellisella tekemisellä todistat
 aktiivisuutesi, mikäli viittaaminen on sinulle epämieluista.
 
@@ -45,17 +45,16 @@ kurssilla ja tulee siksi olla mukana jokaisella tunnilla. Kurssin lopuksi työvi
 palautetaan opettajalle ja se millä huolellisuusasteella se on täytetty, vaikuttaa
 arvosanaasi. Arviointiasteikko työvihkolle vaihtelee kursseittain
 (esim. 1-5, ok/ok+(++)/ok-), työvihkon palautus on edellytys arvosanan saamiseksi.
-Mitä enemmän työn jälkeä vihkossa näkyy, sen parempi.
+Mitä enemmän työn jälkeä (muistiinpanot, korjaaminen eri värisellä kynällä) vihkossa näkyy, sen parempi.
 
 # Kuuntelukokeet
 Kuuntelukokeet suoritetaan 2-3 erässä kurssin aikana. Koeviikolla ei siis enää
 ole suurempaa kuuntelukoetta. Kuuntelukokeen aiheet noudattavat edellistä
 käsiteltyä teemaa. Voit valmistautua niihin kertaamalla teemasanastoja, merkitty
-kirjaan otsikolla Ord. Kuuntelukokeiden osuus kurssikokeen pisteistä on yleensä 60.
+kirjaan otsikolla Ord, sekä vastaavaa teemasanastoa työvihkosta. Kuuntelukokeiden osuus kurssikokeen pisteistä on yleensä 60.
 
 Kurssin aikana kuuntelukokeisiin harjoitellaan tekstien kuuntelulla,
-ääntämisharjoituksilla ja parikeskusteluilla. Suurempia harjoituskuunteluita
-tehdään aikataulusta riippuen.
+ääntämisharjoituksilla ja parikeskusteluilla, sekä autenttisten videoiden avulla. Suurempia harjoituskuunteluita tehdään aikataulusta riippuen.
 
 #Tuntikäyttäytyminen
 Tunneille tullaan ajoissa, mukana kirja, työvihko ja kirjoitusvälineet. Jatkuva
