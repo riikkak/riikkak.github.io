@@ -49,6 +49,40 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
+# ----- RUB2.4 ----- #
+- course: rub2.4
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB2.5 ----- #
+- course: rub2.5
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
 # ----- RUB3.3 ----- #
 - course: rub3.3
   pages:
