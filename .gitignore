@@ -10,3 +10,4 @@ _site/
 node_modules
 libpeerconnection.log
 Gemfile.lock
+.jekyll-metadata
