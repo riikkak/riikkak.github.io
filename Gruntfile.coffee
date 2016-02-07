@@ -24,7 +24,7 @@ module.exports = (grunt) ->
       build:
         cmd: 'export LC_CTYPE="C_BINARY" && bundle exec jekyll build'
       serve:
-        cmd: 'export LC_CTYPE="C_BINARY" && bundle exec jekyll serve --watch'
+        cmd: 'export LC_CTYPE="C_BINARY" && bundle exec jekyll serve --watch -I'
     less:
       blogTheme:
         options:
