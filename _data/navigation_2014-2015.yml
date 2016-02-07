@@ -11,17 +11,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB2.6 ----- #
 - course: rub2.6
   pages:
@@ -69,17 +58,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB3.3 ----- #
 - course: rub3.3
   pages:
@@ -93,17 +71,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB3.4 ----- #
 - course: rub3.4
   pages:
@@ -117,17 +84,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB3.6 ----- #
 - course: rub3.6
   pages:
@@ -145,17 +101,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB4.2 ----- #
 - course: rub4.2
   pages:
@@ -173,17 +118,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB4.3 ----- #
 - course: rub4.3
   pages:
@@ -201,17 +135,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB4.4 ----- #
 - course: rub4.4
   pages:
@@ -229,17 +152,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB4.5 ----- #
 - course: rub4.5
   pages:
@@ -257,17 +169,6 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB4.7 ----- #
 - course: rub4.7
   pages:
@@ -341,30 +242,8 @@
   pages:
   - page: Etusivu
   - page: Aikataulu
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- RUB10.4 ----- #
 - course: rub10.4
   pages:
   - page: Etusivu
   - page: Aikataulu
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen

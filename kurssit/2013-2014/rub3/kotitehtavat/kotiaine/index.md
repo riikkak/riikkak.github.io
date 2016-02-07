@@ -14,49 +14,54 @@ course: rub3
 <div class="content-row">
 <div class="main-content">
 
-### Aineen aiheet
+<h3 id="aineen-aiheet">Aineen aiheet</h3>
 
-Kirjoita 50-70 sanan lyhyt ohjattu kirjoitelma. Valitse joko tehtävänanto 1 TAI 2.
+<p>Kirjoita 50-70 sanan lyhyt ohjattu kirjoitelma. Valitse joko tehtävänanto 1 TAI 2.</p>
 
-1. SÄHKÖPOSTI
-	Olet juuri saanut tietää, että olet saanut töitä 	Pietarsaaresta. Kirjoitat kaverillesi sähköpostiviestin. Noudata seuraavia ohjeita:
-	* aloita viesti sopivalla tavalla
-	* kerro saaneesi kesätyön
-	* Kerro, että odotat töiden alkua innolla, mutta 	sinua hieman jännittää kielitaitosi puolesta
-	* Kerro jotakin ennakkoluuloistasi suomenruotsalaisia kohtaan.
-	* Kysy, onko kaverisi joskus käynyt Pietarsaaressa
-	* Lopeta viestisi sopivalla tavalla
-	
+<ol>
+<li>SÄHKÖPOSTI
+Olet juuri saanut tietää, että olet saanut töitä   Pietarsaaresta. Kirjoitat kaverillesi sähköpostiviestin. Noudata seuraavia ohjeita:
+	<ul>
+		<li>aloita viesti sopivalla tavalla</li>
+		<li>kerro saaneesi kesätyön</li>
+		<li>Kerro, että odotat töiden alkua innolla, mutta  sinua hieman jännittää kielitaitosi puolesta</li>
+		<li>Kerro jotakin ennakkoluuloistasi suomenruotsalaisia kohtaan.</li>
+		<li>Kysy, onko kaverisi joskus käynyt Pietarsaaressa</li>
+		<li>Lopeta viestisi sopivalla tavalla</li>
+	</ul>
+</li>
+<li>KIRJE Olet nyt ollut 3 viikkoa kesätöissä Pietarsaaressa. Kirjoitat kaverillesi kirjeen, jossa kerrot seuraavista asioista:
+	<ul>
+		<li>aloita kirjeesi sopivalla tavalla</li>
+		<li>kerro, että olet viihtynyt tosi hyvin</li>
+		<li>kerro, että olet pärjännyt ruotsin kielellä tosi hyvin</li>
+		<li>kerro, että olet sanut monia suomenruotsalaisia kavereita</li>
+		<li>Kerro, että olet ollut purjehtimassa saaristossa ja se on ollut upeaa</li>
+		<li>Pyydät kaveriasi käymään
+		lopeta kirjeesi sopivalla tavalla</li>
+	</ul>
+	</li>
+</ol>
 
-2. KIRJE Olet nyt ollut 3 viikkoa kesätöissä Pietarsaaressa. Kirjoitat kaverillesi kirjeen, jossa kerrot seuraavista asioista:
-	* aloita kirjeesi sopivalla tavalla
-	* kerro, että olet viihtynyt tosi hyvin
-	* kerro, että olet pärjännyt ruotsin kielellä tosi hyvin
-	* kerro, että olet sanut monia suomenruotsalaisia kavereita
-	* Kerro, että olet ollut purjehtimassa saaristossa ja se on ollut upeaa
-	* Pyydät kaveriasi käymään
-	lopeta kirjeesi sopivalla tavalla
+<h3 id="aineen-ohjeet">Aineen ohjeet</h3>
 
-### Aineen ohjeet
+<ul>
+	<li>Merkitse aiheen numero</li>
+	<li>Aloita tervehdyksellä
+	<strong>1. tuttavallinen</strong>: Hej! / Hej Lisa!
+	<strong>2. kohtelias/virallisempi</strong>: Hej Bertil Åberg/ Bästa Bertil Åberg / Bästa rektor (vain Hej!, jos et tiedä vastaanottajaa)</li>
+	<li>Varsinainen asia</li>
+	<li>Lopputervehdys
+	<strong>1. tuttavallinen</strong>: Hälsningar,
+	<strong>2. kohtelias/virallisempi</strong>: Vänliga hälsningar</li>
+	<li>Lähettäjän nimi (mieti pitääkö olla myös sukunimi)</li>
+	<li>kohteliaassa kirjeessä alkuun (oikeaan yläkulmaan) päiväys: den 25 oktober 2013</li>
+	<li>sähköpostiin päiväystä ei tarvitse laittaa</li>
+	<li>loppuun sanamäärä</li>
+	<li>saa kirjoittaa joka riville</li>
+</ul>
 
-* Merkitse aiheen numero
-* Aloita tervehdyksellä
-	**1. tuttavallinen**: Hej! / Hej Lisa!
-	**2. kohtelias/virallisempi**: Hej Bertil Åberg/ Bästa Bertil Åberg / Bästa rektor (vain Hej!, jos et tiedä vastaanottajaa)
-* Varsinainen asia
-* Lopputervehdys
-	**1. tuttavallinen**: Hälsningar,
-	**2. kohtelias/virallisempi**: Vänliga hälsningar
-* Lähettäjän nimi (mieti pitääkö olla myös sukunimi)
-* kohteliaassa kirjeessä alkuun (oikeaan yläkulmaan) päiväys: den 25 oktober 2013
-* sähköpostiin päiväystä ei tarvitse laittaa
-* loppuun sanamäärä
-* saa kirjoittaa joka riville
-	
-	
-
-Kotiaine kirjoitetaan konseptille, muista muotoiluseikat (marginaalit, otsikon paikka, nimi ja sanamäärä). Voit kirjoittaa aineen myös tietokoneella, tekstinkäsittelyohjelmalla (Word, Pages, GoogleDocs). Käytä tuolloin selkeää fonttia (Arial, Calibri tms.), riviväli 1,5, fonttikoko 12, tasatut reunat, nimi ylätunnisteeseen.
-
+<p>Kotiaine kirjoitetaan konseptille, muista muotoiluseikat (marginaalit, otsikon paikka, nimi ja sanamäärä). Voit kirjoittaa aineen myös tietokoneella, tekstinkäsittelyohjelmalla (Word, Pages, GoogleDocs). Käytä tuolloin selkeää fonttia (Arial, Calibri tms.), riviväli 1,5, fonttikoko 12, tasatut reunat, nimi ylätunnisteeseen.</p>
 
 </div>
 </div>

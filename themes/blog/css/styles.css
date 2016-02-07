@@ -4340,6 +4340,9 @@ body > .content-wrapper {
 .page-sidebar .page-sidenav {
   background-color: #99bbad;
 }
+.page-sidebar .page-sidenav a {
+  color: #000000;
+}
 /* Tablets/desktops and up */
 @media screen and (min-width: 992px) {
   .page-sidebar.affix,

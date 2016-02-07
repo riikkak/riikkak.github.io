@@ -14,16 +14,18 @@ course: rub4
 <div class="content-row">
 <div class="main-content">
 
-Kurssikoe pidetään koeviikolla, sille varattuna päivänä. Kurssikoe koostuu 5 osasta:
+<p>Kurssikoe pidetään koeviikolla, sille varattuna päivänä. Kurssikoe koostuu 5 osasta:</p>
 
-* Kuullunymmärtäminen - Hörförståelse (koe jakson viimeisellä tunnilla, kesto n. 45 min.)
-* Luetunymmärtäminen - Läsförståelse
-* Kielioppi/rakenne - Grammatik
-* Reagointi/käännös - Reagering
-* Kirjallinen tuotos - Skriftlig produktion
+<ul>
+<li>Kuullunymmärtäminen - Hörförståelse (koe jakson viimeisellä tunnilla, kesto n. 45 min.)</li>
+<li>Luetunymmärtäminen - Läsförståelse</li>
+<li>Kielioppi/rakenne - Grammatik</li>
+<li>Reagointi/käännös - Reagering</li>
+<li>Kirjallinen tuotos - Skriftlig produktion</li>
+</ul>
 
-Yllämainituista osista saatu numero kerrotaan kahdella ja siihen lisätään sanakokeiden keskiarvo, näin muodostaa
-kurssikokeen arvosana.
+<p>Yllämainituista osista saatu numero kerrotaan kahdella ja siihen lisätään sanakokeiden keskiarvo, näin muodostaa
+kurssikokeen arvosana.</p>
 
 </div>
 </div>

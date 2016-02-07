@@ -12,20 +12,11 @@ course: rub1
 </div>
 </div>
 <div class="content-row">
-<div class="sidebar">
-<div class="page-sidebar affix" data-spy="affix" data-offset-top="250">
-<ul class="nav page-sidenav">
-<li><a href="#saannot">Säännöt</a></li>
-<li><a href="#kurssiarviointi">Kurssiarviointi</a></li>
-</ul>
-</div>
-</div>
 <div class="info-content">
-<h2 id="saannot">Säännöt</h2>
-
-##REK-Regler
-1. Ole ajoissa.
-2. Pipot, huput ja lippikset pois päästä. Ulkovaatteet jätetään käytävälle tai omaan lokeroon. 3. Pidä jokaisella tunnilla mukana kynä, kumi, kurssikirja ja vihko.4. Huolehdi omalta osaltasi työrauhan toteutumisesta.5. Se ei ole tyhmä joka kysyy vaan se joka jättää kysymättä. Kysyvä ei tieltä eksy.6. Palauta työsi ajallaan.7. Huolehdi sanakokeiden tekemisestä.8. Jos joku asia meni yli hilseen, pyydä rohkeasti apua. 9. Jos olet poissa, ota selvää tunnilla tehdyistä asioista ja tee ne + annetut kotitehtävät.
+<h2>REK-Regler</h2>
+<ol>  <li>Ole ajoissa.</li>
+  <li>Pipot, huput ja lippikset pois päästä. Ulkovaatteet jätetään käytävälle tai omaan lokeroon.</li>  <li>Pidä jokaisella tunnilla mukana kynä, kumi, kurssikirja ja vihko.</li>  <li>Huolehdi omalta osaltasi työrauhan toteutumisesta.</li>  <li>Se ei ole tyhmä joka kysyy vaan se joka jättää kysymättä. Kysyvä ei tieltä eksy.</li>  <li>Palauta työsi ajallaan.</li>  <li>Huolehdi sanakokeiden tekemisestä.</li>  <li>Jos joku asia meni yli hilseen, pyydä rohkeasti apua.</li>  <li>Jos olet poissa, ota selvää tunnilla tehdyistä asioista ja tee ne + annetut kotitehtävät.</li>
+</ol>
 
 </div>
 </div>

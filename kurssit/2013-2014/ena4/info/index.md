@@ -23,50 +23,60 @@ course: ena4
 <div class="info-content">
 <h2 id="saannot">Säännöt</h2>
 
-Seuraavat säännöt ovat tarkennettu mukaelma koulun järjestyssäännöistä, jotka ovat voimassa kaikilla REK:n kursseilla. 
+<p>Seuraavat säännöt ovat tarkennettu mukaelma koulun järjestyssäännöistä, jotka ovat voimassa kaikilla REK:n kursseilla. </p>
 
-Kutsutaan näitä vaikka nimellä **REK Rules**.
+<p>Kutsutaan näitä vaikka nimellä <strong>REK Rules</strong>.</p>
 
-* Olethan ajoissa.
-* Takki, pipo, lippis, hanskat yms. viettävät tuntinsa mieluummin raikkaassa  käytäväilmassa/kaapissasi, kuin tunkkaisessa luokassa (30 asteen pakkasella neuvoteltavissa).
-* Pidä jokaisella tunnilla mukana kynä, kumi, kurssikirja ja vihko.
-* Luokkaan tultuasi, istu paikallesi, ota esiin työvälineesi ja etsi sopiva zen-tila kielten opiskeluun. 
-* Viittaathan mahdollisimman paljon, jotta meillä kaikilla olisi niin mukavaa ja tunti etenisi sutjakkaasti.
-* Se ei ole tyhmä joka kysyy vaan se joka jättää kysymättä. Kysyvä ei tieltä eksy.
-* Palauta työsi ajallaan.
-* Huolehdi sanakokeiden tekemisestä.
-* Kunnioitathan myös opettajan aikaa, ethän tule lukematta sanakokeeseen.
-* Jos joku asia meni yli hilseen, pyydä rohkeasti apua. 
-* Jos olet poissa, ota selvää tunnilla tehdyistä asioista ja tee ne + annetut kotitehtävät.
-* Anna itsellesi ja muille työrauha. Annathan myös SOMEn olla.
-* Kunnioitetaan toinen toisiamme.
+<ul>
+<li>Olethan ajoissa.</li>
+<li>Takki, pipo, lippis, hanskat yms. viettävät tuntinsa mieluummin raikkaassa  käytäväilmassa/kaapissasi, kuin tunkkaisessa luokassa (30 asteen pakkasella neuvoteltavissa).</li>
+<li>Pidä jokaisella tunnilla mukana kynä, kumi, kurssikirja ja vihko.</li>
+<li>Luokkaan tultuasi, istu paikallesi, ota esiin työvälineesi ja etsi sopiva zen-tila kielten opiskeluun. </li>
+<li>Viittaathan mahdollisimman paljon, jotta meillä kaikilla olisi niin mukavaa ja tunti etenisi sutjakkaasti.</li>
+<li>Se ei ole tyhmä joka kysyy vaan se joka jättää kysymättä. Kysyvä ei tieltä eksy.</li>
+<li>Palauta työsi ajallaan.</li>
+<li>Huolehdi sanakokeiden tekemisestä.</li>
+<li>Kunnioitathan myös opettajan aikaa, ethän tule lukematta sanakokeeseen.</li>
+<li>Jos joku asia meni yli hilseen, pyydä rohkeasti apua. </li>
+<li>Jos olet poissa, ota selvää tunnilla tehdyistä asioista ja tee ne + annetut kotitehtävät.</li>
+<li>Anna itsellesi ja muille työrauha. Annathan myös SOMEn olla.</li>
+<li>Kunnioitetaan toinen toisiamme.</li>
+</ul>
 
 <h2 id="kurssiarviointi">Kurssiarviointi</h2>
 
-Kurssin arviointi eli kurssinumero koostuu kahdesta osasta: kurssikokeesta + muusta näytöstä. Kurssikokeen osiot ja tehtävät tyypit esitellään tarkemmin lähempänä koetta Kurssikoe-sivulla. 
+<p>Kurssin arviointi eli kurssinumero koostuu kahdesta osasta: kurssikokeesta + muusta näytöstä. Kurssikokeen osiot ja tehtävät tyypit esitellään tarkemmin lähempänä koetta Kurssikoe-sivulla. </p>
 
-Muu näyttö/jatkuva näyttö koostuu useasta osasta:
+<p>Muu näyttö/jatkuva näyttö koostuu useasta osasta:</p>
 
-* Tuntiaktiivisuus (0, +, ++)
-* Kotitehtävät (+/-)
-* Kurssin muut tehtävät (kotiaine, itsenäiset työt)
-* Lisätehtävät (+)
+<ul>
+<li>Tuntiaktiivisuus (0, +, ++)</li>
+<li>Kotitehtävät (+/-)</li>
+<li>Kurssin muut tehtävät (kotiaine, itsenäiset työt)</li>
+<li>Lisätehtävät (+)</li>
+</ul>
 
-Opettaja antaa kurssin aikana vapaaehtoisia lisätehtäviä, joista voit kerätä ylimääräistä plussaa.
+<p>Opettaja antaa kurssin aikana vapaaehtoisia lisätehtäviä, joista voit kerätä ylimääräistä plussaa.</p>
 
-* Pistarit/läksykuulustelut (+/-)
-* Sanakokeet
+<ul>
+<li>Pistarit/läksykuulustelut (+/-)</li>
+<li>Sanakokeet</li>
+</ul>
 
-Sanakokeista saadut numerot siirretään suoraan kurssikokeen pisteisiin. Sanakokeiden tekeminen ajallaan, sekä sanakokeisiin luku on kuitenkin myös osa jatkuvaa näyttöä. (+/-)
+<p>Sanakokeista saadut numerot siirretään suoraan kurssikokeen pisteisiin. Sanakokeiden tekeminen ajallaan, sekä sanakokeisiin luku on kuitenkin myös osa jatkuvaa näyttöä. (+/-)</p>
 
-* Tuntikäyttäytyminen (+/-)
-* Poissaolot 
+<ul>
+<li>Tuntikäyttäytyminen (+/-)</li>
+<li>Poissaolot </li>
+</ul>
 
-Toistuvat selittämättömät poissolot vaikuttavat arvosanaan. Liikaa poissaoloja → kurssi keskeytyy.
+<p>Toistuvat selittämättömät poissolot vaikuttavat arvosanaan. Liikaa poissaoloja → kurssi keskeytyy.</p>
 
-* Myöhästymiset
+<ul>
+<li>Myöhästymiset</li>
+</ul>
 
-Toistuvat selittämättömät myöhästelyt vaikuttavat arvosanaan. 
+<p>Toistuvat selittämättömät myöhästelyt vaikuttavat arvosanaan. </p>
 
 </div>
 </div>

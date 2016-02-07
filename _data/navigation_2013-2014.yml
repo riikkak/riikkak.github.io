@@ -24,24 +24,6 @@
         url: itsenainen-tyo
       - page: Curriculum Vitae
         url: curriculum-vitae
-      - page: Kotiaine
-  - page: Info
-    subpages:
-    - page: Säännöt
-      url: ""
-    - page: Arviointi
-    - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- ENA4 ----- #
 - course: ena4
   pages:
@@ -106,7 +88,7 @@
         url: ""
       - page: Kirjallinen tiivistelmä
         url: kirjallinen-tiivistelma
-      - page: Suullinen tiivistelm
+      - page: Suullinen tiivistelmä
         url: suullinen-tiivistelma
       - page: Itsenäinen työ
         url: itsenainen-tyo
@@ -126,21 +108,7 @@
       url: itsenainen-tyo
   - page: Info
     subpages:
-    - page: Säännöt
-      url: ""
     - page: Arviointi
-    - page: Kurssikoe
-  - page: Vinkkipankki
-    subpages:
-      - page: Nettitehtävät
-        url: nettitehtavat
-      - page: Aine
-      - page: Kuuntelu
-      - page: Luettu
-      - page: Sanasto
-      - page: Kielioppi
-      - page: Ääntäminen
-        url: aantaminen
 # ----- ENA8 ----- #
 - course: ena8
   pages:

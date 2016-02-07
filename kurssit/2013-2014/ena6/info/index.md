@@ -22,47 +22,52 @@ course: ena6
 </div>
 </div>
 <div class="info-content">
-<h2 id="saannot">Säännöt</h2>
+<h2 id="saannot">Säännöt</h2></p>
 
-* Ole ajoissa
-* Pipo ja takit pois jo ennen luokkaan tuloa
-* Pidä työvälineet mukana (kirja, vihko, kynä, kumi)
-* Ole läsnä, myös henkisesti
-* Sinulla on vastuu omasta oppimisestasi
-* Ota selvää itse mitä pitää tehdä, jos olit poissa
-* Anna toisille työrauha
+<ul>
+<li>Ole ajoissa</li>
+<li>Pipo ja takit pois jo ennen luokkaan tuloa</li>
+<li>Pidä työvälineet mukana (kirja, vihko, kynä, kumi)</li>
+<li>Ole läsnä, myös henkisesti</li>
+<li>Sinulla on vastuu omasta oppimisestasi</li>
+<li>Ota selvää itse mitä pitää tehdä, jos olit poissa</li>
+<li>Anna toisille työrauha</li>
+</ul>
 
 <h2 id="kurssiarviointi">Kurssiarvionti</h2>
 
-Kurssiarvioinnin muodostavat kurssikoe ja muut arviointiin vaikuttavat tekijät
+<p>Kurssiarvioinnin muodostavat kurssikoe ja muut arviointiin vaikuttavat tekijät</p>
 
-####Kurssikoe
+<h4 id="kurssikoe">Kurssikoe</h4>
 
-Kurssikokeen muodostavat:
+<p>Kurssikokeen muodostavat:</p>
 
-1. Kuuntelukoe (50p)
-2. Luetunymmärtäminen (50p)
-3. Kielioppi (n. 70p)
-4. Aine (50p)
-5. Suullinen + kirjallinen tiivistelmä ja kotiaine (30p)
+<ol>
+<li>Kuuntelukoe (50p)</li>
+<li>Luetunymmärtäminen (50p)</li>
+<li>Kielioppi (n. 70p)</li>
+<li>Aine (50p)</li>
+<li>Suullinen + kirjallinen tiivistelmä ja kotiaine (30p)</li>
+</ol>
 
-**Yhteensä 250p**
+<p><strong>Yhteensä 250p</strong></p>
 
-Kokeen lopullinen arvosana lasketaan kurssikokeen(x2) ja sanakokeiden keskiarvon summasta (x1)
+<p>Kokeen lopullinen arvosana lasketaan kurssikokeen(x2) ja sanakokeiden keskiarvon summasta (x1)</p>
 
-####Sanakokeet
+<h4 id="sanakokeet">Sanakokeet</h4>
 
-Sanakokeita kurssilla on 4: tekstit 1&2, 4, 6 ja 9.
+<p>Sanakokeita kurssilla on 4: tekstit 1&amp;2, 4, 6 ja 9.</p>
 
-#### Muut arviointiin vaikuttavat tekijät
+<h4 id="muut-arviointiin-vaikuttavat-tekijät">Muut arviointiin vaikuttavat tekijät</h4>
 
-* Tuntiaktiivisuus
-* Tuntikäyttäytyminen
-* Myöhästelyt, läsnäolo
-* Pistarit (teksteistä ja kieliopista)
-* Kotitehtävät
-* Plussatehtävät
-
+<ul>
+<li>Tuntiaktiivisuus</li>
+<li>Tuntikäyttäytyminen</li>
+<li>Myöhästelyt, läsnäolo</li>
+<li>Pistarit (teksteistä ja kieliopista)</li>
+<li>Kotitehtävät</li>
+<li>Plussatehtävät</li>
+</ul>
 
 </div>
 </div>

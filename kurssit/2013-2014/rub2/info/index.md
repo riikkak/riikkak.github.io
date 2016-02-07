@@ -23,29 +23,33 @@ course: rub2
 <div class="info-content">
 <h2 id="saannot">Säännöt</h2>
 
-* Älä tule myöhässä
-* Pipo ja takit pois jo ennen luokkaan tuloa
-* Pidä työvälineet mukana (kirja, vihko, kynä, kumi)
-* Ole läsnä, myös henkisesti
-* Sinulla on vastuu omasta oppimisestasi
-* Puhua saa paritöiden aikana
-* Ota selvää itse mitä pitää tehdä, jos olit poissa
-* Anna toisille työrauha
+<ul>
+  <li>Älä tule myöhässä</li>
+  <li>Pipo ja takit pois jo ennen luokkaan tuloa</li>
+  <li>Pidä työvälineet mukana (kirja, vihko, kynä, kumi)</li>
+  <li>Ole läsnä, myös henkisesti</li>
+  <li>Sinulla on vastuu omasta oppimisestasi</li>
+  <li>Puhua saa paritöiden aikana</li>
+  <li>Ota selvää itse mitä pitää tehdä, jos olit poissa</li>
+  <li>Anna toisille työrauha</li>
+</ul>
 
 <h2 id="kurssiarviointi">Kurssiarvionti</h2>
 
-RUB2-kurssin arviointiin vaikuttaa:
+<p>RUB2-kurssin arviointiin vaikuttaa:</p>
 
-1. Kurssikokeen arvosana
-2. Tuntiaktiivisuus- ja käyttäytyminen
-3. Myöhästymiset ja läsnäolo
-4. Kotitehtävät (sis. kotiaine ja myös mahdolliset plussatehtävät).
+<ol>
+  <li>Kurssikokeen arvosana</li>
+  <li>Tuntiaktiivisuus- ja käyttäytyminen</li>
+  <li>Myöhästymiset ja läsnäolo</li>
+  <li>Kotitehtävät (sis. kotiaine ja myös mahdolliset plussatehtävät).</li>
+</ol>
 
-Sanakokeet muodostavat 1/3 kurssikokeen arvosanasta ja niitä pidetään kurssin aikana 4: tekstit 1-4. Sanakokeet tehdään
+<p>Sanakokeet muodostavat 1/3 kurssikokeen arvosanasta ja niitä pidetään kurssin aikana 4: tekstit 1-4. Sanakokeet tehdään
 kurssiaikataulun mukaisina päivinä, pidä itse huolta, että tulet sanakokeeseen valmistautuneena. Sanakoe tehdään,
 ellei sitä ole etukäteen sovittu jostain pätevästä syystä johtuen tehtäväksi toisena ajankohtana. Jos olet sairaana tai
 muusta pätevästä systä pois sanakoepäivänä, sanakoe on sinulla kun olet seuraavan kerran läsnä, tule siis asiat
-opiskeleena ja valmistautuneena.
+opiskeleena ja valmistautuneena.</p>
 </div>
 </div>
 </div>
