@@ -13,7 +13,7 @@ annetut tehtävät, sekä kotitehtävät jotka olivat siis:
 
 (+ luetunymmärtämisenharjoituksen 14A+B s. 48-49.)
 
-####Kotitehtävät:
+#### Kotitehtävät:
 
 Lue ja suomenna text 3 ja tee teht. 2 s. 59.
 (Plussaa, jos teit toisenkin luetunymmärtämisen)

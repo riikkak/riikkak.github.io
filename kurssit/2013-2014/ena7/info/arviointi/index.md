@@ -7,7 +7,7 @@ course: ena7
 
 Kurssiarvioinnin muodostavat kurssikoe ja muut arviointiin vaikuttavat tekijät
 
-####Kurssikoe
+#### Kurssikoe
 
 Kurssikokeen muodostavat:
 
@@ -20,7 +20,7 @@ Kurssikokeen muodostavat:
 
 Kokeen lopullinen arvosana lasketaan kurssikokeen(x2) ja sanakokeiden keskiarvon summasta (x1)
 
-####Sanakokeet
+#### Sanakokeet
 
 Sanakokeita kurssilla on 4: teksti 1, 5, 6 ja 9.
 

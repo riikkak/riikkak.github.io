@@ -4,7 +4,8 @@ title: Arviointi
 theme: swedish
 course: rub11.2
 ---
-#S
+
+# S
 Kurssi arvioidaan suoritusmerkinnällä. Tämä tarkoittaa sitä, että merkinnän
 edellytys on läsnäolo (maksimissaan 2 poissaoloa) ja osallistuminen opetukseen.
 

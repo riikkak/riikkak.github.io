@@ -5,7 +5,7 @@ theme: swedish
 course: rub11.3
 ---
 
-##REK-regler
+## REK-regler
 
 en regel 3 = sääntö
 

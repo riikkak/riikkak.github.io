@@ -8,7 +8,7 @@ course: ena7
 Kurssin aikana tehdään itsenäisesti teksti 4 ja siihen liittyvät tehtävät. Teksti pitää olla itsenäisesti
 työstettynä aikatauluun merkittynä päivinä. Tekemättä jääneet tehtävät vaikuttavat arvosanaan.
 
-###Text 4 Doomsday Tourism
+### Text 4 Doomsday Tourism
 
 1. Kuuntele ja lue teksti 4. Kuuntelemaan pääseet SanomaPron sivuilla. Luo ensin tunnukset, jos sinulla ei vielä niitä
 ole. Luotuasi tunnukset pääset 7. kurssin materiaaliin käsiksi avainkoodilla HLTF.
@@ -21,7 +21,7 @@ Teksti 4 käsitellään yhdessä ja tehtävät tarkastetaan tiistain 29.4 tunnil
 **Teksti 7 jää pois aikataulusta, mutta sisältö kuuluu koealueeseen, joten suositellaan opiskeltavaksi itsenäisesti
 ennen koetta.**
 
-#####Text 7 The Mystery of Crop Circles
+##### Text 7 The Mystery of Crop Circles
 
 1. Kuuntele ja lue teksti 7 (sanomapro.fi)
 2. Kuunneltuasi tekstin pariin kertaan, tee tehtävä 7B s. 78.
@@ -35,7 +35,7 @@ sanakoe, joten teksti täytyy työstää kotona hyvissä ajoin, ei edellisenä i
 
 Huom! Molempien itsenäisesti opiskeltavien tekstien osaaminen tullaan testaamaan ennen tehtävien tarkistamista.
 
-###Säästövapaan aikana
+### Säästövapaan aikana
 
 Tiistain 6.5 tunnilla ei ole kontaktiopetusta vaan tehtävät tehdään aikataulun mukaisesti itsenäisesti. Voit tulla
 työskentelmään luokkaan (ovi avataan), tai tehdä tehtävät muualla koulun tiloissa, tai kotona. Kontaktiopetuksesta vapaa

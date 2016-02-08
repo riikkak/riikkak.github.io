@@ -4,7 +4,8 @@ title: Säännöt
 theme: english
 course: rub4.4
 ---
-###REK-regler
+
+### REK-regler
 
 * Älä tule myöhässä - muista kuitenkin kohtelias kohdekielinen pahoittelu jos tulet.
 * Pipo ja takit viettävät koulupäivää omassa henkilökohtaisessa kaapissa.

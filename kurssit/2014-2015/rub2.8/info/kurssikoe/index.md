@@ -14,8 +14,8 @@ Kurssikoe pidetään koeviikolla, sille varattuna päivänä. Koe koostuu kuudes
 5. Reagointi (reagering)
 6. Kirjoitelma (skriftlig framställning)
 
-Kokeen kaksi ensimmäistä osaa suoritetaan jo kurssin aikana. Sanakokeita on neljä (tekstit 1-4) ja kuullunymmärtämisen 
+Kokeen kaksi ensimmäistä osaa suoritetaan jo kurssin aikana. Sanakokeita on neljä (tekstit 1-4) ja kuullunymmärtämisen
 koe on kolmessa osassa.
 
-Kokeen maksimi pistemäärä vaihtelee 280-300 välillä. Kokeen läpipääsyyn vaaditaan puolet pisteistä, tämä ei kuitenkaan 
+Kokeen maksimi pistemäärä vaihtelee 280-300 välillä. Kokeen läpipääsyyn vaaditaan puolet pisteistä, tämä ei kuitenkaan
 takaa vielä kurssin läpäisyä.

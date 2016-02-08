@@ -7,16 +7,16 @@ published: true
 ---
 
 
-#Koealue
+# Koealue
 
 Kokeeseen luetaan kaikki kurssin aikana käsitellyt asiat.
 
-##Tekstit ja sanasto
+## Tekstit ja sanasto
 - Käsitellyt tekstit 1-5
 - Kaikki aihepiirisanastot: puhelin, koti ja asuminen, ruoka, vaatteet, terveys
 - Kertaa kirjan keskustelu- ja huudahdusfraasit (esim. på bio ja på hotell + muut)
 
-##Kielioppi
+## Kielioppi
 - Lukusanat
 - Kaikki pronominit
 - Adjektiivit ja niiden vertailu
@@ -26,7 +26,7 @@ Kurssiaikataulussa tarkemmat sivunumerot kielioppiasioille.
 
 Lue huolella työvihko ja huolehdi että se on täytetty ihan kokonaan (ihan kaikki tehtävät vaikka olisit ollut pois). Palautus kokeeseen tultaessa.
 
-##Osat ja pisteytys
+## Osat ja pisteytys
 Kurssikoe koostuu kuudesta osasta, joista osa suoritetaan jo kurssin aikana,
 osa koeviikon kokeessa.
 

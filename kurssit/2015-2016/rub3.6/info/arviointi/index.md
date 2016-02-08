@@ -7,7 +7,7 @@ course: rub3.6
 Kurssin arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden
 aikana tapahtuvaan työskentelyyn. Alla tarkempi erittely osa-alueista.
 
-#Sanakokeet
+# Sanakokeet
 Sanakokeita on kurssin aikana 3-4. Sanakokeet perustuvat niihin teksteihin,
 jotka opiskellaan yhdessä tarkemmin. Sanakokeiden arviointi on kouluarvosana
 4-10. Numero voi myös jäädä alle 4, mikä on este kurssin läpipääsemiselle.
@@ -17,7 +17,7 @@ kurssikokeeseen 80 pistettä. Kurssikokeessa ei ole erillistä sanasto-osuutta.
 
 Lukemalla hyvin sanakokeisiin, voit siis jo huomattavasti vaikuttaa koearvosanaasi.
 
-##Sanakokeisiin luku
+## Sanakokeisiin luku
 Opiskele sanakoetta varten työvihkossa olevat tekstien alleviivaukset. Kirjan
 takana olevaa kappalekohtaista sanalistaa ei siis erikseen kysytä. Tekstien
 alleviivauksista on kuitenkin hyvä opetella niissä esiintyvät sanat taivutuksineen.
@@ -45,7 +45,7 @@ Kurssin aikana kuuntelukokeisiin harjoitellaan tekstien kuuntelulla,
 ääntämisharjoituksilla ja parikeskusteluilla. Suurempia harjoituskuunteluita
 tehdään aikataulusta riippuen.
 
-#Tuntiaktiivisuus
+# Tuntiaktiivisuus
 Kieltenopiskelun olennainen osa on suullinen kommunikaatio ja tästä syystä
 arvioinnin keskeisenä osana on osallistuminen opetukseen. Kaikki eivät ole
 luontaisesti kovia viittaajia, mutta suotavaa on että tassu kävisi ilmassa joka
@@ -53,22 +53,22 @@ tunti. Myös aktiivinen ja vuorovaikutuksellinen osallistuminen paritehtäviin o
 osa tuntiaktiivisuutta. Tuntiaktiivisuus voi vaikuttaa kurssiarvosanaan niin
 nousevasti kuin laskevastikin.
 
-#Tuntikäyttäytyminen
+# Tuntikäyttäytyminen
 Tunneille tullaan ajoissa, mukana kirja, työvihko ja kirjoitusvälineet. Jatkuva
 myöhästely häiritsee paitsi omaa opiskeluasi, niin myös ryhmätovereidesi. Älä
 siis ole urpo, vaan ajoissa. Mikäli kätesi hivelee elektronista laitetta pitkin
 tuntia aina kun näytössä vilahtaa, otetaan tämä myös huomioon arvioinnissa.
 Tunnit ovat opiskelua varten, välitunnit rassausta.
 
-#Läksyt
+# Läksyt
 Läksyjen tekeminen on oleellinen osa kurssisuoritusta ja niiden tekoa
 kontrolloidaan säännöllisesti. Läksyjen tekemättä jättäminen vaikuttaa
 kurssiarvosanaan laskevasti.
 
-#Kurssikoe
+# Kurssikoe
 Kurssikoe koostuu kuudesta osasta, tarkempi erittely kurssikoe-sivulla.
 
-#Arvosana 4
+# Arvosana 4
 Nelonenkin on ansaittava ja edellyttää jo jonkin verran osaamista. Mikäli kaikki
 osasuoritukset (sanakokeet ja kuuntelukokeet, pistarit) jäävät alle 4 ja lisäksi
 kurssikoekin on numerona alle 4-, ei kurssista voi antaa arvosanaa vaan kurssi

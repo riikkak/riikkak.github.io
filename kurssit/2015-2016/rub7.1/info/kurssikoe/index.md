@@ -12,4 +12,4 @@ Kurssikoe koostuu kolmesta osasta:
 3. Kurssikoe/yo-koe
 
 Kontaktiopetus loppuu ruotsin kirjalliseen yo:hon. Koeviikon kurssikoe korvataan
-kotona itsenäisesti tehtävällä harjoitus YO-kokeella. 
+kotona itsenäisesti tehtävällä harjoitus YO-kokeella.

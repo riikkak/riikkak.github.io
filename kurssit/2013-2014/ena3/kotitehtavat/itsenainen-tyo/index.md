@@ -18,7 +18,7 @@ ei siis ole.
 Tehtävät tarkistetaan keskiviikon tunnilla. **Tehtävät tekemättä = poissaolo**
 
 
-###Text 8
+### Text 8
 
 Teksti 8 jää meillä yhteisesti käsittelemättä. Tekstin sanasto ja teema kuitenkin on osa kurssikoealuetta, joten
 suosittelen opiskelemaan tekstin itsenäisesti ja tekemään kaikki tehtävät. Tehtävät on mahdollista tarkastaa kokeen

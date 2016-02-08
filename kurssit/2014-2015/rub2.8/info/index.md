@@ -4,7 +4,8 @@ title: Säännöt
 theme: swedish
 course: rub2.8
 ---
-###REK-regler
+
+### REK-regler
 
 * Älä tule myöhässä - muista kuitenkin kohtelias kohdekielinen pahoittelu jos tulet.
 * Pipo ja takit omaan kaappiin. Jos olet vilukissa, luokassa on peittoja joita voit lainata.
@@ -16,7 +17,7 @@ course: rub2.8
 * Anna toisille työrauha.
 * Panosta tunnilla - vähemmän työtä kotona ja koeviikolla.
 
-####Fraaseja tunnille
+#### Fraaseja tunnille
 
 * Förlåt att jag kommer för sent. /Ursäkta att jag är för sen.
 * Tack!

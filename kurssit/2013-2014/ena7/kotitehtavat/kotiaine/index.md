@@ -16,7 +16,7 @@ s. 168 asiaa yleisimmistä kirjoitustehtävätyypeistä.
 Kannattaa valita sellainen tyyppi, jota et ole vielä kokeillut
 kirjoittaa, tai joka tuntuu sinusta erityisen vaikealta.
 
-###Muotoilu
+### Muotoilu
 
 Kirjoita aine mielellään koneella. Jos haluat kirjoittaa konseptille, pyydä sellainen opettajalta tai kansliasta.
 Kirjoittaessasi konseptille, muista kirjoittaa joka toiselle riville.
@@ -25,7 +25,7 @@ Koneella kirjoittaessa, muista selkeä asettelu. Oikealle ylös nimi, tehtävän
 (ei keskelle!). Fonttina Calibri, Arial, Cambria, Times New Roman tms., fonttikoko 12, riviväli 2, tasatut reunat.
 Muista laskea ja merkitä loppuun sanamäärä.
 
-###Hyvän aineen piirteet
+### Hyvän aineen piirteet
 
 Hyvä aine on hyvin suunniteltu ja jäsennelty. Tee hyvä suunnitelma (ranskaisin viivoin, mind-map tms.) ennen kuin alat
 kirjoittamaan. Muistathan hyvän esseen rakenteen = **alku** ja **loppu**. Jaa teksti 4-5 kappaleseen. Ensimmäisen
@@ -37,7 +37,7 @@ siis aina selkeä aloitus ja lopetus, sekä välillä hyvää, monipuolista aihe
 Kun tuntuu, että teksti on valmis, lue se ääneen itsellesi tai vaikka perheenjäsenelle tai kaverille.
 Ääneenluku auttaa huomaamaan virheet, joita ei kirjoittaessa välttämättä huomaa.
 
-###Otsikot
+### Otsikot
 
 1. **The pros and cons of nuclear power** (s. 21 1J)
 2. **An individual cannot really do much to preserve the environment** (s. 21 1J)

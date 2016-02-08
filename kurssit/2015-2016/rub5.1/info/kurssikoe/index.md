@@ -5,12 +5,12 @@ theme: swedish
 course: rub5.1
 ---
 
-###Valmisteleva tunti
+### Valmisteleva tunti
 Koetta edeltävänä päivänä pidetään valmisteleva tunti, jolla kerrataan kurssin
 keskeiset asiat ennen koetta. Kutsutaan myös nimellä viimeinen voitelu.
 Tunti on pakollinen (lasketaan mukaan kurssin poissaoloihin).
 
-###Kurssikoe
+### Kurssikoe
 
 Kurssikoe pidetään koeviikolla, sille varattuna päivänä. Koe koostuu kuudesta osasta:
 

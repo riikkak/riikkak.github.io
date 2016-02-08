@@ -4,7 +4,7 @@ title: Säännöt
 theme: swedish
 course: rub11.2
 ---
-##REK-regler
+## REK-regler
 
 en regel 3 = sääntö
 

@@ -4,9 +4,10 @@ title: Curriculum Vitae
 theme: english
 course: ena3
 ---
+
 **PALAUTUS KESKIVIIKKONA 7.5**
 
-###CV
+### CV
 
 Kirjoita CV eli ansioluettelo kirjan ohjeiden avulla. Löydät ne sivuilta 110-112. Kirjan malli-cv on melko
 laaja, valitse siitä harkiten osia omaan ansioluetteloosi. Kannattaa kokeilla googlettaa sanoilla *summerjob cv* tai
@@ -21,7 +22,7 @@ Erityistä tarkkuutta vaatii koulutuksen kuvaaminen, sillä koulujärjestelmät 
 maissa kuin Suomessa. Valitse aina englanninkieliset termit kouluille (etsi paras vastine), kirjasta löydät
 koulusanaston s. 48.
 
-###Letter of application/Cover letter
+### Letter of application/Cover letter
 
 Työpaikkahakemus kirjoitetaan usein kirjeen muotoon ja se on siis se millä sinun olisi saatava työnantaja vakuttumaan
 siitä, että sinut kannattaa palkata. CV on hakemuskirjeen liite, josta työnantaja helposti näkee koulutuksesi ja
@@ -44,5 +45,3 @@ tuutori(lukiossa) = peer counsellor
 kiertoilmaisua tai etsi vastaava termi englanniksi.
 
 Jos sinulla tulee jotain kysyttävää, voit laittaa minulle Wilman kautta viestiä.
-
-

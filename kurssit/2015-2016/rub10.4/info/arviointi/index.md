@@ -5,7 +5,7 @@ theme: swedish
 course: rub10.4
 ---
 
-#S
+# S
 Ruotsin syventävästä kurssista 10 annetaan suoritus-merkintä. Merkinnän
 saavutuksen edellytyksenä on läsnäolo kurssilla, sekä kaikkien kurssin tehtävien
 suorittaminen aikataulun mukaisesti.
@@ -14,7 +14,7 @@ Koska kurssi perustuu läsnäoloon, ei poissaoloja saisi tulla. 2 poissaoloa on
 ehdoton maksimi ja näiltäkin kerroilta tulee osasuoritukset korvata. Kurssista
 ei pidetä koetta.
 
-##Kurssin sisältö
+## Kurssin sisältö
 Kurssilla harjoitellaan kuuntelemista (hörförståelse) sekä kirjoittamista
 (skriftlig framställning), tähtäimessä yo-koe. Työskentely tapahtuu kurssin
 aikana oppitunneilla, kotitehtäviä ei ole. Kotona tehdään itsenäisesti ainoastaan
@@ -33,4 +33,4 @@ Kun korjattu tuotos on näytetty opettajalle, hyväksytään se osasuoritus vast
 Korjaaminen on erittäin tärkeä osa kirjoittamisessa kehittymisessä.
 
 Koeviikon tunnit korvataan tehtäväpaketilla, jossa treenataan mm. tiivitelmän tekeminen,
-sekä yo:n reagointitehtäviä eli ns. käännöslauseita. 
+sekä yo:n reagointitehtäviä eli ns. käännöslauseita.

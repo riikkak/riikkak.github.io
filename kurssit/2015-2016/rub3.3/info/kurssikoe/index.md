@@ -7,7 +7,7 @@ course: rub3.3
 
 [Koealue](/media/rub3.3/koealue.pdf)
 
-#Osat ja pisteytys
+# Osat ja pisteytys
 Kurssikoe koostuu kuudesta osasta, joista osa suoritetaan jo kurssin aikana,
 osa koeviikon kokeessa.
 
