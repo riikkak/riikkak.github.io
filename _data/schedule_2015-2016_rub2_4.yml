@@ -1,11 +1,11 @@
 - date: ti 9.2.
-  title: Aloitus, Text 1 ohjeistus
+  title: Aloitus 
   grammar: lukusanat (s. 173-180)
 - date: ke 10.2.
   title: Text 5 kuuntelu ja läpikäynti
   grammar: lukusanat jatkuu
-  other: suomenna teksti kotona
-- date: tpe 12.2.
+  other: Text 1 ohjeistus
+- date: pe 12.2.
   title: Text 5 sanastoa
   grammar: persoonapronominit (s. 143-146)
 - date: ti 16.2.
@@ -16,6 +16,7 @@
   grammar: refleksiivipronominit (s. 150-151)
 - date: pe 19.2.
   title: WANHAT
+  other: Luetunymmärtäminen
 - date: ti 23.2.
   title: Hus och hem (s. 46-51)
   grammar: adjektiivit (s. 152-156)
@@ -27,10 +28,11 @@
 - date: pe 26.2.
   title: Kläder (s. 70-76)
   grammar: adjektiivien vertailumuodot
+  other: 1. kirjoitelman palautus
 - date: ti 1.3.
   title: Text 3 kuuntelu ja läpikäynti
   grammar: vertailu jatkuu
-  other: Kotiaineen ohjeet
+  other: suomenna teksti kotona
 - date: ke 2.3.
   title: Text 3 suulliset harjoitukset
   grmmar: harjoituksia
@@ -41,13 +43,14 @@
 - date: ti 15.3.
   title: Hälsa
   grammar: adverbit
-  other: Kotiaineen palautus
+  other: 2. kirjoitelman palautus
 - date: ke 16.3.
   title: Hälsa
   grammar: adverbien vertailu
 - date: pe 18.3.
   title: Text 4 kuuntelu ja läpikäynti
   grammar: päälauseen sanajärjestys (s. 126-129)
+  other: Tekstin aukkosuomennos kotona
 - date: ti 22.3.
   title: Text 4 suulliset harjoitukset
   grammar: sivulauseen sanajärj. (s. 130-134)
