@@ -28,7 +28,7 @@ Tekstin pituus täyttää tehtävänannon. Kieli on ymmärrettävää. Sanastoa 
 Teksti on ok. Sanastoa käytetty jonkinverran. Pituus täyttää vaatimukset. Sisältö ei niin monipuolinen.
 
 ##2
-Tehtävänannon mukainen pituus, teemasanoja muutamia. Kielivirheitä, viestinnällisyys 
+Tehtävänannon mukainen pituus, teemasanoja muutamia. Kielivirheitä ja sanoja on keksitty/ kirjoitettu muulla kielellä.
 
 ##1 
-Teksti on lähes minimimittainen. Teemasanastoa ei ole juurikaan käytetty. Kieli on alkeellista.
+Teksti on lähes minimimittainen ja melkein asian vierestä. Teemasanastoa ei ole käytetty. Kieli on alkeellista ja virheellistä
