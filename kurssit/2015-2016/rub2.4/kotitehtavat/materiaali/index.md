@@ -22,3 +22,13 @@ Kotona kirjoitettavat pienet kirjoitelmat otetaan osaksi kurssin arviointia. Kur
 Teksti on vähintään maksimipituinen, mielellään vähän pidempi. Sisältöä on huolella mietitty ja se etenee loogisesti. Tekstissä näkyy monipuolisesti tehtävänannon mukainen teemasanasto. Käsiteltyjen tekstien ja tehtävien ilmaisuja käytetään luontevasti, mutta suoraa tekstiä ei ole kopioitu mistään. Kielivirheitä voi olla, mutta ne eivät saa haitata ymmärtämistä.
 
 ##4
+Tekstin pituus täyttää tehtävänannon. Kieli on ymmärrettävää. Sanastoa käytetään hyvin. Teksti voi olla myös minimipituinen, mutta virheetön.
+
+##3
+Teksti on ok. Sanastoa käytetty jonkinverran. Pituus täyttää vaatimukset. Sisältö ei niin monipuolinen.
+
+##2
+Tehtävänannon mukainen pituus, teemasanoja muutamia. Kielivirheitä, viestinnällisyys 
+
+##1 
+Teksti on lähes minimimittainen. Teemasanastoa ei ole juurikaan käytetty. Kieli on alkeellista.
