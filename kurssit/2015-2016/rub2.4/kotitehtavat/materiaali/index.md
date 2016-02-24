@@ -1,9 +1,11 @@
 ---
-layout: content-main
+layout: "content-main"
 title: Materiaali
 theme: swedish
 course: rub2.4
+published: true
 ---
+
 
 Tältä sivulta löydät kurssilla käytävien tekstien alleviivauksien oikeat vastaukset,
 sekä mahdollista muuta materiaalia. Tarkista alleviivaukset aina ennen sanakoetta,
@@ -11,3 +13,12 @@ suosittelen että merkkaat virheesi erivärisellä kynällä kumittamisen sijaan
 
 - [Text 2 alleviivaukset](/media/rub2/text_2_alleviivaukset_oikeat.pdf)
 - [Text 3 alleviivaukset](/media/rub2/text_3_alleviivaukset.pdf)
+
+#Pikkukirjoitelmien arviointi
+
+Kotona kirjoitettavat pienet kirjoitelmat otetaan osaksi kurssin arviointia. Kurssi kokeessa ei ole enää erikseen kirjoitelmaa. Kirjoitelmat arvioidaan asteikolla 1-5 ja pääkriteerinä on viestinnällisyys ja aihepiirisanaston monipuolinen käyttö, ei niinkään täydellinen oikeakielisyys.
+
+##5
+Teksti on vähintään maksimipituinen, mielellään vähän pidempi. Sisältöä on huolella mietitty ja se etenee loogisesti. Tekstissä näkyy monipuolisesti tehtävänannon mukainen teemasanasto. Käsiteltyjen tekstien ja tehtävien ilmaisuja käytetään luontevasti, mutta suoraa tekstiä ei ole kopioitu mistään. Kielivirheitä voi olla, mutta ne eivät saa haitata ymmärtämistä.
+
+##4
