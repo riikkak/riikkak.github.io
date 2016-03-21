@@ -14,12 +14,38 @@ module.exports = (grunt) ->
         files: [
           { expand: true, cwd: 'less/bootstrap', src: ['bootstrap.less'], dest: 'tmp/' }
         ]
-    clean: ['tmp']
+    clean:
+      tempFiles: ['tmp']
     concurrent:
       serve:
         options:
           logConcurrentOutput: true
         tasks: ['watch', 'exec:serve']
+    cssmin:
+      minifyBlog:
+        files: [{
+          expand: true,
+          cwd: 'themes/blog/css',
+          src: ['*.css', '!*.min.css'],
+          dest: 'themes/blog/css',
+          ext: '.min.css'
+          }]
+      minifyEnglish:
+        files: [{
+          expand: true,
+          cwd: 'themes/english/css',
+          src: ['*.css', '!*.min.css'],
+          dest: 'themes/english/css',
+          ext: '.min.css'
+          }]
+      minifySwedish:
+        files: [{
+          expand: true,
+          cwd: 'themes/swedish/css',
+          src: ['*.css', '!*.min.css'],
+          dest: 'themes/swedish/css',
+          ext: '.min.css'
+          }]
     exec:
       build:
         cmd: 'export LC_CTYPE="C_BINARY" && bundle exec jekyll build'
@@ -44,22 +70,6 @@ module.exports = (grunt) ->
           paths: ['less/swedish', 'tmp', 'less/bootstrap']
         files:
           'themes/swedish/css/styles.css': ['less/swedish/main.less']
-    recess:
-      minifyBlog:
-        options:
-          compress: true
-        src: 'themes/blog/css/styles.css'
-        dest: 'themes/blog/css/styles.min.css'
-      minifyEnglish:
-        options:
-          compress: true
-        src: 'themes/english/css/styles.css'
-        dest: 'themes/english/css/styles.min.css'
-      minifySwedish:
-        options:
-          compress: true
-        src: 'themes/swedish/css/styles.css'
-        dest: 'themes/swedish/css/styles.min.css'
     watch:
       common:
         files: ['less/common.less']
@@ -86,15 +96,14 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks('grunt-concurrent')
   grunt.loadNpmTasks('grunt-contrib-clean')
   grunt.loadNpmTasks('grunt-contrib-copy')
+  grunt.loadNpmTasks('grunt-contrib-cssmin')
   grunt.loadNpmTasks('grunt-contrib-less')
   grunt.loadNpmTasks('grunt-contrib-watch')
   grunt.loadNpmTasks('grunt-exec')
-  grunt.loadNpmTasks('grunt-recess')
 
-  grunt.registerTask('build-blog', ['copy', 'less:blogTheme', 'recess:minifyBlog', 'clean'])
-  grunt.registerTask('build-english', ['copy', 'less:englishTheme', 'recess:minifyEnglish', 'clean'])
-  grunt.registerTask('build-swedish', ['copy', 'less:swedishTheme', 'recess:minifySwedish', 'clean'])
-  grunt.registerTask('minify-css', ['recess:minifyBlog', 'recess:minifyEnglish', 'recess:minifySwedish'])
-  grunt.registerTask('dist-css', ['copy', 'less', 'minify-css', 'clean'])
+  grunt.registerTask('build-blog', ['copy', 'less:blogTheme', 'cssmin:minifyBlog', 'clean'])
+  grunt.registerTask('build-english', ['copy', 'less:englishTheme', 'cssmin:minifyEnglish', 'clean'])
+  grunt.registerTask('build-swedish', ['copy', 'less:swedishTheme', 'cssmin:minifySwedish', 'clean'])
+  grunt.registerTask('dist-css', ['copy', 'less', 'cssmin', 'clean'])
   grunt.registerTask('default', ['dist-css', 'exec:build'])
   grunt.registerTask('serve', ['concurrent'])

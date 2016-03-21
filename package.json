@@ -1,7 +1,7 @@
 {
   "name": "riikkak.github.io",
   "description": "Personal blog and school course sites",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Riikka Koskenranta",
   "repository": {
     "type": "git",
@@ -14,10 +14,11 @@
     "grunt": "~0.4.1",
     "grunt-bower-task": "^0.4.0",
     "grunt-concurrent": "^2.0.1",
-    "grunt-contrib-clean": "^0.7.0",
-    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
     "grunt-contrib-less": "^1.0.0",
-    "grunt-contrib-watch": "^0.6.0",
+    "grunt-contrib-watch": "^1.0.0",
     "grunt-exec": "~0.4.2",
     "grunt-recess": "^1.0.0"
   }
