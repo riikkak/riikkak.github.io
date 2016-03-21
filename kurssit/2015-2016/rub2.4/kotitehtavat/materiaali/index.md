@@ -14,6 +14,7 @@ suosittelen että merkkaat virheesi erivärisellä kynällä kumittamisen sijaan
 
 - [Text 2 alleviivaukset](/media/rub2/text_2_alleviivaukset_oikeat.pdf)
 - [Text 3 alleviivaukset](/media/rub2/text_3_alleviivaukset.pdf)
+- [Text 4 alleviivaukset](/media/rub2/text_4_alleviivaukset_oikeat.pdf)
 
 ## Pikkukirjoitelmien arviointi
 
