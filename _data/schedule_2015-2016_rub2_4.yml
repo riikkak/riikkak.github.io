@@ -40,31 +40,30 @@
 - date: vko 10 HIIHTOLOMA
 - date: ti 15.3.
   title: Text 3 kuuntelu ja läpikäynti
-  grammar: adverbit
+  grammar: adjektiivien vertailu
   other: Suomenna teksti kotona
 - date: ke 16.3.
   title: Text 3 suulliset harjoitukset
-  grammar: adverbien vertailu
+  grammar: adjektiivien vertailu
 - date: pe 18.3.
-  title: Hälsa 
-  grammar: päälauseen sanajärjestys (s. 126-129)
+  title: Kroppen 
   other: Sanakoe 2 + Kuuntelukoe 2 (vaatteet ja kulutus)
 - date: ti 22.3.
   title: Text 4 kuuntelu ja läpikäynti 
-  grammar: sivulauseen sanajärj. (s. 130-134)
   other: 2. kirjoitelman palautus (Min stil)
 - date: ke 23.3.
   title: Text 4 suulliset harjoitukset
-  grammar: relatiivilause (s. 135-138)
+  grammar:päälauseen ja sivulauseen sanajärj. (s. 126-134)
 - date: ti 29.3.
   title: Harjoituksia
-  grammar: epäsuorakysymyslause
+  grammar:  relatiivilause (s. 135-138)
   other: Sanakoe tekstistä 4, kuuntelukoe
 - date: ke 30.3.
   title: Harjoituksia
-  grammar: sanajärjestys kaikki
+  grammar: epäsuorakysymyslause
 - date: to 31.3.
   title: Valmisteleva tunti
+  grammar: adverbit valmiina!
   other: pakollinen tunti
 - date: pe 1.4.
   title: KURSSIKOE
