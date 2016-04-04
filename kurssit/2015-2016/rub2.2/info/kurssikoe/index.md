@@ -3,7 +3,6 @@ layout: "content-main"
 title: Kurssikoe
 theme: swedish
 course: rub2.2
-published: true
 ---
 
 # Koealue

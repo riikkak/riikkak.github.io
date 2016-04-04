@@ -3,11 +3,7 @@ layout: "content-main"
 title: Materiaali
 theme: swedish
 course: rub2.5
-published: true
 ---
-
-
-
 
 Tältä sivulta löydät kurssilla käytävien tekstien alleviivauksien oikeat vastaukset,
 sekä mahdollista muuta materiaalia. Tarkista alleviivaukset aina ennen sanakoetta,

@@ -3,7 +3,6 @@ layout: "content-main"
 title: Arviointi
 theme: swedish
 course: rub2.4
-published: true
 ---
 
 Kurssin arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden
