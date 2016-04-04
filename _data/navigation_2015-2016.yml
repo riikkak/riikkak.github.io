@@ -168,6 +168,41 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
+# ----- RUB5.7 ----- #
+- course: rub5.7
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB6.5 ----- #
+- course: rub6.5
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: "Suullinen koe"
+      url: "suullinen-koe"
 # ----- RUB7.1 ----- #
 - course: rub7.1
   pages:
@@ -187,6 +222,23 @@
     - page: Kurssikoe
 # ----- RUB7.2 ----- #
 - course: rub7.2
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB7.5 ----- #
+- course: rub7.5
   pages:
   - page: Etusivu
   - page: Aikataulu
