@@ -254,6 +254,23 @@
       url: ""
     - page: Arviointi
     - page: Kurssikoe
+# ----- RUB7.6 ----- #
+- course: rub7.6
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+      - page: Läksyt
+        url: ""
+      - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
 # ----- RUB10.4 ----- #
 - course: rub10.4
   pages:

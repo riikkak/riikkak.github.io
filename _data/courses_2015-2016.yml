@@ -73,6 +73,11 @@
   desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
   period: 5
 
+- name: rub7.6
+  code: 2
+  desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
+  period: 5
+
 - name: rub10.4
   code: 6
   desc: "kuuntelu ja kirjoittaminen abeille"
