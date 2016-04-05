@@ -1,0 +1,61 @@
+- date: ti 12.4.
+  title: Aloitus, Text 1 kuuntelu ja käsittely
+  grammar: sanajärjestys
+- date: ke 13.4.
+  title: Itsenäisesti Text 1 tehtävät
+  grammar: sanajärjestys
+- date: pe 15.4.
+  title: Text 1 suulliset harjoitukset
+- date: ti 19.4.
+  title: Temaord - utvecklingssamarbete
+  other: Sanakoe text 1
+- date: ke 20.4.
+  title: Temaord - politik 
+  gramamr: substantiivin attribuutti  
+- date: pe 22.4.
+  title: Text 2 kuuntelu ja käsittely
+  grammar: substantiivin attribuutti
+  other: Ensimmäisen kirjoitelman palautus
+- date: ti 26.4.
+  title: Text 2 suulliset harjoitukset
+  grammar: substantiivin attribuutti
+- date: ke 27.4.
+  title: Itsenäisesti - Temaord 
+- date: pe 29.4.
+  title: Harjoituksia
+  other: Sanakoe text 2, kuuntelukoe
+- date: ti 3.5.
+  title: Temaord - Brott och straff
+  grammar: omistus
+  other: Toisen kirjoitelman palautus
+- date: ke 4.5.
+  title: Temaord - Brott och straff
+  other: omistus
+- date: pe 6.5.
+  title: Vapaa
+- date: ti 10.5.
+  title: Text 4 kuuntelu ja käsittely
+  grammar: var-verbit
+  other: Kolmannen kirjoitelman palautus
+- date: ke 11.5.
+  title: Text 4 suulliset harjoitukset
+  grammar: var-verbit
+- date: pe 13.5.
+  title: Temaord - Hälsa
+  grammar: var-verbit
+- date: ti 17.5.
+  title: Harjoituksia
+  other: Sanakoe text 4, kuuntelukoe
+- date: ke 18.5.
+  title: Yo-kuuntelu
+  other: Neljännen kirjoitelman palautus
+- date: pe 20.5.
+  title: Vapaa
+- date: ti 24.5.
+  title: Harjoituksia
+- date: ke 25.5.
+  title: Valmisteleva tunti (viimeisellä tunnilla)
+  other: kaikille pakollinen läsnäolo!
+- date: to 26.5.
+  title: KURSSIKOE
+  other: työvihkon palautus
