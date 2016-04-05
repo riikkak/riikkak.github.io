@@ -11,7 +11,7 @@
   other: Sanakoe text 1
 - date: to 21.4.
   title: Text 2 kuuntelu ja käsittely
-  gramamr: substantiivin attribuutti s. 
+  gramamr: substantiivin attribuutti  
 - date: pe 22.4.
   title: Text 2 suulliset harjoitukset
   grammar: substantiivin attribuutti
@@ -57,6 +57,7 @@
   title: Valmisteleva tunti
   other: kaikille pakollinen läsnäolo!
 - date: ti 31.5.
-title:
-other: työvihkon palautus
+  title: KURSSIKOE
+  other: työvihkon palautus
+
 
