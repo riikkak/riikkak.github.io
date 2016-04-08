@@ -34,25 +34,24 @@
 - date: pe 6.5.
   title: Vapaa
 - date: ti 10.5.
-  title: Text 4 kuuntelu ja käsittely
-  grammar: var-verbit
+  title: Harjoituksia 
   other: Kolmannen kirjoitelman palautus
 - date: ke 11.5.
-  title: Text 4 suulliset harjoitukset
+  title: Text 4 kuuntelu ja käsittely
   grammar: var-verbit
 - date: pe 13.5.
-  title: Temaord - Hälsa
+  title: Text 4 suulliset harjoitukset
   grammar: var-verbit
 - date: ti 17.5.
-  title: Harjoituksia
-  other: Sanakoe text 4, kuuntelukoe
+  title: Temaord - Hälsa
+  other: var-verbit
 - date: ke 18.5.
-  title: Yo-kuuntelu
-  other: Neljännen kirjoitelman palautus
+  title: Neljännen kirjoitelman palautus
+  other: Sanakoe text 4, kuuntelukoe 
 - date: pe 20.5.
   title: Vapaa
 - date: ti 24.5.
-  title: Harjoituksia
+  title: Yo-kuuntelu
 - date: ke 25.5.
   title: Valmisteleva tunti (viimeisellä tunnilla)
   other: kaikille pakollinen läsnäolo!
