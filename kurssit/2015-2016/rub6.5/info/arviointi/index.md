@@ -16,9 +16,12 @@ Arviointiin vaikuttaa kurssikoe, joka koostuu kolmesta osasta:
 3. Kuuntelut 40p
 
 Muut suoritukset:
-1. Aktiivisuus tunnilla ja parikeskustelut
-2. Projekti
+1. Aktiivisuus tunnilla ja parikeskustelut (ISO PAINOARVO!)
+2. Ryhmäprojekti
 3. Kotitehtävät
+4. Työvihko
 
 Poissaoloja saa tulla maksimissaan kaksi, koska kurssi on tuntityöskentelyyn perustuva TYÖKURSSI. Jos poissaoloja on enemmän kuin kaksi, kurssi keskeytyy. Inhimilliset syyt kuten sairastuminen ovat toki ymmärrettäviä. Näissä tapauksissa neuvottele välittömästi sairauden alettua opettajan kanssa.
 Suullisesta kokeesta saa erillisen todistuksen jota voi käyttää esimerkiksi työpaikkaa hakiessa.
+
+Suullisen kokeen numero on eri asia kuin suulliseen todistukseen tuelva numero, siinä nimittäin vain tasanumeroita, ei puolikkaita eikä plussia.
