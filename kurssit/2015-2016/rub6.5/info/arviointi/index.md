@@ -16,6 +16,7 @@ Arviointiin vaikuttaa kurssikoe, joka koostuu kolmesta osasta:
 3. Kuuntelut 40p
 
 Muut suoritukset:
+
 1. Aktiivisuus tunnilla ja parikeskustelut (ISO PAINOARVO!)
 2. Ryhmäprojekti
 3. Kotitehtävät
