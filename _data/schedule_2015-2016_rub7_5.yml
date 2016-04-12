@@ -6,7 +6,7 @@
   title: Text 1 suulliset harjoitukset
 - date: ma 18.4
   title: Temaord - utvecklingssamarbete
-  other: Sanakoe text , kuuntelu 1
+  other: Sanakoe text
 - date: to 21.4.
   title: Text 2 kuuntelu ja käsittely
   grammar: substantiivin attribuutti  
@@ -21,10 +21,10 @@
   title: Harjoituksia
   other: Sanakoe text 2, kuuntelukoe
 - date: pe 29.4.
-  title: Text 3 
+  title: Text 3 uutena
   grammar: omistus
 - date: ma 2.5.
-  title: Temaord - Brott och straff
+  title: Text 3 vanhana
   grammar: omistus
   other: Toisen kirjoitelman palautus
 - date: to 5.5
@@ -32,25 +32,25 @@
 - date: pe 6.5.
   title: VAPAA
 - date: ma 9.5.
-  title: Text 4 kuuntelu ja käsittely
+  title: Temaord - Brott och straff 
   grammar: var-verbit
   other: Kolmannen kirjoitelman palautus
 - date: to 12.5.
-  title: Text 4 suulliset harjoitukset
+  title: Text 4 kuuntelu ja käsittely
   grammar: var-verbit
 - date: pe 13.5.
-  title: Temaord - Hälsa
+  title: Text 4 suulliset harjoitukset
   grammar: var-verbit
 - date: ma 16.5.
-  title: Harjoituksia
-  other: Sanakoe text 4, kuuntelukoe
+  title: Temaord - Hälsa
 - date: to 19.5.
-  title: Yo-kuuntelu
-  other: Neljännen kirjoitelman palautus
+  title: Neljännen kirjoitelman palautus
+  other: Sanakoe text 4, kuuntelukoe
 - date: pe 20.5.
   title: VAPAA
 - date: ma 23.5.
   title: Text 5 tarkistus
+  other: YO-kuuntelu
 - date: ma 30.5.
   title: Valmisteleva tunti
   other: kaikille pakollinen läsnäolo!
