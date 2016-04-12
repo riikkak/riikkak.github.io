@@ -1,13 +1,12 @@
 - date: ti 12.4.
   title: Aloitus, Text 1 kuuntelu ja käsittely
-  grammar: sanajärjestys
 - date: ke 13.4.
-  title: Itsenäisesti Text 1 tehtävät
-  grammar: sanajärjestys
+  title:  Text 1 suulliset harjoitukset
 - date: pe 15.4.
-  title: Text 1 suulliset harjoitukset
-- date: ti 19.4.
   title: Temaord - utvecklingssamarbete
+- date: ti 19.4.
+  title: Harjoituksia
+  grammar: substantiivin attribuutti
   other: Sanakoe text 1
 - date: ke 20.4.
   title: Temaord - politik 
@@ -35,6 +34,7 @@
   title: Vapaa
 - date: ti 10.5.
   title: Harjoituksia 
+  grammar: omistus
   other: Kolmannen kirjoitelman palautus
 - date: ke 11.5.
   title: Text 4 kuuntelu ja käsittely
@@ -52,9 +52,7 @@
   title: Vapaa
 - date: ti 24.5.
   title: Yo-kuuntelu
-- date: ke 25.5.
-  title: Valmisteleva tunti (viimeisellä tunnilla)
-  other: kaikille pakollinen läsnäolo!
+  other: Kokeeseen valmistelu
 - date: to 26.5.
   title: KURSSIKOE
   other: työvihkon palautus
