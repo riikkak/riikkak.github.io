@@ -6,7 +6,7 @@ course: rub7.5
 published: true
 ---
 
-## Kotikirjoitelma 1 -Utvecklingssamarbete
+### Kotikirjoitelma 1 -Utvecklingssamarbete
 
 Kirjoita 50-70 sanan kirjoitelma. Noudata annettuja ohjeita ja sisältövinkkejä. Käytä tekstissä ja aihepiirisanastossa olleita sanoja ja ilmauksia.  Maksimisanamäärä saa ylittyä vain 15%, eli ehdoton maksimi 80 sanaa. Laske ja merkitse sanamäärä tekstin loppuun (67 ord). Voit kirjoittaa kirjoitelman opettajan jakamalle paperille, konseptille (joka toiselle riville) tai koneella kirjoitettuna (riviväli 2,5 fontti 12).
 
