@@ -8,13 +8,14 @@
   title: Itsenäisesti - text 1
   grammar: substantiivien määräysmuodot
 - date: ma 18.4.
-  title: Text 1 tarkistus - arbetsliv
-  other: Sanakoe text 1
+  title: Text 1 suulliset harjoitukset
 - date: ke 20.4.
   title: Text 2 kuuntelu ja käsittely
+  other: Sanakoe text 1
 - date: to 21.4.
   title: Text 2 suulliset harjoitukset
   grammar: man-rakenne
+  other: arbetsliv
 - date: ma 2.5.
   title: Harjoituksia
   grammar: man-rakenne
