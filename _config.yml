@@ -89,3 +89,7 @@ prose:
               value: "rub7.5 etusivu"
             - name: "RUB7.5 - Läksyt"
               value: "rub7.5 läksyt"
+            - name: "RUB7.6 - Etusivu"
+              value: "rub7.6 etusivu"
+            - name: "RUB7.6 - Läksyt"
+              value: "rub7.6 läksyt"
