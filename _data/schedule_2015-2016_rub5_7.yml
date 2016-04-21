@@ -10,16 +10,22 @@
 - date: ma 18.4.
   title: Text 1 suulliset harjoitukset
 - date: ke 20.4.
-  title: Text 2 kuuntelu ja käsittely
+  title: Temaord - studier
   other: Sanakoe text 1
 - date: to 21.4.
+  title: Text 2 kuuntelu ja käsittely
+- date: ma 26.4.
   title: Text 2 suulliset harjoitukset
   grammar: man-rakenne
-  other: arbetsliv
-- date: ma 2.5.
-  title: Harjoituksia
+- date: ke 28.4.
+  title: Arbetsliv
+- date: to 29.4.
+  title: Arbetsliv
   grammar: man-rakenne
   other: Sanakoe text 2, kuuntelukoe studier och arbetsliv
+- date: ma 2.5.
+  title: Media och konsumtion
+  grammar: s-passiivi
 - date: ke 4.5.
   title: Media och konsumtion
   grammar: s-passiivi
