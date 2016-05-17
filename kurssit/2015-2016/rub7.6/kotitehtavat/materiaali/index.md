@@ -11,4 +11,6 @@ published: true
 - [Text 4 alleviivaukset](/media/rub7/text4_alleviivaukset.pdf)
 - [Hälsa-sanasto](/media/rub7/hälsa_oikeat.pdf)
 
-OBS! Virhe text 2 alleviivauksissa, viimeinen**rösta i valet**
+OBS! Virhe tekstin 4 alleviivauksissa: ett fall 5 monikossa fallen ja skyfall.
+
+OBS! Virhe text 2 alleviivauksissa, viimeinen **rösta i valet**
