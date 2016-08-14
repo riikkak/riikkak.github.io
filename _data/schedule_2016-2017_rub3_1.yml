@@ -5,53 +5,52 @@
   grammar: ajanilmaukset
 - date: ke 17.8.
   title: Text 1 ääntö ja kertaus
-  grammar: Interrogatiivi pronominit
+  grammar: kysyvät pronominit
 - date: pe 19.9.
   title: Väder 
   grammar: Pronominit jatkuu
   other: Sanakoe 1, text 1
 - date: ti 23.8.
   title: Att fråga efter vägen
-  grammar: Demonstratiivipronominit 1
-  other: Kuuntelukoe 1
+  grammar: tämä, nämä, se, ne
 - date: ke 24.8.
   title: Text 2 kuuntelu ja käsittely
   grammar: jatkuu
 - date: pe 26.8.
   title: Text 2 ääntö ja kertaus
-- date: ti .
-  title: Suomen luonto, Lappi
-  grammar: sama, sellainen, samanlainen
-  other: Sana- ja kuuntelukoe 2
-- date: ti 1.9.
-  title: Harjoituksia
-  grammar: jatkuu
-- date: to 3.9.
-  title: Ruoka, juoma
-  grammar: paljoussanat s. 143
-  other: Kotiaineen palautus
-- date: ma 7.9.
-  title: Sauna
+- date: ti 30.8.
+  title: Lappi
+  grammar: sama 
+  other: Sana- ja kuuntelukoe 1
+- date: ke 31.8.
+  title: Lappi jatkuu
+  grammar: sellainen, samanlainen
+- date: pe 2.9.
+  title: Suomen luonto
   grammar: joku, ei kukaan s. 139-140
-  other: Itsenäisesti
-- date: ti 8.9.
+- date: ti 6.9.
   title: Sauna
-  grammar: jatkuu
-- date: to 10.9.
-  title: Armeija
-  grammar: toiset, muut s. 141
-- date: ma 14.9.
-  title: Text 5 uutena
+  grammar: toinen, toiset s. 141
+  other: Armeija
+- date: ke 7.9.
+  title: Harjoituksia
   grammar: kaikki s. 145
-- date: ti 15.9.
-  title: Text 5 vanhana
+  other: Kuuntelukoe 2
+- date: pe 9.9.
+  title: Text 3
+  grammar: paljoussanat s. 143
+- date: ti 13.9.
+  title: Text 3 tarkistus, juhlat ja ruoat
   grammar: jokainen, jokaikinen s. 147-149
-- date: to 17.9.
-  title: Harjoituksia
-  grammar: jatkuu
-- date: ma 21.9.
-  title: Harjoituksia
+- date: ke 14.9.
+  title: Text 5 kuuntelu ja käsittely
   grammar: koko, molemmat, itse s. 150-152
+- date: pe 16.9.
+  title: Text 5 ääntö ja kertaus
+  grammar: jatkuu
+- date: ti 20.9.
+  title: Harjoituksia
+  grammar: erisnimen suku
   other: Sana- ja kuuntelukoe 3
 - date: ti 22.9.
   title: KOEAINE
