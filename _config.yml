@@ -9,14 +9,14 @@ lsi: false
 highlighter: rouge
 url: http://riikka.koskenranta.fi
 baseurl:
-semester: 2015-2016
+semester: 2016-2017
 
 defaults:
   -
     scope:
       path: ""
     values:
-      period: 5
+      period: 1
   -
     scope:
       path: "kurssit/2013-2014"
@@ -35,6 +35,13 @@ defaults:
       path: "kurssit/2015-2016"
     values:
       semester: "2015-2016"
+      current: false
+      archived: true
+  -
+    scope:
+      path: "kurssit/2016-2017"
+    values:
+      semester: "2016-2017"
       current: true
       archived: false
 
@@ -77,19 +84,19 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB5.7 - Etusivu"
-              value: "rub5.7 etusivu"
-            - name: "RUB5.7 - Läksyt"
-              value: "rub5.7 läksyt"
-            - name: "RUB6.5 - Etusivu"
-              value: "rub6.5 etusivu"
-            - name: "RUB6.5 - Läksyt"
-              value: "rub6.5 läksyt"
-            - name: "RUB7.5 - Etusivu"
-              value: "rub7.5 etusivu"
-            - name: "RUB7.5 - Läksyt"
-              value: "rub7.5 läksyt"
-            - name: "RUB7.6 - Etusivu"
-              value: "rub7.6 etusivu"
-            - name: "RUB7.6 - Läksyt"
-              value: "rub7.6 läksyt"
+            - name: "RUB3.1 - Etusivu"
+              value: "rub3.1 etusivu"
+            - name: "RUB3.1 - Läksyt"
+              value: "rub3.1 läksyt"
+            - name: "RUB10.2 - Etusivu"
+              value: "rub10.2 etusivu"
+            - name: "RUB10.2 - Läksyt"
+              value: "rub10.2 läksyt"
+            - name: "RUB10.3 - Etusivu"
+              value: "rub10.3 etusivu"
+            - name: "RUB10.3 - Läksyt"
+              value: "rub10.3 läksyt"
+            - name: "RUB11.2 - Etusivu"
+              value: "rub11.2 etusivu"
+            - name: "RUB11.2 - Läksyt"
+              value: "rub11.2 läksyt"
