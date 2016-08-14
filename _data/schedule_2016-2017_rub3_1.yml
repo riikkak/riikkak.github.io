@@ -9,7 +9,7 @@
 - date: pe 19.9.
   title: Väder 
   grammar: Pronominit jatkuu
-  other: Sanakoe 1, text 1
+  other: Sanakoe 1
 - date: ti 23.8.
   title: Att fråga efter vägen
   grammar: tämä, nämä, se, ne
@@ -25,6 +25,7 @@
 - date: ke 31.8.
   title: Lappi jatkuu
   grammar: sellainen, samanlainen
+  other: Kirjoitelma 1 palautus
 - date: pe 2.9.
   title: Suomen luonto
   grammar: joku, ei kukaan s. 139-140
@@ -39,6 +40,7 @@
 - date: pe 9.9.
   title: Text 3
   grammar: paljoussanat s. 143
+  other: Kirjoitelma 2 palautus
 - date: ti 13.9.
   title: Text 3 tarkistus, juhlat ja ruoat
   grammar: jokainen, jokaikinen s. 147-149
@@ -48,15 +50,11 @@
 - date: pe 16.9.
   title: Text 5 ääntö ja kertaus
   grammar: jatkuu
+  other: Kirjoitelma 3 palautus
 - date: ti 20.9.
   title: Harjoituksia
   grammar: erisnimen suku
   other: Sana- ja kuuntelukoe 3
-- date: ti 22.9.
-  title: KOEAINE
-  grammar: harjoituksia
-- date: ke 30.9.
-  title: VALMISTELEVA TUNTI
-  grammar: KERTAUSTA
-- date: to 1.10
-  title: KURSSIKOE
+- date: to 22.9
+  title: Arviointipäivä
+  other: työvihkon palautus
