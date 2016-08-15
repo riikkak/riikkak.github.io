@@ -18,26 +18,26 @@
 - date: ma 29.8.
   title: Text 3 kuuntelu ja käsittely
   grammar: verbit
+  other: Kirjoitelma 1 palautus
 - date: ti 30.8.
   title: Text 3 harjoituksia
   grammar: verbit
 - date: to 1.9.
   title: På fritiden - harjoituksia
-  other: verbit
+  grammar: verbit
 - date: ma 5.9.
   title: Text 4 kuuntelu ja käsittely
   other: Sana- ja kuuntelukoe text 3
 - date: ti 6.9.
   title: Text 4 kertaus
   grammar: substantiivit
-  other: Kirjoitelma 1 palautus
 - date: to 8.9.
   title: Skola - harjoituksia
   grammar: substantiivit
 - date: ma 12.9.
-  title: Harjotiuksia
+  title: Harjoituksia
   grammar: substantiivit
-  other: Sana- ja kuuntelukoe 3
+  other: Sana- ja kuuntelukoe 3, Kirjoitelma 2 palautus
 - date: ti 13.9.
   title: Familj och släktingar
   other: Text 5 itsenäisesti valmis
