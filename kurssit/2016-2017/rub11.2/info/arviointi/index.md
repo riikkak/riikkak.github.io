@@ -41,10 +41,10 @@ palautetaan opettajalle ja se millä huolellisuusasteella se on täytetty, vaiku
 arvosanaasi. Arviointiasteikko työvihkolle 1-5, työvihkon palautus on edellytys arvosanan saamiseksi. Mitä enemmän työn jälkeä vihkossa näkyy, sen parempi.
 
 # Kuuntelukokeet
-Kuuntelukokeet suoritetaan 2-3 erässä kurssin aikana. Koeviikolla ei siis enää
+Kuuntelukokeet suoritetaan 2-3 erässä kurssin aikana. Arviointipäivänä ei siis enää
 ole suurempaa kuuntelukoetta. Kuuntelukokeen aiheet noudattavat edellistä
 käsiteltyä teemaa. Voit valmistautua niihin kertaamalla teemasanastoja, merkitty
-kirjaan otsikolla Ord (vastaava yleensä myös työvihkossa). Kuuntelukokeiden osuus kurssikokeen pisteistä on yleensä 60.
+kirjaan otsikolla Ord (vastaava yleensä myös työvihkossa). Kuuntelukokeiden osuus arvioinnin pisteistä on yleensä 60.
 
 Kurssin aikana kuuntelukokeisiin harjoitellaan tekstien kuuntelulla,
 ääntämisharjoituksilla ja parikeskusteluilla. Suurempia harjoituskuunteluita
