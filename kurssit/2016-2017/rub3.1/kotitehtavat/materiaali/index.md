@@ -14,4 +14,4 @@ Täytä tekstien keskeiset fraasit työvihkoon ruotsiksi ja tarkista ne alla ole
 OBS! Virhe text 2 alleviivauksissa, PÅ BUSSEN, ei i.
 
 
-[Pronomonit](https://quizlet.com/_1m3728)
+[Pronominit](https://quizlet.com/_1m3728)
