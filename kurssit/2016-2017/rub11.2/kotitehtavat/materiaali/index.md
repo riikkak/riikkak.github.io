@@ -6,6 +6,7 @@ course: rub11.2
 published: true
 ---
 [Text 2 fraasit](https://quizlet.com/_2fa28r)
+
 [Text 3 fraasit](https://quizlet.com/_2g8j5y)
 
 ## Kotikirjoitelma 1 - Min vardag
