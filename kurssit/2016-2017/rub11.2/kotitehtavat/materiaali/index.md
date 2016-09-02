@@ -28,7 +28,7 @@ Vapaa-aika
 - Mitä teet perheesi kanssa?
 - Mitä teet arkena vapaa-aikana, mitä viikonloppuna?
 
-Käytä monipuolisesti s.60 sanastoa (fritid teema-sanaston toinen sivu) ja erityisesti sivun alaosan ajanmääreitä. Muista, että totta ei ole pakko puhua. Pääasia että kirjoitat hyvin ja monipuolisesti ruotsiksi.
+Käytä monipuolisesti s.61 sanastoa (fritid teema-sanaston toinen sivu) ja erityisesti sivun alaosan ajanmääreitä. Muista, että totta ei ole pakko puhua. Pääasia että kirjoitat hyvin ja monipuolisesti ruotsiksi.
 
 Kirjoita tekstisi opettajan jakamalle paperille. Laske ja merkitse loppuun sanamäärä.
 
