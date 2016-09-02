@@ -9,6 +9,8 @@ published: true
 
 [Text 3 fraasit](https://quizlet.com/_2g8j5y)
 
+[Text 4 fraasit](https://quizlet.com/_2gi0l7)
+
 ## Kotikirjoitelma 1 - Min vardag
 
 Kirjoita n. 50-80 sanan kuvaus omasta arjestasi. Kerro esimerkiksi seuraavista asioista:
