@@ -13,8 +13,9 @@ published: true
 
 ## Text 5 itsenäiset tehtävät
 
-Lue teksti 5 ja tee siihen liittyvä aukkokäännös (opettajan jakama). Tee sitten seuraavat teksti 5 liittyvät tehtävät kirjasta:
-* 3a, 4a, 4b, 5
+Lue teksti 5 ja tee siihen liittyvä aukkokäännös (opettajan jakama). Tee sitten seuraavat:
+
+* Teksti 5 tehtävät 3a, 4a, 4b, 5
 * Plussatehtävinä tehtävä 2a ja 4c
 
 Tehtävien näyttö ja palautus torstain 15.9. tunnilla. Tehtävien teko on osa kurssisuoritusta, tekemättömät tehtävät vaikuttavat arvosanaan.
