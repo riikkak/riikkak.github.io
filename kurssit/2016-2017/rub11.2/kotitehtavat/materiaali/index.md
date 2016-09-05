@@ -14,9 +14,8 @@ published: true
 ## Text 5 itsenäiset tehtävät
 
 Lue teksti 5 ja tee siihen liittyvä aukkokäännös (opettajan jakama). Tee sitten seuraavat teksti 5 liittyvät tehtävät kirjasta:
-
--3a, 4a, 4b, 5
--Plussatehtävinä tehtävä 2a ja 4c
+- 3a, 4a, 4b, 5
+- Plussatehtävinä tehtävä 2a ja 4c
 
 Tehtävien näyttö ja palautus torstain 15.9. tunnilla. Tehtävien teko on osa kurssisuoritusta, tekemättömät tehtävät vaikuttavat arvosanaan.
 
@@ -25,17 +24,19 @@ Tehtävien näyttö ja palautus torstain 15.9. tunnilla. Tehtävien teko on osa 
 Kirjoita n. 70-100 sanan kuvaus vapaa-ajastasi. Kerro molemmista aiheista (harrastus ja vapaa-aika), kaikkia asioita ei tarvitse käsitellä.
 
 Harrastuksesi:
--mikä se on
--kuinka usein harrastat
--kauanko olet harrastanut
--Mikä on parasta harrastuksessasi?
+- mikä se on
+- kuinka usein harrastat
+- kauanko olet harrastanut
+- Mikä on parasta harrastuksessasi?
+
+
 
 Vapaa-aika
--Mitä muuta teet vapaa-ajallasi harrastuksesi lisäksi?
--Käy läpi esim. tietokoneen ja sosiaalisen median käyttö
--Mitä teet kavereidesi kanssa?
--Mitä teet perheesi kanssa?
--Mitä teet arkena vapaa-aikana, mitä viikonloppuna?
+- Mitä muuta teet vapaa-ajallasi harrastuksesi lisäksi?
+- Käy läpi esim. tietokoneen ja sosiaalisen median käyttö
+- Mitä teet kavereidesi kanssa?
+- Mitä teet perheesi kanssa?
+- Mitä teet arkena vapaa-aikana, mitä viikonloppuna?
 
 Käytä monipuolisesti s.61 sanastoa (fritid teema-sanaston toinen sivu) ja erityisesti sivun alaosan ajanmääreitä. Muista, että totta ei ole pakko puhua. Pääasia että kirjoitat hyvin ja monipuolisesti ruotsiksi.
 
