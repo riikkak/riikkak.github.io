@@ -31,14 +31,13 @@ Harrastuksesi:
 * kauanko olet harrastanut
 * Mikä on parasta harrastuksessasi?
 
-
-
 Vapaa-aika
-- Mitä muuta teet vapaa-ajallasi harrastuksesi lisäksi?
-- Käy läpi esim. tietokoneen ja sosiaalisen median käyttö
-- Mitä teet kavereidesi kanssa?
-- Mitä teet perheesi kanssa?
-- Mitä teet arkena vapaa-aikana, mitä viikonloppuna?
+
+* Mitä muuta teet vapaa-ajallasi harrastuksesi lisäksi?
+* Käy läpi esim. tietokoneen ja sosiaalisen median käyttö
+* Mitä teet kavereidesi kanssa?
+* Mitä teet perheesi kanssa?
+* Mitä teet arkena vapaa-aikana, mitä viikonloppuna?
 
 Käytä monipuolisesti s.61 sanastoa (fritid teema-sanaston toinen sivu) ja erityisesti sivun alaosan ajanmääreitä. Muista, että totta ei ole pakko puhua. Pääasia että kirjoitat hyvin ja monipuolisesti ruotsiksi.
 
