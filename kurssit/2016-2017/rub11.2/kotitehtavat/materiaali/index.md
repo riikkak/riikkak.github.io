@@ -11,6 +11,15 @@ published: true
 
 [Text 4 fraasit](https://quizlet.com/_2gi0l7)
 
+## Maanantain tunnin itsenäiset tehtävät
+
+1. Täytä loppuu työvihkoon substantiivien taivutukseen liittyviin taulukoihin tunnilla kesken jääneet sanat. (s. 10-11)
+2. Taivuta substantiivit työvihkon sivun 12 taulukkoon (koko taulukko!).
+
+3. Tee kirjasta substantiivin taivutukseen liittyen seuraavat tehtävät: 1,2,  4a, 6 (katso apua sivulta 148/teoriaosiosta), 7a.
+
+4. Tee koulusanoihin liittyvät tehtävät 4a ja 4b (teht 7 plussatehtävä).
+
 ## Text 5 itsenäiset tehtävät
 
 Lue teksti 5 ja tee siihen liittyvä aukkokäännös (opettajan jakama). Tee sitten seuraavat:
