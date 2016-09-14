@@ -13,5 +13,13 @@ Täytä tekstien keskeiset fraasit työvihkoon ruotsiksi ja tarkista ne alla ole
 
 OBS! Virhe text 2 alleviivauksissa, PÅ BUSSEN, ei i.
 
-
 [Pronominit](https://quizlet.com/_1m3728)
+
+## Kolmas kotiaine (vapaaehtoinen)
+
+Kirjoita 50-70 sanan kirje mummollesi retkestäsi Pohjois-Suomeen. Kerro mummolle mitä kaikkea näit matkallasi, mitä eläimiä, kasveja, marjoja jne jne. ET SAA YLITTÄÄ MAKSIMI SANAMÄÄRÄÄ! PISTEVÄHENNYS!
+
+Muista kirjeen tunnusmerkit. Päivämäärä, paikka (oikeaan yläkulmaan), alkuun tervehdys (kära mormor/farmor, Hej!, Bästa mormor/farmor), loppuun lopetusfraasi (Puss och kram, Skriv snart, Vi ses om en vecka, Hälsa farfar/morfar, Sköt om dig!) ja viimeiseksi lopputervehdys (HÄlsningar + oma nimi).
+
+
+
