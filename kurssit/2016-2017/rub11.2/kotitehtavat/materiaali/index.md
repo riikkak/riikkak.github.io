@@ -11,6 +11,8 @@ published: true
 
 [Text 4 fraasit](https://quizlet.com/_2gi0l7)
 
+[Text 6 fraasit](https://quizlet.com/_2i7xp2)
+
 ## Kotikirjoitelma 3 (valinnainen)
 
 Kirjoita tähänastisesta lukion käynnistäsi 100-130 sanan kirjoitelma. Voit käsitellä mm. seuraavia asioita:
