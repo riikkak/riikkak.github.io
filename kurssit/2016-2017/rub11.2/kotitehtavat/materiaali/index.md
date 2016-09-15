@@ -11,6 +11,21 @@ published: true
 
 [Text 4 fraasit](https://quizlet.com/_2gi0l7)
 
+## Kotikirjoitelma 3 (valinnainen)
+
+Kirjoita tähänastisesta lukion käynnistäsi 100-130 sanan kirjoitelma. Voit käsitellä mm. seuraavia asioita:
+
+* Missä koulussa olet ja kaunko olet käynyt koulua.
+* Millainen koulusi on?
+* Mitä aineita sinulla on nyt, kuinka pitkiä päiväsi ovat?
+* Onko sinulla hyppytunteja? Mitä teet niillä, entä välitunneilla?
+* Millaisilta opettajasi vaikuttavat?
+* Oletko jo suunnitellut muita jaksoja, mitä kursseja olet valinnut?
+* Mitä aiot kirjoittaa ylioppilaskirjoituksissa?
+* Oletko saanut uusia kavereita?
+
+Kirjoita aineesi opettajan jakamalle paperille. Palautus viimeistään tiistaina 20.9.
+
 ## Maanantain tunnin itsenäiset tehtävät
 
 1. Täytä loppuu työvihkoon substantiivien taivutukseen liittyviin taulukoihin tunnilla kesken jääneet sanat. (s. 10-11)
