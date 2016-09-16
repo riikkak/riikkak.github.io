@@ -12,6 +12,11 @@ Täytä tekstien keskeiset fraasit työvihkoon ruotsiksi ja tarkista ne alla ole
 - [Text 2 alleviivaukset](/media/rub3/text2_alleviivaukset.pdf)
 - [Text 5 alleviivaukset](/media/rub3/text5_alleviivaukset_oikeat.pdf)
 
+**OBS! alleviivauksista puuttuivat:**
+
+* sekoitus = en blandning 2 / en mix 3
+* yhtiön nimi = bolagets namn
+* perusti oman yrityksen = startade en egen firma / ett eget företag
 
 OBS! Virhe text 2 alleviivauksissa, PÅ BUSSEN, ei i.
 
