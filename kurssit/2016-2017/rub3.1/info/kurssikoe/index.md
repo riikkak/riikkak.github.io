@@ -19,7 +19,23 @@ Suullisessa osiossa asenner, rohkeus ja yrittäminen on iso osa onnistumista. Ku
 
 ### Kirjallinen osio
 
-Luetunymmärtämisen tehtäviä, kielioppiosio ja käännöslauseita (SU-RU ja RU-SU)
+Luetunymmärtämisen tehtäviä, kielioppiosio ja käännöslauseita (SU-RU ja RU-SU).
+
+**Lue seuraavat aihepiirit:**
+
+* Kieliasiat (tekstit 1 ja 2)
+* Kaupungit
+* Sää
+* Tienneuvominen
+* Luonto
+* Sauna
+* Armeija
+* Juhlat & ruoat
+* Onnentoivotukset
+
+**Kielioppi:**
+
+* Kaikki käydyt asiat! (interrogatiivit, dmeonstratiivit, indefiniitit, erisnimen suku
 
 
 
