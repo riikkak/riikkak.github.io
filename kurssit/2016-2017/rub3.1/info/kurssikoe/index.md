@@ -15,7 +15,7 @@ Suullinen arviointi suoritetaan neljän hengen ryhmissä. Jokainen ryhmästä lu
 
 Suullisesta osuudesta saa arvosanan 4-10 ja arvosana otetaan osaksi kurssin kokonaisarviointia.
 
-Suullisessa osiossa asenner, rohkeus ja yrittäminen on iso osa onnistumista. Kukaan ei puhu täydellisesti joten siihen ei tarvitse pyrkiä. Tärkeintä on että suusta tulee ruotsia.
+Suullisessa osiossa asenne, rohkeus ja yrittäminen on iso osa onnistumista. Kukaan ei puhu täydellisesti joten siihen ei tarvitse pyrkiä. Tärkeintä on että suusta tulee ruotsia.
 
 ### Kirjallinen osio
 
@@ -33,9 +33,12 @@ Luetunymmärtämisen tehtäviä, kielioppiosio ja käännöslauseita (SU-RU ja R
 * Juhlat & ruoat
 * Onnentoivotukset
 
+Lue sekä työvihkon että kirjan asiat!
+
 **Kielioppi:**
 
-* Kaikki käydyt asiat! (interrogatiivit, dmeonstratiivit, indefiniitit, erisnimen suku
+* Kaikki käydyt asiat! (interrogatiivit, demonstratiivit, indefiniitit, erisnimen suku)
+* Lue sekä työvihko että kirja!
 
 
 
