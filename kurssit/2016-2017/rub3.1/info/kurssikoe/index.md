@@ -13,7 +13,7 @@ Arviointi päivän kesto on 5 tuntia, sisältäen ruokailun. Päivä alkaa klo 8
 
 Suullinen arviointi suoritetaan neljän hengen ryhmissä. Jokainen ryhmästä lukee sanoja, sekä lauseita ruotsiksi ja ryhmä käy myös yhteistä keskustelua ruotsiksi. Aiheet liittyvät kurssin aihepiireihin.
 
-Suullisesta osuudesta saa arvosanan 4-10 ja arvosana otetan osaksi kurssin kokonaisarviointia.
+Suullisesta osuudesta saa arvosanan 4-10 ja arvosana otetaan osaksi kurssin kokonaisarviointia.
 
 Suullisessa osiossa asenner, rohkeus ja yrittäminen on iso osa onnistumista. Kukaan ei puhu täydellisesti joten siihen ei tarvitse pyrkiä. Tärkeintä on että suusta tulee ruotsia.
 
