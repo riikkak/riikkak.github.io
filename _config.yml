@@ -16,7 +16,7 @@ defaults:
     scope:
       path: ""
     values:
-      period: 1
+      period: 2
   -
     scope:
       path: "kurssit/2013-2014"
@@ -84,19 +84,19 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB3.1 - Etusivu"
-              value: "rub3.1 etusivu"
-            - name: "RUB3.1 - Läksyt"
-              value: "rub3.1 läksyt"
-            - name: "RUB10.2 - Etusivu"
-              value: "rub10.2 etusivu"
-            - name: "RUB10.2 - Läksyt"
-              value: "rub10.2 läksyt"
-            - name: "RUB10.3 - Etusivu"
-              value: "rub10.3 etusivu"
-            - name: "RUB10.3 - Läksyt"
-              value: "rub10.3 läksyt"
-            - name: "RUB11.2 - Etusivu"
-              value: "rub11.2 etusivu"
-            - name: "RUB11.2 - Läksyt"
-              value: "rub11.2 läksyt"
+            - name: "RUB4.2 - Etusivu"
+              value: "rub4.2 etusivu"
+            - name: "RUB4.2 - Läksyt"
+              value: "rub4.2 läksyt"
+            - name: "RUB4.3 - Etusivu"
+              value: "rub4.3 etusivu"
+            - name: "RUB4.3 - Läksyt"
+              value: "rub4.3 läksyt"
+            - name: "RUB6.2 - Etusivu"
+              value: "rub6.2 etusivu"
+            - name: "RUB6.2 - Läksyt"
+              value: "rub6.2 läksyt"
+            - name: "RUB11.4 - Etusivu"
+              value: "rub11.4 etusivu"
+            - name: "RUB11.4 - Läksyt"
+              value: "rub11.4 läksyt"
