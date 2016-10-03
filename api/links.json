@@ -1,7 +1,8 @@
 ---
 ---
 [
-{% for post in site.posts reversed | sort: title %}
+{% assign posts_reversed = site.posts reversed | sort: title %}
+{% for post in posts_reversed %}
 {
 "text": "{{post.title | replace:'"','\"'}}",
 "href": "{{site.baseurl}}{{post.url}}"
