@@ -5,3 +5,4 @@ theme: swedish
 course: rub4.2
 ---
 
+- [Text 1 alleviivaukset](/media/rub4/text1_oikeat.pdf)
