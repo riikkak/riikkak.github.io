@@ -27,9 +27,9 @@ Muista oikea muotoilu tekstinkäsittelyohjelmassa:
 - oikealle ylätunnisteeseen oma nimi ja luokka
 - tasatut reunat
 
-## Kirjoitelman arviointi:
+## Kirjoitelmien arviointi:
 
-1. Sanasto ja laajuus = miten hyvin osaat soveltaa kurssilla opeteltua sanastoa 0 – 5p
+### Sanasto ja laajuus = miten hyvin osaat soveltaa kurssilla opeteltua sanastoa 0 – 5p
 
 * 1-2p
 
@@ -43,7 +43,7 @@ Kirjoitelmassa on jo enemmän pituutta, mutta sanastossa on vain pari kurssilla 
 
 Kirjoitelman pituus lähestyy jo sanamäärän ylärajaa, aiheen käsittely on monipuolista ja siinä on hyödynnetty kurssilla opittua sanastoa
 
-2. Rakenne = kirjoitelman virheettömyys ja kielelliset ansiot 0 – 5p
+### 2. Rakenne = kirjoitelman virheettömyys ja kielelliset ansiot 0 – 5p
 
 * 1 – 2p	
 
