@@ -6,7 +6,9 @@ course: rub11.4
 ---
 
 - [Text 1 fraasit](/media/rub1/text1_alleviivaukset.pdf)
-- [Text 1 fraasit](/media/rub1/text2_alleviivaukset.pdf)
+- [Text 2 fraasit](/media/rub1/text2_alleviivaukset.pdf)
+
+[Text 2 fraasit - flashcards](https://quizlet.com/_2fa28r)
 
 ## Ensimmäinen kotikirjoitelma - Kajsas / Pelles vardag och fest
 
