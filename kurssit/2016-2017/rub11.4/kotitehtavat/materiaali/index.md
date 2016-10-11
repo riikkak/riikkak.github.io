@@ -6,10 +6,19 @@ course: rub11.4
 ---
 
 - [Text 1 fraasit](/media/rub1/text1_alleviivaukset.pdf)
+- [Text 1 fraasit](/media/rub1/text2_alleviivaukset.pdf)
 
 ## Ensimmäinen kotikirjoitelma - Kajsas / Pelles vardag och fest
 
-Kirjoita n. 70 – 100 sanan kuvaus ruotsalaisen Kajsan tai Pellen arjesta ja juhlasta. Milloin hän nousee ylös, mitä syö aamiaiseksi, mikä on hänen lempiruokansa, miten kulkee kouluun tai töihin, mitä tekee koulun tai työn jälkeen, mikä on hänen lempijuhlansa, miten ruotsalaisuus näkyy Kajsan tai Pellen elämässä?
+Kirjoita n. 70 – 100 sanan kuvaus ruotsalaisen Kajsan tai Pellen arjesta ja juhlasta. 
+
+* milloin hän nousee ylös
+* mitä syö aamiaiseksi 
+* mikä on hänen lempiruokansa
+* miten kulkee kouluun tai töihin 
+* mitä tekee koulun tai työn jälkeen 
+* mikä on hänen lempijuhlansa
+* miten ruotsalaisuus näkyy Kajsan tai Pellen elämässä?
 
 Käytä kirjoitelmassa kurssilla opittuja fraaseja ja sanoja. Kirjoita ilman äidin, siskon, serkun, tyttöystävän, kumminkaiman tai Google Translaten apua. Älä myöskään käytä sanakirjoja, vain kurssikirjaa, työvihkoa tai Otavan sanastot-sovellusta. Voit lisätä mukaan kuvan, käyttää värejä tms.
 
@@ -29,31 +38,20 @@ Muista oikea muotoilu tekstinkäsittelyohjelmassa:
 
 ## Kirjoitelmien arviointi:
 
-### Sanasto ja laajuus = miten hyvin osaat soveltaa kurssilla opeteltua sanastoa 0 – 5p
+### PANOSTUS eli sanasto ja laajuus = miten hyvin osaat soveltaa kurssilla opeteltua sanastoa 0 – 5p
 
-* 1-2p
+* 1-2p Kirjoitelma on minimipituinen, mutta sanasto pysyy yleisellä tasolla tai fraasit on poimittu sanakirjasta/netistä.
 
-Kirjoitelma on minimipituinen, mutta sanasto pysyy yleisellä tasolla tai fraasit on poimittu sanakirjasta/netistä.
+* 3p Kirjoitelmassa on jo enemmän pituutta, mutta sanastossa on vain pari kurssilla opeteltua fraasia tai fraasit on poimittu enimmäkseen muualta kuin kirjasta.
 
-* 3p
+* 4 – 5p Kirjoitelman pituus lähestyy jo sanamäärän ylärajaa, aiheen käsittely on monipuolista ja siinä on hyödynnetty kurssilla opittua sanastoa
 
-Kirjoitelmassa on jo enemmän pituutta, mutta sanastossa on vain pari kurssilla opeteltua fraasia tai fraasit on poimittu enimmäkseen muualta kuin kirjasta.
+### KIELI eli rakenne = kirjoitelman virheettömyys ja kielelliset ansiot 0 – 5p
 
-* 4 – 5p	
+* 1 – 2p Kirjoitelmassa on käytetty pääasiassa pelkkiä suoria päälauseita, runsaasti virheitä jotka hankaloittavat tekstin lukemista/ymmärtämistä.
 
-Kirjoitelman pituus lähestyy jo sanamäärän ylärajaa, aiheen käsittely on monipuolista ja siinä on hyödynnetty kurssilla opittua sanastoa
+* 3p Lauserakenteet ovat jo monipuolisempia, mutta virheitä melko paljon.
 
-### 2. Rakenne = kirjoitelman virheettömyys ja kielelliset ansiot 0 – 5p
-
-* 1 – 2p	
-
-Kirjoitelmassa on käytetty pääasiassa pelkkiä suoria päälauseita, runsaasti virheitä jotka hankaloittavat tekstin lukemista/ymmärtämistä.
-
-* 3p 	
-Lauserakenteet ovat jo monipuolisempia, mutta virheitä melko paljon.
-
-* 4 – 5p	
-
-Kirjoitelmassa on käytetty sekä päälauseen suoraa että käänteistä sanajärjestystä, mukana on myös yksi tai useampia sivulauseita, teksti on melko virheetöntä.
+* 4 – 5p Kirjoitelmassa on käytetty sekä päälauseen suoraa että käänteistä sanajärjestystä, mukana on myös yksi tai useampia sivulauseita, teksti on melko virheetöntä.
 
 
