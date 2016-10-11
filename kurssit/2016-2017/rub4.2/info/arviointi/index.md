@@ -53,6 +53,27 @@ tehdään aikataulusta riippuen.
 # Kirjoitelmat
 Kurssin aikana kirjoitetaan 3 kirjoitelmaa, joissa harjoitellaan kurssin teemasanastoja. Kirjoitelmat ovat kaikille pakollisia, palautus kurssiaikataulun mukaisesti. Kurssikokeessa ei ole erillistä koeainetta, vaan kirjoitelmat arvioidaan ja otetaan osaksi kurssiarvosanaa. Arviointipäivänä aineen sijaan tehdään käännöslauseita FI-SV ja SV-FI, teemasanastoista.
 
+## Kirjoitelmien arviointi:
+
+###  1 PANOSTUS eli sanasto ja laajuus = miten hyvin osaat soveltaa kurssilla opeteltua sanastoa 0 – 5p
+
+* 1-2p Kirjoitelma on minimipituinen, mutta sanasto pysyy yleisellä tasolla tai fraasit on poimittu sanakirjasta/netistä.
+
+* 3p Kirjoitelmassa on jo enemmän pituutta, mutta sanastossa on vain pari kurssilla opeteltua fraasia tai fraasit on poimittu enimmäkseen muualta kuin kirjasta.
+
+* 4 – 5p Kirjoitelman pituus lähestyy jo sanamäärän ylärajaa, aiheen käsittely on monipuolista ja siinä on hyödynnetty kurssilla opittua sanastoa
+
+### 2 KIELI eli rakenne = kirjoitelman virheettömyys ja kielelliset ansiot 0 – 5p
+
+* 1 – 2p	Kirjoitelmassa on käytetty pääasiassa pelkkiä suoria päälauseita, runsaasti virheitä jotka hankaloittavat tekstin lukemista/ymmärtämistä.
+
+* 3p 	Lauserakenteet ovat jo monipuolisempia, mutta virheitä melko paljon. Virheitä kielioppiasioissa joita edellisillä kursseilla on opeteltu.
+
+* 4p	Kirjoitelmassa on käytetty sekä päälauseen suoraa että käänteistä sanajärjestystä, mukana on myös yksi tai useampia sivulauseita, teksti on melko virheetöntä. Substantiivien ja adjektiivien muodoissa ei ole juurikaan virheitä esim. pronominien kanssa.
+
+* 5p Tekstissä ei juurikaan virheitä, se on sujuvaa. Ei virheitä sanajärjestyksessä. Virheitä korkeintaan kieliopillissa asioissa, joita ei ole vielä opetettu.
+
+
 # Tuntikäyttäytyminen
 Tunneille tullaan ajoissa, mukana kirja, työvihko ja kirjoitusvälineet. Jatkuva
 myöhästely häiritsee paitsi omaa opiskeluasi, niin myös ryhmätovereidesi. Älä
