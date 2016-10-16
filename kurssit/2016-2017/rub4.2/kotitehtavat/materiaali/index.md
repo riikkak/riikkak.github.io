@@ -6,7 +6,7 @@ course: rub4.2
 ---
 ### Sanakokeiden fraasit
 - [Text 1 alleviivaukset](/media/rub4/text1_oikeat.pdf)
-- [Text 2 alleviivaukset](/media/rub4/text_2_oikeat.pdf)
+- [Text 2 alleviivaukset](/media/rub4/text_2_alleviivaukset.pdf)
 
 ### Muita tehtäviä
 - [Aina tarpeellisia adjektiiveja](/media/rub4/adjektiivit_oikeat.pdf)
