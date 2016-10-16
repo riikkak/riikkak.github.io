@@ -21,4 +21,4 @@ Kirjoita 80-130 sanan kirjoitelma teemalla rakkaus. Kirjoita esim. seuraavista a
 * Aiotko mennä naimisiin, hankkia lapsia.
 * Millaiset ovat hyvät häät, millaiset häät haluaisit.
 
-Kirjoitelma kirjoitetaan Otavan koealustalle, saat linkin sähköpostiisi. Linkki toimii ainoastaan palautuspäivämäärään asti, sitten se sulkeutuu ja kirjoitelmaa ei ole mahdollista tehdä enää sen jälkeen. Koneella kirjoittaessa ole erityisen tarkka krijoitusvirheiden kanssa!
+Kirjoitelma kirjoitetaan Otavan koealustalle, saat linkin sähköpostiisi. Muista kirjoittaa tekstilaatikon oikeaan yläkulmaan oma nimesi ja jätä yksi tyhjä rivi jokaisen rivin jälkeen kirjoittaessasi. Linkki toimii ainoastaan palautuspäivämäärään asti, sitten se sulkeutuu ja kirjoitelmaa ei ole mahdollista tehdä enää sen jälkeen. Koneella kirjoittaessa ole erityisen tarkka kirjoitusvirheiden kanssa!
