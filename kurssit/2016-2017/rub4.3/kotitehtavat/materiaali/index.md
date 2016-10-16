@@ -7,7 +7,8 @@ course: rub4.3
 
 ### Sanakokeiden fraasit
 - [Text 1 alleviivaukset](/media/rub4/text1_oikeat.pdf)
-- [Text 2 alleviivaukset](/media/rub4/text_2_alleviivaukset.pdf)
+- [Text 2 alleviivaukset](/media/rub4/text2_oikeat.pdf)
+OBS! Huomaa virheet alleviivauksissa (i en månad EI för, skilsmässa VAIN yksi l, muista myös synonyymi sanalle ett gräl = ett bråk)
 
 ### Muita tehtäviä
 
