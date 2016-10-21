@@ -15,7 +15,33 @@ course: rub4.3
 - [Aina tarpeellisia adjektiiveja](/media/rub4/adjektiivit_oikeat.pdf)
 - [Epäsäännölliset verbit](/media/rub4/verbit_oikeat.pdf)
 
-### Kotikirjoitelma 2
+### Kotikirjoitelma 3 ja 4
+
+Syysloman aikana on mahdollista kirjoittaa kaksi seuraavaa kotikirjoitelmaa. Voit kirjoittaa vain  toisesta, tai molemmista.
+
+TV
+
+Kirjoita 70-100 sanan kirjoitelma joko 18-vuotiaan Elinin tai 63-vuotiaan Bertin television katselutottumuksista. Kirjoita esimerkiksi seuraavista asioista.
+
+* Mitä katsoo
+* Mistä katsoo
+* Kuinka usein
+* Millaisista ohjelmista pitää 
+
+Käytä mahdollisimman monipuolisesti työvihkon tv-sanastoja ja tekstin 6 fraaseja.
+
+MOBBNING
+
+Kirjoita 70-100 sanan kirjoitelma Alice/Oscar nimisestä henkilöstä. Otsikoi teksti Alice/Oscar blev mobbad. 
+
+* miksi kiusattiin
+* missä ja milloin kiusattiin
+* millä tavoin
+* kuka puuttui asiaan
+* miten kaikki järjestyi (vai järjestyikö?)
+* mikä on tilanne nyt
+
+Käytä mahdollisimman monipuolisesti tekstin 5 fraaseja ja työvihkon kiusaamisen teemasanastoja.### Kotikirjoitelma 2
 
 Kirjoita 80-130 sanan kirjoitelma teemalla rakkaus. Kirjoita esim. seuraavista asioista. Sinun ei tarvitse käsitellä kaikkea, vaan tee suunnitelma ja mieti miten saat muodostettua loogisen kokonaisuuden. Tottakaan ei tarvitse kertoa, vaan tärkeintä on sujuva ja monipuolinen teemasanaston käyttö.
 
