@@ -10,6 +10,7 @@ course: rub4.2
 - [Text 3 alleviivaukset](/media/rub4/text_3_alleviivaukset.pdf)
 
 ### Muita tehtäviä
+- [Text 5 alleviivaukset](/media/rub4/text5_alleviivaukset.pdf)
 - [Aina tarpeellisia adjektiiveja](/media/rub4/adjektiivit_oikeat.pdf)
 - [Epäsäännölliset verbit](/media/rub4/verbit_oikeat.pdf)
 
