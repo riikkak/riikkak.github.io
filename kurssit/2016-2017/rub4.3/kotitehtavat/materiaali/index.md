@@ -8,6 +8,7 @@ course: rub4.3
 ### Sanakokeiden fraasit
 - [Text 1 alleviivaukset](/media/rub4/text1_oikeat.pdf)
 - [Text 2 alleviivaukset](/media/rub4/text2_oikeat.pdf)
+- [Text 3 alleviivaukset](/media/rub4/text_3_alleviivaukset.pdf)
 
 
 ### Muita tehtäviä
