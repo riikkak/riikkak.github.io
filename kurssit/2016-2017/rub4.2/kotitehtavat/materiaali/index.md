@@ -14,6 +14,31 @@ course: rub4.2
 - [Aina tarpeellisia adjektiiveja](/media/rub4/adjektiivit_oikeat.pdf)
 - [Epäsäännölliset verbit](/media/rub4/verbit_oikeat.pdf)
 
+### Kotikirjoitelma 5
+
+MÄNSKLIGA RÄTTIGHETER
+Valitse toinen aiheista ja kirjoita siitä 80-130 sanan kirjoitelma.
+
+1. Otsikoi: Börje är ingen rasist men...
+
+Kerro:
+
+* miksi Börje pelkää maahanmuuttajia ja pakolaisia
+* mitä ennakkoluuloja hänellä on?
+* miten maahanmuuttajien pitäisi käyttäytyä
+* mistä Börjen pelot ehkä johtuvat
+* millä tavalla Börje voisi päästä ennakkoluuloistaan
+
+2. Otsikoi: Jag - Fatima/Jusuf
+
+* mistä Fatima/Jusuf on tullut Suomeen
+* miksi hän joutui lähtemään kotimaastan
+* onko hän kohdannut ennakkoluuloja, minkälaisia
+* mitä hän on joutunut opettelemaan
+* onko hän saanut töitä/käykö koulua
+* onko hänellä suomalaisia ystäviä
+* aikooko jäädä suomeen vai palata kotimaahan### Kotikirjoitelma 3 ja 4
+
 ### Kotikirjoitelma 3 ja 4
 
 Syysloman aikana on mahdollista kirjoittaa kaksi seuraavaa kotikirjoitelmaa. Voit kirjoittaa vain  toisesta, tai molemmista.
