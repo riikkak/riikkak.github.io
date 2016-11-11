@@ -17,6 +17,24 @@ course: rub4.3
 - [Aina tarpeellisia adjektiiveja](/media/rub4/adjektiivit_oikeat.pdf)
 - [Epäsäännölliset verbit](/media/rub4/verbit_oikeat.pdf)
 
+### Kotikirjoitelma 6
+
+RELIGION
+
+Kirjoita 80-130 sanan kirjoitelma aiheesta uskonto. Käytä niitä sanoja ja ilmaisuja joita olemme kurssina aikana opetelleet. Muista että ei tarvitse kirjoittaa itsestä, saa valehdella niin paljon kuin haluaa, kunhan kieli on hyvää ja monipuolista!
+
+Voit käsitellä joitain alla olevista aiheista, älä yritä kaikkea mahduttaa. Suunnittele, mieti looginen kokonaisuus jossa punainen lanka.
+
+Otsikko: Min tro
+
+* Mihin uskot, vai uskotko? Mitä usko merkitsee sinulle?
+* Kuulutko kirkkoon, käytkö kirkossa?
+* Rukoleminen, kuinka usein?
+* Raamatun lukeminen?
+* Uskonnonopetus lukujärjestykessä/koulussa, mitä opetetaan?
+* Seurakunnan toiminta? Osallistutko?
+* Rippi-/Prometheusleiri, missä, milloin, kenen kanssa?
+
 ### Kotikirjoitelma 5
 
 MÄNSKLIGA RÄTTIGHETER
