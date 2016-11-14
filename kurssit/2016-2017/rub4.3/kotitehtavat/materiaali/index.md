@@ -24,7 +24,7 @@ RELIGION
 
 Kirjoita 80-130 sanan kirjoitelma aiheesta uskonto. Käytä niitä sanoja ja ilmaisuja joita olemme kurssina aikana opetelleet. Muista että ei tarvitse kirjoittaa itsestä, saa valehdella niin paljon kuin haluaa, kunhan kieli on hyvää ja monipuolista!
 
-Voit käsitellä joitain alla olevista aiheista, älä yritä kaikkea mahduttaa. Suunnittele, mieti looginen kokonaisuus jossa punainen lanka.
+Voit käsitellä joitain alla olevista aiheista, älä yritä kaikkea mahduttaa. Suunnittele, mieti looginen kokonaisuus jossa on punainen lanka.
 
 Otsikko: Min tro
 
