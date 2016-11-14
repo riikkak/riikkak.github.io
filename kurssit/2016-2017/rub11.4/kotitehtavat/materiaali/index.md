@@ -19,6 +19,17 @@ course: rub11.4
 
 [Text 6 fraasit](https://quizlet.com/_2i7xp2)
 
+## Kolmas kotikirjoitelma - När Sigurd flyttade hemifrån
+
+Kirjoita n. 60-100 sanan teksti (yli 20 sana ylimenosta sakotetaan) jossa käytät mahdollisimman monipuolisesti asumisen sanastoa (text 6 ja boende). Laske ja merkitse loppuun sanamäärä.
+
+* Milloin Sigurd muutti kotoa?
+* Millaiseen asuntoon? Kuvaile talotyyppi, asunnon huonemäärä ja jotain sisustuksesta
+* Muuttiko Sigurd yksin vai yhdessä jonkun muun kanssa?
+* Paljonko maksaa vuokraa?
+* Mitä kotitöitä tykkää tehdä, mitkä eivät ole niin mieluisia?
+
+
 ## Toinen kotikirjoitelma - Gunillas familj och släkt
 
 Kirjoita n. 70-100 sanan kuvaus Gunillan tai Gustavin perheestä ja suvusta. Ole tarkkana ettei tekstistä tule liian luettelomainen vaan että siinä on tarpeeksi pitkiä lauseita ja sisältöä (punainen lanka). 
