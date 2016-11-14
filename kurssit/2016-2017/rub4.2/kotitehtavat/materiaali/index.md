@@ -8,6 +8,7 @@ course: rub4.2
 - [Text 1 alleviivaukset](/media/rub4/text1_oikeat.pdf)
 - [Text 2 alleviivaukset](/media/rub4/text2_oikeat.pdf)
 - [Text 3 alleviivaukset](/media/rub4/text_3_alleviivaukset.pdf)
+- [Text 4 alleviivaukset](/media/rub4/text4_alleviivaukset.pdf)
 
 ### Muita tehtäviä
 - [Text 5 alleviivaukset](/media/rub4/text5_alleviivaukset.pdf)
