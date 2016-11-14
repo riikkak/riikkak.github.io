@@ -15,9 +15,9 @@ course: rub11.4
 
 [Text 3 fraasit - flashcards](https://quizlet.com/_2g8j5y)
 
-[Text 4 fraasit](https://quizlet.com/_2gi0l7)
+[Text 4 fraasit - flashcards](https://quizlet.com/_2gi0l7)
 
-[Text 6 fraasit](https://quizlet.com/_2i7xp2)
+[Text 6 fraasit - flashcards](https://quizlet.com/_2i7xp2)
 
 ## Kolmas kotikirjoitelma - När Sigurd flyttade hemifrån
 
