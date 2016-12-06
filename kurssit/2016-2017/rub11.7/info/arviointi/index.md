@@ -6,7 +6,7 @@ course: rub11.7
 ---
 
 Kurssin arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden
-aikana tapahtuvan työskentelyn eri osa-alueisiin. Alla tarkempi erittely. Kaikki kurssin aikana tehtävät suoritukset (sanakokeet, kuuntelukokeet, kotiaineet, työvihko) on oltava tehtynä arvioinään mennessä.
+aikana tapahtuvan työskentelyn eri osa-alueisiin. Alla tarkempi erittely. Kaikki kurssin aikana tehtävät suoritukset (sanakokeet, kuuntelukokeet, kotiaineet, työvihko) on oltava tehtynä arviointipäivään mennessä.
 
 # Tuntiaktiivisuus
 Kieltenopiskelun olennainen osa on suullinen kommunikaatio ja tästä syystä
