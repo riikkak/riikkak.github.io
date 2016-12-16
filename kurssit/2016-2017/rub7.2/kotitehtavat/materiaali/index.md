@@ -6,6 +6,7 @@ course: rub7.2
 ---
 
 - [Text 1 alleviivaukset](/media/rub7/text1_alleviivaukset.pdf)
+- [Text 2 alleviivaukset](/media/rub7/text2_alleviivaukset_oikeat.pdf)
 
 ### Kotikirjoitelma 1 -Utvecklingssamarbete
 
