@@ -10,15 +10,38 @@ course: rub11.7
 
 [Text 2 fraasit - flashcards](https://quizlet.com/_2fa28r)
 
+## Toinen kotikirjoitelma - Gunillas familj och släkt
+
+Kirjoita n. 70-100 sanan kuvaus Gunillan tai Gustavin perheestä ja suvusta. Ole tarkkana ettei tekstistä tule liian luettelomainen vaan että siinä on tarpeeksi pitkiä lauseita ja sisältöä (punainen lanka).
+
+* Ketä hänen perheeseensä kuuluu, onko uusperhe, missä asuvat?
+* Kerro jotain yksityiskohtia perheenjäsenistä (millaisia ovat, mistä pitävät jne)?
+* Minkä ikäisiä he ovat, missä töissä, ovatko koulussa / päiväkodissa?
+* Kuka on hänelle tärkein perheenjäsen/sukulainen ja miksi?
+* Ketä muita heidän sukuunsa kuuluu? Ovatko he tekemisissä? Miten, kuinka usein?
+* Viihtyvätkö perheenjäsenet ja sukulaiset yhdessä hyvin/huonosti?
+
+Käytä hyväksesi kurssilla opittuja sanoja ja ilmauksia. Kirjoita selkeällä käsialalla joka riville. Merkitse loppuun sanamäärä.
+
+Kirjoita kirjoitelma tekstinkäsittelyohjelmalla ja tuo perjantain 13.1. tunnille tulostettuna.
+Muista oikea muotoilu tekstinkäsittelyohjelmassa:
+
+- fontti Calibri, Arial, Times New Roman tms.
+- riviväli 2,5!!!
+- fonttikoko 12
+- otsikon jälkeen tyhjä rivi
+- oikealle ylätunnisteeseen oma nimi ja luokka
+- tasatut reunat
+
 ## Ensimmäinen kotikirjoitelma - Kajsas / Pelles vardag och fest
 
-Kirjoita n. 70 – 100 sanan kuvaus ruotsalaisen Kajsan tai Pellen arjesta ja juhlasta. 
+Kirjoita n. 70 – 100 sanan kuvaus ruotsalaisen Kajsan tai Pellen arjesta ja juhlasta.
 
 * milloin hän nousee ylös
-* mitä syö aamiaiseksi 
+* mitä syö aamiaiseksi
 * mikä on hänen lempiruokansa
 * miten kulkee kouluun tai töihin 
-* mitä tekee koulun tai työn jälkeen 
+* mitä tekee koulun tai työn jälkeen
 * mikä on hänen lempijuhlansa
 * miten ruotsalaisuus näkyy Kajsan tai Pellen elämässä?
 
