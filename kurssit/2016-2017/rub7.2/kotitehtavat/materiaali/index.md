@@ -7,6 +7,24 @@ course: rub7.2
 
 - [Text 1 alleviivaukset](/media/rub7/text1_alleviivaukset.pdf)
 - [Text 2 alleviivaukset](/media/rub7/text2_alleviivaukset_oikeat.pdf)
+- [Text 4 alleviivaukset](/media/rub7/text4_alleviivaukset.pdf)
+
+OBS! Virhe tekstin 4 alleviivauksissa: ett fall 5 monikossa fallen ja skyfall.
+
+### Kotikirjoitelma 4 - Hälsa
+
+Kirjoita 50-70 sanan kirjoitelma. Ystäväsi on huolestunut aikomuksestasi lähteä kansainväliselle leirille Intiaan. Kirjoita hänelle sähköpostia. Aloita sopivalla tavalla (tervehdyksellä) kerro, että 
+
+•	lähdet joka tapauksessa
+•	matka on sinulle tärkeä
+•	aiot huolehtia käsien pesusta ja olet hankkinut rokotukset
+•	sinulla on tarvittavat lääkkeet mukana
+•	et aio juoda saastunutta juomavettä
+•	menet tarvittaessa lääkäriin ja hankit antibiootteja
+•	aiot huolehtia itsestäsi, ystäväsi ei tarvitse pelätä
+•	lopeta sopivalla tavalla (tuttavallinen lopetus)
+
+Lähetä kirjoitelma opelle ma 30.1. mennessä sähköpostiin: etunimi.sukunimi@eduouka.fi. Muista oikolukea ja korjata kieliasu huolella!
 
 ### Kotikirjoitelma 3 - Brott och straff
 
