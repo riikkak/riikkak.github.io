@@ -8,11 +8,40 @@ course: rub11.7
 - [Text 1 fraasit](/media/rub1/text1_alleviivaukset.pdf) PLUSSATEHTÄVÄ
 - [Text 2 fraasit](/media/rub1/text2_alleviivaukset.pdf)
 - [Text 3 fraasit](/media/rub1/text3_alleviivaukset.pdf)
-
+- [Text 4 fraasit](/media/rub1/text4_alleviivaukset.pdf)
+- [Text 6 fraasit](/media/rub1/text6_alleviivaukset.pdf)
 
 [Text 2 fraasit - flashcards](https://quizlet.com/_2fa28r)
+
 [Text 3 fraasit - flashcards](https://quizlet.com/_2g8j5y)
 
+[Text 4 fraasit - flashcards](https://quizlet.com/_2gi0l7)
+
+[Text 6 fraasit - flashcards](https://quizlet.com/_2i7xp2)
+
+
+## Kolmas kotikirjoitelma - När Sigurd flyttade hemifrån
+
+Kirjoita n. 60-100 sanan teksti (yli 20 sana ylimenosta sakotetaan) jossa käytät mahdollisimman monipuolisesti asumisen sanastoa (text 6 ja boende). Laske ja merkitse loppuun sanamäärä.
+
+* Milloin Sigurd muutti kotoa?
+* Millaiseen asuntoon? Kuvaile talotyyppi, asunnon huonemäärä ja jotain sisustuksesta
+* Muuttiko Sigurd yksin vai yhdessä jonkun muun kanssa?
+* Paljonko maksaa vuokraa?
+* Mitä kotitöitä tykkää tehdä, mitkä eivät ole niin mieluisia?
+
+Käytä hyväksesi kurssilla opittuja sanoja ja ilmauksia. Kirjoita selkeällä käsialalla joka riville. Merkitse loppuun sanamäärä.
+
+Kirjoita kirjoitelma tekstinkäsittelyohjelmalla ja tuo maanantain 30.1. tunnille tulostettuna. EHDOTON PALAUTUSPÄIVÄ, palauttamattomat työt lasketaan nollasuorituksiksi kurssiarviointiin (-20p).
+
+Muista oikea muotoilu tekstinkäsittelyohjelmassa:
+
+- fontti Calibri, Arial, Times New Roman tms.
+- riviväli 2,5!!!
+- fonttikoko 12
+- otsikon jälkeen tyhjä rivi
+- oikealle ylätunnisteeseen oma nimi ja luokka
+- tasatut reunat
 
 ## Toinen kotikirjoitelma - Gunillas familj och släkt
 
