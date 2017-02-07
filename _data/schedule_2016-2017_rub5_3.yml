@@ -1,20 +1,20 @@
 - date: To 9.2.
-  title: Aloitus - media och konsumtion
+  title: Aloitus, Temaord - media och konsumtion
   grammar: substantiivien määräysmuodot
 - date: ma 13.2.
   title: Text 3 itsenäisesti
   grammar: substantiivien määräysmuodot
 - date: ti 14.2.
-  title: Studier + OPA
+  title: Temaord - Studier + OPA
   grammar: substantiivien määräysmuodot
-  other: kuuntelu 1, Kotikirjoitelma 1 palautus
+  other: Kuuntelu 1, Kotikirjoitelma 1 palautus
 - date: to 16.2.
   title: Text 1 Framtid med flexliv
 - date: ma 20.2.
   title: Text 1 jatkuu
-  other: Man-rakenne
+  grammar: Man-rakenne
 - date: ti 21.2.
-  title: Arbetsliv
+  title: Temaord - arbetsliv
   grammar: Man-rakenne
 - date: to 23.2.
   title: OPA-päivä
@@ -36,26 +36,27 @@
   other: Kotiaine 3 palautus
 - date: ti 14.3.
   title: Text 6 jatkuu
-  other: partisiipin preesens
+  grammar: partisiipin preesens
 - date: to 16.3.
-  title: Trafik
+  title: Temaord - Trafik
   grammar: partisiipin preesens
 - date: ma 20.3.
   title: OPA-päivä
+  grammar: partisiipin preesens
   other: Sana 3
 - date: ti 21.3.
   title: Miljö
-  grammar: partisiipin preesens
+  grammar: partisiipin perfekti
   other: Kotikirjoitelma 4 palautus
 - date: to 23.3.
   title: Text 5 Grönland blir allt grönare
-  grammar: partisiipin preesens
+  grammar: partisiipin perfekti
 - date: ma 27.3.
   title: Text 5 jatkuu
   grammar: partisiipin perfekti
 - date: ti 28.3.
   title: OPA-päivä
-  grammar: partisiipin perfekti
+  grammar: KERTAUS
   other: Sana 4 ja kuuntelu 3
 - date: ma 3.4.
   title: ARVIOINTIVIIKKO
