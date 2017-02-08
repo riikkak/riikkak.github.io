@@ -9,14 +9,15 @@ course: rub5.3
 
 Kurssin aihepiirit ovat:
 
-* Norja 
-* Ystävyys
-* ruoka ja ravintolassa asioiminen
-* vaatteet ja ulkonäkö
-* ihminen ja hyvinvointi
-* lukusanat, persoonapronominit, adjektiivin vertailu, konjuktiosivulause ja käskymuoto
+* Opiskelu
+* Työelämä
+* Media ja kulutus
+* Arki
+* Ympäristö
+* Liikenne
+* substantiivien määräysmuodot, man-rakenne, s-passiivi, partisiipin preesens ja partisiipin perfekti
 
-Kurssin tavoitteena on että kurssin käytyäsi:
+**Kurssin tavoitteena on että kurssin käytyäsi:**
 
 * Ymmärrät kurssin aihepiirejä koskevaa puhuttua ja kirjallista materiaalia.
 * Osaat itse puhua ja kirjoittaa kyseisistä aiheista
