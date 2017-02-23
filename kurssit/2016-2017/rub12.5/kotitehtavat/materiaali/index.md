@@ -5,8 +5,12 @@ theme: swedish
 course: rub12.5
 ---
 - [Text 1 fraasit](/media/rub2/text1_oikeat.pdf)
+- [Text 2 fraasit](/media/rub2/text2_oikeat.pdf)
+- [Text 3 fraasit](/media/rub2/text3_oikeat.pdf)
 
-[Text 1 fraasit - flashcards](https://quizlet.com/_33g3j2)
+- [Text 1 fraasit - flashcards](https://quizlet.com/_33g3j2)
+- [Text 2 fraasit - flashcards](https://quizlet.com/_33g4y8)
+- [Text 3 fraasit - flashcards](https://quizlet.com/_35pfix)
 
 [Kurssin itsearviointi](http://bit.ly/2l55ATP)
 
