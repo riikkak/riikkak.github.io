@@ -6,7 +6,7 @@ course: rub5.3
 ---
 
 - [Text 1 alleviivaukset](/media/rub5/text1_alleviivaukset.pdf)
-
+- [Text 2 alleviivaukset](/media/rub5/text2_alleviivaukset.pdf)
 
 ## Kotikirjoitelma 2 - Studier
 
