@@ -11,6 +11,7 @@ course: rub12.5
 - [Text 1 fraasit - flashcards](https://quizlet.com/_33g3j2)
 - [Text 2 fraasit - flashcards](https://quizlet.com/_33g4y8)
 - [Text 3 fraasit - flashcards](https://quizlet.com/_35pfix)
+- [Text 4 fraasit - flashcards](https://quizlet.com/_36t5tf)
 
 [Kurssin itsearviointi](http://bit.ly/2l55ATP)
 
