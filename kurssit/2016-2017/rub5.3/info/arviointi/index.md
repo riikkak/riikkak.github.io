@@ -26,6 +26,12 @@ Kurssin aihepiirit ovat:
 ## Kurssin arviointi 
 Perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden aikana tapahtuvan työskentelyn eri osa-alueisiin. Alla tarkempi erittely. **Kaikki kurssin osasuoritukset tulee olla tehtyinä arviointipäivään mennessä.** Arviointipäivänä tai sen jälkeen ei ole mahdollista tehdä/palauttaa sanastoon, kuunteluihin tai kirjoitelmiin liittyviä osasuorituksia.
 
+## Poissaolot
+Jos olet sairaana, tai muusta pätevästä syystä poissa OPA-päivänä, ilmoita siitä viimeistään samana aamuna opettajalle (Wilma, Snap, sähköposti). Ilman pätevää syytä tai ilmoitusta suorituksestasi annetaan 0 pistettä. Poissaolotunneilta tulee hoitaa tehdyksi sekä tunnin aikana tehdyt tehtävät, että kotitehtävät.
+
+## Pidemmät poissaolot
+Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saatta opettajan tietoon kurssin alussa, jotta voidaan sopia tehtävistä ja aikataulusta.
+
 ### Tuntiaktiivisuus
 Kieltenopiskelun olennainen osa on suullinen kommunikaatio ja tästä syystä
 arvioinnin keskeisenä osana on osallistuminen opetukseen.  Myös aktiivinen ja vuorovaikutuksellinen osallistuminen paritehtäviin onosa tuntiaktiivisuutta. Tuntiaktiivisuus voi vaikuttaa kurssiarvosanaan niin nousevasti kuin laskevastikin. Aktiivisuutta arvioidaan asteikolla 0-5.
