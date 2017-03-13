@@ -60,6 +60,24 @@ Kurssin aikana kuuntelua harjoitellaan tekstien kuuntelulla, ääntämisharjoitu
 ## Kirjoitelmat
 Kurssin aikana kirjoitetaan 3-4 kirjoitelmaa, joissa harjoitellaan kurssin teemasanastoja. Kirjoitelmat ovat kaikille pakollisia, palautus kurssiaikataulun mukaisesti. Arviointipäivänä ei ole erillistä ainetta, vaan kurssin aikaiset kirjoitelmat arvioidaan ja otetaan osaksi kurssiarvosanaa. Arviointipäivänä aineen sijaan tehdään käännöslauseita FI-SV ja SV-FI, teemasanastoista.
 
+### Kirjoitelmien arviointi:
+
+#### P = PANOSTUS eli sanasto ja laajuus = miten hyvin osaat soveltaa kurssilla opeteltua sanastoa 0 – 5p
+
+* 1-2p Kirjoitelma on minimipituinen, mutta sanasto pysyy yleisellä tasolla tai fraasit on poimittu sanakirjasta/netistä.
+
+* 3p Kirjoitelmassa on jo enemmän pituutta, mutta sanastossa on vain pari kurssilla opeteltua fraasia tai fraasit on poimittu enimmäkseen muualta kuin kirjasta.
+
+* 4 – 5p Kirjoitelman pituus lähestyy jo sanamäärän ylärajaa, aiheen käsittely on monipuolista ja siinä on hyödynnetty kurssilla opittua sanastoa
+
+#### K = KIELI eli rakenne = kirjoitelman virheettömyys ja kielelliset ansiot 0 – 5p
+
+* 1 – 2p Kirjoitelmassa on käytetty pääasiassa pelkkiä suoria päälauseita, runsaasti virheitä jotka hankaloittavat tekstin lukemista/ymmärtämistä.
+
+* 3p Lauserakenteet ovat jo monipuolisempia, mutta virheitä melko paljon.
+
+* 4 – 5p Kirjoitelmassa on käytetty sekä päälauseen suoraa että käänteistä sanajärjestystä, mukana on myös yksi tai useampia sivulauseita, teksti on melko virheetöntä.
+
 ## Tuntikäyttäytyminen
 Tunneille tullaan ajoissa, mukana kirja, työvihko ja kirjoitusvälineet. Jatkuva
 myöhästely häiritsee paitsi omaa opiskeluasi, niin myös ryhmätovereidesi. Mikäli kätesi hivelee elektronista laitetta pitkin tuntia aina kun näytössä vilahtaa ja herpaannuttaa keskittymisesi opiskeluun, otetaan tämä myös huomioon arvioinnissa. Puhelin pysyköön siis laukussa, kassissa, repussa.
