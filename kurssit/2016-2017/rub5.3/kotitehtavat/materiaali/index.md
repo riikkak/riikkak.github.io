@@ -8,7 +8,8 @@ course: rub5.3
 - [Text 1 alleviivaukset](/media/rub5/text1_alleviivaukset.pdf)
 - [Text 2 alleviivaukset](/media/rub5/text2_alleviivaukset.pdf)
 - [Text 6 alleviivaukset](/media/rub5/text6_alleviivaukset.pdf)
-- [Text 6 alleviivaukset](/media/rub5/text_5_alleviivaukset_vastaukset.pdf)
+- [Text 5 alleviivaukset](/media/rub5/text_5_alleviivaukset_vastaukset.pdf)
+
 - [Ammattisanat](/media/rub5/ammattisanat.pdf)
 
 ## Kotikirjoitelma 2 - Studier
