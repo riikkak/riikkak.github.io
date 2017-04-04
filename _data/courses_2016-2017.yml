@@ -38,6 +38,11 @@
   desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
   period: 3
 
+- name: rub7.5
+  code: 6
+  desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
+  period: 5
+
 - name: rub9.3
   code: 5
   desc: "abien kertauskurssi"
