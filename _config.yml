@@ -16,7 +16,7 @@ defaults:
     scope:
       path: ""
     values:
-      period: 4
+      period: 5
   -
     scope:
       path: "kurssit/2013-2014"
