@@ -1,0 +1,56 @@
+- date: pe 7.4.
+ title: Aloitus, Text 1 kuuntelu ja käsittely
+- date: ma 10.4.
+  title: Text 1 suulliset harjoitukset
+  grammar: substantiivin attribuutti
+- date: to 13.4.
+  title: Temaord - utvecklingssamarbete
+  other: Sanakoe text 1
+  grammar: substantiivin attribuutti
+- date: pe 14.4.
+  title: LÅNGFREDAG
+- date: ma 17.4
+  title: ANNANDAG PÅSK
+- date: to 20.4.
+  title: ITSENÄISESTI 
+  other: Ensimmäisen kirjoitelman palautus
+- date: pe 21.4.
+  title: Text 2 kuuntelu ja käsittely
+  grammar: omistus
+- date: ma 24.4.
+  title: Text 2 suulliset harjoitukset
+  grammar: omistus
+- date: to 27.4.
+  title: Temaord - politik
+  grammar: omistus
+- date: pe 28.4.
+  title: Harjoituksia
+  other: Sanakoe text 2, kuuntelukoe
+- date: ma 1.5.
+  title: VALBORG
+- date: to 4.5
+  title: Text 3 kuuntelu ja käsittely
+- date: pe 5.5.
+  title: Text 3 suulliset harjoitukset
+  grammar: var-verbit
+- date: ma 8.5.
+  title: Temaord - Brott och straff 
+  grammar: var-verbit
+- date: to 11.5.
+  title: Harjoituksia
+  grammar: var-verbit
+  other: Sanakoe text 3, kuuntelu
+- date: pe 12.5.
+  title: LEDIG
+- date: ma 15.5.
+  title: Text 4 läpikäynti 
+  grmmar: lauseenvastikkeet
+  other: Kotiaine 2 palautus
+- date: to 18.5.
+  title: Temaord - Hälsa
+  grammar: lauseenvastikkeet
+- date: pe 19.5.
+  title: Harjoituksia
+- date: ma 23.5.
+  title: ARVIOINTI
+  other: työvihkon palautus
