@@ -5,7 +5,7 @@
   grammar: substantiivin attribuutti
 - date: to 13.4.
   title: Temaord - utvecklingssamarbete
-  other: Sanakoe text 1
+  other: OPA 1 text 1
   grammar: substantiivin attribuutti
 - date: pe 14.4.
   title: LÅNGFREDAG
@@ -15,7 +15,7 @@
   title: ITSENÄISESTI
   other: Ensimmäisen kirjoitelman palautus
 - date: pe 21.4.
-  title: Text 2 kuuntelu ja käsittely
+  title: ext 2 kuuntelu ja käsittely
   grammar: omistus
 - date: ma 24.4.
   title: Text 2 suulliset harjoitukset
@@ -25,7 +25,7 @@
   grammar: omistus
 - date: pe 28.4.
   title: Harjoituksia
-  other: Sanakoe text 2, kuuntelukoe
+  other: OPA 2 - Sanakoe text 2, kuuntelukoe
 - date: ma 1.5.
   title: VALBORG
 - date: to 4.5
@@ -39,7 +39,7 @@
 - date: to 11.5.
   title: Harjoituksia
   grammar: var-verbit
-  other: Sanakoe text 3, kuuntelu
+  other: OPA 3 - Sanakoe text 3, kuuntelu
 - date: pe 12.5.
   title: LEDIG
 - date: ma 15.5.
