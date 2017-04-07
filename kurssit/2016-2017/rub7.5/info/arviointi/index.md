@@ -9,25 +9,23 @@ course: rub7.5
 
 Kurssin aihepiirit ovat:
 
-* Opiskelu
-* Työelämä
-* Media ja kulutus
-* Arki
-* Ympäristö
-* Liikenne
-* substantiivien määräysmuodot, man-rakenne, s-passiivi, partisiipin preesens ja partisiipin perfekti
+* Kehitysyhteistyö
+* Politiikka
+* Rikos ja rangaistus
+* Terveys
+* substantiivin attribuutti, omistus, var-verbit, lauseenvastikkeet
 
 **Kurssin tavoitteena on että kurssin käytyäsi:**
 
 * Ymmärrät kurssin aihepiirejä koskevaa puhuttua ja kirjallista materiaalia.
 * Osaat itse puhua ja kirjoittaa kyseisistä aiheista
-* Hallitset kurssilla opiskellut keilioppiasiat ja osaat soveltaa niitä käytännössä
+* Hallitset kurssilla opiskellut kielioppiasiat ja osaat soveltaa niitä käytännössä
 
 ## Kurssin arviointi 
-Perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden aikana tapahtuvan työskentelyn eri osa-alueisiin. Alla tarkempi erittely. **Kaikki kurssin osasuoritukset tulee olla tehtyinä arviointipäivään mennessä.** Arviointipäivänä tai sen jälkeen ei ole mahdollista tehdä/palauttaa sanastoon, kuunteluihin tai kirjoitelmiin liittyviä osasuorituksia.
+Perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden aikana tapahtuvan työskentelyn eri osa-alueisiin. Alla tarkempi erittely. **Kaikki kurssin osasuoritukset tulee olla tehtyinä jakson viimeiseen kontaktiopetuspäivään mennessä.** Arviointipäivänä tai sen jälkeen ei ole mahdollista tehdä/palauttaa sanastoon, kuunteluihin tai kirjoitelmiin liittyviä osasuorituksia.
 
 ## Poissaolot
-Jos olet sairaana, tai muusta pätevästä syystä poissa OPA-päivänä, ilmoita siitä viimeistään samana aamuna opettajalle (Wilma, Snap, sähköposti). Ilman pätevää syytä tai ilmoitusta suorituksestasi annetaan 0 pistettä. Poissaolotunneilta tulee hoitaa tehdyksi sekä tunnin aikana tehdyt tehtävät, että kotitehtävät.
+Jos olet sairaana, tai muusta pätevästä syystä poissa OPA-päivänä, ilmoita siitä viimeistään samana aamuna opettajalle (Wilma, Snap, sähköposti). Ilman pätevää syytä tai ilmoitusta suorituksestasi annetaan 0 pistettä. Poissaolotunneilta tulee hoitaa tehdyksi ja tarkistetuksi sekä tunnin aikana tehdyt tehtävät, että kotitehtävät. Pyydä tarkistusta opelta tai ensisijaisesti kavereilta.
 
 ## Pidemmät poissaolot
 Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saatta opettajan tietoon kurssin alussa, jotta voidaan sopia tehtävistä ja aikataulusta.
@@ -38,7 +36,7 @@ arvioinnin keskeisenä osana on osallistuminen opetukseen.  Myös aktiivinen ja 
 
 ## Sanaston hallinta
 Sanaston arviointia on kurssin aikana 3-4 kertaa. Sanakokeet perustuvat niihin teksteihin,
-jotka opiskellaan yhdessä tarkemmin. Sanakokeiden arviointi on kouluarvosana 4-10. Jos numerosi jää alle 4-, on tulos 0 (mahdollisuus tehdä uudelleen), mikä voi olla este kurssin läpipääsemiselle.
+jotka opiskellaan yhdessä tarkemmin. Sanakokeiden arviointi on kouluarvosana 4-10. Jos numerosi jää alle 4-, on tulos 0 (mahdollisuus tehdä uudelleen), mikä voi olla este kurssin läpipääsemiselle. N. 80-90 pistettä kokonaisarvioinnista.
 
 Sanasto arvioinnista saadut numerot lasketaan yhteen ja muunnetaan niin että ne muodostavat
 kokonaisarviointiin n. 1/4. Lukemalla hyvin sanakokeisiin, voit siis jo huomattavasti vaikuttaa koearvosanaasi. Sanakokeisiin luetaan työvihkosta kyseisen tekstin alleviivaukset, muista tarkistaa oikeat sivuston materiaalit-kohdasta.
