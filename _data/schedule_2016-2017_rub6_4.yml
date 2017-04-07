@@ -10,6 +10,7 @@
   title: ANNANDAG PÅSK  
 - date: ti 18.4.
   title: FILMKVÄLL
+  other: Titta filmen hemma i förväg
 - date: to 20.4.
   title: Konst och musik
   other: Ordprov teater och film
@@ -19,7 +20,7 @@
   title: ITSENÄISESTI
 - date: to 27.4.
   title: Konst och musik
-  other: Sanakoe konst
+  other: Ordprov konst
 - date: ma 1.5.
   title: VALBORG
 - date: ti 2.5.
@@ -36,8 +37,8 @@
   title: Övningar
   other: Ordprov litteratur
 - date: ti 16.5.
-  title: Litteratursklubb
+  title: LITTERATURSKLUBB
 - date: to 18.5.
-  title: Harjoituskoe
+  title: ÖVNINGSPRROV
 - date: ke 23.5.
-  title: ARVIOINTIPÄIVÄ - suullinen koe
+  title: ARVIOINTIPÄIVÄ - MUNTLIGT PROV
