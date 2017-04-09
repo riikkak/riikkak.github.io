@@ -8,13 +8,12 @@ course: rub12.8
 
 Kurssin aihepiirit ovat:
 
-* Opiskelu
-* Työelämä
-* Media ja kulutus
-* Arki
-* Ympäristö
-* Liikenne
-* substantiivien määräysmuodot, man-rakenne, s-passiivi, partisiipin preesens ja partisiipin perfekti
+* Norja 
+* Ystävyys
+* ruoka ja ravintolassa asioiminen
+* vaatteet ja ulkonäkö
+* ihminen ja hyvinvointi
+* lukusanat, persoonapronominit, adjektiivin vertailu, konjuktiosivulause ja käskymuoto
 
 **Kurssin tavoitteena on että kurssin käytyäsi:**
 
