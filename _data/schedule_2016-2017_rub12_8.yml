@@ -6,35 +6,35 @@
   grammar: käskymuoto jatkuu
 - date: to 13.4.
   title:  Text 2 jatkuu
-  grammar: adjektiivin vertailu 
 - date: ma 17.4.
   title: ANNANDAG PÅSK
 - date: ti 18.4.
   title:  Text 3 Köttbullar och sushi
-  grammar: Adjektiivin vertailu jatkuu
+  grammar: Adjektiivin vertailu 
 - date: to 20.4.
   title: Text 3 jatkuu 
-  grammar: Pronominit
-  other: Kotikirjoitelma 1 palautus
+  grammar: Adjektiivin vertailu 
+  other: Kotikirjoitelma 1 palautus (su 23.4. klo 22:00)
 - date: ma 24.4.
   title: Temaord - mat
-  grammar: Pronominit jatkuu
+  grammar: Adjektiivin vertailu 
 - date: ti 25.4.
   title: ITSENÄISESTI, kts. tehtävät!
 - date: to 27.4.
   title: OPA-päivä
-  grammar: Pronominit jatkuu
+  grammar: Pronominit 
   other: Sanakoe text 3
 - date: ma 1.5.
   title: VALBORG 
 - date: ti 2.5.
-  title: DAGSVERK   
+  title: DAGSVERKE   
 - date: to 4.5.
   title: Text 4 Modebloggare har makt
+  grammar: pronominit
   other: Kotikirjoitelma 2 palautus
 - date: ma 8.5.
   title: Text 4 jatkuu + kläder
-  grammar: Pronominit jatkuu
+  grammar: pronominit jatkuu
 - date: ti 9.5.
   title: OPA-päivä
   other: Sanakoe text 4, kuuntelu mat och kläder 
