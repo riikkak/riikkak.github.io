@@ -5,3 +5,4 @@ theme: swedish
 course: rub6.4
 ---
 
+- [Tienneuvomisen fraasit](/media/rub6/tienneuvominen.pdf)
