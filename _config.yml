@@ -2,21 +2,21 @@ name: Riikka Koskenrannan sivut
 markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "autolink", "tables", "with_toc_data"]
-gems:
+plugins:
   - jekyll-redirect-from
 safe: true
 lsi: false
 highlighter: rouge
 url: http://riikka.koskenranta.fi
 baseurl:
-semester: 2016-2017
+semester: 2017-2018
 
 defaults:
   -
     scope:
       path: ""
     values:
-      period: 5
+      period: 1
   -
     scope:
       path: "kurssit/2013-2014"
@@ -42,6 +42,13 @@ defaults:
       path: "kurssit/2016-2017"
     values:
       semester: "2016-2017"
+      current: false
+      archived: true
+  -
+    scope:
+      path: "kurssit/2017-2018"
+    values:
+      semester: "2017-2018"
       current: true
       archived: false
 
@@ -84,19 +91,19 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB4.2 - Etusivu"
-              value: "rub4.2 etusivu"
-            - name: "RUB4.2 - Läksyt"
-              value: "rub4.2 läksyt"
-            - name: "RUB4.3 - Etusivu"
-              value: "rub4.3 etusivu"
-            - name: "RUB4.3 - Läksyt"
-              value: "rub4.3 läksyt"
-            - name: "RUB6.2 - Etusivu"
-              value: "rub6.2 etusivu"
-            - name: "RUB6.2 - Läksyt"
-              value: "rub6.2 läksyt"
-            - name: "RUB11.4 - Etusivu"
-              value: "rub11.4 etusivu"
-            - name: "RUB11.4 - Läksyt"
-              value: "rub11.4 läksyt"
+            - name: "RUB6.1 - Etusivu"
+              value: "rub6.1 etusivu"
+            - name: "RUB6.1 - Läksyt"
+              value: "rub6.1 läksyt"
+            - name: "RUB10.1 - Etusivu"
+              value: "rub10.1 etusivu"
+            - name: "RUB10.1 - Läksyt"
+              value: "rub10.1 läksyt"
+            - name: "RUB10.3 - Etusivu"
+              value: "rub10.3 etusivu"
+            - name: "RUB10.3 - Läksyt"
+              value: "rub10.3 läksyt"
+            - name: "RUB11.2 - Etusivu"
+              value: "rub11.2 etusivu"
+            - name: "RUB11.2 - Läksyt"
+              value: "rub11.2 läksyt"

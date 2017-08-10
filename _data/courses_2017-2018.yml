@@ -1,0 +1,89 @@
+- name: rub6.1
+  code: 5
+  desc: "suullinen kielitaito ja sanasto arkipäivän tilanteissa"
+  period: 1
+
+- name: rub7.1
+  code: 8
+  desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
+  period: 2
+
+- name: rub9.3
+  code: 5
+  desc: "abien kertauskurssi"
+  period: 3
+
+- name: rub10.1
+  code: 1
+  desc: "kuuntelu ja kirjoittaminen abeille"
+  period: 1
+
+- name: rub10.3
+  code: 8
+  desc: "kuuntelu ja kirjoittaminen abeille"
+  period: 1
+
+- name: rub10.5
+  code: 4
+  desc: "kuuntelu ja kirjoittaminen abeille"
+  period: 3
+
+- name: rub11.2
+  code: 4
+  desc: "minun ruotsini"
+  period: 1
+
+- name: rub11.4
+  code: 3
+  desc: "minun ruotsini"
+  period: 2
+
+- name: rub11.7
+  code: 8
+  desc: "minun ruotsini"
+  period: 3
+
+- name: rub12.3
+  code: 4
+  desc: "hyvinvointi ja ihmissuhteet"
+  period: 4
+
+- name: rub12.5
+  code: 6
+  desc: "hyvinvointi ja ihmissuhteet"
+  period: 4
+
+- name: rub13.3
+  code: 5
+  desc: "Suomi, kulttuuri ja media"
+  period: 2
+
+- name: rub13.5
+  code: 7
+  desc: "Suomi, kulttuuri ja media"
+  period: 2
+
+- name: rub14.7
+  code: 3
+  desc: "monenlaiset elinympäristömme"
+  period: 4
+
+- name: rub15.6
+  code: 8
+  desc: "opiskelu ja työelämä"
+  period: 5
+
+- name: rub16.1
+  code: 5
+  desc: "viesti ja vaikuta puhuen"
+  period: 5
+
+- name: rub17.2
+  code: 6
+  desc: "kestävä elämäntapa"
+  period: 5
+
+- name: rub19.1
+  code: 3
+  desc: "kertauskurssi lukion alkuun"
+  period: 3
