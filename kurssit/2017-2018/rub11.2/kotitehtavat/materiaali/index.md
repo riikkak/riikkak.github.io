@@ -10,6 +10,7 @@ course: rub11.2
 - [Text 3 fraasit](/media/rub1/text3_alleviivaukset.pdf)
 
 [Text 2 fraasit - flashcards](https://quizlet.com/_2fa28r)
+
 [Text 3 fraasit - flashcards](https://quizlet.com/_2g8j5y)
 
 
