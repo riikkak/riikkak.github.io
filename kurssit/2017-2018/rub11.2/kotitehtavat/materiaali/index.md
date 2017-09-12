@@ -36,7 +36,9 @@ Kirjoita n. 70-100 sanan teksti (yli 20 sana ylimenosta sakotetaan) jossa käyt�
 * Paljonko maksaa vuokraa?
 * Mitä kotitöitä tykkää tehdä, mitkä eivät ole niin mieluisia?
 
-Käytä hyväksesi kurssilla opittuja sanoja ja ilmauksia. Kirjoita selkeällä käsialalla joka riville. Merkitse loppuun sanamäärä.## Toinen kotikirjoitelma - Gunillas familj och släkt
+Käytä hyväksesi kurssilla opittuja sanoja ja ilmauksia. Kirjoita selkeällä käsialalla joka riville. Merkitse loppuun sanamäärä.
+
+## Toinen kotikirjoitelma - Gunillas familj och släkt
 
 Kirjoita n. 70-100 sanan kuvaus Gunillan tai Gustavin perheestä ja suvusta. Ole tarkkana ettei tekstistä tule liian luettelomainen vaan että siinä on tarpeeksi pitkiä lauseita ja sisältöä (punainen lanka).
 
