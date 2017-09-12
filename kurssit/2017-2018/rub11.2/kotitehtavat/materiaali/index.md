@@ -5,16 +5,38 @@ theme: swedish
 course: rub11.2
 ---
 
+### OBS!
+ [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus1/)
+
+## Tekstien fraasit
+
 - [Text 1 fraasit](/media/rub1/text1_alleviivaukset.pdf)
 - [Text 2 fraasit](/media/rub1/text2_alleviivaukset.pdf)
 - [Text 3 fraasit](/media/rub1/text3_alleviivaukset.pdf)
+- [Text 4 fraasit](/media/rub1/text4_alleviivaukset.pdf)
+- [Text 6 fraasit](/media/rub1/text6_alleviivaukset.pdf)
 
 [Text 2 fraasit - flashcards](https://quizlet.com/_2fa28r)
 
 [Text 3 fraasit - flashcards](https://quizlet.com/_2g8j5y)
 
+[Text 4 fraasit - flashcards](https://quizlet.com/_2gi0l7)
 
-## Toinen kotikirjoitelma - Gunillas familj och släkt
+[Text 6 fraasit - flashcards](https://quizlet.com/_2i7xp2)
+
+[Epäsäännölliset verbit - flashcards](https://quizlet.com/_3oudcw)
+
+## Kolmas kotikirjoitelma - När Sigurd flyttade hemifrån
+
+Kirjoita n. 70-100 sanan teksti (yli 20 sana ylimenosta sakotetaan) jossa käytät mahdollisimman monipuolisesti asumisen sanastoa (text 6 ja boende). Laske ja merkitse loppuun sanamäärä.
+
+* Milloin Sigurd muutti kotoa?
+* Millaiseen asuntoon? Kuvaile talotyyppi, asunnon huonemäärä ja jotain sisustuksesta
+* Muuttiko Sigurd yksin vai yhdessä jonkun muun kanssa?
+* Paljonko maksaa vuokraa?
+* Mitä kotitöitä tykkää tehdä, mitkä eivät ole niin mieluisia?
+
+Käytä hyväksesi kurssilla opittuja sanoja ja ilmauksia. Kirjoita selkeällä käsialalla joka riville. Merkitse loppuun sanamäärä.## Toinen kotikirjoitelma - Gunillas familj och släkt
 
 Kirjoita n. 70-100 sanan kuvaus Gunillan tai Gustavin perheestä ja suvusta. Ole tarkkana ettei tekstistä tule liian luettelomainen vaan että siinä on tarpeeksi pitkiä lauseita ja sisältöä (punainen lanka).
 
