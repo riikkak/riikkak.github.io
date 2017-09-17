@@ -26,6 +26,10 @@ course: rub11.2
 
 [Epäsäännölliset verbit - flashcards](https://quizlet.com/_3oudcw)
 
+[Fritid teemasanasto - flashcards](https://quizlet.com/_3poztd)
+
+[Skola teemasanasto - flashcards](://quizlet.com/_3pp0st)
+
 ## Kolmas kotikirjoitelma - När Sigurd flyttade hemifrån
 
 Kirjoita n. 70-100 sanan teksti (yli 20 sana ylimenosta sakotetaan) jossa käytät mahdollisimman monipuolisesti asumisen sanastoa (text 6 ja boende). Laske ja merkitse loppuun sanamäärä.
