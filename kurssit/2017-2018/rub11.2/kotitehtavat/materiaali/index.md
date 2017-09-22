@@ -10,7 +10,7 @@ course: rub11.2
 
 ## Plussatehtävät
 
-- [Ajanilmaukset](/media/rub1/Ajanilmaukset.pdf)
+- [Ajanilmaukset](/media/rub1/Ajanilmaisuja.pdf)
 - [Substantiivit](/media/rub1/substantiivit.pdf)
 
 ## Tekstien fraasit
