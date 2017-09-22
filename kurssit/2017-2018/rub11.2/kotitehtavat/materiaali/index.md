@@ -8,6 +8,11 @@ course: rub11.2
 ### OBS!
  [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus1/)
 
+## Plussatehtävät
+
+- [Ajanilmaukset](/media/rub1/Ajanilmaukset.pdf)
+- [Substantiivit](/media/rub1/substantiivit.pdf)
+
 ## Tekstien fraasit
 
 - [Text 1 fraasit](/media/rub1/text1_alleviivaukset.pdf)
