@@ -5,6 +5,8 @@ theme: swedish
 course: rub11.2
 ---
 
+[Itsearviointi ja kurssipalaute](https://goo.gl/forms/3mRfpo873dKhGmnH2)
+
 **Arviointipäivä ma 25.9. luokassa 42091** (luokka heti portaiden vieressä) ja alkaa klo 8.00 tasan.
 
 Mukaan arviointipäivään:
