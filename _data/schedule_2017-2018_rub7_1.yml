@@ -24,7 +24,7 @@
   grammar: omistus
 - date: pe 20.10.
   title: Harjoituksia
-  grammar: omistus
+  grammar: omistu
   other: OPA 2 - Sanakoe text 2, kuuntelukoe
 - date: 23.10.-27.1.0
   title: HÖSTLOV
@@ -35,6 +35,7 @@
   title: ABIPÄIVÄ LINNANMAALLA
 - date: pe 3.11.
   title: Text 3 kuuntelu ja käsittely
+  grammar: var-verbit
 - date: ma 6.11.
   title: Text 3 suulliset harjoitukset
   grammar: var-verbit
@@ -53,7 +54,7 @@
 - date: pe 17.11.
   title: Harjoituksia
   grammar: lauseenvastikkeet
-  other: Kolmannen kirjoitelman palautus
+  other: Kolmannen kirjoitelman palautus (vapaaehtoinen)
 - date: ma 27.11.
   title: ARVIOINTI
   other: työvihkon palautus
