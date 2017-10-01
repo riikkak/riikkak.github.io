@@ -30,7 +30,7 @@ course: rub11.4
 
 [Fritid teemasanasto - flashcards](https://quizlet.com/_3poztd)
 
-[Skola teemasanasto - flashcards](://quizlet.com/_3pp0st)
+[Skola teemasanasto - flashcards](https://quizlet.com/_3pp0st)
 
 ## Plussatehtävät
 
