@@ -13,17 +13,17 @@
   title: Kirjoitelma korjaus
   grammar: sanajärjestys jatkuu
 - date: pe 15.12.	
-  title: Harrastukset
+  title: Harrastukset - teemasanasto
   grammar: substantiivien taivutus
 - date: ti 18.12.
   title: Harjoituksia
-  other: SUBSTANTIIVIKOE - kotona etukäteen
 - date: ke 20.12.	
   title: Jultema
+  other: KOTIPISTARI - substantiivit
 - date: 22.12.-7.1.
   title: JULLOVET
 - date: ti 9.1.
-  title: Harjoituksia
+  title: Koulu - teemasanasto
   grammar: adjektiivien taivutus
 - date: ke 10.1.	
   title: Harjoituksia
@@ -35,15 +35,13 @@
   title: Harjoituksia
   grammar: verbien taivutus
 - date: ke 17.1.	
-  title: Ruoka
-  grammar: adjektiivien käyttö
+  title: Teemasanastoa
+  grammar: verbien aikamuodot
 - date: pe 19.1.	
-  title: Terveys
-  grammar: sanajärjestys
-  other: KOTIPISTARI
+  title: Harjoituksia
+  other: KOTIPISTARI - verbit
 - date: ti 22.1.	
-  title: Text 6
-  grammar: sanajärjestys
+  title: Ajanilmaukset
 - date: ke 24.1.	
   title: Harjoituksia
   grammar: prepositiot
