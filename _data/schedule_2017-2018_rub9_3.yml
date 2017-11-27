@@ -14,6 +14,7 @@
   title: Luetunymmärtäminen
 - date: ma 18.12.
   title: Harjoituksia
+  other: KONE MUKAAN
 - date: ti 19.12.
   title: Kuuntelu
 - date: to 21.12
@@ -29,13 +30,14 @@
 - date: ma 15.1. 
   title: Tekniikkasanasto
 - date: ti 16.1.
-  title: Harjoituksia
+  title:  Kirjoitelma
+  other: KONE MUKAAN
 - date: to 18.1.
-  title: Kirjoitelma
+  title: Kirjoitelma jatkuu 
   other: KONE MUKAAN
 - date: ma 22.1.
-  title: Kirjoitelma jatkuu
-- date: ti 23.1. 
   title: Palautus ja korjaus
+- date: ti 23.1. 
+  title: Kuuntelu 
 - date: to 25.1.
   title: KERTAUSTUNTI + LUKUOHJEET
