@@ -5,6 +5,14 @@ theme: swedish
 course: rub10.5
 ---
 
+## Arviointipäivän korvaavat tehtävät
+
+1. Kuuntele Castboxista (ohjeet alla) uutiset päivämäärillä 8.12., 31.12. ja 6.1. Tiivistä kunkin päivän uutiset alla olevien kysymysten avulla. Kirjoita tehtävä tekstinkäsittelyohjelmalla (Word, Pages, Google Docs tms.), riviväli 2, fonttikoko 12. OTsikoi päivät selkeästi. Palautus tulostettuna opelle ti 23.1. mennessä, mieluummin aiemmin.
+
+2. Tee työvihkon lopusta löytyvät yo-kokeen rakenne ja käännöstehtävät (kaikki), tee ne siististi siihen työvihkoon. Näytä opelle ne ti 23.1. ja saat tarkastusvihkon.
+
+**Ylläolevien tehtävien suoritus määräaikaan mennessä on edellytys suoritusmerkinnän saamiselle.**
+
 ### Kuunteluharjoitus pienryhmissä
 
  
