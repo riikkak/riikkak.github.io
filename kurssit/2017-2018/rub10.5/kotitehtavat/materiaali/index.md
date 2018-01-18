@@ -5,6 +5,18 @@ theme: swedish
 course: rub10.5
 ---
 
+[Videotehtävä 1](https://www.youtube.com/watch?v=QGA1sPBGAx4)
+
+Katso video ja vastaa seuraaviin kysymyksiin:
+1. Millainen sää on tytön mukaan?
+2. Mistä tyttö kertoo?
+3. Mitä tarvitsee toteuttamiseen?
+4. Mitä hänelle kävi sähkölaitteen kanssa kerran?
+5. Miten hän sanoi "Nyt aloitetaan"?
+6. Mikä oli outoa yhden tuotteen ostamisessa?
+7. Mitä hän käyttää makeutusaineena ja paljonko sitä laitetaan?
+8. Miten hän kuvailee valmista tuotetta?
+
 ## Arviointipäivän korvaavat tehtävät
 
 1. Kuuntele Castboxista (ohjeet alla) uutiset päivämäärillä 8.12., 22.12. ja 8.1. Tiivistä kunkin päivän uutiset alla olevien kysymysten avulla. Kirjoita tehtävä tekstinkäsittelyohjelmalla (Word, Pages, Google Docs tms.), riviväli 2, fonttikoko 12. OTsikoi päivät selkeästi. Palautus tulostettuna opelle ti 23.1. mennessä, mieluummin aiemmin.
