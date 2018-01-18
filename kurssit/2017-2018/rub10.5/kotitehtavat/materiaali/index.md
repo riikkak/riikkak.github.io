@@ -7,6 +7,8 @@ course: rub10.5
 
 [Tänk om: Inne eller ute?](http://sverigesradio.se/dramaforunga)
 
+Kelaa sivua alaspäin ja paina "visa fler", sieltä löydät otsikon mukaisen ohjelman.
+
 [Jakob Karlberg - Fan va bra](https://www.youtube.com/watch?v=cqwO3wKd26M)
 
 [Videotehtävä 1](https://www.youtube.com/watch?v=QGA1sPBGAx4)
