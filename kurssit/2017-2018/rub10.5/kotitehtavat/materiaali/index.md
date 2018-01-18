@@ -5,6 +5,8 @@ theme: swedish
 course: rub10.5
 ---
 
+[Tänk om: Inne eller ute?](http://sverigesradio.se/dramaforunga)
+
 [Jakob Karlberg - Fan va bra](https://www.youtube.com/watch?v=cqwO3wKd26M)
 
 [Videotehtävä 1](https://www.youtube.com/watch?v=QGA1sPBGAx4)
