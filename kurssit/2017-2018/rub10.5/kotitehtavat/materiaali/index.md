@@ -5,6 +5,8 @@ theme: swedish
 course: rub10.5
 ---
 
+[Jakob Karlberg - Fan va bra](https://www.youtube.com/watch?v=cqwO3wKd26M)
+
 [Videotehtävä 1](https://www.youtube.com/watch?v=QGA1sPBGAx4)
 
 Katso video ja vastaa seuraaviin kysymyksiin:
