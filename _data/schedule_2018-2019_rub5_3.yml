@@ -1,0 +1,63 @@
+- date: to 7.2.
+  title: Aloitus, Text 2 
+- date: ma 11.2.
+  title: Text 2 jatkuu
+  grammar: substantiivit
+- date: ti 12.2.
+  title: Temaord - studier
+  grammar: substantiivit
+- date: to 14.2.
+  title: Bänkskuddardagen
+  other: ABIGAALA
+- date: ma 18.2.
+  title: OPA-päivä,
+  grammar: substantiivit
+  other: Sanakoe 1, kuuntelu 1
+- date: ti 19.2.
+  title: Text 5T
+  grammar: s-päätteiset verbit
+  other: Kotiaine 1 palautus
+- date: to 21.2.
+  title: emaord - arbetslivet
+  grammar: s-päätteiset jatkuu
+- date: ma 25.2.
+  title: Text 3
+  grammar: s-päätteiset
+- date: ti 26.2.
+  title:  Text 3 jatkuu
+  grammar: s-passiivi
+- date: to 28.2.
+  title: OPA-päivä, Harjoituksia
+  grammar: s-passiivi
+  other: Sanakoe 2, Kuuntelu 2
+- date: vko 10 Sportlov
+- date: ma 11.3.
+  title: Temaord - sociala medier
+  grammar: s-passiivi
+- date: ti 12.3.
+  title: Text 4
+  grammar: partisiipin preesens
+  other: Kotiaine 2 palautus
+- date: to 14.3.
+  title: Text 4 jatkuu
+  grammar: jatkuu
+- date: ma 18.3.
+  title: Harjoituksia
+  grammar: jatkuu
+- date: ma 20.3.
+  title: OPA-päivä, Text 4
+  other: Sanakoe 3, kuuntelu 3
+- date: ti 19.3.
+  title: Text 1
+- date: to 21.3.
+  title: Text 1 jatkuu
+  other: Kotikirjoitelma 3 palautus (plussa)
+- date: ma 25.3.
+  title: Harjoituksia
+  grammar: Kertausta
+- date: ti 26.3. 
+  title: Kertaustunti?
+  other: Jos ei ole 1. koodin koetta
+- date: pe 29.3. 
+  title: ARVIOINTIPÄIVÄ
+  other: OPA suullinen, kirjallinen
