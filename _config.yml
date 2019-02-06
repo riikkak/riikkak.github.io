@@ -9,14 +9,14 @@ lsi: false
 highlighter: rouge
 url: http://riikka.koskenranta.fi
 baseurl:
-semester: 2017-2018
+semester: 2018-2019
 
 defaults:
   -
     scope:
       path: ""
     values:
-      period: 3
+      period: 4
   -
     scope:
       path: "kurssit/2013-2014"
@@ -49,6 +49,13 @@ defaults:
       path: "kurssit/2017-2018"
     values:
       semester: "2017-2018"
+      current: false
+      archived: true
+  -
+    scope:
+      path: "kurssit/2018-2019"
+    values:
+      semester: "2018-2019"
       current: true
       archived: false
 
@@ -67,6 +74,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - atlassian-ide-plugin.xml
+  - .idea
 
 prose:
   siteurl: 'http://riikka.koskenranta.fi'
@@ -91,19 +99,15 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB6.1 - Etusivu"
-              value: "rub6.1 etusivu"
-            - name: "RUB6.1 - Läksyt"
-              value: "rub6.1 läksyt"
-            - name: "RUB10.1 - Etusivu"
-              value: "rub10.1 etusivu"
-            - name: "RUB10.1 - Läksyt"
-              value: "rub10.1 läksyt"
-            - name: "RUB10.3 - Etusivu"
-              value: "rub10.3 etusivu"
-            - name: "RUB10.3 - Läksyt"
-              value: "rub10.3 läksyt"
-            - name: "RUB11.2 - Etusivu"
-              value: "rub11.2 etusivu"
-            - name: "RUB11.2 - Läksyt"
-              value: "rub11.2 läksyt"
+            - name: "RUB2.4 - Etusivu"
+              value: "rub2.4 etusivu"
+            - name: "RUB2.4 - Läksyt"
+              value: "rub2.4 läksyt"
+            - name: "RUB5.3 - Etusivu"
+              value: "rub5.3 etusivu"
+            - name: "RUB5.3 - Läksyt"
+              value: "rub5.3 läksyt"
+            - name: "RUB9.2 - Etusivu"
+              value: "rub9.2 etusivu"
+            - name: "RUB9.2 - Läksyt"
+              value: "rub9.2 läksyt"

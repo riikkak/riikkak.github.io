@@ -1,0 +1,24 @@
+- name: rub2.4
+  code: 5
+  desc: ""
+  period: 4
+
+- name: rub5.3
+  code: 4
+  desc: ""
+  period: 4
+
+- name: rub6.4
+  code: 7
+  desc: "suullinen kielitaito ja sanasto arkipäivän tilanteissa"
+  period: 5
+
+- name: rub7.4
+  code: 2
+  desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
+  period: 5
+
+- name: rub9.2
+  code: 6
+  desc: "abien kertauskurssi"
+  period: 4
