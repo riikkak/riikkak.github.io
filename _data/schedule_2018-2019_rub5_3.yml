@@ -14,11 +14,11 @@
   grammar: substantiivit
   other: Sanakoe 1, kuuntelu 1
 - date: ti 19.2.
-  title: Text 5T
+  title: Text 5
   grammar: s-päätteiset verbit
   other: Kotiaine 1 palautus
 - date: to 21.2.
-  title: emaord - arbetslivet
+  title: Temaord - arbetslivet
   grammar: s-päätteiset jatkuu
 - date: ma 25.2.
   title: Text 3
@@ -44,17 +44,14 @@
 - date: ma 18.3.
   title: Harjoituksia
   grammar: jatkuu
-- date: ma 20.3.
+- date: ti 19.3.
   title: OPA-päivä, Text 4
   other: Sanakoe 3, kuuntelu 3
-- date: ti 19.3.
-  title: Text 1
 - date: to 21.3.
-  title: Text 1 jatkuu
+  title: Text 1
   other: Kotikirjoitelma 3 palautus (plussa)
 - date: ma 25.3.
-  title: Harjoituksia
-  grammar: Kertausta
+  title: Text 1 jatkuu
 - date: ti 26.3. 
   title: Kertaustunti?
   other: Jos ei ole 1. koodin koetta
