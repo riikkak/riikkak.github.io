@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: rub2.4-maanantai
+title: rub2.4 maanantai
 tags: rub2.4 läksyt
 ---
 
