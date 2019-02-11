@@ -10,4 +10,4 @@ tags: rub5.3 läksyt
 
 2. Lisäksi tee kirjasta opintosanastoon liittyvät tehtävät 4a ja 5 s. 46-47.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
