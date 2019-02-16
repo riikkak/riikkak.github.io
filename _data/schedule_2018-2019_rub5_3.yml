@@ -2,10 +2,8 @@
   title: Aloitus, Text 2 
 - date: ma 11.2.
   title: Text 2 jatkuu
-  grammar: substantiivit
 - date: ti 12.2.
   title: Temaord - studier
-  grammar: substantiivit
 - date: to 14.2.
   title: Bänkskuddardagen
   other: ABIGAALA
@@ -15,17 +13,17 @@
   other: Sanakoe 1, kuuntelu 1
 - date: ti 19.2.
   title: Text 5
-  grammar: s-päätteiset verbit
+  grammar: substantiivit
   other: Kotiaine 1 palautus
 - date: to 21.2.
   title: Temaord - arbetslivet
-  grammar: s-päätteiset jatkuu
+  grammar: substantiivit
 - date: ma 25.2.
   title: Text 3
-  grammar: s-päätteiset
+  grammar: s-päätteiset verbit
 - date: ti 26.2.
   title:  Text 3 jatkuu
-  grammar: s-passiivi
+  grammar: s-päätteiset jatkuu
 - date: to 28.2.
   title: OPA-päivä, Harjoituksia
   grammar: s-passiivi
@@ -36,14 +34,14 @@
   grammar: s-passiivi
 - date: ti 12.3.
   title: Text 4
-  grammar: partisiipin preesens
+  grammar: s-passiivi
   other: Kotiaine 2 palautus
 - date: to 14.3.
   title: Text 4 jatkuu
-  grammar: jatkuu
+  grammar: partisiipin preesens
 - date: ma 18.3.
   title: Harjoituksia
-  grammar: jatkuu
+  grammar: partisiipin preesens
 - date: ti 19.3.
   title: OPA-päivä, Text 4
   other: Sanakoe 3, kuuntelu 3
