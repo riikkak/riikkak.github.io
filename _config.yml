@@ -7,7 +7,7 @@ plugins:
 safe: true
 lsi: false
 highlighter: rouge
-url: http://riikka.koskenranta.fi
+url: https://riikka.koskenranta.fi
 baseurl:
 semester: 2018-2019
 
@@ -77,11 +77,11 @@ exclude:
   - .idea
 
 prose:
-  siteurl: 'http://riikka.koskenranta.fi'
+  siteurl: 'https://riikka.koskenranta.fi'
   media: 'media'
-  relativeLinks: 'http://riikka.koskenranta.fi/api/links.jsonp'
+  relativeLinks: 'https://riikka.koskenranta.fi/api/links.jsonp'
   site:
-    tags: "http://riikka.koskenranta.fi/api/tags.jsonp"
+    tags: "https://riikka.koskenranta.fi/api/tags.jsonp"
   metadata:
     _posts:
       - name: "layout"
