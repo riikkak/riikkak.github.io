@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Tiistain 19.2. tunnille
 tags: rub5.3 läksyt
 ---
