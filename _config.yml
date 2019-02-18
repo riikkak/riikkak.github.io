@@ -93,6 +93,11 @@ prose:
           element: "text"
           label: "Otsikko"
           value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Julkaise"
+          value: "true"
       - name: "tags"
         field:
           element: "select"
