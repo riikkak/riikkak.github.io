@@ -1,12 +1,13 @@
 ---
-layout: "content-main"
+layout: content-main
 title: Arviointi
 theme: swedish
 course: rub5.3
+published: true
 ---
 
 Kurssin arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden
-aikana tapahtuvan työskentelyn eri osa-alueisiin. Alla tarkempi erittely. Kaikki kurssin aikana tehtävät suoritukset (sanakokeet, kuuntelukokeet, kotiaineet, työvihko) on oltava tehtynä arviointipäivään mennessä.
+aikana tapahtuvan työskentelyn eri osa-alueisiin. Alla tarkempi erittely. **Kaikki kurssin aikana tehtävät suoritukset (sanakokeet, kuuntelukokeet, kotiaineet, pistarit, kotikuuntelut yms.) on oltava tehtynä kurssin viimeiseen oppituntiin mennessä. Työvihko tulee olla täytettynä täydellisesti ja palautettava arviointipäivänä.**
 
 # Tuntiaktiivisuus
 Kieltenopiskelun olennainen osa on suullinen kommunikaatio ja tästä syystä
@@ -65,4 +66,3 @@ Nelonenkin on ansaittava ja edellyttää jo jonkin verran osaamista. Mikäli kur
 osasuorituksista liian moni (sanakokeet ja kuuntelukokeet, pistarit) jää alle arvosanan 4- ja lisäksi
 kurssikoekin on numerona alle 4-, ei kurssista voi antaa arvosanaa vaan kurssi
 katsotaan keskeytyneeksi (K) ja kurssi on suoritettava alusta asti uudelleen. Kurssiarvosanan saamiseksi ei riitä, että tulee paikalle ja istuu, vaan opetukseen on osallistuttava, tehtäviä tehtävä, kirjoitelmat palautettava ja työvihko palautettava täytettynä.
-
