@@ -1,46 +1,61 @@
 - date: ti 9.4.
   title: VALDEBATT
+  grammar: SJÄLVSTÄNDIGT ARBETE (AH s. 1)
 - date: ke 10.4.
-  title: Text 1 - ett med naturen
-  grammar: adverbit
+  title: Text 1 - Ett med naturen 
+  grammar: adverbit (AH s. 21)
+  other: B ö. 6, 7a, 10, 12a,(12b)
 - date: pe 12.4.
-  title: Temaord - natur
-  grammar: 
+  title: Temaord - natur 1 (AH s. 2, B ö. 4a, 6a, 7a)
+  grammar: adverbit (B ö. 1, 2b, 4a, 5, 8a, 8b)
 - date: ti 16.4.
-  title: 
+  title: Temaord - natur 2 (AH s. 3-4) 
+  grammar: adjektiivikertaus (AH s. 23)
 - date: ke 17.4.
-  title: 
+  title: Text 2 - Ett liv utan sopor (AH s. 5-6)
+  grammar: adjektiivien vertailu (AH s. 24)
+  other: OP text 3 + HF natur
 - date: pe 19.4.
   title: LÅNGFREDAG
+  other: GLAD PÅSK!
 - date: ti 23.4.
-  title: 
-  grammar: 
+  title: Temaord - Miljöfrågor (AH s. 7)
+  grammar: prepositioilmauksia (AH s. 22)
+- date: ke 24.4.
+  title: Temaord - Miljöfrågor (B 3a, 3b, 4b)
+  grammar: prepositioilmauksia (B s. 1a, 3, 4a, (4b), 5a, 6a, 8, 9)
 - date: pe 26.4.
-  title: 
-  grammar: 
+  title: Text 3 Den modiga aktivisten (AH s. 9-10)
+  grammar: Partisiipin perfekti
+  other: OPA 2 - text 2 + temaord
 - date: ti 30.4.
-  title: 
-  grammar: 
+  title: Text 4 - Den goda hackern
+  grammar: Partisiipin perfekti
+  other: Kotiaine - natur och miljö palautus 
+  date: ke 1.5. 
+  title: VALBORG - DEN FÖRSTA MAJ
 - date: pe 3.5.
-  title: 
-  other: 
+  title: Temaord - Trafik
+  other: Lauseenvastikkeet
 - date: ti 7.5.
-  title: 
+  title: Temaord - Trafik
+  grammar: Lauseenvastikkeet
 - date: ke 8.5.
-  title: 
+  title: Text 5 - Du sköna nya värld
 - date: pe 10.5.
-  title: 
+  title: Text 5 jatkuu
   grammar: 
+  other: Kotiaine 2 palautus
 - date: ti 14.5.
-  title: 
-  grammar:
+  title: Temaord - Social och ekonomisk hållbarhet
+  grammar: Genetiivi
 - date: ke 15.5.
-  title: 
-  grammar: 
-  other: 
+  title: Temaord - Brott och straff
+  grammar: Genetiivi
+  other: OPA 3 - text 5 + temaord
 - date: pe 17.5.
-  title: 
+  title: Temaord - Brott och straff
+  other: (Kotiaine 3 - social hållbarhet palautus)
 - date: ti 21.5.
   title: ARVIOINTIPÄIVÄ
- 
-
+  other: MP, LF, Ö, G
