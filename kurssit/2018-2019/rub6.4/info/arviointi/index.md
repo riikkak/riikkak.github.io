@@ -5,7 +5,7 @@ theme: swedish
 course: rub6.4
 published: true
 ---
-Kurssin RUB6 (suullisen kielitaidon kurssi) arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden aikana tapahtuvaan työskentelyyn. Koska kurssi on läsnäoloon perustuva työkurssi, saa **poissaoloja** kertyä **maksimissaan 2 tuntia**, oli poissaolon syy mikä hyvänsä. Tunteja ei pääsääntöisesi voi korvata erillisillä tehtävillä.
+Kurssin RUB6 (suullisen kielitaidon kurssi) arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden aikana tapahtuvaan työskentelyyn. Koska kurssi on läsnäoloon perustuva työkurssi, saa **poissaoloja** kertyä **maksimissaan 2 tuntia**, oli poissaolon syy mikä hyvänsä. Tunteja ei pääsääntöisesi voi korvata erillisillä tehtävillä. Jos poissaoloja on enemmän, kurssi keskeytyy. Inhimilliset syyt kuten sairastuminen ovat toki mahdollisia. Näissä tapauksissa neuvottele välittömästi sairauden alettua opettajan kanssa jatkosta.
 
 **Arviointiin kuuluu:**
 
