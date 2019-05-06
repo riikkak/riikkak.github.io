@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Tiistain tunnille
-tags: rub7.4 etusivu
+tags: rub7.4 läksyt
 ---
 1. Tee liikkennesanastoon liittyvät tehtävät loppuun kirjasta alk. s. 107 t. 3a, 5b, 6, 7 (plussana 9).
 
