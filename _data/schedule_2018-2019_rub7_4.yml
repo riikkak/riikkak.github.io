@@ -36,16 +36,18 @@
   title: VALBORG - DEN FÖRSTA MAJ
 - date: pe 3.5.
   title: Temaord - Trafik (AH s. 
-  other: Partisiipin perfekti (B s. 
+  other: Partisiipin perfekti (B s. )
 - date: ti 7.5.
-  title: Temaord - Trafik (B s. 
-  grammar: )Lauseenvastikkeet (AH s. 
+  title: Temaord - Trafik (AH s. )
+  other: Kotiaine 2 (EXTRA) palautus
 - date: ke 8.5.
   title: Text 5 - Du sköna nya värld
   grammar: Lauseenvastikkeet
+  other: suomenna teksti kotona valmiiksi
 - date: pe 10.5.
   title: Text 5 jatkuu
-  other: Kotiaine 2 - trafik palautus
+  grammar: Lauseenvastikkeet (AH s. 
+  other: Kotiaine 3 - TRAFIK palautus
 - date: ti 14.5.
   title: Temaord - Social och ekonomisk hållbarhet
   grammar: Genetiivi
@@ -55,7 +57,8 @@
   other: OPA 3 - Sana- ja kuuntelukoe text 5 + temaord
 - date: pe 17.5.
   title: Temaord - Brott och straff
-  other: (Kotiaine 3 - social hållbarhet palautus)
+  grammar: loput
+  other: (Kotiaine 4 - social hållbarhet palautus)
 - date: ti 21.5.
   title: ARVIOINTIPÄIVÄ
   other: MP, LF, Ö, G
