@@ -13,3 +13,5 @@ Tehtäviä aloiteltiin tunnilla, loput tuli kotiin. Jos olit pois, huolehdi kaik
 3. Työvihkosta teemasanastot s. 17-18. Apua kirjan s. 63.
 
 4. Työvihkosta prepositioiden kertaus.
+
+Muista kotiaineen palautus ti klo 22.00 mennessä! Viimeinen sana- ja kuuntelukoe keskiviikon tunnilla.
