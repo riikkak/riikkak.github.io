@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Keskiviikon tunnille
+tags: rub7.4 läksyt
 ---
 1. Tee työvihkoon adjektiivin vertailun käännöslauseet sivulle 24. Jos olit pois, tee koko sivu!
 
