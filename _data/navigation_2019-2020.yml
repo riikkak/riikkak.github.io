@@ -1,0 +1,102 @@
+# ----- RUB1.1 ----- #
+- course: rub1.1
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+    - page: Läksyt
+      url: ""
+    - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB3.7 ----- #
+- course: rub3.7
+  pages:
+    - page: Etusivu
+    - page: Aikataulu
+    - page: Kotitehtävät
+      url: kotitehtavat
+      subpages:
+        - page: Läksyt
+          url: ""
+        - page: Materiaali
+    - page: Info
+      subpages:
+        - page: Säännöt
+          url: ""
+        - page: Arviointi
+        - page: Kurssikoe
+# ----- RUB4.1 ----- #
+- course: rub4.1
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+    - page: Läksyt
+      url: ""
+    - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB4.3 ----- #
+- course: rub4.3
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+    - page: Läksyt
+      url: ""
+    - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB7.2 ----- #
+- course: rub7.2
+  pages:
+  - page: Etusivu
+  - page: Aikataulu
+  - page: Kotitehtävät
+    url: kotitehtavat
+    subpages:
+    - page: Läksyt
+      url: ""
+    - page: Materiaali
+  - page: Info
+    subpages:
+    - page: Säännöt
+      url: ""
+    - page: Arviointi
+    - page: Kurssikoe
+# ----- RUB12.2 ----- #
+- course: rub12.2
+  pages:
+    - page: Etusivu
+    - page: Aikataulu
+    - page: Kotitehtävät
+      url: kotitehtavat
+      subpages:
+        - page: Läksyt
+          url: ""
+        - page: Materiaali
+    - page: Info
+      subpages:
+        - page: Säännöt
+          url: ""
+        - page: Arviointi
+        - page: Kurssikoe
