@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Maanantaille 25.2.
 tags: rub5.3 läksyt

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Torstain 21.2. tunnille
 tags: rub5.3 läksyt

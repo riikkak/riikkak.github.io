@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Keskiviikolle 24.4.
 tags: rub7.4 läksyt

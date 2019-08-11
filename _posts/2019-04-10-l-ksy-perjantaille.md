@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Läksy perjantaille
 tags: rub7.4 läksyt

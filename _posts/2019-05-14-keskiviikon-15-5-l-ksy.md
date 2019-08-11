@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Keskiviikon 15.5. läksy
 tags: rub6.4 läksyt

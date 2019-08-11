@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Välkommen till RUB7
 tags: rub7.4 etusivu

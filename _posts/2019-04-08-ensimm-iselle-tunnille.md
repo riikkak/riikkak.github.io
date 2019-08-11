@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Ensimmäiselle tunnille
 tags: rub7.4 läksyt

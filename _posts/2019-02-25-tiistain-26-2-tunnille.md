@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Tiistain 26.2. tunnille
 tags: rub2.4 läksyt

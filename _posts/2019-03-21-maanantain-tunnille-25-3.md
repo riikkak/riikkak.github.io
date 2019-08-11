@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Maanantain tunnille 25.3.
 tags: rub2.4 läksyt

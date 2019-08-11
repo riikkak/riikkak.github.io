@@ -15,6 +15,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "posts"
+    values:
+      layout: none
+  -
+    scope:
+      path: ""
     values:
       period: 1
   -
@@ -94,7 +100,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"
+          value: "none"
       - name: "title"
         field:
           element: "text"

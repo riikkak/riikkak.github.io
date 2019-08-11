@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Maanantain tunnille
 tags: rub6.4 läksyt

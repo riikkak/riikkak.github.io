@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 published: true
 title: Tiistain tunnille
 tags: rub5.3 läksyt
