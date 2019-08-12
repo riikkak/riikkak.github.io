@@ -1,11 +1,10 @@
 ---
 layout: none
 published: true
-title: ''
+title: Ensimmäinen läksy
 tags: rub4.1 läksyt
 ---
 
-## Ensimmäinen läksy
 
 1. Täytä työvihkoon tekstin 3 fraasit s.8.
 2. Tee kirjasta harjoitukset 3b ja 5b.
