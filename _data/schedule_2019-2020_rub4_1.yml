@@ -15,10 +15,10 @@
 - date: to 22.8.
   title: Text 1 jatkuu
   grammar: Yhdysverbit
-  other: KOTIAINE 1 palautus
 - date: ma 26.8.
   title: Harjoituksia
   grammar: Apuverbit
+  other: KOTIAINE 1 palautus
 - date: ke 28.8.
   title: Temaord - Kulturell mångfald
   other: OPA-päivä, Text 1 sanis ja kuuntelu
@@ -30,7 +30,6 @@
   grammar: Infinitiivi
 - date: ke 4.9.
   title: ILMASTOTUNTI
-  other: KOTIAINE 2 palautus
 - date: to 5.9.
   title: Harjoituksia
   grammar: Infinitiivi
@@ -38,6 +37,7 @@
 - date: ma 9.9. 
   title: Text 5 Du är vad du äger
   grammar: Konditionaali
+  other: KOTIAINE 2 palautus
 - date: ke 11.9.
   title: text 5 jatkuu
   grammar: Konditionaali
@@ -57,4 +57,3 @@
 - date: pe 27.9.
   title: ARVIOINTIPÄIVÄ klo 8.30-12.00
   other: KONE JA TYÖVIHKO MUKAAN!
-
