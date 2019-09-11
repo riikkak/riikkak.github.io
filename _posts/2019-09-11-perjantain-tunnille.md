@@ -2,7 +2,7 @@
 layout: none
 published: true
 title: Perjantain tunnille
-tags: rub4.1 läksyt
+tags: rub1.1 läksyt
 ---
 1. Muista käydä täyttämässä sähköpostiosoitteesi Wilma-viestissä annettujen ohjeiden mukaisesti mahdollisimman pian! (Viikonlopulle tulossa pakollinen kotikuuntelu)
 
