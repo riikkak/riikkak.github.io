@@ -12,7 +12,7 @@ tags: rub4.1 läksyt
 
 4. Plussatehtävinä skola -teemasanaston tehtävät kirjasta. s. 84 alkaen t. 2a, 2b, 3a, 4a, 4b, 7. Jokaisesta tehtävästä plussa joten tee sen verran kun jaksat/ehdit. Tee tehtävät erillisille paperille ja palauta opelle.
 
-Perjantaina saat mennä istumaan mihin haluat :) Kriteerit kuitenkin nämä:
+**Perjantaina saat mennä istumaan mihin haluat :)** Kriteerit kuitenkin nämä:
 
 1. Valitse ensin paikka joka on sijainniltaan paras sinun oppimisillesi.
 2. Voit pitää saman parin jos oppiminen onnistui hänen kanssaan.
