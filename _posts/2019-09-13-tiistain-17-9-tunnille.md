@@ -4,7 +4,7 @@ published: true
 title: Tiistain 17.9. tunnille
 tags: rub1.1 läksyt
 ---
-1. Käy tekemässä harjoituskuuntelu sähköpostiisi saaman linkin kautta.
+1. Käy tekemässä harjoituskuuntelu sähköpostiisi saaman linkin kautta (jos linkki ei ole tullut, tarkista roskaposti. Jos ei sielläkään, laita opelle viestiä).
 
 2. Tee tekstiin 3 ja teemaan fritid liittyvät harjoitukset kirjasta: **s. 54 t. 2b ja s. 66 t. 5c.**
 
