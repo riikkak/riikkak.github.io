@@ -12,14 +12,19 @@ Kurssikoe koostuu useammasta osasta. Kaikkien osioiden yhteenlaskettu pistemää
 **Jakson aikana tehdyt**
 
 O = ORD, sanasto (75-90p)
+
 HF = HÖRFÖRSTÅELSE, kuullunymmärtämisen kokeet (40-60p)
+
 SF = SKRIFTLIGA FRAMSTÄLLNINGAR, kirjoitelmat (20-40p)
 
 **Arviointipäivänä tehdään**
 
 LF = LÄSFÖRSTÅELSE, luetunymmärtäminen (n. 50p)
+
 G = GRAMMATIK, kielioppi (n. 70-90p)
+
 Ö = ÖVERSÄTTNING, käännös (40p))
+
 M = MUNTLIG PROV, suullinen koe (20p)
 
 **Kertaa arviointipäivän osuuteen:**
