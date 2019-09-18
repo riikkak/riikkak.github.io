@@ -5,7 +5,7 @@ theme: swedish
 course: rub1.1
 published: true
 ---
-Arviointipäivä alkaa klo 8.00 ja kestää n. 4 tuntia.
+**Arviointipäivä alkaa klo 8.00 ja kestää n. 4 tuntia.** Tule ajoissa! Ensin suullinen koe + ryhmätyö, sitten sähköinen kielioppi, lopuksi paperinen luetunymmärtäminen ja käännöslauseet. 
 
 Kurssikoe koostuu useammasta osasta. Kaikkien osioiden yhteenlaskettu pistemäärä on n. 320-380 pistettä. Kokonaisarvioinnin numero lasketaan 50% taulukolla (saatu pistemäärä/maksimipistemäärä (-0). Koeosioiden lisäksi arvosanaan vaikuttavat kohdassa arviointi määritellyt asiat. 
 
@@ -35,3 +35,4 @@ M = MUNTLIG PROV, suullinen koe (20p)
 2. Kynä ja kumi
 3. Työvihko täytettynä
 4. Mahdolliset puhtaaksikirjoitetut aineet
+5. Evästä
