@@ -5,7 +5,8 @@ theme: swedish
 course: rub1.1
 published: true
 ---
-**Arviointipäivä alkaa klo 8.00 ja kestää n. 4 tuntia.** Tule ajoissa! Ensin suullinen koe + ryhmätyö, sitten sähköinen kielioppi, lopuksi paperinen luetunymmärtäminen ja käännöslauseet. 
+**Arviointipäivä alkaa klo 8.00 ja kestää n. 4 tuntia.** 
+Tule ajoissa! Ensin suullinen koe + ryhmätyö, sitten sähköinen kielioppi, lopuksi paperinen luetunymmärtäminen ja käännöslauseet. 
 
 Kurssikoe koostuu useammasta osasta. Kaikkien osioiden yhteenlaskettu pistemäärä on n. 320-380 pistettä. Kokonaisarvioinnin numero lasketaan 50% taulukolla (saatu pistemäärä/maksimipistemäärä (-0). Koeosioiden lisäksi arvosanaan vaikuttavat kohdassa arviointi määritellyt asiat. 
 
