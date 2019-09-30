@@ -10,6 +10,25 @@ Jos olet sairaana, tai muusta pätevästä syystä poissa OPA-päivänä, **ilmo
 ​
 ## Pidemmät poissaolot
 Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saattaa opettajan tietoon kurssin alussa, jotta voidaan sopia tehtävistä ja aikataulusta.
+
+# Kirjoitelmien arviointi
+
+### P = PANOSTUS eli sanasto ja laajuus = miten hyvin osaat soveltaa kurssilla opeteltua sanastoa 0 – 5p
+
+* 1-2p Kirjoitelma on minimipituinen, mutta sanasto pysyy yleisellä tasolla tai fraasit on poimittu sanakirjasta/netistä.
+
+* 3p Kirjoitelmassa on jo enemmän pituutta, mutta sanastossa on vain pari kurssilla opeteltua fraasia tai fraasit on poimittu enimmäkseen muualta kuin kirjasta.
+
+* 4 – 5p Kirjoitelman pituus lähestyy jo sanamäärän ylärajaa, aiheen käsittely on monipuolista ja siinä on hyödynnetty kurssilla opittua sanastoa
+
+### K = KIELI eli rakenne = kirjoitelman virheettömyys ja kielelliset ansiot 0 – 5p
+
+* 1 – 2p Kirjoitelmassa on käytetty pääasiassa pelkkiä suoria päälauseita, runsaasti virheitä jotka hankaloittavat tekstin lukemista/ymmärtämistä.
+
+* 3p Lauserakenteet ovat jo monipuolisempia, mutta virheitä melko paljon.
+
+* 4 – 5p Kirjoitelmassa on käytetty sekä päälauseen suoraa että käänteistä sanajärjestystä, mukana on myös yksi tai useampia sivulauseita, teksti on melko virheetöntä.
+
 ​
 ## Sanakokeisiin luku
 Opiskele sanakoetta varten työvihkossa olevat tekstien alleviivaukset. Kirjan
