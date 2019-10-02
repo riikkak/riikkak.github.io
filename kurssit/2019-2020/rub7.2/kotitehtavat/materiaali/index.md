@@ -7,14 +7,16 @@ published: true
 ---
 [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus7/)
 
-[Text 1 - fraser](https://quizlet.com/_6h7ccb)
+### Tekstien fraasit Quizletteina
 
-[Temaord - natur](https://quizlet.com/_6h7v00)
+-[Text 1 - fraser](https://quizlet.com/_6h7ccb)
 
-[Text 2 - fraser](https://quizlet.com/_6lofwf)
+-[Temaord - natur](https://quizlet.com/_6h7v00)
 
-[Text 3 - fraser](https://quizlet.com/_6loha5)
+-[Text 2 - fraser](https://quizlet.com/_6lofwf)
 
-[Text 4 - fraser](https://quizlet.com/_6lofah)
+-[Text 3 - fraser](https://quizlet.com/_6loha5)
 
-[Text 5 - fraser](https://quizlet.com/_6logip)
+-[Text 4 - fraser](https://quizlet.com/_6lofah)
+
+-[Text 5 - fraser](https://quizlet.com/_6logip)
