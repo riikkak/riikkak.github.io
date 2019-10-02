@@ -4,10 +4,10 @@
   title: Text 1 - Fina Finland uutena, suomalaisuus
   grammar: epäsuorakysymys
 - date: ma 7.10.
-  title: Text 1 vanhana, tien neuvominen
+  title: Text 1 vanhana, kaupungit
   grammar: epäsuorakysymys
 - date: ke 9.10. 
-  title: Harjoituksia
+  title: Tien neuvominen
   grammar: epäsuorakysymys
   other: OPA-päivä, Sanis text 1 ja kuuntelukoe - temaord
 - date: to 10.10.
@@ -16,13 +16,14 @@
 - date: ma 14.10.
   title: Text 2 vanhana
   grammar: relatiivilause
+  other: Kotiaine 1 palautus
 - date: ke 16.10.
   title: Temaord - kultur
   grammar: pronominit
-  other: Kotiaine 1 palautus
 - date: to 17.10.
   title: Temaord - fester och traditioner
   grammar: pronominit
+  other: Kotiaine (EXTRA 1) palautus
 - date: vko 43
   title: HÖSTLOV
 - date: ma 28.10.
@@ -60,4 +61,3 @@
 - date: ma 25.11.
   title: ARVIOINTIPÄIVÄ klo 8.15-12
   other: MUKAAN KONE JA TYÖVIHKO!
-
