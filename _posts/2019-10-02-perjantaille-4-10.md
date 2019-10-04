@@ -2,6 +2,7 @@
 layout: none
 published: true
 title: Perjantaille 4.10.
+tags: rub7.2 läksyt
 ---
 1. Tee loppuun työvihkon sivun 15 liikennesanasto. Yläosan sanat joutunee googlettamaan (sanakirja.org).
 
