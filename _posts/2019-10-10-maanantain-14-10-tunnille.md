@@ -2,6 +2,7 @@
 layout: none
 published: true
 title: Maanantain 14.10. tunnille
+tags: rub4.3 läksyt
 ---
 Muista palauttaa verbien kotipistari!
 
