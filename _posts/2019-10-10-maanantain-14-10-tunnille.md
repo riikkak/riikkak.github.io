@@ -7,7 +7,8 @@ tags: rub4.3 läksyt
 Muista palauttaa verbien kotipistari!
 
 1. Tee loppuun työvihkon s. 18, johdosverbit.
-2. Tee työvihkon s. 4 alaosa (olika känslor), apua kirjasta.
-3. Plussatehtävinä kirjan johdosverbitehtäviä s. 122-123. Yksi plussa per tehtäväpari (8a+b, 9a+b, 10a+b).
+2. Täytä loppuun työvihkoon tekstin fraasit sivulle 5.
+3. Tee työvihkon s. 4 alaosa (olika känslor), apua kirjasta.
+4. Plussatehtävinä kirjan johdosverbitehtäviä s. 122-123. Yksi plussa per tehtäväpari (8a+b, 9a+b, 10a+b).
 
-Työvihkon sivut 5 (tekstin 2 fraasit) ja 17 (epäsäännöllisiä verbejä) ovat plussatehtäviä jotka katson vihkojen palautuksen yhteydessä, tehtävä halutessaan siis arviointipäivään mennessä.
+Työvihkon sivu 17 (epäsäännöllisiä verbejä) ovat plussatehtävä jonka katson vihkojen palautuksen yhteydessä, tehtävä halutessaan siis arviointipäivään mennessä.
