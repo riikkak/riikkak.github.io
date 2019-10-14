@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: ''
+title: Läksy keskiviikolle 16.10.
 tags: rub3.7 läksyt
 ---
 Muista ensimmäisen kotiaineen palautus Emendediin!
