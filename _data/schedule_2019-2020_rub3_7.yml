@@ -28,37 +28,35 @@
   title: HÖSTLOV
 - date: ma 28.10.
   title: Text 5 Snabbguide till Ankdammen uutena
-  grammar: pronominit
+  grammar: indefiniittipronominit - någon/ingen
 - date: ke 30.10.
   title: Text 5 vanhana
-  grammar: pronominit
+  grammar: indefiniittipronominit - varje
   other: Kotiaine (EXTRA 1 - tienneuvominen) palautus
 - date: to 31.10.
   title: Harjoituksia
-  grammar: pronominit
+  grammar: indefiniittipronominit - alla, hela, båda, själv
   other: OPA-päivä, Text 5 sanis + kuuntelu - temaord
 - date: ma 4.11.
   title: Text 4 Miriam - en halvfinländare
-  grammar: pronominit
+  grammar: indefiniittipronominit - paljoussanat
 - date: ke 6.11.
   title: Text 4 vanhana
-  grammar: pronominit 
+  grammar: demonstratiivipronominit - tämä, tuo, nämä, nuo
 - date: to 7.11.
   title: Temaord - Lappland och natur
-  grammar: pronominit 
+  grammar: demonstratiivipronominit - samma
   other: Kotiaine (EXTRA 2) palautus
-- date: pe 8.11. 
-  title: TUKIOPETUS - pronominit yms.
-  other: Kotiaine 2 palautus
 - date: ma 11.11. (E)
   title: Text 3 Finns sanningen i sångerna? (LF)
-  grammar: pronominit
+  grammar: demonstratiivipronominit - sådan
   other: OPA-päivä, Sanis text 4 ja kuuntelu - temaord
 - date: ke 13.11. (E)
-  title: Text 6 Allt möjligt, bara du vågar! uutena
+  title: Text 6 Allt möjligt, bara du vågar! - uutena
+  other: Kotiaine 2 palautus
 - date: to 14.11. (E)
-  title: KERTAUSTA - kertausmateriaalin jako
-  grammar: harjoituksia
+  title: Harjoituksia - kertausmateriaalin jako
+  grammar: pronominikertaus
 - date: ma 25.11.
   title: ARVIOINTIPÄIVÄ klo 8.15-12
   other: MUKAAN KONE JA TYÖVIHKO!
