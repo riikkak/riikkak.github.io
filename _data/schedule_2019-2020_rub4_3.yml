@@ -13,14 +13,14 @@
   grammar: verbit
 - date: to 10.10.
   title: Text 2 Optimist eller pessimist?
-  grammar: Johdosverbit
+  grammar: johdosverbit
 - date: ma 14.10.
   title: Text 2 jatkuu
   grammar: Apuverbit
   other: VERBIPISTARIN PALAUTUS
 - date: ti 15.10.
   title: Harjoituksia
-  grammar: Apuverbit
+  grammar: apuverbit
   other: OPA-päivä Kuuntelu - temaord
 - date: to 17.10.
   title: Temaord - Kulturell mångfald
@@ -30,7 +30,7 @@
   title: HÖSTLOV
 - date: ma 28.10.
   title: Text 4 Två bilder - två historier
-  grammar: Lyhyet vastaukset
+  grammar: lyhyet vastaukset
 - date: ti 29.10.
   title: Text 4 jatkuu
   grammar: infinitiivi
@@ -38,28 +38,27 @@
   title: Harjoituksia
   grammar: infinitiivi
   other: OPA-päivä, text 4 sanis ja kuuntelu
-- date: ma 4.11. (YO)
+- date: ma 4.11. (YO)(E)
   title: Temaord - Pengar och konsumtion
-  grammar: konditionaali
   other: KOTIAINE 2 palautus
-- date: ti 5.11.
+- date: ti 5.11. (E)
+  title: Temaord - jatkuu
+  grammar: konditionaali
+- date: to 7.11. (E)
   title: Text 5 Du är vad du äger
-  grammar: Infinitiivi
-- date: to 7.11.
-  title: text 5 jatkuu
-  grammar: Konditionaali
+  grammar: konditionaali
 - date: ma 11.11. (E)
-  title: Harjoituksia
-  grammar: Konditionaali
-  other: OPA-päivä, text 5 sanis ja kuuntelu
+  title: text 5 jatkuu
+  grammar: konditionaali
+  other: 
 - date: ti 12.11. (E)
   title: Harjoituksia
   grammar: prepositiot
-  other: KOTAINE 3 (EXTRA) palautus
+  other: OPA-päivä, text 5 sanis ja kuuntelu
 - date: to 14.11. (E)
-  title: KERTAUSTA
+  title: KERTAUSTA, ARVIOINTIPÄIVÄN OHJEET JA KERTAUSTEHTÄVÄT
   grammar: Prepositiot
-  other: ARVIOINTIPÄIVÄN OHJEET JA KERTAUSTEHTÄVÄT
+  other: KOTIAINE 3 (EXTRA) palautus
 - date: to 21.11.
   title: ARVIOINTIPÄIVÄ klo 8.00-12.00
   other: KONE JA TYÖVIHKO MUKAAN!
