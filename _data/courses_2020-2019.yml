@@ -1,0 +1,54 @@
+- name: rub1.7
+  code:
+  desc:
+  period: 3
+  
+- name: rub2.4
+  code:
+  desc:
+  period: 4
+
+- name: rub2.7
+  code:
+  desc:
+  period: 5
+  
+- name: rub3.4
+  code:
+  desc:
+  period: 2 
+  
+- name: rub4.7
+  code:
+  desc:
+  period: 4 
+
+- name: rub4.8
+  code:
+  desc:
+  period: 4
+
+- name: rub5.1
+  code:
+  desc:
+  period: 2
+
+- name: rub5.7
+  code:
+  desc:
+  period: 5
+
+- name: rub6.5
+  code:
+  desc:
+  period: 5
+  
+- name: rub8.3
+  code:
+  desc:
+  period: 3
+
+- name: rub12.4
+  code:
+  desc:
+  period: 3
