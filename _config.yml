@@ -9,7 +9,7 @@ lsi: false
 highlighter: rouge
 url: https://riikka.koskenranta.fi
 baseurl:
-semester: 2019-2020
+semester: 2020-2021
 
 defaults:
   -
@@ -69,6 +69,13 @@ defaults:
       path: "kurssit/2019-2020"
     values:
       semester: "2019-2020"
+      current: false
+      archived: true
+   -
+    scope:
+      path: "kurssit/2020-2021"
+    values:
+      semester: "2020-2021"
       current: true
       archived: false
 
@@ -117,15 +124,12 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB3.7 - Etusivu"
-              value: "rub3.7 etusivu"
-            - name: "RUB3.7 - Läksyt"
-              value: "rub3.7 läksyt"
-            - name: "RUB4.3 - Etusivu"
-              value: "rub4.3 etusivu"
-            - name: "RUB4.3 - Läksyt"
-              value: "rub4.3 läksyt"
-            - name: "RUB7.2 - Etusivu"
-              value: "rub7.2 etusivu"
-            - name: "RUB7.2 - Läksyt"
-              value: "rub7.2 läksyt"
+            - name: "RUB3.4 - Etusivu"
+              value: "rub3.4 etusivu"
+            - name: "RUB3.4 - Läksyt"
+              value: "rub3.4 läksyt"
+            - name: "RUB5.1 - Etusivu"
+              value: "rub5.1 etusivu"
+            - name: "RUB5.1 - Läksyt"
+              value: "rub5.1 läksyt"
+
