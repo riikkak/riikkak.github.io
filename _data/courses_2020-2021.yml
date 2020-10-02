@@ -1,54 +1,54 @@
 - name: rub1.7
   code:
-  desc:
+  desc: asuminen, koulu, vapaa-aika, Ruotsi, perhe
   period: 3
   
 - name: rub2.4
-  code:
-  desc:
+  code: 
+  desc: 
   period: 4
 
 - name: rub2.7
   code:
-  desc:
+  desc: ruoka, vaatteet ja keho, asuminen, ystävyys, Norja
   period: 5
   
 - name: rub3.4
   code:
-  desc:
+  desc: suomalaisuus ja Suomi, tienneuvominen, nähtävyydet, 
   period: 2 
   
 - name: rub4.7
   code:
-  desc:
+  desc: elämänkatsomus, kulttuurinen monimuotoisuus, rahankäyttö
   period: 4 
 
 - name: rub4.8
   code:
-  desc:
+  desc: elämänkatsomus, kulttuurinen monimuotoisuus, rahankäyttö
   period: 4
 
 - name: rub5.1
   code:
-  desc:
+  desc: opiskelu, työelämä, sosiaaliset mediat
   period: 2
 
 - name: rub5.7
   code:
-  desc:
+  desc: opiskelu, työelämä, sosiaaliset mediat
   period: 5
 
 - name: rub6.5
   code:
-  desc:
+  desc: ihmissuhteet, politiikka, matkustaminen, kulttuuri
   period: 5
   
 - name: rub8.3
   code:
-  desc:
+  desc: sanastot ja rakenteet yo:hon
   period: 3
 
 - name: rub12.4
   code:
-  desc:
+  desc: kirjoittaminen ja kuuntelu 
   period: 3
