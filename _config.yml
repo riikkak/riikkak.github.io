@@ -8,7 +8,7 @@ safe: true
 lsi: false
 highlighter: rouge
 url: https://riikka.koskenranta.fi
-baseurl:
+baseurl: ""
 semester: 2020-2021
 
 defaults:
@@ -28,6 +28,7 @@ defaults:
       path: "kurssit/2013-2014"
     values:
       semester: "2013-2014"
+      current: false
       archived: true
   -
     scope:

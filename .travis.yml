@@ -7,4 +7,4 @@ sudo: false
 language: ruby
 script: "bundle exec jekyll build"
 rvm:
-  - "2.3.0"
+  - "2.7.0"
