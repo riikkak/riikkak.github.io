@@ -72,7 +72,7 @@ defaults:
       semester: "2019-2020"
       current: false
       archived: true
-   -
+  -
     scope:
       path: "kurssit/2020-2021"
     values:
@@ -125,12 +125,8 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB3.4 - Etusivu"
-              value: "rub3.4 etusivu"
             - name: "RUB3.4 - Läksyt"
               value: "rub3.4 läksyt"
-            - name: "RUB5.1 - Etusivu"
-              value: "rub5.1 etusivu"
             - name: "RUB5.1 - Läksyt"
               value: "rub5.1 läksyt"
 
