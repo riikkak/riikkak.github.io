@@ -1,4 +1,9 @@
-@import url("//fonts.googleapis.com/css?family=Ubuntu");
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu Regular'), local('Ubuntu-Regular'), url(http://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKfw7z.ttf) format('truetype');
+}
 /*!
  * Bootstrap v3.0.0
  *
@@ -213,7 +218,7 @@ table {
     max-width: 100% !important;
   }
   @page {
-    margin: 2cm .5cm;
+    margin: 2cm 0.5cm;
   }
   p,
   h2,
@@ -3360,7 +3365,7 @@ a.thumbnail:focus {
 }
 .label {
   display: inline;
-  padding: .25em .6em;
+  padding: 0.25em 0.6em;
   font-size: 75%;
   font-weight: 500;
   line-height: 1;
@@ -3369,7 +3374,7 @@ a.thumbnail:focus {
   white-space: nowrap;
   vertical-align: middle;
   background-color: #999999;
-  border-radius: .25em;
+  border-radius: 0.25em;
 }
 .label[href]:hover,
 .label[href]:focus {
