@@ -1,15 +1,3 @@
-@font-face {
-  font-family: 'News Cycle';
-  font-style: normal;
-  font-weight: 400;
-  src: local('News Cycle'), local('NewsCycle'), url(http://fonts.gstatic.com/s/newscycle/v17/CSR64z1Qlv-GDxkbKVQ_fOAKSA.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'News Cycle';
-  font-style: normal;
-  font-weight: 700;
-  src: local('News Cycle Bold'), local('NewsCycle-Bold'), url(http://fonts.gstatic.com/s/newscycle/v17/CSR54z1Qlv-GDxkbKVQ_dFsvWNRevA.ttf) format('truetype');
-}
 /*!
  * Bootstrap v3.0.0
  *
