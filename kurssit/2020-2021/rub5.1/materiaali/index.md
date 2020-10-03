@@ -4,7 +4,18 @@ title: Materiaali
 course: rub5.1
 published: true
 ---
-## QUIZLETIT
+
+
+## Tekstien fraasit - tarkistus
+
+
+
+[OTAVAN ÄÄNITIEDOSTO](http://tiedostot.otava.fi/aanet/fokus5/)
+
+Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuuntele teksti kotona ja suomenna. Pyydä muistiinpanot kavereilta. Voit tehdä halutessasi myös äänitiedoston muita harjoituksia kuullunymmärtämisen treenamiseksi.
+
+
+### Quizletit
 
 - [Text 1 fraasit - flashcards](https://quizlet.com/_630mg0)
 - [Text 2 fraasit - flashcards](https://quizlet.com/_613ywq)
