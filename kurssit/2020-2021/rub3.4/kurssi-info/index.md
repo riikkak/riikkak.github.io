@@ -4,7 +4,7 @@ title: Kurssi-info
 course: rub3.4
 published: true
 ---
-- [REK-regler](/media/rub5/REK_regler.pdf)
+## - [REK-regler](/media/rub5/REK_regler.pdf)
 
 Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vettä vain :)
 
@@ -43,12 +43,11 @@ Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös plussat. Läk
 - Tämä on tärkein lähtökohta kurssisuorituksen arvioinnissa. Kieli on puhumista, kommunikaatiota.
 
 
-2) 3 suullista Flipgrid-videotehtävää (30p)
+2) 2 suullista Flipgrid-videotehtävää (20p)
 
-- Esittely
-- Opinnot
-- Työhakemus
-- Vlogg (EXTRA)
+- Esittely (Jag, finländare)
+- Tienneuvominen (parin kanssa)
+- Min favoritfest (EXTRA)
 
 Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 
@@ -61,12 +60,11 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 
 4. Kirjallinen tuottaminen (n. 40p + 50p)
 
-•	
-•	Kaksi pakollista ohjattua kirjoitustehtävää
-•	1-3 vapaaehtoista (palautus ennen arviointipäivää)
-•	Kirjoitetaan Emendedissä
-•	Puhtaaksikirjoitus vapaaehtoinen (palautus Teamsiin), saa plussaa. Kurssista ja aikataulusta riippuen puhtaaksikirjoittaminen voi olla myös pakollinen suoritus.
-•	Arviointipäivänä käännöslauseet (n. 50p). Käännöslauseissa yhdistyvät kurssin aikana käyty kielioppi, sekä teemasanat. Opettele siis huolella käyttämään näitä jo ohjatuissa kirjoitustehtävissä.
+- Kaksi pakollista ohjattua kirjoitustehtävää
+- 1-3 vapaaehtoista (palautus ennen arviointipäivää)
+- Kirjoitetaan Emendedissä
+- Puhtaaksikirjoitus vapaaehtoinen (palautus Teamsiin), saa plussaa. Kurssista ja aikataulusta riippuen puhtaaksikirjoittaminen voi olla myös pakollinen suoritus.
+- Arviointipäivänä käännöslauseet (n. 50p). Käännöslauseissa yhdistyvät kurssin aikana käyty kielioppi, sekä teemasanat. Opettele siis huolella käyttämään näitä jo ohjatuissa kirjoitustehtävissä.
 
 5. Sanasto (70-80p)
 
@@ -103,6 +101,3 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 
 
 Kaikki kurssin aikana tehtävät arvioitavat suoritukset (sanakokeet, kuuntelut, flipgridit ja ohjatut kirjoitustehtävät) on oltava tehtynä kurssin viimeiseen oppituntiin mennessä. Työvihko tulee olla täytettynä ja palautettava arviointipäivänä. Myös ohjattujen kirjoitustehtävien puhtaaksikirjoituksen deadline on arviointipäivä.
-
-
-
