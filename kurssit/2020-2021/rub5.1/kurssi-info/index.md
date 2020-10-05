@@ -61,12 +61,11 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 
 4. Kirjallinen tuottaminen (n. 40p + 50p)
 
-•	
-•	Kaksi pakollista ohjattua kirjoitustehtävää
-•	1-3 vapaaehtoista (palautus ennen arviointipäivää)
-•	Kirjoitetaan Emendedissä
-•	Puhtaaksikirjoitus vapaaehtoinen (palautus Teamsiin), saa plussaa. Kurssista ja aikataulusta riippuen puhtaaksikirjoittaminen voi olla myös pakollinen suoritus.
-•	Arviointipäivänä käännöslauseet (n. 50p). Käännöslauseissa yhdistyvät kurssin aikana käyty kielioppi, sekä teemasanat. Opettele siis huolella käyttämään näitä jo ohjatuissa kirjoitustehtävissä.
+- Kaksi pakollista ohjattua kirjoitustehtävää
+- 1-3 vapaaehtoista (palautus ennen arviointipäivää)
+- Kirjoitetaan Emendedissä
+- Puhtaaksikirjoitus vapaaehtoinen (palautus Teamsiin), saa plussaa. Kurssista ja aikataulusta riippuen puhtaaksikirjoittaminen voi olla myös pakollinen suoritus.
+- Arviointipäivänä käännöslauseet (n. 50p). Käännöslauseissa yhdistyvät kurssin aikana käyty kielioppi, sekä teemasanat. Opettele siis huolella käyttämään näitä jo ohjatuissa kirjoitustehtävissä.
 
 5. Sanasto (70-80p)
 
