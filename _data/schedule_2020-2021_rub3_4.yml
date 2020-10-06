@@ -1,18 +1,18 @@
 - date: ti 6.10. 
-  title: Aloitus, arviointi ja REK-regler 
+  title: Aloitus, arviointi ja REK-regler,suomalaisuus
 - date: ke 7.10.
-  title: Text 1 - Fina Finland uutena, suomalaisuus
+  title: Text 1 - Fina Finland uutena, kaupungit
   grammar: epäsuorakysymys
 - date: pe 9.10.
-  title: Text 1 vanhana, kaupungit
+  title: Text 1 vanhana, nähtävyydet
   grammar: epäsuorakysymys
 - date: ti  13.10.
-  title: Tien neuvominen, sevärdheter
+  title: Tien neuvominen
   grammar: epäsuorakysymys
 - date: ke 14.10.
   title: Text 2 - Gör det du gillar... uutena
   grammar: relatiivilause
-  other: Sanasto text 1, Kuuntelukoe - temaord
+  other: Sanakoe text 1, Kuuntelukoe - temaord
 - date: pe 16.10.
   title: Text 2 vanhana
   grammar: relatiivilause
@@ -49,7 +49,7 @@
 - date: pe 13.11.
   title: Harjoituksia
   grammar: demonstratiivipronominit - sådan
-  other: OPA-päivä, Sanis text 4 ja kuuntelu - temaord
+  other: Sanakoe text 4 ja kuuntelu - temaord
 - date: ti 17.11.
   title: Text 3 Finns sanningen i sångerna? (LF)
 - date: ke 18.11.
@@ -62,4 +62,3 @@
 - date: to 26.11.
   title: ARVIOINTIPÄIVÄ klo 8.15-12
   other: MUKAAN KONE JA TYÖVIHKO!
-
