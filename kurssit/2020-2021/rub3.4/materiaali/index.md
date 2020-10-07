@@ -10,6 +10,8 @@ published: true
 
 Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuuntele teksti kotona ja suomenna. Pyydä muistiinpanot kavereilta. Voit tehdä halutessasi myös äänitiedoston muita harjoituksia kuullunymmärtämisen treenamiseksi.
 
+## [Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)
+
 ### Quizletit
 
 [Text 1 fraasit - flashcards](https://quizlet.com/_3sjghh)
