@@ -43,12 +43,11 @@ Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös plussat. Läk
 - Tämä on tärkein lähtökohta kurssisuorituksen arvioinnissa. Kieli on puhumista, kommunikaatiota.
 
 
-**2) 3 suullista Flipgrid-videotehtävää (30p)**
+**2) 2 suullista Flipgrid-videotehtävää (20p)**
 
-- Esittely
-- Opinnot
-- Työhakemus
-- Vlogg (EXTRA)
+- Jag, finländare.
+- Tienneuvominen (pareittain)
+- Min favoritfest (EXTRA)
 
 Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 
