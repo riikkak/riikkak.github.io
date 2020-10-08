@@ -6,7 +6,9 @@ published: true
 ---
 ## Tekstien fraasit - tarkistus
 
-[OTAVAN ÄÄNITIEDOSTO](http://tiedostot.otava.fi/aanet/fokus3/)
+[Text 1 fraasien tarkistus](/media/rub3/Text 1_fraasit.pdf)
+
+## [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus3/)
 
 Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuuntele teksti kotona ja suomenna. Pyydä muistiinpanot kavereilta. Voit tehdä halutessasi myös äänitiedoston muita harjoituksia kuullunymmärtämisen treenamiseksi.
 
