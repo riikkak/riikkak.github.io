@@ -8,7 +8,7 @@ published: true
 
 ## Tekstien fraasit - tarkistus
 
-
+[Text 2 fraasien tarkistus](/media/rub5/Text 2_fraser.pdf)
 
 [OTAVAN ÄÄNITIEDOSTO](http://tiedostot.otava.fi/aanet/fokus5/)
 
