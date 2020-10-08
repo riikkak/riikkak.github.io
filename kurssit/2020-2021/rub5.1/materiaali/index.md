@@ -16,6 +16,8 @@ Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuunt
 
 ## [Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)
 
+## [Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)
+
 ### Quizletit
 
 - [Text 1 fraasit - flashcards](https://quizlet.com/_630mg0)
