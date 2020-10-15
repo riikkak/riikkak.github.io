@@ -8,7 +8,7 @@ published: true
 
 Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vettä vain :)
 
-Kurssiarviointi (kursbedömning) on kokonaisuus johon kasataan palasia pitkin kurssia. 
+Kurssiarviointi (kursbedömning) on kokonaisuus johon kasataan palasia pitkin kurssia. Kaikki kurssin aikana tehtävät arvioitavat suoritukset (sanakokeet, kuuntelut, flipgridit ja ohjatut kirjoitustehtävät) on oltava tehtynä kurssin viimeiseen oppituntiin mennessä. Työvihko tulee olla täytettynä ja palautettava arviointipäivänä. Myös ohjattujen kirjoitustehtävien puhtaaksikirjoituksen deadline on arviointipäivä.
 
 **1. Työvihko (arbetshäfte = AH)**
 
@@ -71,6 +71,7 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 - Kolme sanakoetta oppituntien alussa, katso kurssisivun aikataulu.
 - Sanakokeeseen luetaan työvihkosta löytyvät fraasit. 
 - Tärkeintä sanaston opiskelussa on että teet ennakkotehtävän uudesta tekstistä, kuuntelet tarkkaan ja teet muistiinpanoja kun teksti käydään yhdessä läpi ja keskityt tekstiin liittyviin paritehtäviin. Kun teet nämä kaikki, riittää monesti että kirjoitat fraasit vihkoon ja tarkistat ne ja hieman kertaat. Sanaston opiskelu on siis pitkäjänteistä toistoa. Edellisen illan ulkoaopettelu ei palvele oppimistasi.
+- Jos sanakokeen arvosana jää alle 4- on tulos 0. Sanakokeita ei voi uusia. 
 
 6. Kuullunymmärtäminen (n. 40-50p)
 
@@ -100,4 +101,33 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 - Jos kaveri ei keskity, huomauta asiasta.
 
 
-Kaikki kurssin aikana tehtävät arvioitavat suoritukset (sanakokeet, kuuntelut, flipgridit ja ohjatut kirjoitustehtävät) on oltava tehtynä kurssin viimeiseen oppituntiin mennessä. Työvihko tulee olla täytettynä ja palautettava arviointipäivänä. Myös ohjattujen kirjoitustehtävien puhtaaksikirjoituksen deadline on arviointipäivä.
+### Sanakokeisiin luku
+
+Opiskele sanakoetta varten työvihkossa olevat tekstien alleviivaukset. Kirjan
+tekstin yhteydessä olevaa kappalekohtaista sanalistaa ei siis erikseen kysytä. Tekstien
+fraaseista on kuitenkin hyvä opetella niissä esiintyvät sanat taivutuksineen.
+​
+Etsi itsellesi sopivaa lukutyyliä kokeilemalla eri tapoja. Alla muutama esimerkki:
+​
+1. Kirjoita fraasit työvihkoon ja kysele itseltäsi fraaseja vuorotellen suomesta
+ruotsiin ja ruotsista suomeen.
+2. Lue fraasit ääneen puhelimen sanelimeen ja kuuntele niitä esim. bussissa,
+tiskatessa tai pyöräillessä. Tämä auttaa myös ääntämisen treeniin, kuin myös kuullunymmärtämiseen!
+3. Pyydä äitiä, veljeä, kummia, kaimaa tai kaveria kyselemään.
+4. Tee fraaseista muistipeli paperilapuille.
+5. Käytä valmiita Quizletteja ja sen eri ominaisuuksia (esim. pelit, kuunteleminen jne.)
+​
+Sanakokeisiin on hyvä alkaa lukea pari päivää ennen sanakoetta ja tehdä hommaa
+pikkuhiljaa. Mikäli kokeeseen luetaan 23-01 välillä edellisenä yönä, ei tieto
+tartu päähän niin, että voisit hyödyntää sitä vielä arviointipäivänä.
+​
+
+### Poissaolot
+Jos olet sairaana, tai muusta pätevästä syystä poissa arvioitavan suorituksen päivänä, **ilmoita siitä viimeistään samana aamuna opettajalle** (Wilma, Snap, sähköposti). Ilman pätevää syytä tai ilmoitusta suorituksestasi annetaan 0 pistettä. Poissaolotunneilta tulee hoitaa tehdyksi sekä tunnin aikana tehdyt tehtävät, että kotitehtävät.
+​
+### Pidemmät poissaolot
+Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saattaa opettajan tietoon kurssin alussa, jotta voidaan sopia tehtävistä ja aikataulusta.
+
+## Arvosana 4
+Nelonen on ansaittava ja edellyttää jo melko paljon osaamista osaamista. Mikäli kurssin
+osasuorituksista liian moni (sanakokeet ja kuuntelukokeet, pistarit) jäävät alle arvosanan 4- ja lisäksi kurssikoekin on numerona alle 4-, ei kurssista voi antaa arvosanaa vaan kurssi katsotaan keskeytyneeksi (K) ja kurssi on suoritettava alusta asti uudelleen. Kurssiarvosanan saamiseksi ei riitä, että tulee paikalle ja istuu, vaan opetukseen on osallistuttava, tehtäviä tehtävä, kirjoitelmat palautettava ja työvihko palautettava täydellisesti täytettynä.
