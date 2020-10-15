@@ -8,7 +8,7 @@ published: true
 
 Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vettä vain :)
 
-Kurssiarviointi (kursbedömning) on kokonaisuus johon kasataan palasia pitkin kurssia. 
+Kurssiarviointi (kursbedömning) on kokonaisuus johon kasataan palasia pitkin kurssia. Kaikki kurssin aikana tehtävät arvioitavat suoritukset (sanakokeet, kuuntelut, flipgridit ja ohjatut kirjoitustehtävät) on oltava tehtynä kurssin viimeiseen oppituntiin mennessä. Työvihko tulee olla täytettynä ja palautettava arviointipäivänä. Myös ohjattujen kirjoitustehtävien puhtaaksikirjoituksen deadline on arviointipäivä.
 
 ### 1. Työvihko (arbetshäfte = AH)
 
@@ -71,6 +71,7 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 - Kolme sanakoetta oppituntien alussa, katso kurssisivun aikataulu.
 - Sanakokeeseen luetaan työvihkosta löytyvät fraasit. 
 - Tärkeintä sanaston opiskelussa on että teet ennakkotehtävän uudesta tekstistä, kuuntelet tarkkaan ja teet muistiinpanoja kun teksti käydään yhdessä läpi ja keskityt tekstiin liittyviin paritehtäviin. Kun teet nämä kaikki, riittää monesti että kirjoitat fraasit vihkoon ja tarkistat ne ja hieman kertaat. Sanaston opiskelu on siis pitkäjänteistä toistoa. Edellisen illan ulkoaopettelu ei palvele oppimistasi.
+- Jos sanakokeen arvosana jää alle 4- on tulos 0. Sanakokeita ei voi uusia. 
 
 **6) Kuullunymmärtäminen (n. 40-50p)**
 
@@ -125,3 +126,8 @@ Jos olet sairaana, tai muusta pätevästä syystä poissa arvioitavan suoritukse
 ​
 ### Pidemmät poissaolot
 Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saattaa opettajan tietoon kurssin alussa, jotta voidaan sopia tehtävistä ja aikataulusta.
+
+## Arvosana 4
+Nelonen on ansaittava ja edellyttää jo melko paljon osaamista osaamista. Mikäli kurssin
+osasuorituksista liian moni (sanakokeet ja kuuntelukokeet, pistarit) jäävät alle arvosanan 4- ja lisäksi kurssikoekin on numerona alle 4-, ei kurssista voi antaa arvosanaa vaan kurssi katsotaan keskeytyneeksi (K) ja kurssi on suoritettava alusta asti uudelleen. Kurssiarvosanan saamiseksi ei riitä, että tulee paikalle ja istuu, vaan opetukseen on osallistuttava, tehtäviä tehtävä, kirjoitelmat palautettava ja työvihko palautettava täydellisesti täytettynä.
+
