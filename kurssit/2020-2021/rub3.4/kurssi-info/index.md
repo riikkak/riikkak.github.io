@@ -43,11 +43,10 @@ Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös plussat. Läk
 - Tämä on tärkein lähtökohta kurssisuorituksen arvioinnissa. Kieli on puhumista, kommunikaatiota.
 
 
-2) 2 suullista Flipgrid-videotehtävää (20p)
+2) Kaksi suullista Flipgrid-videotehtävää (20p)
 
-- Esittely (Jag, finländare)
-- Tienneuvominen (parin kanssa)
-- Min favoritfest (EXTRA)
+- Jag, finländare
+- Min favoritfest 
 
 Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 
@@ -58,7 +57,7 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 - keskustelu (10p)
 
 
-4. Kirjallinen tuottaminen (n. 40p + 50p)
+**4. Kirjallinen tuottaminen (n. 40p + 50p)**
 
 - Kaksi pakollista ohjattua kirjoitustehtävää
 - 1-3 vapaaehtoista (palautus ennen arviointipäivää)
@@ -66,25 +65,25 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 - Puhtaaksikirjoitus vapaaehtoinen (palautus Teamsiin), saa plussaa. Kurssista ja aikataulusta riippuen puhtaaksikirjoittaminen voi olla myös pakollinen suoritus.
 - Arviointipäivänä käännöslauseet (n. 50p). Käännöslauseissa yhdistyvät kurssin aikana käyty kielioppi, sekä teemasanat. Opettele siis huolella käyttämään näitä jo ohjatuissa kirjoitustehtävissä.
 
-5. Sanasto (70-80p)
+**5. Sanasto (70-80p)**
 
 - Kolme sanakoetta oppituntien alussa, katso kurssisivun aikataulu.
 - Sanakokeeseen luetaan työvihkosta löytyvät fraasit. 
 - Tärkeintä sanaston opiskelussa on että teet ennakkotehtävän uudesta tekstistä, kuuntelet tarkkaan ja teet muistiinpanoja kun teksti käydään yhdessä läpi ja keskityt tekstiin liittyviin paritehtäviin. Kun teet nämä kaikki, riittää monesti että kirjoitat fraasit vihkoon ja tarkistat ne ja hieman kertaat. Sanaston opiskelu on siis pitkäjänteistä toistoa. Edellisen illan ulkoaopettelu ei palvele oppimistasi.
 - Jos sanakokeen arvosana jää alle 4- on tulos 0. Sanakokeita ei voi uusia. 
 
-6. Kuullunymmärtäminen (n. 40-50p)
+**6. Kuullunymmärtäminen (n. 40-50p)**
 
 - Kaksi tai kolme arvioitavaa laajempaa kuunteluharjoitusta
 - Flipgrid-videoiden katsominen
 
 
-6. Luetunymmärtäminen (n. 40-60p)
+**6. Luetunymmärtäminen (n. 40-60p)**
 
 - Kaikki lukemamme tekstit, niin lyhyet kuin pitkät ovat luetunymmärtämisen harjoittelua.
 - Arviointipäivänä n. 2-3 osainen luetunymmärtämisen testitehtävä
 
-7. Kielioppi (n. 70p)
+**7. Kielioppi (n. 70p)**
 
 - Rakennetaan vanhan tiedon pohjalle joka kurssilla hieman uutta.
 - Kielioppi on yksi pieni palanen kieltä, ei se avain kaikkeen onnistumiseen.
