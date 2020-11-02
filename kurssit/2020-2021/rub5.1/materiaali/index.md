@@ -8,11 +8,13 @@ published: true
 
 ## Tekstien fraasit - tarkistus
 
-[Text 2 fraasien tarkistus](/media/rub5/Text 2_fraser.pdf)
-[Text 3 fraasien tarkistus](/media/rub5/Text3_fraasit.pdf)
-[Text 4 fraasien tarkistus](/media/rub5/Text4_fraser.pdf)
+-[Text 2 fraasien tarkistus](/media/rub5/Text 2_fraser.pdf)
 
-## [OTAVAN ÄÄNITIEDOSTO](http://tiedostot.otava.fi/aanet/fokus5/)
+-[Text 3 fraasien tarkistus](/media/rub5/Text3_fraasit.pdf)
+
+-[Text 4 fraasien tarkistus](/media/rub5/Text4_fraser.pdf)
+
+**[OTAVAN ÄÄNITIEDOSTO](http://tiedostot.otava.fi/aanet/fokus5/)**
 
 Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuuntele teksti kotona ja suomenna. Pyydä muistiinpanot kavereilta. Voit tehdä halutessasi myös äänitiedoston muita harjoituksia kuullunymmärtämisen treenamiseksi.
 
