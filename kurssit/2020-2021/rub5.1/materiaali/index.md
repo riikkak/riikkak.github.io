@@ -10,6 +10,7 @@ published: true
 
 [Text 2 fraasien tarkistus](/media/rub5/Text 2_fraser.pdf)
 [Text 3 fraasien tarkistus](/media/rub5/Text3_fraasit.pdf)
+[Text 4 fraasien tarkistus](/media/rub5/Text4_fraser.pdf)
 
 ## [OTAVAN ÄÄNITIEDOSTO](http://tiedostot.otava.fi/aanet/fokus5/)
 
