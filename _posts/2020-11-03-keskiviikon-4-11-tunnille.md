@@ -8,3 +8,5 @@ tags: rub3.4 läksyt
 
 2. Täytä työvihkoon työvihkosta tekstin 5 fraasit s. 14. Tarkista fraasit erivärisellä kynällä. Sanakoe fraaseista pe 6.11.
 
+Muista Flipgrid Kultur- tehtävän palautus keskiviikkoon mennessä!
+
