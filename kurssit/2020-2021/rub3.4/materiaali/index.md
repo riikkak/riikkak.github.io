@@ -7,6 +7,7 @@ published: true
 ## Tekstien fraasit - tarkistus
 
 [Text 1 fraasien tarkistus](/media/rub3/Text 1_fraser.pdf)
+[Text 6 fraasien tarkistus](/media/rub3/Text6_fraser.pdf)
 
 ## [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus3/)
 
