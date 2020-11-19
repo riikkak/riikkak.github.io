@@ -4,6 +4,8 @@ title: Materiaali
 course: rub3.4
 published: true
 ---
+**[Arviointipäivän ohjeet](/media/rub3/Arviointipäivä.pdf)**
+
 ## Tekstien fraasit - tarkistus
 
 [Text 1 fraasien tarkistus](/media/rub3/Text 1_fraser.pdf)
