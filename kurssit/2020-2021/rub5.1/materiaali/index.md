@@ -4,7 +4,7 @@ title: Materiaali
 course: rub5.1
 published: true
 ---
-**-[Arviointipäivän ohjeet](/media/rub5/Kertausohjeet.pdf)**
+-[Arviointipäivän ohjeet](/media/rub5/Kertausohjeet.pdf)
 
 ## Tekstien fraasit - tarkistus
 
