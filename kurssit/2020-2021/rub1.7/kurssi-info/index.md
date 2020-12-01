@@ -14,8 +14,8 @@ Kurssiarviointi (kursbedömning) on kokonaisuus johon kasataan palasia pitkin ku
 
 - Kurssin tärkein työväline
 - Suurin osa vihkon sivuista tehdään yhdessä tuntien aikana.
-- Osa tulee kotitehtäviksi.
-- Muutama saattaa olla vapaaehtoisia, tarkempi info kurssikohtaisesti.
+- Osa tulee kotitehtäviksi. (Etänä teemme vihkon tuntien aikana)
+- Muutama tehtävä työvihkostta saattaa olla vapaaehtoisia, tarkempi info kurssikohtaisesti.
 - Tekstien fraasien täyttö ja tarkistus hoidettava omatoimisesti (nettisivuilla tarkistusversio).
 - Työvihko arvioidaan asteikolla  0-5, työvihkon plussatehtävistä laajuudesta riippuen 1-3 plussaa per sivu.
 
@@ -24,15 +24,13 @@ Kurssiarviointi (kursbedömning) on kokonaisuus johon kasataan palasia pitkin ku
 
 Jaettu kahteen osaan:
 
-Pakolliset (obligatoriska) ja extraplussat (valfria). Pitävät sisällään kirjan tekstit, teemasanastot,ja  kieliopin.
-
-Voit tehdä tehtäviä omaan tahtiin, mutta et oppituntien aikana, ellei niin ohjeisteta. Tarkempi luettelo tehtävistä löytyy työvihkosta.
+Pakolliset (obligatoriska) ja extraplussat (valfria). Pitävät sisällään kirjan tekstit, teemasanastot,ja  kieliopin. Voit tehdä tehtäviä omaan tahtiin, mutta et oppituntien aikana, ellei niin ohjeisteta. 
 
 Pakollisten tehtävien teko on edellytys arvosanan saannille. 
 
 EXTRAPLUSSAT eivät ole pakollisia tehtäviä, mutta niitä kannattaa tehdä jos on voimia ja ajankäyttö sallii. MUTTA, jos ei koskaan tee yhtään extraa, on vaikea tavoittaa huipputuloksia tai yltää omaan parhaaseesi. Se on se ratkaiseva tekijä millä ylletään ysiin, kymppiin, eximiaan ja laudaturiin. Tai jos olet esim. seiskan tai kasin saaja, voit hyvin helposti nostaa osaamistasi ja arvosanaa numerolla tekemällä extroja. Extralla kerrataan opittua ja kertaus on opintojen äiti :D
 
-Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös plussat. Läksyjen teko vaikuttaa arvosanaan niin nousevasti kuin laskevastikin.
+Lähiopetuksessa läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös plussat. Läksyjen teko vaikuttaa arvosanaan niin nousevasti kuin laskevastikin.
 
 **3. Suullinen kommunikaatio (muntlig kommunikation)**
 
@@ -43,12 +41,9 @@ Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös plussat. Läk
 - Tämä on tärkein lähtökohta kurssisuorituksen arvioinnissa. Kieli on puhumista, kommunikaatiota.
 
 
-2) Kaksi suullista Flipgrid-videotehtävää (20p)
+2) Suulliset Flipgrid-videotehtävät (20p)
 
-- Jag, finländare
-- Min favoritfest 
-
-Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
+Kaksi aihetta kurssin teemoista, sisältää myös ääntämisosuuden
 
 3) Suullinen koe (20p)
 
@@ -74,8 +69,7 @@ Toisille palautteen anto videoihin on osa tuntiaktiivisuutta.
 
 **6. Kuullunymmärtäminen (n. 40-50p)**
 
-- Kaksi tai kolme arvioitavaa laajempaa kuunteluharjoitusta
-- Flipgrid-videoiden katsominen
+- Kaksi tai kolme arvioitavaa laajempaa kuunteluharjoitusta kurssin teemoista
 
 
 **6. Luetunymmärtäminen (n. 40-60p)**
