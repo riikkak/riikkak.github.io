@@ -22,7 +22,7 @@ defaults:
     scope:
       path: ""
     values:
-      period: 2
+      period: 3
   -
     scope:
       path: "kurssit/2013-2014"
@@ -125,8 +125,10 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB3.4 - Läksyt"
-              value: "rub3.4 läksyt"
-            - name: "RUB5.1 - Läksyt"
-              value: "rub5.1 läksyt"
+            - name: "RUB1.7 - Läksyt"
+              value: "rub1.7 läksyt"
+            - name: "RUB8.3 - Läksyt"
+              value: "rub8.3 läksyt"
+            - name: "RUB12.4 - Läksyt"
+              value: "rub12.4 läksyt"
 
