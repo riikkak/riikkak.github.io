@@ -4,7 +4,7 @@ title: Kurssi-info
 course: rub1.7
 published: true
 ---
-## - [REK-regler](/media/rub1/REK_regler.pdf)
+## [REK-regler](/media/rub1/REK_regler.pdf)
 
 Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vettä vain :)
 
