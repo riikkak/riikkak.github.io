@@ -9,6 +9,8 @@ Kirjoittamisen ja kuuntelun kurssi arvioidaan suoritusmerkinnällä (S). Kurssi 
 
 Kurssilla ei ole arviointipäivänä arviointia. Kurssin arviointi koostuu tunnilla tehtävistä harjoituksista ja niiden suorittamisesta hyväksytysti. Arviointipäivän osuus korvataan erillisillä tehtävillä (työvihkon erillinen harjoitusosio).
 
+Jos sinulla on **erityisen tuen suunnitelma** ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin alussa.
+
 **Hyväksytyn suorituksen edellytyksenä:**
 
 1. Tuntiaktiivisuus.
@@ -45,5 +47,3 @@ Koska kurssi on työkurssi, on läsnäolo oppitunneilla pakollista. Poissaoloraj
 - Oppitunneille on osallistuttava ja siellä pitää olla aktiivinen ja hereillä. Tunneilla pitää seurata opetusta ja tehdä annetut tehtävät ajallaan. 
 
 - Jos jokin asia jää mietitityttämään, älä murehdi yksin tai kuuntele huhupuheita. **Kysy opelta!** Voit lähettää viestin Wilmassa, yksityisviestin Teamsissa tai Snapin.
-
-
