@@ -28,4 +28,22 @@ Kurssilla ei ole arviointipäivänä arviointia. Kurssin arviointi koostuu tunni
 - Aineiden puhtaaksikirjoitus
 - Arviointiviikon korvaavat tehtävät
 
-Koska kurssi on työkurssi, on läsnäolo oppitunneilla pakollista. Poissaoloraja on 2 oppituntia. Jos olet pois, ole yhteydessä opettajaan. Poissaoloja korvataan vain pätevästä syystä. 
+Koska kurssi on työkurssi, on läsnäolo oppitunneilla pakollista. Poissaoloraja on 2 oppituntia. Jos olet pois, ole yhteydessä opettajaan. Poissaoloja korvataan vain pätevästä syystä.
+
+### Etäopetuksessa huomioitavia asioita:
+
+- **Oppitunnit** pidetään lukujärjestyksen mukaisina aikoina Teamsissä, joten ole paikalla ajoissa ja kirjoita tunnin alkaessa jokin kommentti tai tervehdys keskusteluun.
+
+- Jos sinulla on jokin asiallinen syy olla pois oppitunnilta, laita sitä viestiä opettajalle ja huoltajan täytyy selvittää poissaolo myös Wilmassa.
+
+- Jos jostain syystä joudut olemaan pois oppitunnilta, ota selvää mitä siellä on tehty ja tee tehtävät mahdollisimman pian, niin et putoa kelkasta. Liiat poissaolot aiheuttavat kurssin keskeytymisen.
+
+- Opettaja on paikalla ja tavoitettavissa koko oppitunnin ajan. Tunnin alussa yleensä tarkistetaan tehtäviä ja opetetaan uusi asia. Sen jälkeen teemme tehtäviä ja palaamme välissä tarkastamaan / toiseen opetettavaan asiaan. Tunnin lopuksi vielä katsotaan mihin kukin ehti tehtävissään.
+
+- Mahdolliset **Läksyt/plussatehtävät** merkitään kurssisivuston läksyt-kohtaan. Palautettavien tehtävien ajankohdat löydät kurssisuunnitelmasta. 
+
+- Oppitunneille on osallistuttava ja siellä pitää olla aktiivinen ja hereillä. Tunneilla pitää seurata opetusta ja tehdä annetut tehtävät ajallaan. 
+
+- Jos jokin asia jää mietitityttämään, älä murehdi yksin tai kuuntele huhupuheita. **Kysy opelta!** Voit lähettää viestin Wilmassa, yksityisviestin Teamsissa tai Snapin.
+
+
