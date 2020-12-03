@@ -10,6 +10,8 @@ Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vett
 
 Kurssiarviointi (kursbedömning) on kokonaisuus johon kasataan palasia pitkin kurssia. Kaikki kurssin aikana tehtävät arvioitavat suoritukset (sanakokeet, kuuntelut, flipgridit ja ohjatut kirjoitustehtävät) on oltava tehtynä kurssin viimeiseen oppituntiin mennessä. Työvihko tulee olla täytettynä ja palautettava arviointipäivänä. Myös ohjattujen kirjoitustehtävien puhtaaksikirjoituksen deadline on arviointipäivä.
 
+Jos sinulla on **erityisen tuen suunnitelma** ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin alussa.
+
 **1. Työvihko (arbetshäfte = AH)**
 
 - Kurssin tärkein työväline
@@ -85,6 +87,26 @@ Kaksi aihetta kurssin teemoista, sisältää myös ääntämisosuuden
 - Harjoitellaan niin kirjallisesti kuin suullisestikin (tässä tärkeä vastuu parin oppimisesta!).
 - Tärkeä osa oppimista on opittujen asioiden soveltaminen ohjatuissa kirjoitustehtävissä.
 - Arviointipäivässä digitehtävät kieliopista (kone korjaa), suurin kompastuskivi omat näppäinvirheet.
+
+### Etäopetuksessa huomioitavia asioita:
+
+- **Oppitunnit** pidetään lukujärjestyksen mukaisina aikoina Teamsissä, joten ole paikalla ajoissa ja kirjoita tunnin alkaessa jokin kommentti tai tervehdys keskusteluun.
+
+- Jos sinulla on jokin asiallinen syy olla pois oppitunnilta, laita sitä viestiä opettajalle ja huoltajan täytyy selvittää poissaolo myös Wilmassa.
+
+- Jos jostain syystä joudut olemaan pois oppitunnilta, ota selvää mitä siellä on tehty ja tee tehtävät mahdollisimman pian, niin et putoa kelkasta. Liiat poissaolot aiheuttavat kurssin keskeytymisen.
+
+- Opettaja on paikalla ja tavoitettavissa koko oppitunnin ajan. Tunnin alussa yleensä tarkistetaan tehtäviä ja opetetaan uusi asia. Sen jälkeen teemme tehtäviä ja palaamme välissä tarkastamaan / toiseen opetettavaan asiaan. Tunnin lopuksi vielä katsotaan mihin kukin ehti tehtävissään.
+
+- Mahdolliset **Läksyt/plussatehtävät** merkitään kurssisivuston läksyt-kohtaan. Palautettavien tehtävien ajankohdat löydät kurssisuunnitelmasta. 
+
+- Oppitunneille on osallistuttava ja siellä pitää olla aktiivinen ja hereillä. Tunneilla pitää seurata opetusta ja tehdä annetut tehtävät ajallaan. 
+
+- Tee ääntämistehtävät huolella. Suulliset harjoitukset ovat oleellinen osa kielten oppimista. Harjoittelemme ääntämistä yhdessä, mikin ei tarvitse olla päällä, vaan saat ääntää rauhassa siellä kotona. Yhteisten ääntämistehtävien lisäksi saatte pari/ryhmäharjoituksia joillakin tunneilla / vapaaehtoisesti tehtäviksi.
+
+- Sanakokeet (+mahdolliset kuuntelut) pidetään Otavan koeympäristössä ja ne aukeavat opettajan ilmoittamana ajankohtana. Ole täsmällisesti paikalla, koeaika on rajattu (n. 10-15 min.) ja oppitunti jatkuu sen jälkeen Teamsissä normaalisti. 
+
+- Jos jokin asia jää mietitityttämään, älä murehdi yksin tai kuuntele huhupuheita. **Kysy opelta!** Voit lähettää viestin Wilmassa, yksityisviestin Teamsissa tai Snapin.
 
 **OHJEET PARI- JA RYHMÄTYÖSKENTELYYN**
 
