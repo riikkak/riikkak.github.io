@@ -7,6 +7,10 @@ published: true
 
 ### OBS!
  [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus1/)
+ 
+## [Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)
+
+## [Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)
 
 ## Tekstien fraasit
 
