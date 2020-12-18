@@ -21,24 +21,23 @@
   other: Flipgrid 1-2 (Text 1 & 3) palautus
 - date: pe 18.12.
   title: Text 2 jatkuu 
-  grammar: päälause
   other: KIRJOITUSTEHTÄVÄ 1 (Fritid och Sverige) PALAUTUS 
 - date: 20.12.-6.1.
   title: JULLOV
 - date: pe 8.1.
   title: Text 6 Hemma hos Christian
-  grammar: substantiivien taivutus
+  grammar: sanajärjestys
   other: FLIPGRID EXTRA / EXTRA kirjoitelma
 - date: ma 11.1.
   title: Text 6 jatkuu
-  grammar: substantiivit jatkuu
+  grammar: sanajärjestys
 - date: ke 13.1.
   title: Temaord - boende
-  grammar: substantiivit jatkuu
+  grammar: substantiivien taivutus
   other: FLIPGRID 4  (text 6) palautus
 - date: pe 15.1.
   title: Text 5 Mina två familjer, 
-  grammar: substantiivien käyttö
+  grammar: substantiivit jatkuu
   other: Sanakoe - text 6
 - date: ma 18.1.
   title: Temaord - familj och släkt
@@ -46,7 +45,7 @@
   other: KIRJOITUSTEHTÄVÄ 2 -  boende PALAUTUS
 - date: ke 20.1.
   title: Text 4 Till Sverige - varför inte?
-  grammar: substantiivit ja adjektiivit
+  grammar: substantiivien käyttö
 - date: pe 22.1.
   title: Text 4 jatkuu 
   grammar: adjektiivit
@@ -57,8 +56,7 @@
   other: Sanakoe - text 4
 - date: ke 27.1.
   title: Kuuntelu
-  grammar: Kaikki aiheet
-  other: KIRJOITUSTEHTÄVÄ EXTRAT palautus
+  grammar: adjektiivien ja substantiivien yhteistaivutus
 - date: pe 29.1.
   title: Kertaus + suulliset kokeet
 - date: ti 9.2.
