@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: ''
+title: Ma 18.1. LÄKSY
 tags: rub1.7 läksyt
 ---
 1. Tee työvihkon s. 9 kokonaan ja palauta Temasin tehtävään. 
