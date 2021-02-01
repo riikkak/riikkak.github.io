@@ -22,7 +22,7 @@ Tarkemmat ohjeet loppuihin arvioitaviin osa-alueisiin tulevista aiheista ja luku
 
 2. Lähes kaikki tehtävät on tehty tuntien aikana tai annettu kotitehtäviksi.
 
-**3. Pakolliset puuttuvat ovat teemasanastot: fritid, skola ja boende sivuilta 6, 8 ja 12. TÄYTÄ ja tarkista Teamsin tiedostoista.**
+3. **Pakolliset** puuttuvat ovat teemasanastot: **fritid, skola ja boende sivuilta 6, 8 ja 12.** TÄYTÄ ja tarkista Teamsin tiedostoista.
 
 4. Plussatehtäviä työvihkossa on 4. 
 
