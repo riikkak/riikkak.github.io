@@ -16,7 +16,7 @@ Kaikille pakolliset adjektiivitehtävät, tee vähintään 2, lopista plussaa. P
 
 Tarkemmat ohjeet loppuihin arvioitaviin osa-alueisiin tulevista aiheista ja lukuohjeet tulevat materiaalit-kohtaan.
 
-### TYÖVIHKOSTA
+**TYÖVIHKOSTA**
 
 1. Työvihko tulee olla pakollisilta osin täytettynä arviointipäivään mennessä. Jos vihkossa on puutteita, vaikuttaa se arvosanaan. Jos menemme lähiin, vihko tuotava opelle ke 10.2. mennessä.  Jos olemme etänä, palautuksen deadline pe 12.2. (Alla hjärtans dag <3)
 
