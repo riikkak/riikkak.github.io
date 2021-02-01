@@ -10,8 +10,9 @@ Jos olit perjantaina 29.1. 1. koodin kokeessa, huolehdi tehdyiksi seuraavat:
 
 **1. Työvihkon s. 23-24. Kirjasta s. 161 t. 2a ja 2b. Fritid-teemasta urheilulajit s. 60 t. 3a.**
 
-Kaikille pakolliset adjektiivitehtävät, tee vähintään 2, lopista plussaa. Palautus Temasin tehtävän:
-s. 160 alkaen t. 1a, 1b, 3 (HUOMAA ETTÄ TEHTÄVÄ JATKUU TOISELLE SIVULLE), 4, 5, 6a, 6b, 7. Tehtävien oikeat vastaukset tulevat Teamsin tiedostoihin.
+Kaikille pakolliset adjektiivitehtävät, tee vähintään 2, lopista plussaa. Palautus Teamsin tehtävän:
+
+**s. 160 alkaen t. 1a, 1b, 3 (HUOMAA ETTÄ TEHTÄVÄ JATKUU TOISELLE SIVULLE), 4, 5, 6a, 6b, 7. Tehtävien oikeat vastaukset tulevat Teamsin tiedostoihin.**
 
 Tarkemmat ohjeet loppuihin arvioitaviin osa-alueisiin tulevista aiheista ja lukuohjeet tulevat materiaalit-kohtaan.
 
@@ -25,9 +26,9 @@ Tarkemmat ohjeet loppuihin arvioitaviin osa-alueisiin tulevista aiheista ja luku
 
 4. Plussatehtäviä työvihkossa on 4. 
 
--Ruotsi-teemainen tehtävä s. 2
--Prepositiot s. 26 (vastaukset tulee Teamsin tiedostoihin)
--Uttal-sivuille ääntöohjeiden aukikirjoitus (kaksi plussaaa per sivu).
+- Ruotsi-teemainen tehtävä s. 2
+- Prepositiot s. 26 (vastaukset tulee Teamsin tiedostoihin)
+- Uttal-sivuille ääntöohjeiden aukikirjoitus (kaksi plussaaa per sivu).
 
 Jos sinulla tulee kysyttävää tehtävistä, työvihkosta tai arviointipäivästä, ole yhteydessä.
 
