@@ -5,6 +5,8 @@ course: rub1.7
 published: true
 ---
 
+ [Arviointipäivään kertausohjeet](/media/rub1/Kertausohjeet.pdf)
+
 ### OBS!
  [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus1/)
  
