@@ -1,37 +1,38 @@
 - date: to 11.2.
-  title: Kurssin aloitus, arviointiperusteet ja työtavat
-  grammar: persoonapronominit
-- date: ma 15.2.
-  title: Text 2 Vänner för livet
+  title: Kurssin aloitus, arviointiperusteet ja työtavat, Text 2 Vänner för livet
   grammar: persoonapronominit
   other: TEMA - VÄNSKAP
-- date: ti 16.2.
+- date: ma 15.2.
   title: Text 2 jatkuu
-  grammar: pronominit
+  grammar: persoonapronominit
+- date: ti 16.2.
+  title: Text 3 Köttbullar och sushi
+  grammar: persoonapronominit
+  other: TEMA - ruokasanat ja ravintolassa käynti
 - date: to 18.2.
-  title: Temaord - mat
+  title: Text 3 jatkuu
   grammar: pronominit
   other: KIRJOITUSHARJOITUS 1 palautus
 - date: ma 22.2.
-  title: Text 3 Köttbullar och sushi
+  title: Temaord - mat
   grammar: sivulause
-  other: TEMA - ruokasanat ja ravintolassa käynti
+  other: Sanakoe text 3
 - date: ti 23.2.
-  title: Text 3 jatkuu
-  grammar: sivulause
-- date: to 25.2.
   title: Harjoituksia
   grammar: sivulause
-  other: Sanakoe text 3, kuuntelukoe 
-- date: ma 1.3.
+  other: kuuntelukoe - vänner och mat
+- date: to 25.2.
   title: Text 1 Upptäck Norge!
+  grammar: sivulause
+- date: ma 1.3.
+  title: Text 1 jatkuu
   grammar: adjektiivin kertaus
 - date: ti 2.3.
-  title: Text 1 jatkuu, text 6 johdanto
+  title:  Text 6 Norge i mitt hjärta
   grammar: adjektiivin vertailu
   other: FLIPGRID 1 palautus
 - date: to 4.3.
-  title: Text 6 Norge i mitt hjärta
+  title: text 6 jatkuu
   grammar: adjektiivin vertailu
 - date: vko 10 
   title: SPORTLOVET
