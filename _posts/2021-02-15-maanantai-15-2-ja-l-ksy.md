@@ -10,3 +10,5 @@ tags: rub2.4 läksyt
 
 
 Jos olit pois, tee työvihkon s. 22 kirjaa apuna käyttäen ja kirjasta s. 137 t. 1b, 2b, 3b, 3c ja 5.
+
+Ensimmäisen kirjoitusharjoituksen tehtävänanto löytyy Emendedistä, **palautus pe 19.2. klo 20.00 mennessä.**
