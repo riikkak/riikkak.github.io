@@ -5,6 +5,13 @@ course: rub2.4
 published: true
 ---
 
+**[Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)**
+
+**[Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)**
+
+### OBS!
+[Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus2/)
+
 ### Sanakokeisiin luku
 
 Opiskele sanakoetta varten työvihkossa olevat tekstien alleviivaukset. Kirjan
