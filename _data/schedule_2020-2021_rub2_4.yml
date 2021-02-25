@@ -22,49 +22,49 @@
   grammar: sivulause
   other: kuuntelukoe - vänner och mat
 - date: to 25.2.
-  title: Text 1 Upptäck Norge!
+  title: Temaord - kläder
   grammar: sivulause
+  other: TEMA - KLÄDER
 - date: ma 1.3.
-  title: Text 1 jatkuu
+  title: Text 4 Modebloggarna har makt
   grammar: adjektiivin kertaus
 - date: ti 2.3.
-  title:  Text 6 Norge i mitt hjärta
+  title:  Text 4 jatkuu
   grammar: adjektiivin vertailu
   other: FLIPGRID 1 palautus
 - date: to 4.3.
-  title: text 6 jatkuu
+  title: Temaord - kläder jatkuu
   grammar: adjektiivin vertailu
+  other: Sanakoe text 4, kuuntelukoe
 - date: vko 10 
   title: SPORTLOVET
 - date: ma 15.3.
-  title: Text 4 Modebloggarna har makt
+  title: Temaord - kropp och hälsa
   grammar: adjektiivin vertailu
-  other: TEMA - KLÄDER
+  other: TEMA - KROPP OCH HÄLSA
 - date: ti 16.3.
-  title: Text 4 jatkuu
-  grammar: lukusanat
-- date: to 18.3.
-  title: Temaord - kläder
+  title: Text 5 Stressa mindre!
   grammar: lukusanat
   other: KIRJOITUSHARJOITUS 2 palautus
+- date: to 18.3.
+  title: Text 5 jatkuu
+  grammar: lukusanat
 - date: ma 22.3.
   title: Temaord - kropp och hälsa
-  other: Sanakoe text 4, kuuntelukoe
-- date: ti 23.3.
-  title: Text 5 Stressa mindre!
-  grammar: käskymuoto s. 160-162
-  other: TEMA - KROPP OCH HÄLSA
-- date: to 25.3.
-  title: Text 5 jatkuu
-  grammar: Käskymuoto
   other: FLIPGRID 2 palautus
+- date: ti 23.3.
+  title: Text 1 Upptäck Norge!
+  grammar: käskymuoto s. 160-162
+- date: to 25.3.
+  title: Text 1 jatkuu 
+  grammar: Käskymuoto
 - date: ma 29.3.
-  title: Temaord - kropp och hälsa
+  title: Text 6 Norge i mitt hjärta
   grammar: harjoituksia
   other: Sanakoe text 5, kuuntelukoe 
 - date: ti 30.3.
-  title: Harjoituksia
-  grammar: FLIPGRID 2 palautus
+  title: text 6 jatkuu
+  grammar: FLIPGRID Extrat palautus
 - date: ke 7.4.
   title: ARVIOINTIPÄIVÄ
   other: kielioppi, luettu, käännös
