@@ -16,3 +16,5 @@ tags: rub4.8 läksyt
 - tekstin 4 tehtävät s. 80 t. 4a, 5a ja 7
 
 **Jos olit pois, täytä vihkoon myös tekstin 4 fraasit.**
+
+MUISTA ENSIMMÄISEN KIRJOITUSHARJOITUKSEN PALAUTUS EMENDEDIIN. DEADLINE pe 26.2.!
