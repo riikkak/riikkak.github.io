@@ -11,3 +11,7 @@ Sen kunniaksi läksyä:
 1. PAKOLLISET: tee kirjasta s. 156 t. 1a ja 1b. 
 
 2. PLUSSANA: toinen FLIPGRID - tema kläder. Noudata tehtävänannon ohjeita ja tee oma vlogi-postaus aiheesta "Min stil" tai "Min garderob".
+
+Muista myös Emendedissä olevat kaksi EXTRA-kirjoitelmaa: lyhyt (tunnilla jaettu moniste halukkaille) ja toinen aiheesta ruoka. Palautus kurssin viimeiseen tuntiin mennessä. 
+
+Extroja suositellaan sekä 9-10 tavoittelijoille sekä muille, jos tarvii kompensoida muita heikompia tuloksia :)
