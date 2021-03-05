@@ -29,20 +29,18 @@
   grammar: lyhyet vastaukset
 - date: ke 3.3.
   title: Temaord - Kulturell mångfald
-  grammar: infinitiivi
   other: FLIPGRID 1 palautus
 - date: pe 5.3.
   title: Harjoituksia
-  grammar: infinitiivi
   other: Sanakoe text 4, kuuntelukoe
 - date: vk 10
   title: SPORTLOVET
 - date: ti 16.3.
   title: Text 1 Allt går bra på Island
+  grammar: infinitiivi
 - date: ke 17.3.
   title: Text 1 jatkuu 
-  grammar: konditionaali
-  other: KIRJOITUSHARJOITUS 2 palautus
+  grammar: infinitiivi
 - date: pe 19.3.
   title: Text 2 Optimist eller pessimist?
   grammar: konditionaali
@@ -50,17 +48,18 @@
 - date: ti 23.3.
   title: text 2 jatkuu
   grammar: konditionaali
+  other: KIRJOITUSHARJOITUS 2 palautus
 - date: ke 24.3.
   title: Temaord - Syn på livet
-  grammar: prepositiot
+  grammar: konditionaali
 - date: pe 26.3.
   title: Harjoituksia
-  grammar: Prepositiot
-  other: Kuuntelukoe - temaord, FLIPGRID 2 palautus
+  grammar: prepositiot
+  other: Kuuntelukoe - temaord
 - date: ti 30.3.
-  title: Harjoituksia
+  title: prepositiot
   grammar: kertaustehtävät
-  other: suullinen tehtävä
+  other: FLIPGRID 2 palautus (ehdoton takaraja)
 - date: ke 31.3.
   title: ARVIOINTIPÄIVÄ klo 8.00-12.00
   grammar: kielioppi, luettu, käännöslauseet
