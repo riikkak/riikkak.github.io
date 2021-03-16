@@ -44,20 +44,21 @@
   other: TEMA - KROPP OCH HÄLSA
 - date: ti 16.3.
   title: Text 5 Stressa mindre!
-  grammar: lukusanat
+  grammar: adjektiivin vertailu
 - date: to 18.3.
   title: Text 5 jatkuu
-  grammar: lukusanat
+  grammar: käskymuoto
 - date: ma 22.3.
   title: Temaord - kropp och hälsa
+  grammar: käskymuoto
   other: Sanakoe text 5, kuuntelukoe 
 - date: ti 23.3.
   title: Text 1 Upptäck Norge!
-  grammar: käskymuoto s. 160-162
+  grammar: lukusanat
   other: FLIPGRID 2 palautus
 - date: to 25.3.
   title: Text 1 jatkuu 
-  grammar: Käskymuoto
+  grammar: lukusanat
   other: KIRJOITUSHARJOITUS 2 palautus
 - date: ma 29.3.
   title: Text 6 Norge i mitt hjärta
