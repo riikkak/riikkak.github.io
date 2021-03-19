@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: ''
+title: Perjantain 19.3. ja LÄKSY
 tags: rub4.7 läksyt
 ---
 **PAKOLLINEN:** Tee työvihkosta s. 3-4 (tekstin 2 aukkosuomennos).
