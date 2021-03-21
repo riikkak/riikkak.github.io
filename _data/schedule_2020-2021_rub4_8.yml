@@ -48,20 +48,19 @@
   grammar: konditionaali
   other: Sanakoe text 1
 - date: ti 23.3.
+  title: Temaord - Skriftlig framställning
+  grammar: OMA KONE MUKAAN!
+- date: ke 24.3.
   title: Text 2 Optimist eller pessimist?
   grammar: konditionaali
   other: FLIPGRID 2 palautus
-- date: ke 24.3.
-  title: text 2 jatkuu
-  grammar: prepositiot
 - date: pe 26.3.
-  title: Temaord - Skriftlig framställning
-  grammar: OMA KONE MUKAAN!
-  other: Kuuntelukoe - temaord 
+  title: text 2 jatkuu
+  grammar: konditionaali
 - date: ti 30.3.
   title: Harjoituksia
   grammar: prepositiot
-  other: suullinen tehtävä
+  other: Kuuntelukoe - temaord 
 - date: to 1.4.
   title: ARVIOINTIPÄIVÄ klo 8.00-12.00
   grammar: kielioppi, luettu, käännöslauseet
