@@ -5,6 +5,8 @@ course: rub4.7
 published: true
 ---
 
+**[Arviointipäivän ja kertauksen ohje](/media/rub4/Arviointpäivän ohjeet.pdf)**
+
 **[Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)**
 
 **[Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)**
