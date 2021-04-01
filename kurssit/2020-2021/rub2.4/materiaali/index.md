@@ -5,6 +5,8 @@ course: rub2.4
 published: true
 ---
 
+**[Ohjeet arviointipäivään kertaamiseen](/media/rub2/Kertausohjeet_RUB2.pdf)**
+
 **[Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)**
 
 **[Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)**
