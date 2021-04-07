@@ -33,16 +33,16 @@
   desc: opiskelu, työelämä, sosiaaliset mediat
   period: 2
 
-- name: rub5.7
-  code:
-  desc: opiskelu, työelämä, sosiaaliset mediat
-  period: 5
-
 - name: rub6.5
   code:
   desc: ihmissuhteet, politiikka, matkustaminen, kulttuuri
   period: 5
-  
+
+- name: rub7.5
+  code:
+  desc:
+  period: 5
+
 - name: rub8.3
   code:
   desc: sanastot ja rakenteet yo:hon

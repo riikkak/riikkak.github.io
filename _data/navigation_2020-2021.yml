@@ -54,16 +54,16 @@
       url: laksyt
     - page: Materiaali
     - page: Kurssi-info
-# ----- RUB5.7 ----- #
-- course: rub5.7
+# ----- RUB6.5 ----- #
+- course: rub6.5
   pages:
     - page: Aikataulu
     - page: Läksyt
       url: laksyt
     - page: Materiaali
     - page: Kurssi-info
-# ----- RUB6.5 ----- #
-- course: rub6.5
+# ----- RUB7.5 ----- #
+- course: rub7.5
   pages:
     - page: Aikataulu
     - page: Läksyt
