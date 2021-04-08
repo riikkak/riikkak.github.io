@@ -1,60 +1,60 @@
 - date: to 15.4.
-  title: Aloitus + arviointi, Temaord - Trafik 
+  title: Kurssin aloitus, Temaord - Social och ekonomisk hållbarhet
+  grammar: adverbit
 - date: pe 16.4.
-  title: Temaord - Trafik  
-  grammar: imperatiivi 
+  title: Text 5 - Du sköna nya värld  
+  grammar: adverbit
 - date: ma 19.4.
-  title: Harjoituksia, kirjoitelmien aiheet
-  grammar: adverbit 
-  other: Text 3 Den modiga aktivisten, itsenäisesti - ohjeet
+  title: Text 5 jatkuu
+  grammar: prepositioilmaukset
 - date: to 22.4.
-  title: Text 1 - Ett med naturen  
-  grammar: adverbit 
+  title: Text 1 - Ett med naturen 
+  other: Sana- ja kuuntelukoe text 5 + temaord
 - date: pe 23.4.
-  title: Temaord - natur 1 
-  grammar: Partisiipin perfekti  
+  title: KIRJOITUSHARJOITUS 1 - pitkä
+  grammar: partisiipin perfekti  
 - date: ma 26.4.
-  title: Temaord - natur 2   
-  grammar: Partisiipin perfekti  
-  other: Kotiaine 1 - trafik palautus 
+  title: Temaord - natur 1  
+  grammar: partisiipin perfekti 
+  other: FLIPGRID 1 palautus
 - date: to 29.4.
-  title: Temaord - natur
-  grammar: prepositioilmauksia 
+  title: Temaord - natur 2
+  grammar: partisiipin perfekti
 - date: pe 30.4.
-  title: Text 2 - Ett liv utan sopor  
-  grammar: prepositioilmauksia 
+  title: Temaord - Miljöfrågor  
   other: Sana- ja kuuntelukoe NATUR 1-2
 - date: ma 3.5.
   title: Temaord - Miljöfrågor 
-  grammar: adjektiivikertaus 
-  other: Text 3 oltava tehtynä, tarkistus
+  grammar: imperatiivi
 - date: to 6.5.
-  title: Temaord - Miljöfrågor 
-  grammar: adjektiivien vertailu 
+  title: Text 2 - Ett liv utan sopor 
+  grammar: imperatiivi
 - date: pe 7.5.
   title: Harjoituksia
-  other: Sana- ja kuuntelukoe text 2 + temaord
+  grammar: genetiivi
+  other: Sana- ja kuuntelukoe text 2 + miljö
 - date: ma 10.5.
-  title: Text 5 - Du sköna nya värld 
-  other: Kotiaine 2 palautus
+  title: Temaord - Trafik 
+  grammar: genetiivi
+  other: FLIPGRID 2 palautus
 - date: to 13.5.
   title: Kristi himmelsfärdsdag
+  grammar: Adjektiivin kertaus itsenäisesti
 - date: pe 14.5. 
   title: EI OPPITUNTIA
+  other: Text 3 Den modiga aktivisten, itsenäisesti
 - date: ma 17.5.
-  title: Text 5 jatkuu
-  other:  Genetiivi
+  title: Temaord - Trafik 
+  other: adjektiviit
 - date: to 20.5.
-  title: Temaord - Social och ekonomisk hållbarhet
-  grammar: Genetiivi 
+  title: Kirjoitusharjoitus 2 - lyhyt
 - date: pe 21.5.
   title:  Temaord - Brott och straff
   grammar: Lauseenvastikkeet 
 - date: ma 24.5.
-  title: Text 4 - Den goda hackern (LF)
+  title:  Text 4 - Den goda hackern 
   grammar: Lauseenvastikkeet
-  other: Sana- ja kuuntelukoe text 5 + temaord
 - date: ti 1.6.
   title: ARVIOINTIPÄIVÄ klo 8.15-12
-  other: suullinen koe, kielioppi,luettu, käännös
+  other: kielioppi,luettu, käännös
 
