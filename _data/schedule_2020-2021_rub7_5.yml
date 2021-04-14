@@ -6,22 +6,24 @@
   grammar: adverbit
 - date: ma 19.4.
   title: Text 5 jatkuu
-  grammar: prepositioilmaukset
+  grammar: partisiipin perfekti
 - date: to 22.4.
   title: Text 1 - Ett med naturen 
   other: Sana- ja kuuntelukoe text 5 + temaord
 - date: pe 23.4.
-  title: KIRJOITUSHARJOITUS 1 - pitkä
+  title: Temaord - natur 1
   grammar: partisiipin perfekti  
+  other: KIRJOITUSHARJOITUS 1 - pitkä
 - date: ma 26.4.
-  title: Temaord - natur 1  
+  title: Temaord - natur 1-2  
   grammar: partisiipin perfekti 
   other: FLIPGRID 1 palautus
 - date: to 29.4.
-  title: Temaord - natur 2
-  grammar: partisiipin perfekti
+  title: Itsenäistä työskentelyä
+  grammar: prepositioilmaukset
 - date: pe 30.4.
   title: Temaord - Miljöfrågor  
+  grammar: prepositioilmaukset
   other: Sana- ja kuuntelukoe NATUR 1-2
 - date: ma 3.5.
   title: Temaord - Miljöfrågor 
