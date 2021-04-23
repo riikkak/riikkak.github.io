@@ -4,6 +4,9 @@ title: Materiaali
 course: rub2.7
 published: true
 ---
+
+**[Sin, sitt, sina - vastaukset](/media/rub2/sinsittsina.pdf)**
+
 **[Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)**
 
 **[Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)**
