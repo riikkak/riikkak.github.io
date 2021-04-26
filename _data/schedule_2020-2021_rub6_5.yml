@@ -5,13 +5,13 @@
   title: Väder
 - date: ma 19.4. 
   title: Konst
+  other: FLIPFRID palautus
 - date: ti 20.4.
   title: Film och teater
 - date: to 22.4.
   title: Litteratur
 - date: ma 26.4.
   title: Politik och samhälle
-  other: FLIPFRID palautus
 - date: ti 27.4.
   title: Politik och samhälle
 - date: to 29.4.
@@ -19,13 +19,13 @@
   other: Sanakoe ja kuuntelukoe - politik
 - date: ma 3.5.
   title: Relationer
+  other: FLIPFRID palautus
 - date: ti 4.5.
   title: EI KONTAKTIOPETUSTA
 - date: to 6.5.
   title: Relationer
 - date: ma 10.5.
   title: Relationer
-  other: FLIPGRID palautus
 - date: to 13.5.
   title: Kristi himmelsfärdsdag
 - date: ma 17.5.
@@ -35,6 +35,7 @@
   title: Resor
 - date: to 20.5.
   title: Resor
+  other: FLIPGRID palautus
 - date: ma 24.5.
   title: GRUPPDISKUSSION
   other: Sanakoe - resor
