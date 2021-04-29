@@ -10,3 +10,5 @@ PAKOLLISET: Osa läksyä, osa torstain tunnin itsenäistä tehtävää.
 - Natur käännöslauseet työvihkosta s. 2-4.
 
 PLUSSAT: Partisiipin perfektin tehtävät kirjasta s. 138 alkaen t. 2b, 3, 4a+4c, 5a+5c ja 7a.
+
+PERJANTAIN TUNNILLA SANAKOE NATUR 1-2 sanastoista! Työvihkosta luontoteeman 2 ekaa sivua, plussatehtäviä kolmannelta sivulta.
