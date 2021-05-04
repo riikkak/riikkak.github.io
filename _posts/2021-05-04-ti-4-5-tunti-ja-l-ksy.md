@@ -9,6 +9,5 @@ Lue ja suomenna teksti 5 erittäin huolella ja tee siihen liittyvä sisältöteh
 
 PLUSSAT: Tee Emendediin PLUSSA-tehtävä omistus + taivutus ja/tai PLUSSA-yhteistaivutus.
 
-
 Poissaolijat:
 Täytä tyvöihkon s. 18 ja käy opiskele kirjasta huolella s. 100-101 (pyydä opelta palattuasi muistiinpanot).
