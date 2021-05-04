@@ -8,4 +8,6 @@ title: Tiistain 4.5. tunnin itsenäiset hommat
  - Relation teeman (ja vähän muitakin) ääntöharjoitus
  - Oma vlogi-postaus, valitsemastasi aiheesta, minimikesto 1 min. Älä kirjoita valmiiksi mitä sanot, suunnittele ja tee mahdollisimman aito ja rento tuotos :) Revittele vähän ja pistä itsesi likoon **på svenska!**
  
- Muistathan, että kurssin arviointi perustuu läsnäoloon. Poissaoloraja on 2 tuntia, erityistapauksissa sovitaan erikseen. Pääsääntöisesti oppitunteja ei voi korvata. **Itsenäisesti suoritettavan tunnin tehtävien tekemättä jättäminen = poissaolo.**
+ Muistathan, että kurssin arviointi perustuu läsnäoloon. Poissaoloraja on 2 tuntia, erityistapauksissa sovitaan erikseen. Pääsääntöisesti oppitunteja ei voi korvata. **Itsenäisesti suoritettavan tunnin tehtävien tekemättä jättäminen = poissaolo.**!
+ 
+ [RUB6_uttal.jpg]({{site.baseurl}}/media/RUB6_uttal.jpg)
