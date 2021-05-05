@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: KE 6.5. tunti  ja LÄKSY
+title: KE 5.5. tunti  ja LÄKSY
 tags: rub2.7 läksyt
 ---
 PAKOLLISET: Tekstin 5 fraasit työvihkoon s. 10.
