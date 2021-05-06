@@ -6,6 +6,8 @@ published: true
 ---
 [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus7/)
 
+**[Text 2 fraasit](/media/rub7/text2_fraser.pdf)**
+
 ### Tekstien fraasit Quizletteina
 
 - [Text 1 - fraser](https://quizlet.com/_6h7ccb)
