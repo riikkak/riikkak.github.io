@@ -16,7 +16,7 @@ published: true
 
 ### Adjektiivien kertaus itsenäiset tehtävät
 
-- Täytä työvihkon s. 23-24 ja tarkista (tiedosto alla) sitten erivärisellä kynällä.
+- Täytä työvihkon s. 23-24 ja tarkista [adjektiivi pieni](/media/rub7/Adjektiivi_pieni.pdf) ja [adjektiivin vertailu](/media/rub7/adjektiivi_vertailu.pdf)erivärisellä kynällä.
 
 
 **[Text 2 fraasit](/media/rub7/text2_fraser.pdf)**
