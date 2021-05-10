@@ -6,7 +6,21 @@ published: true
 ---
 [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus7/)
 
+### Text 3 itsenäiset tehtävät
+
+- Kuuntele text 3 ylläolevasta Otavan äänitiedostot-linkistä ja täytä puuttuvat sanat työvihkon s. 9. Tarkista oikeat vastaukset kirjan tekstistä katsoen.
+
+- Täytä työvihkoon fraasit s. 10 ja niiden alle laatikkoihin ilmaukset. Löydät apua ilmauksiin kirjan s. 83.
+
+- Plussatehtävänä t. 6 ja 7 s. 81-82.
+
+### Adjektiivien kertaus itsenäiset tehtävät
+
+- Täytä työvihkon s. 23-24 ja tarkista (tiedosto alla) sitten erivärisellä kynällä.
+
+
 **[Text 2 fraasit](/media/rub7/text2_fraser.pdf)**
+
 
 ### Tekstien fraasit Quizletteina
 
