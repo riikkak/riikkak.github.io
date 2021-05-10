@@ -8,7 +8,7 @@ published: true
 
 ### Text 3 itsenäiset tehtävät
 
-- Kuuntele text 3 ylläolevasta Otavan äänitiedostot-linkistä ja täytä puuttuvat sanat työvihkon s. 9. Tarkista oikeat vastaukset kirjan tekstistä katsoen.
+- KUULLUNYMMÄRTÄMINEN: Kuuntele text 3 ylläolevasta Otavan äänitiedostot-linkistä ja täytä kuunnellessasi puuttuvat sanat suomeksi työvihkon s. 9. Monet sanoista tuttuja aikasemmilta kursseilta, testaa mitä osaat :) Tarkista oikeat vastaukset kirjan tekstistä katsoen.
 
 - Täytä työvihkoon fraasit s. 10 ja niiden alle laatikkoihin ilmaukset. Löydät apua ilmauksiin kirjan s. 83.
 
