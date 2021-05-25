@@ -5,6 +5,8 @@ course: rub2.7
 published: true
 ---
 
+**[Arviointipäivään kertaus - ohjeet](/media/rub2/Kertausohjeet_RUB2.pdf)**
+
 **[Sin, sitt, sina - vastaukset](/media/rub2/sinsittsina.pdf)**
 
 **[Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)**
