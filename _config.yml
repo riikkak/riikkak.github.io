@@ -22,7 +22,7 @@ defaults:
     scope:
       path: ""
     values:
-      period: 5
+      period: 1
   -
     scope:
       path: "kurssit/2013-2014"
@@ -77,8 +77,16 @@ defaults:
       path: "kurssit/2020-2021"
     values:
       semester: "2020-2021"
+      current: false
+      archived: true
+  -
+    scope:
+      path: "kurssit/2021-2022"
+    values:
+      semester: "2021-2022"
       current: true
       archived: false
+
 
 exclude:
   - README.md
@@ -125,10 +133,12 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB2.7 - Läksyt"
-              value: "rub2.7 läksyt"
-            - name: "RU6.5 - Läksyt"
-              value: "rub6.5 läksyt"
-            - name: "RUB7.5 - Läksyt"
-              value: "rub7.5 läksyt"
+            - name: "RUB11-2.1 - Läksyt"
+              value: "rub11-2.1 läksyt"
+            - name: "RUB4.1 - Läksyt"
+              value: "rub4.1 läksyt"
+            - name: "RU8.5 - Läksyt"
+              value: "rub8.5 läksyt"
+            - name: "RUB12.5 - Läksyt"
+              value: "rub12.5 läksyt"
 
