@@ -1,0 +1,70 @@
+  
+- name: rub11-2.1
+  code: 
+  desc: 
+  period: 1
+  
+- name: rub11-2.8
+  code:
+  desc: 
+  period: 3
+  
+- name: rub12.1
+  code: 
+  desc: 
+  period: 2
+
+- name: rub12.1
+  code: 
+  desc: 
+  period: 2
+  
+- name: rub3.7
+  code:
+  desc: suomalaisuus ja Suomi, tienneuvominen, nähtävyydet
+  period: 2 
+
+- name: rub3.8
+  code:
+  desc: suomalaisuus ja Suomi, tienneuvominen, nähtävyydet
+  period: 3 
+  
+- name: rub4.1
+  code:
+  desc: elämänkatsomus, kulttuurinen monimuotoisuus, rahankäyttö
+  period: 1 
+
+- name: rub4.2
+  code:
+  desc: elämänkatsomus, kulttuurinen monimuotoisuus, rahankäyttö
+  period: 2
+
+- name: rub5.1
+  code:
+  desc: opiskelu, työelämä, sosiaaliset mediat
+  period: 2
+
+- name: rub5.2
+  code:
+  desc: opiskelu, työelämä, sosiaaliset mediat
+  period: 3
+
+- name: rub6.2
+  code:
+  desc: ihmissuhteet, politiikka, matkustaminen, kulttuuri
+  period: 2
+
+- name: rub7.5
+  code:
+  desc:
+  period: 5
+
+- name: rub8.3
+  code:
+  desc: sanastot ja rakenteet yo:hon
+  period: 3
+
+- name: rub12.4
+  code:
+  desc: kirjoittaminen ja kuuntelu 
+  period: 3
