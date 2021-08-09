@@ -62,7 +62,7 @@
                         {% assign swe_courses = "" %}
                         {% assign swe_urls = "" %}
                         {% for course in page_courses %}
-                            {% if course.period == page.period %}
+                            {% if course.period == page.period or course.period contains page.period %}
                                 {% if course.name contains "ena" %}
                                     {% assign eng_courses = course.name | append:"|" | append:eng_courses %}
                                     {% unless course.url %}

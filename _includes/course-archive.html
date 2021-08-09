@@ -16,7 +16,7 @@
             <h2 class="panel-title">Englanti ({{ena_count}} kurssia)</h2>
         </div>
 
-        {% include course-list.html db=include.course_db time="past" name="ena" period=big_number year=include.year_url %}
+        {% include course-list.liquid db=include.course_db time="past" name="ena" period=big_number year=include.year_url %}
 
         {% if ena_count == 0 %}
         Ei kursseja tänä lukuvuonna.
@@ -29,7 +29,7 @@
             <h2 class="panel-title">Ruotsi ({{rub_count}} kurssia)</h2>
         </div>
 
-        {% include course-list.html db=include.course_db time="past" name="rub" period=big_number year=include.year_url %}
+        {% include course-list.liquid db=include.course_db time="past" name="rub" period=big_number year=include.year_url %}
 
         {% if rub_count == 0 %}
         Ei kursseja tänä lukuvuonna.

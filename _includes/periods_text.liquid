@@ -1,0 +1,14 @@
+-
+{% if include.period[0] %}
+    {% for p in include.period %}
+        {% if forloop.last == true %}
+            ja
+        {% elsif forloop.first == false %}
+            ,
+        {% endif %}
+        {{p}}.
+    {% endfor %}
+    jaksot
+{% else %}
+    {{ include.period }}. jakso
+{% endif %}

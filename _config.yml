@@ -9,7 +9,9 @@ lsi: false
 highlighter: rouge
 url: https://riikka.koskenranta.fi
 baseurl: ""
-semester: 2020-2021
+incremental: false
+timezone: Europe/Helsinki
+semester: 2021-2022
 
 defaults:
   -

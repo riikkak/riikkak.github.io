@@ -4,7 +4,7 @@ title: Kurssit
 redirect_from: /kurssit/
 ---
 
-{% assign course_db=site.data.courses_2020-2021 %}
+{% assign course_db=site.data.courses_2021-2022 %}
 {% assign cur_period=page.period %}
 {% assign ena_count = 0 %}
 {% assign rub_count = 0 %}
@@ -15,12 +15,13 @@ redirect_from: /kurssit/
     {% if course.name contains "rub" %}
         {% assign rub_count = rub_count | plus:1 %}
     {% endif %}
-    {% if course.name contains "ena" and course.period == cur_period %}{% assign cur_english = true %}
-    {% elsif course.name contains "ena" and course.period < cur_period %}{% assign past_english = true %}
-    {% elsif course.name contains "ena" and course.period > cur_period %}{% assign future_english = true %}
-    {% elsif course.name contains "rub" and course.period == cur_period %}{% assign cur_swedish = true %}
-    {% elsif course.name contains "rub" and course.period < cur_period %}{% assign past_swedish = true %}
-    {% elsif course.name contains "rub" and course.period > cur_period %}{% assign future_swedish = true %}
+    {% include last-period-var.liquid %}
+    {% if course.name contains "ena" and course.period contains cur_period or course.period == cur_period %}{% assign cur_english = true %}
+    {% elsif course.name contains "ena" and last_period < cur_period %}{% assign past_english = true %}
+    {% elsif course.name contains "ena" and last_period > cur_period %}{% assign future_english = true %}
+    {% elsif course.name contains "rub" and course.period contains cur_period or course.period == cur_period %}{% assign cur_swedish = true %}
+    {% elsif course.name contains "rub" and last_period < cur_period %}{% assign past_swedish = true %}
+    {% elsif course.name contains "rub" and last_period > cur_period %}{% assign future_swedish = true %}
     {% endif %}
 {% endfor %}
 
@@ -42,15 +43,15 @@ redirect_from: /kurssit/
                     </div>
 
                     {% if cur_english %}
-                    {% include course-list.html db=course_db time="current" name="ena" period=cur_period year=site.semester %}
+                    {% include course-list.liquid db=course_db time="current" name="ena" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if past_english %}
-                    {% include course-list.html db=course_db time="past" name="ena" period=cur_period year=site.semester %}
+                    {% include course-list.liquid db=course_db time="past" name="ena" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if future_english %}
-                    {% include course-list.html db=course_db time="future" name="ena" period=cur_period year=site.semester %}
+                    {% include course-list.liquid db=course_db time="future" name="ena" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if ena_count == 0 %}
@@ -64,15 +65,15 @@ redirect_from: /kurssit/
                         <h2 class="panel-title">Ruotsi ({{rub_count}} kurssia)</h2>
                     </div>
                     {% if cur_swedish %}
-                    {% include course-list.html db=course_db time="current" name="rub" period=cur_period year=site.semester %}
+                    {% include course-list.liquid db=course_db time="current" name="rub" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if past_swedish %}
-                    {% include course-list.html db=course_db time="past" name="rub" period=cur_period year=site.semester %}
+                    {% include course-list.liquid db=course_db time="past" name="rub" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if future_swedish %}
-                    {% include course-list.html db=course_db time="future" name="rub" period=cur_period year=site.semester %}
+                    {% include course-list.liquid db=course_db time="future" name="rub" period=cur_period year=site.semester %}
                     {% endif %}
 
                     {% if rub_count == 0 %}

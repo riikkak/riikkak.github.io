@@ -1,0 +1,128 @@
+# ----- RUB3.7 ----- #
+- course: rub3.7
+  pages:
+  - page: Aikataulu
+  - page: Läksyt
+    url: laksyt
+  - page: Materiaali
+  - page: Kurssi-info
+# ----- RUB3.8 ----- #
+- course: rub3.8
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB4.1 ----- #
+- course: rub4.1
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB4.2 ----- #
+- course: rub4.2
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB5.1 ----- #
+- course: rub5.1
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB5.2 ----- #
+- course: rub5.2
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB5.7 ----- #
+- course: rub5.7
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB6.2 ----- #
+- course: rub6.2
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB6.3 ----- #
+- course: rub6.3
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB7.5 ----- #
+- course: rub7.5
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB8.3 ----- #
+- course: rub8.3
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB8.5 ----- #
+- course: rub8.5
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB11-2.1 ----- #
+- course: rub11-2.1
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB11-2.8 ----- #
+- course: rub11-2.8
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB12.5 ----- #
+- course: rub12.5
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB13.1 ----- #
+- course: rub13.1
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info

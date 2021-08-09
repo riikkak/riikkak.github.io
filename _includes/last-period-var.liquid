@@ -1,0 +1,5 @@
+{% if course.period[0] %}
+    {% assign last_period = course.period | sort | last | abs %}
+{% else %}
+    {% assign last_period = course.period | split: "" | sort | last | abs %}
+{% endif %}
