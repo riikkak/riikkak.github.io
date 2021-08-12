@@ -5,7 +5,6 @@ course: rub11-2.1
 published: true
 ---
 # Välkommen!
-Tervetuloa aloittamaan lukio-opinnot ruotsin kielessä. Nu kör vi!
 
 ## [REK-regler](/media/rub1/REK_regler.pdf)
 
