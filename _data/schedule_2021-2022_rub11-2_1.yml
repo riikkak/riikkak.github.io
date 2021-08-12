@@ -38,13 +38,13 @@
   grammar: Lukusanat
 - date: pe 10.9.
   title: Temaord - mat
-  other: Lukusanat
+  grammar: Lukusanat
 - date: ti 14.9.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
   grammar: Lukusanat
 - date: ke 15.9.
   title: Text 4 vanhana
-  grammar: verbit
+  grammar: Verbit
 - date: pe 17.9.
   title: Harjoituksia
   grammar: Verbit
@@ -58,7 +58,7 @@
   grammar: Verbit
 - date: to 23.9.
   title: Päättöviikon 
-  grammar: suullinen tehtävä, kuuntelu, kirjoitelma, kertaus
+  grammar: Suullinen tehtävä, kuuntelu, kirjoitelma, kertaus
   other: Työvihkon (del 1) palautus, verbikoe 2
 - date: ti 5.10.
   title: Aloitus, vanhan kertaus
@@ -76,9 +76,11 @@
   title: Tema - skola
 - date: to 14.10.
   title: Harjoituksia 
+  grammar: prepositiot
   other: Sanakoe - Skola
 - date: ti 19.10.
   title: Temaord Utseende
+  grammar: prepositiot
 - date: ke 20.10. 
   title: Temaord - Utseende
 - date: to 21.10.
@@ -109,11 +111,9 @@
   title: Temaord - kläder
 - date: ke 17.11.
   title: Temaord - Kompisar och vänner
-  grammar: prepositiot
   other: Flipgrid palautus
 - date: to 18.11.
   title: Temaord - kompisar och vänner
-  grammar: prepositiot
 - date: pe 19.11.
   title: Päättöviikon
   grammar: luettu, kielioppi, käännös
