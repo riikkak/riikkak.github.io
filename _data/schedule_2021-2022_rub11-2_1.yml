@@ -3,6 +3,7 @@
   other: digikirjan käyttöönotto
 - date: ti 17.8.
   title: Text 1 Sverige - landet där lagom är bäst
+  grammar: Päälause
 - date: ke 18.8.
   title: Text 1 vanhana
   grammar: Päälause
@@ -21,50 +22,50 @@
   grammar: Kysymyssanat ja kysymyslause
 - date: ti 31.8.
   title: Text 2 Musik, sport, datorer eller något annat?
-  grammar: Kysymyssanat ja kysymyslause
+  grammar: Sivulause
 - date: ke 1.9.
   title: Text 2 vanhana
+  grammar: Sivulause
 - date: pe 3.9.
   title: Harjoituksia
-  grammar: Verbit
+  grammar: Sivulause
   other: Sanakoe text 2
 - date: ti 7.9.
   title: YKKÖSTEN TOIMINTAPÄIVÄ 
   other: Flipgrid palautus
 - date: ke 8.9.
   title: Temaord - mat
-  grammar: Verbit
-  other: verbikoe 1
+  grammar: Lukusanat
 - date: pe 10.9.
-  title: Tema ord - mat
-  other: Verbit
+  title: Temaord - mat
+  other: Lukusanat
 - date: ti 14.9.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
-  grammar: Verbit
-  other: Verbikoe 2
+  grammar: Lukusanat
 - date: ke 15.9.
   title: Text 4 vanhana
-  grammar: Verbit
+  grammar: verbit
 - date: pe 17.9.
   title: Harjoituksia
-  grammar: lukusanat
+  grammar: Verbit
   other: Sanakoe text 4
 - date: ti 21.9.
   title: Temaord - kompisar och vänner
-  grammar: lukusanat
+  grammar: Verbit
+  other: Verbikoe 1
 - date: ke 22.9.
   title: Temaord - kompisar och vänner
-  grammar: lukusanat
+  grammar: Verbit
 - date: to 23.9.
   title: Päättöviikon 
   grammar: suullinen tehtävä, kuuntelu, kirjoitelma, kertaus
-  other: Työvihkon (del 1) palautus
+  other: Työvihkon (del 1) palautus, verbikoe 2
 - date: ti 5.10.
   title: Aloitus, vanhan kertaus
-  grammar: Sivulause
+  grammar: Substantiivit
 - date: ke 6.10. 
   title: Temaord - skola
-  grammar: Sivulause
+  grammar: Substantiivit
 - date: to 7.10.
   title: Temaord - skola
   grammar: Substantiivit
@@ -80,10 +81,8 @@
   other: Sanakoe - Skola
 - date: ti 19.10.
   title: Temaord Utseende
-  grammar: Substantiivit
 - date: ke 20.10. 
   title: Temaord - Utseende
-  grammar: Substantiivit
 - date: to 21.10.
   title: Harjoituksia
   grammar: Käskymuoto
