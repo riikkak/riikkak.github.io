@@ -11,7 +11,7 @@ Tervetuloa ruotsin neljännelle kurssille! Tällä kurssilla opettelemme kertoma
 2. kulttuurinen kohtaaminen
 3. uskonto ja elämänkatsomus
 4. Islanti
-​
+
 Kieliopissa käsittelemme seuraavia asioita:
 ​
 1. epäsäännölliset verbit
