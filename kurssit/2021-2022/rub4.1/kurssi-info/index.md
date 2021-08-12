@@ -21,7 +21,7 @@ Kieliopissa käsittelemme seuraavia asioita:
 5. konditionaali
 6. prepositioita
 ​
-## [REK-regler](/media/rub1/REK_regler.pdf)
+## [REK-regler](/media/rub1/REK_regler_uusi.pdf)
 ​
 Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vettä vain :)
 ​
