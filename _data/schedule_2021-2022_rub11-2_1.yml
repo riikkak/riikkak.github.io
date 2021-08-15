@@ -3,29 +3,29 @@
   other: digikirjan käyttöönotto
 - date: ti 17.8.
   title: Text 1 Sverige - landet där lagom är bäst
-  grammar: Päälause
+  grammar: Lukusanat
 - date: ke 18.8.
   title: Text 1 vanhana
-  grammar: Päälause
+  grammar: Lukusanat
 - date: pe 20.8.
   title: Tema - Sverige
-  grammar: Päälause
+  grammar: Kysymyssanat ja kysymyslause
+  other: Start-osion tehtävät oltava tehtynä
 - date: ti 24.8.
   title: Ohjattu kirjoitusharjoitus
-  grammar: Päälause
+  grammar: Kysymyssanat ja kysymyslause
   other: Sanakoe text 1
 - date: ke 25.8.
   title: Temaord - Fritid
-  grammar: Kysymyssanat ja kysymyslause
 - date: pe 27.8.
   title: Temaord - Fritid
-  grammar: Kysymyssanat ja kysymyslause
+  grammar: Päälause
 - date: ti 31.8.
   title: Text 2 Musik, sport, datorer eller något annat?
-  grammar: Sivulause
+  grammar: Päälause
 - date: ke 1.9.
   title: Text 2 vanhana
-  grammar: Sivulause
+  grammar: Päälause 
 - date: pe 3.9.
   title: Harjoituksia
   grammar: Sivulause
@@ -35,13 +35,12 @@
   other: Flipgrid palautus
 - date: ke 8.9.
   title: Temaord - mat
-  grammar: Lukusanat
+  grammar: Sivulause
 - date: pe 10.9.
   title: Temaord - mat
-  grammar: Lukusanat
+  grammar: Sivulause
 - date: ti 14.9.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
-  grammar: Lukusanat
 - date: ke 15.9.
   title: Text 4 vanhana
   grammar: Verbit
@@ -57,7 +56,7 @@
   title: Temaord - kompisar och vänner
   grammar: Verbit
 - date: to 23.9.
-  title: Päättöviikon 
+  title: PÄÄTTÖPÄIVÄ
   grammar: Suullinen tehtävä, kuuntelu, kirjoitelma, kertaus
   other: Työvihkon (del 1) palautus, verbikoe 2
 - date: ti 5.10.
@@ -115,6 +114,6 @@
 - date: to 18.11.
   title: Temaord - kompisar och vänner
 - date: pe 19.11.
-  title: Päättöviikon
+  title: PÄÄTTÖPÄIVÄ
   grammar: luettu, kielioppi, käännös
   other: KONE MUKAAN, TYÖVIHKON (del 2) palautus
