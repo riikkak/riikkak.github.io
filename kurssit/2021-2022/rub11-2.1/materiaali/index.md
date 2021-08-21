@@ -17,4 +17,4 @@ published: true
 - Tema Välbefinnande - fraser
 
 
-
+**[Text 1 - harjoitussanakokeen vastaukset](/media/rub1/Text 1_harjoitussanakoe.pdf)**
