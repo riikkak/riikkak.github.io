@@ -9,7 +9,7 @@
   grammar: Lukusanat
 - date: pe 20.8.
   title: Tema - Sverige
-  grammar: Kysymyssanat ja kysymyslause
+  grammar: Lukusanat
   other: Start-osion tehtävät oltava tehtynä
 - date: ti 24.8.
   title: Ohjattu kirjoitusharjoitus
@@ -17,6 +17,7 @@
   other: Sanakoe text 1
 - date: ke 25.8.
   title: Temaord - Fritid
+  grammar: Kysymyssanat ja kysymyslause
 - date: pe 27.8.
   title: Temaord - Fritid
   grammar: Päälause
@@ -109,10 +110,10 @@
 - date: ti 16.11.
   title: Temaord - kläder
 - date: ke 17.11.
-  title: Temaord - Kompisar och vänner
+  title: Temaord - familj och släkt
   other: Flipgrid palautus
 - date: to 18.11.
-  title: Temaord - kompisar och vänner
+  title: Temaord - familj och släkt
 - date: pe 19.11.
   title: PÄÄTTÖPÄIVÄ
   grammar: luettu, kielioppi, käännös
