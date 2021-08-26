@@ -12,3 +12,6 @@ PAKOLLISET:
 
 PLUSSAT:
 s. 79 alkaen t. 2a, 2b, 4, 5a. (Tee yksi tai useampi jos ehdit)
+
+POISSAOLIJAT:
+Täytä työvihkon s. 20.
