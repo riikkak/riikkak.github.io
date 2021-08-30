@@ -7,13 +7,14 @@
 - date: to 19.8.
   title: Kuuntelu + Omistusmuodot
 - date: ma 23.8.
-  title: Apuverbit ja infinitiivi
+  title: AdjektiivitA
 - date: ti 24.8.
-  title: Apuverbit ja infinitiivi jatkuu
-- date: to 26.8.
-  title: Adjektiivit
-- date: ma 30.8.
   title: Adjektiivit jatkuu 
+- date: to 26.8.
+  title: Apuverbit
+- date: ma 30.8.
+  title: Sanasto - Berusningsmedel
+  grammar: Infinitiivi
 - date: ti 31.8.
   title: Kuuntelu + harjoituksia
 - date: to 2.9.
@@ -21,15 +22,15 @@
 - date: ma 6.9.
   title: Erisnimen suku + YTL:n lemppareita
 - date: ti 7.9.
-  title: Sanasto - Berusningsmedel
-- date: to 9.9.
-  title: Adjektiivit jatkuu + kuuntelua
-- date: ma 13.9.
   title: Sanasto - Lumpen
+- date: to 9.9.
+  title: Sanasto - Djur
+- date: ma 13.9.
+  title: Kuuntelu
 - date: ti 14.9.
   title: Kuuntelu + tärkeitä verbifraaseja
 - date: to 16.9.
-  title: Sanasto - Djur
+  title: Kuuntelu + YO-ohjeet
   other: Arviointiviikon korvaavien tehtävien palautus
 - date: ma 20.9.
   title: RUOTSIN YO-KOE
