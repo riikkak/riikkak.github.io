@@ -10,7 +10,7 @@ PAKOLLISET:
 
 PLUSSAT:
 1. Digikirjasta päälauseen tehtäviä s. 233 alkaen t. 1a ja 2
-2. Digikirjasta tekstin 2 tehtäviä s. 84 t. 8
+2. Digikirjasta tekstin 2 tehtäviä s. 64 t. 8
 
 Poissaolijat:
 Täytä työvihkon s. 6 ja 21
