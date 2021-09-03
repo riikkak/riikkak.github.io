@@ -29,7 +29,7 @@
   grammar: Päälause 
 - date: pe 3.9.
   title: Harjoituksia
-  grammar: Sivulause
+  grammar: Päälause
   other: Sanakoe text 2
 - date: ti 7.9.
   title: YKKÖSTEN TOIMINTAPÄIVÄ 
@@ -42,6 +42,7 @@
   grammar: Sivulause
 - date: ti 14.9.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
+  grammar: Sivulause
 - date: ke 15.9.
   title: Text 4 vanhana
   grammar: Verbit
