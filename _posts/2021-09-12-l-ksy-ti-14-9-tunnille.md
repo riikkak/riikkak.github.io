@@ -16,3 +16,5 @@ PLUSSAT:
 - Leivo herkkuja työvihkon takakannen ohjeen mukaisesti ja näytä/lähetä kuva opelle :)
 
 Plussa per tehtävä.
+
+**Muista ensimmäisen kirjoitusharjoituksen puhtaaksikirjoitus pe 17.9. mennessä.** Tee se suoraan Emendediin saman tehtävän toiseen palautukseen. Helpointa on asetella korjaamani versio rinnakkain toisen palautuskerran tehtävän kanssa rinnakkaisiin ikkunoihin ja näin näet virheet nopeasti eikä tarvitse klikkailla edes takaisin. Älä käytä muuta tekstinkäsittelyohjelmaa ja kopioi sieltä, se saattaa hävittää puolet tekstistä.
