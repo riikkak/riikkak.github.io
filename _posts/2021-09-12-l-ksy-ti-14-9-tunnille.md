@@ -6,7 +6,8 @@ tags: rub11-2.1 läksyt
 ---
 PAKOLLISET:
 
-- Kuuntele, lue ja suomenna teksti 4. Tee siihen liittyvä tehtävä digikirjasta s. 166-167 1b ja 2a.
+- Kuuntele, lue ja suomenna teksti 4. Tee siihen liittyvä tehtävä digikirjasta s. 166-167 1b.
+
 - Tee loppuun tunnilla aloitetut sivulauseen tehtävät 5a ja 6. (Grammatik 2 - alistuskonjunktiolla alkava sivulause)
 
 PLUSSAT:
