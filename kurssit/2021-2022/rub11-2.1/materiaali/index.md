@@ -12,7 +12,7 @@ published: true
 
 - [Text 1 - fraser](https://quizlet.com/_a2zbi1?x=1qqt&i=dz01n)
 - [Text 2 - fraser](https://quizlet.com/_a4hkf8?x=1jqt&i=dz01n)
-- Text 4 - fraser
+- [Text 4 - fraser](https://quizlet.com/_a73yfp?x=1qqt&i=dz01n)
 - Tema skola - fraser
 - Tema Välbefinnande - fraser
 
