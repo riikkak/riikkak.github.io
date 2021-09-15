@@ -18,5 +18,6 @@ published: true
 
 
 **[Text 1 harjoitussanakokeen vastaukset](/media/rub1/Text1_harjoitussanakoe.pdf)**
+**[Text 2 harjoitussanakokeen vastaukset](/media/rub1/Text2_harjoitussanis.pdf)**
 **[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text4_harjoitussanis.pdf)**
  
