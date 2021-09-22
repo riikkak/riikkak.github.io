@@ -4,6 +4,9 @@ title: Materiaali
 course: rub11-2.1
 published: true
 ---
+
+**[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
+
 **[Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)**
 
 **[Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)**
@@ -16,10 +19,13 @@ published: true
 - Tema skola - fraser
 - Tema Välbefinnande - fraser
 
+### TEHTÄVIEN TARKISTUS
 
 **[Text 1 harjoitussanakokeen vastaukset](/media/rub1/Text1_harjoitussanakoe.pdf)**
 
 **[Text 2 harjoitussanakokeen vastaukset](/media/rub1/Text 2_harjoitussanis.pdf)**
 
 **[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text 4_harjoitussanis.pdf)**
+
+**[Verbikertaus - vastaukset](/media/rub1/Verbikertaus_vastaukset.pdf)**
  
