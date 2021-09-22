@@ -20,6 +20,7 @@ published: true
 - Tema Välbefinnande - fraser
 - [Vahvoja ja epäsäännöllisiä verbejä](https://quizlet.com/_3oudcw?x=1jqt&i=dz01n)
 - [Temaord - fritid](https://quizlet.com/_3poztd?x=1jqt&i=dz01n)
+- [Temaord -mat](https://quizlet.com/_a8unwa?x=1qqt&i=dz01n)
 
 ### TEHTÄVIEN TARKISTUS
 
