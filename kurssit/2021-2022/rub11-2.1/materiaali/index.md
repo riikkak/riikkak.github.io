@@ -18,6 +18,8 @@ published: true
 - [Text 4 - fraser](https://quizlet.com/_a73yfp?x=1qqt&i=dz01n)
 - Tema skola - fraser
 - Tema Välbefinnande - fraser
+- [Vahvoja ja epäsäännöllisiä verbejä](https://quizlet.com/_3oudcw?x=1jqt&i=dz01n)
+- [Temaord - fritid](https://quizlet.com/_3poztd?x=1jqt&i=dz01n)
 
 ### TEHTÄVIEN TARKISTUS
 
