@@ -4,7 +4,7 @@ title: Materiaali
 course: rub4.1
 published: true
 ---
-**[Arviointipäivän ja kertauksen ohje](/media/rub4/kertausohjeet.pdf)**
+**[Päättöpäivän ja kertauksen ohje](/media/rub4/Lukuohje.pdf)**
 
 **[Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)**
 
