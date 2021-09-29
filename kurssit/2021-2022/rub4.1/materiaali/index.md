@@ -11,7 +11,7 @@ published: true
 **[Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)**
 
 ### OBS!
-[Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus4/)
+Otavan äänitiedostot löydät Otavan opiskelijan maailmasta. Tee tunnukset (tai käytä valmiita, jos sinulla jo on), löydätFokus kirjasarjan materiaalit koulun materiaalit-sivulta.
 
 ### Tekstien fraasit Quizletteina
 
