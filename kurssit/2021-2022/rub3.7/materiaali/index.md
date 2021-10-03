@@ -4,8 +4,6 @@ title: Materiaali
 course: rub3.7
 published: true
 ---
-[Arviointipäivän ohjeet](/media/rub3/Kertausohjeet.pdf)
-
 ## Tekstien fraasit - tarkistus
 
 [Text 1 fraasien tarkistus](/media/rub3/Text 1_fraser.pdf)
@@ -32,3 +30,5 @@ Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuunt
 [Text 4 fraasit - flashcards](https://quizlet.com/_3sjhle)
 
 [Text 5 fraasit - flashcards](https://quizlet.com/_3sji2c)
+
+[Arviointipäivän ohjeet](/media/rub3/Kertausohjeet.pdf)
