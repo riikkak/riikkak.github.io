@@ -68,7 +68,7 @@ Moduulien 1-2 arviointi koostuu kahden jakson aikana tehtävistä suorituksista,
 1. Tuntiaktiivisuus ja parityöskentely
 1. Läksyt (pakollisten tehtävien teko on edellytys arvosanan saannille)
 1. Plussatehtävät (läksyplussat, ylimääräiset suulliset/kirjoitukset, ym.)
-1. Työvihkon täyttäminen
+1. Työvihkon täyttäminen ohjeistuksen mukaan
 1. Muut mahdolliset lisätehtävät / pistarit
 
 Arvioitavat suoritukset (sanakokeet, kuuntelut, flipgridit ja ohjatut kirjoitustehtävät) on oltava tehtynä moduulin viimeiseen oppituntiin mennessä. 
