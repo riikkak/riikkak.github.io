@@ -1,121 +1,65 @@
-- date: pe 13.8.
-  title: Kurssi-info, tervehdyksiä
-  other: digikirjan käyttöönotto
-- date: ti 17.8.
-  title: Text 1 Sverige - landet där lagom är bäst
-  grammar: Lukusanat
-- date: ke 18.8.
-  title: Text 1 vanhana
-  grammar: Lukusanat
-- date: pe 20.8.
-  title: Tema - Sverige
-  grammar: Lukusanat
-  other: Start-osion tehtävät oltava tehtynä
-- date: ti 24.8.
-  title: Ohjattu kirjoitusharjoitus
-  grammar: Kysymyssanat ja kysymyslause
-  other: Sanakoe text 1
-- date: ke 25.8.
-  title: Temaord - Fritid
-  grammar: Kysymyssanat ja kysymyslause
-- date: pe 27.8.
-  title: Temaord - Fritid
-  grammar: Päälause
-- date: ti 31.8.
-  title: Text 2 Musik, sport, datorer eller något annat?
-  grammar: Päälause
-- date: ke 1.9.
-  title: Text 2 vanhana
-  grammar: Päälause 
-- date: pe 3.9.
-  title: Harjoituksia
-  grammar: Päälause
-  other: Sanakoe text 2
-- date: ti 7.9.
-  title: YKKÖSTEN TOIMINTAPÄIVÄ 
-  other: Flipgrid palautus
-- date: ke 8.9.
-  title: Temaord - mat
-  grammar: Sivulause
-- date: pe 10.9.
-  title: Temaord - mat
-  grammar: Sivulause
-- date: ti 14.9.
-  title: Text 4 Köttbullar, sushi eller vegoburgare?
-  grammar: Sivulause
-- date: ke 15.9.
-  title: Text 4 vanhana
-  grammar: Verbit
-- date: pe 17.9.
-  title: Harjoituksia
-  grammar: Verbit
-  other: Sanakoe text 4
-- date: ti 21.9.
-  title: Temaord - kompisar och vänner
-  grammar: Verbit
-  other: Verbikoe 1
-- date: ke 22.9.
-  title: Temaord - kompisar och vänner
-  grammar: Verbit
-- date: to 23.9.
-  title: PÄÄTTÖPÄIVÄ
-  grammar: Suullinen tehtävä, kuuntelu, kirjoitelma, kertaus
-  other: Työvihkon (del 1) palautus, verbikoe 2
 - date: ti 5.10.
   title: Aloitus, vanhan kertaus
-  grammar: Substantiivit
+  grammar: Persoonapronominit
 - date: ke 6.10. 
-  title: Temaord - skola
-  grammar: Substantiivit
+  title: Text 3 
+  grammar: Persoonapronominit
 - date: to 7.10.
   title: Temaord - skola
-  grammar: Substantiivit
+  grammar: Persoonapronominit
 - date: ti 12.10.
-  title: Text 3 
-  grammar: Substantiivit
+  title: Temaord - skola 
+  grammar: Persoonapronominit
 - date: ke 13.10.
-  title: Tema - skola
+  title: Harjoituksia
+  grammar: Substantiivin taivutus
+  other: Sanakoe - Skola, kuuntelukoe
 - date: to 14.10.
-  title: Harjoituksia 
-  grammar: prepositiot
-  other: Sanakoe - Skola
+  title: Temaord Utseende
+  grammar: Käskymuoto
+  other: FLIPGRID 1 - skola
 - date: ti 19.10.
   title: Temaord Utseende
-  grammar: prepositiot
+  grammar: Käskymuoto
 - date: ke 20.10. 
   title: Temaord - Utseende
+  grammar: Substantiivin taivutus
 - date: to 21.10.
-  title: Harjoituksia
-  grammar: Käskymuoto
+  title: Skriftlig framställning 1 - lyhyt
+  grammar: Substantiivin taivutus
 - date: 25.-29.10.
   title: HÖSTLOV
 - date: ti 2.11.
   title: Temaord - Välbefinnande och hälsa
-  grammar: Käskymuoto
+  grammar: Substantiivin käyttö
 - date: ke 3.11.
   title: Temaord - Välbefinnande och hälsa
-  grammar: Adjektiivit
+  grammar: Substantiivin käyttö
 - date: to 4.11.
   title: Text 5
   grammar: Adjektiivit
 - date: ti 9.11.
-  title: Harjoituksia
+  title: Skriftlig framställning 2 - pitkä
   grammar: Adjektiivit
   other: Sanakoe - Välbefinnande och hälsa
 - date: ke 10.11.
   title: Temaord - Kläder
-  grammar: Persoonapronominit
+  grammar: Adjektiivit
+  other: Kuuntelukoe - temaord
 - date: to 11.11.
   title: Temaord - kläder
-  grammar: Persoonapronominit
+  grammar: Adjektiivit
 - date: ti 16.11.
   title: Temaord - kläder
+  grammar: adjektiivit
+  other: Kuuntelukoe - temaord
 - date: ke 17.11.
   title: Temaord - familj och släkt
-  other: Flipgrid palautus
+  other: Flipgrid EXTRA - Min garderob 
 - date: to 18.11.
   title: Temaord - familj och släkt
+  other: FLIPGRID EXTRA - min familjeträd
 - date: pe 19.11.
-  title: PÄÄTTÖPÄIVÄ
-  grammar: luettu, kielioppi, käännös
+  title: PÄÄTTÖPÄIVÄ klo 13.00-17.00
+  grammar: suullinen koe, luettu, kielioppi, käännös
   other: KONE MUKAAN, TYÖVIHKON (del 2) palautus
