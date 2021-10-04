@@ -22,6 +22,9 @@ published: true
 - [Temaord - fritid](https://quizlet.com/_3poztd?x=1jqt&i=dz01n)
 - [Temaord -mat](https://quizlet.com/_a8unwa?x=1qqt&i=dz01n)
 - [Temaord - kompisar och vänner](https://quizlet.com/_a8usw8?x=1qqt&i=dz01n)
+- Temaord - utseende
+- Temaord - kläder
+- Temaord - familj och släktingar
 
 ### TEHTÄVIEN TARKISTUS
 
@@ -32,4 +35,3 @@ published: true
 **[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text 4_harjoitussanis.pdf)**
 
 **[Verbikertaus - vastaukset](/media/rub1/Verbikertaus_vastaukset.pdf)**
- 
