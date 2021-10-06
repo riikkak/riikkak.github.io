@@ -2,7 +2,6 @@
   title: Alkuinfo, Text 2 - uutena, temaord - kultur
 - date: ke 6.10.
   title: Text 2 vanhana, temaord jatkuu
-  grammar: epäsuorakysymys
 - date: to 7.10.
   title: Skriftlig framställning 1 - lyhyt
   grammar: epäsuorakysymys
@@ -12,49 +11,50 @@
   other: Flipgrid 2 (EXTRA - kultur) palautus
 - date: ke 13.10.
   title:  Text 1 vanhana, nähtävyydet
-  grammar: relatiivilause
+  grammar: epäsuorakysymys 
 - date: to 14.10.
   title: Nähtävyydet
   grammar: relatiivilause
 - date: ma 18.10.
   title: Tien neuvominen
-  grammar: interrogatiivipronominit (B s. 123-125 t. 1, 2)
+  grammar: relatiivilause
   other: Sanakoe text 1
 - date: ke 20.10.
   title: Finska seder och bruk
-  grammar: man ja det (B s. 126-129 t. 1, 3, 4)
+  grammar: interrogatiivipronominit (B s. 123-125 t. 1, 2)
   other: Flipgrid 1 (PLUSSA)- Jag, finländare
 - date: to 21.10.
   title: Harjoituksia
-  grammar: indefiniittipronominit - någon/ingen
+  grammar: man ja det (B s. 126-129 t. 1, 3, 4)
   other: Kuuntelukoe - temaord
 - date: 25.-29.10.
   title: HÖSTLOV
 - date: ma 1.11.
   title: Text 5 Snabbguide till Ankdammen uutena
-  grammar: indefiniittipronominit - varje  
+  grammar: indefiniittipronominit - någon/ingen 
   other: Kirjoitustehtävä EXTRA 1 (tienneuvominen)  palautus
 - date: ke 3.11.
   title: Text 5 vanhana
-  grammar: indefiniittipronominit - alla, hela, båda, själv
+  grammar: indefiniittipronominit - varje 
 - date: to 4.11.
   title: Temaord - fester och traditioner
-  grammar: indefiniittipronominit - paljoussanat (B s. 134)
+  grammar: indefiniittipronominit - alla, hela, båda, själv
   other: Sanakoe text 5
 - date: ma 8.11.
   title: Temaord jatkuu
-  grammar: demonstratiivipronominit - tämä, tuo, nämä, nuo (s. 141)
+  grammar: indefiniittipronominit - paljoussanat (B s. 134)d
   other: Kuuntelukoe - temaord
 - date: ke 10.11.
   title: Text 4 Miriam - en halvfinländare
-  grammar: demonstratiivipronominit - samma
+  grammar: emonstratiivipronominit - tämä, tuo, nämä, nuo (s. 141) d
   other: Flipgrid -fester palautus
 - date: to 11.11.
   title: Text 4 vanhana
-  grammar: demonstratiivipronominit - sådan
+  grammar: emonstratiivipronominit - samma
   other: Text 3 Finns sanningen i sångerna? (LF), itsenäisesti tarkistus
 - date: ma 15.11.
   title: Temaord - Lappland och natur
+  grammar: demonstratiivipronominit - sådan
   other: Sanakoe text 4 
 - date: ke 17.11.
   title: Skriftlig framställning 2 - pitkä
