@@ -114,3 +114,23 @@ tartu päähän niin, että voisit hyödyntää sitä vielä päättöviikolla.
 * EXTRAPLUSSAT eivät ole pakollisia tehtäviä, mutta niitä kannattaa tehdä jos on voimia ja ajankäyttö sallii. MUTTA, jos ei koskaan tee yhtään extraa, on vaikea tavoittaa huipputuloksia tai yltää omaan parhaaseesi. 
 * Extrat ovat se ratkaiseva tekijä millä ylletään ysiin, kymppiin, eximiaan ja laudaturiin.
 * Jos olet esim. seiskan tai kasin saaja, voit hyvin helposti nostaa osaamistasi ja arvosanaa numerolla tekemällä extroja. Extralla kerrataan opittua ja kertaus on opintojen äiti :D
+
+### Kirjoitelmien arviointi
+
+**P = PANOSTUS** eli sanasto ja laajuus = miten hyvin osaat soveltaa kurssilla opeteltua sanastoa 0 – 5p
+
+- 1-2 p Kirjoitelma on minimipituinen. Sanasto pysyy yleisellä tasolla, ei vaaditun aihepiirin sanastoa riittävästi tai juuri ollenkaan.
+
+- 3 p Kirjoitelmassa on jo enemmän pituutta, mutta sanastossa on vain pari kurssilla opeteltua fraasia ja teksti on luettelomainen. 
+
+- 4 – 5 p Kirjoitelman pituus on lähellä sanamäärän ylärajaa, aiheen käsittely on monipuolista ja siinä on hyödynnetty kurssilla opittua sanastoa. Tekstissä on selkeä punainen lanka ja asioiden esittely on looginen ja etenee sujuvasti. Teksti alkaa ja loppuu sujuvasti ja vastaa tehtävässä pyydettyä tekstityyppiä (puhe, viesti, mielipide...).
+
+**K = KIELI** eli rakenne = kirjoitelman virheettömyys ja kielelliset ansiot 0 – 5p
+
+- 1 – 2 p Kirjoitelmassa on käytetty pääasiassa pelkkiä suoria päälauseita. Tekstissä on runsaasti virheitä jotka hankaloittavat tekstin lukemista/ymmärtämistä.
+
+- 3 p Lauserakenteet ovat jo monipuolisempia, mutta virheitä melko paljon peruskieliopissa (omistus, sanajärjestys, ajanilmaukset, verbien aikamuodot). Tekstissä kuitenkin välittyy viesti lukijalle.
+
+- 4 – 5 p Kirjoitelmassa on käytetty sekä päälauseen suoraa että käänteistä sanajärjestystä, mukana on myös yksi tai useampia sivulauseita, teksti on melko virheetöntä.
+
+
