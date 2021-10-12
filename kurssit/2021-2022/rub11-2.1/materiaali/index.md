@@ -34,4 +34,6 @@ published: true
 
 **[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text 4_harjoitussanis.pdf)**
 
+**[Skola harjoitussanakokeen vastaukset](/media/rub1/Harjoitussanis_skola.pdf)**
+
 **[Verbikertaus - vastaukset](/media/rub1/Verbikertaus_vastaukset.pdf)**
