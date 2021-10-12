@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: Keskiviikon 12.10. tunnille
+title: Keskiviikon 13.10. tunnille
 tags: rub11-2.1 läksyt
 ---
 Tee kaikki digikirjan annetut tehtävät aiheista text 3 ja temaord skola, jos et ole vielä tehnyt. Etene työvihkon tehtäväluettelon mukaisesti.
