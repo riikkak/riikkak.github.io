@@ -38,3 +38,5 @@ published: true
 **[Skola harjoitussanakokeen vastaukset](/media/rub1/Harjoitussanis_skola.pdf)**
 
 **[Verbikertaus - vastaukset](/media/rub1/Verbikertaus_vastaukset.pdf)**
+
+**[Refleksiivipronominiharjoitus - vastaukset](/media/rub1/Refleksiivipronominit.pdf)**
