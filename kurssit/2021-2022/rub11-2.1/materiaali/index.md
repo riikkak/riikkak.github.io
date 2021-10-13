@@ -16,12 +16,13 @@ published: true
 - [Text 1 - fraser](https://quizlet.com/_a2zbi1?x=1qqt&i=dz01n)
 - [Text 2 - fraser](https://quizlet.com/_a4hkf8?x=1jqt&i=dz01n)
 - [Text 4 - fraser](https://quizlet.com/_a73yfp?x=1qqt&i=dz01n)
-- Tema skola - fraser
+- [Tema skola - fraser](https://quizlet.com/_ae45y6?x=1qqt&i=dz01n)
 - Tema Välbefinnande - fraser
 - [Vahvoja ja epäsäännöllisiä verbejä](https://quizlet.com/_3oudcw?x=1jqt&i=dz01n)
 - [Temaord - fritid](https://quizlet.com/_3poztd?x=1jqt&i=dz01n)
 - [Temaord -mat](https://quizlet.com/_a8unwa?x=1qqt&i=dz01n)
 - [Temaord - kompisar och vänner](https://quizlet.com/_a8usw8?x=1qqt&i=dz01n)
+- [Temaord - skola](https://quizlet.com/_3pp0st?x=1jqt&i=dz01n)
 - Temaord - utseende
 - Temaord - kläder
 - Temaord - familj och släktingar
