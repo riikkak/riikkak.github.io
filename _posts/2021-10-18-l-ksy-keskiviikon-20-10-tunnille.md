@@ -10,4 +10,4 @@ Tee työvihkosta loppuun sivut 9 ja 25.
 
 Jos olit pois, tee myös s. 7-8.
 
-Tunnille ulkotakki ja kengät mukaan!
+Tunnille ulkotakki ja kengät mukaan, lämmintä päälle!
