@@ -10,8 +10,8 @@ PAKOLLISET:
 
 - Tee työvihkoon tekstin 1 fraasit. 
 - Tee tekstiin 1 liittyvät tehtävät kirjasta s. 22 alkaen t. 4a, 6, 7a
-- Tee sanajärjestyksen tehtävät krijasta s. 136 alkean t. 2a ja 3
-- Tee pakollinen FLIPGRID-tehtävä, ohjeet sovelluksessa. Jos et ole käyttänyt ennen --> sin up, käytä työvihkon kannen koodia --> luo tunnukset eduouka-postilla (muut ei käy).
+- Tee sanajärjestyksen tehtävät kirjasta s. 136 alkean t. 2a ja 3
+- Tee **pakollinen FLIPGRID-tehtävä, vlogg**, ohjeet sovelluksessa. Jos et ole käyttänyt ennen --> sign up, käytä työvihkon kannen koodia --> luo tunnukset eduouka-postilla (muut ei käy).
 
 Videossa tulee näkyä kasvot, minipituus 1 min. maksimi 3 min. Lue ohjeet huolella!
 
