@@ -17,7 +17,7 @@ published: true
 - [Text 2 - fraser](https://quizlet.com/_a4hkf8?x=1jqt&i=dz01n)
 - [Text 4 - fraser](https://quizlet.com/_a73yfp?x=1qqt&i=dz01n)
 - [Tema skola - fraser](https://quizlet.com/_ae45y6?x=1qqt&i=dz01n)
-- Tema Välbefinnande - fraser
+- [Tema Välbefinnande - fraser](https://quizlet.com/_ajbxdu?x=1qqt&i=dz01n)
 - [Vahvoja ja epäsäännöllisiä verbejä](https://quizlet.com/_3oudcw?x=1jqt&i=dz01n)
 - [Temaord - fritid](https://quizlet.com/_3poztd?x=1jqt&i=dz01n)
 - [Temaord -mat](https://quizlet.com/_a8unwa?x=1qqt&i=dz01n)
@@ -40,3 +40,5 @@ published: true
 **[Verbikertaus - vastaukset](/media/rub1/Verbikertaus_vastaukset.pdf)**
 
 **[Refleksiivipronominiharjoitus - vastaukset](/media/rub1/Refleksiivipronominit.pdf)**
+
+**[Substantiivimonisteen vastaukset](/media/rub1/Substantiivi_taivutus_tarkistus.pdf)**
