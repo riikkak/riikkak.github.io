@@ -37,28 +37,27 @@
   grammar: Substantiivin käyttö
 - date: to 4.11.
   title: Text 5
-  grammar: Adjektiivit
+  grammar: Substantiivin käyttö
 - date: ti 9.11.
-  title: Skriftlig framställning 2 - pitkä
+  title: Temaord - kläder
   grammar: Adjektiivit
-  other: Sanakoe - Välbefinnande och hälsa
+  other: Sanakoe - Välbefinnande och hälsa, Kuuntelukoe - temaord
 - date: ke 10.11.
   title: Temaord - Kläder
   grammar: Adjektiivit
-  other: Kuuntelukoe - temaord
 - date: to 11.11.
   title: Temaord - kläder
   grammar: Adjektiivit
 - date: ti 16.11.
-  title: Temaord - kläder
+  title: Skriftlig framställning 2 - lyhyt
   grammar: adjektiivit
-  other: Kuuntelukoe - temaord
 - date: ke 17.11.
   title: Temaord - familj och släkt
   other: Flipgrid EXTRA - Min garderob 
 - date: to 18.11.
   title: Temaord - familj och släkt
-  other: FLIPGRID EXTRA - min familjeträd
+  grammar: Kertausta
+  other: Kuuntelukoe - temaord 
 - date: pe 19.11.
   title: PÄÄTTÖPÄIVÄ klo 13.00-17.00
   grammar: suullinen koe, luettu, kielioppi, käännös
