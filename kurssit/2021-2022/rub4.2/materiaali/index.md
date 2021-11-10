@@ -20,4 +20,5 @@ Otavan äänitiedostot löydät Otavan opiskelijan maailmasta. Tee tunnukset (ta
 - [Text 5 - Quizlet](https://quizlet.com/_6xiz8u)
 
 **[Text 3 fraasien tarkistus](/media/rub4/Text 3_fraasit.pdf)**
+
 **[Nationalitetsord - tarkistus](/media/rub4/Nationalitetsord.pdf)**
