@@ -5,7 +5,7 @@ course: rub11-2.1
 published: true
 ---
 
-**[Päättöpäivä 2 ohjeet](/media/rub1/Paattopaiva2_ohjeet.pdf)**
+**[Päättöpäivä 2 ohjeet](/media/rub2/Paattopaiva2_ohjeet.pdf)**
 
 **[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
 
