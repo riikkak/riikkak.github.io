@@ -22,7 +22,7 @@ published: true
 - [Tema Välbefinnande - fraser](https://quizlet.com/_ajbxdu?x=1qqt&i=dz01n)
 - [Vahvoja ja epäsäännöllisiä verbejä](https://quizlet.com/_3oudcw?x=1jqt&i=dz01n)
 - [Temaord - fritid](https://quizlet.com/_3poztd?x=1jqt&i=dz01n)
-- [Temaord -mat](https://quizlet.com/_a8unwa?x=1qqt&i=dz01n)
+- [Temaord - mat](https://quizlet.com/_a8unwa?x=1qqt&i=dz01n)
 - [Temaord - kompisar och vänner](https://quizlet.com/_a8usw8?x=1qqt&i=dz01n)
 - [Temaord - skola](https://quizlet.com/_3pp0st?x=1jqt&i=dz01n)
 - [Temaord - utseende](https://quizlet.com/_ajcb9e?x=1qqt&i=dz01n)
