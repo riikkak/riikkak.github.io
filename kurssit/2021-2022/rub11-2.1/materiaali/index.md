@@ -27,7 +27,7 @@ published: true
 - [Temaord - skola](https://quizlet.com/_3pp0st?x=1jqt&i=dz01n)
 - [Temaord - utseende](https://quizlet.com/_ajcb9e?x=1qqt&i=dz01n)
 - [Temaord - kläder](https://quizlet.com/_amfchp?x=1jqt&i=dz01n)
-- Temaord - familj och släktingar
+- [Temaord - familj och släktingar](https://quizlet.com/_amfe7a?x=1qqt&i=dz01n)
 
 ### TEHTÄVIEN TARKISTUS
 
