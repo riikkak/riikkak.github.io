@@ -5,6 +5,8 @@ course: rub5.1
 published: true
 ---
 
+-[Päättöpäivän ohjeet](/media/rub5/Koeohjeet.pdf)
+
 ## Tekstien fraasit - tarkistus
 
 -[Text 2 fraasien tarkistus](/media/rub5/Text 2_fraser.pdf)
@@ -33,4 +35,3 @@ Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuunt
 
 - [Ammattisanat](/media/rub5/ammattisanat.pdf)
 
--[Arviointipäivän ohjeet](/media/rub5/Kertausohjeet.pdf)
