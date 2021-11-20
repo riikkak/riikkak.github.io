@@ -4,6 +4,8 @@ title: Materiaali
 course: rub4.2
 published: true
 ---
+**[Päättöpäivän ohjeet](/media/rub4/Kertausohjeet_RUB4.pdf)**
+
 **[Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)**
 
 **[Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)**
