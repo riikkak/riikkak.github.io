@@ -19,7 +19,7 @@ Kieliopissa käsittelemme seuraavia asioita:
 4. s-passiivi
 5. partisiipin preesens
 
-## [REK-regler](/media/rub1/REK_regler_uusi.pdf)
+## [REK-regler](/media/rub1/REK_regler.pdf)
 ​
 Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vettä vain :)
 ​
@@ -106,5 +106,3 @@ tiskatessa tai pyöräillessä. Tämä auttaa myös ääntämisen treeniin, kuin
 Sanakokeisiin on hyvä alkaa lukea pari päivää ennen sanakoetta ja tehdä hommaa
 pikkuhiljaa. Mikäli kokeeseen luetaan 23-01 välillä edellisenä yönä, ei tieto
 tartu päähän niin, että voisit hyödyntää sitä vielä päättöviikolla.
-
-
