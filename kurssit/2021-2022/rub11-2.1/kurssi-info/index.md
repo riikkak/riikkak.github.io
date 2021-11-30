@@ -6,7 +6,7 @@ published: true
 ---
 # Välkommen!
 
-## [REK-regler](/media/rub1/REK_regler_uusi.pdf)
+## [REK-regler](/media/rub1/REK_regler.pdf)
 
 Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vettä vain :) 
 
@@ -132,5 +132,3 @@ tartu päähän niin, että voisit hyödyntää sitä vielä päättöviikolla.
 - 3 p Lauserakenteet ovat jo monipuolisempia, mutta virheitä melko paljon peruskieliopissa (omistus, sanajärjestys, ajanilmaukset, verbien aikamuodot). Tekstissä kuitenkin välittyy viesti lukijalle.
 
 - 4 – 5 p Kirjoitelmassa on käytetty sekä päälauseen suoraa että käänteistä sanajärjestystä, mukana on myös yksi tai useampia sivulauseita, teksti on melko virheetöntä.
-
-
