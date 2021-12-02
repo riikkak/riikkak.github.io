@@ -6,7 +6,7 @@ published: true
 ---
 Kirjoituksiin valmistava syventävä kurssi arvioidaan suoritusmerkinnällä (S). Kurssi on hyväksytysti suoritettu kun kaikki kurssin aikana tehtävät suoritukset on tehty.
 
-Kurssilla ei ole arviointipäivänä arviointia. Kurssin arviointi koostuu tunnilla tehtävistä harjoituksista ja niiden suorittamisesta hyväksytysti. Arviointipäivän osuus korvataan erillisillä tehtävillä (Sanastovihko - teko ja tarkistus).
+Kurssilla ei ole päättöpäivänä arviointia. Kurssin arviointi koostuu tunnilla tehtävistä harjoituksista ja niiden suorittamisesta hyväksytysti. Arviointipäivän osuus korvataan erillisillä tehtävillä (Sanastovihko - teko ja tarkistus erivärisellä kynällä).
 
 Jos sinulla on **erityisen tuen suunnitelma** ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin alussa.
 
@@ -20,11 +20,12 @@ Oppitunnit ovat opiskelua varten, hoida vessakäynnit välitunnilla. Hammaslää
 
 **Hyväksytyn suorituksen edellytyksenä:**
 
-1. Tuntiaktiivisuus.
+1. Tuntiaktiivisuus ja aktiivinen parityöskentely
+1. Työvihkon ja sanastovihkon täyttäminen huolella ja kokonaan.
 2. Keskittyminen tehtäviin.
 4. Poissaolot (max. 2 tuntia), jos enemmän niin tulee K. 
 5. Tehtävien palauttaminen aikataulun mukaisesti.
-6. Kaikki tuotokset oltava tehtyinä kurssin viimeiseen tuntiin mennessä.
+6. Kaikki tuotokset oltava tehtyinä kurssin viimeiseen oppituntiin mennessä.
 
 **Tehtävät harjoitukset:**
 
