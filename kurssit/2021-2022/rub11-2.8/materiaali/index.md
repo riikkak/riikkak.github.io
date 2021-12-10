@@ -22,6 +22,6 @@ published: true
 
 ### TEHTÄVIEN TARKISTUS
 
-- Text 1 harjoitussanakokeen vastaukset
+**[Text 1 harjoitussanakokeen vastaukset](/media/rub1/Text1_harjoitussanakoe.pdf)**
 
 - Text 2 harjoitussanakokeen vastaukset
