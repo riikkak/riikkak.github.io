@@ -8,4 +8,7 @@ Maantaina sanakoe tektistä 1. Lue siihen tekstin 1 fraasit työvihkosta. Voit k
 
 Tunnilla jaettiin myös harjoitussanakoe (plussatehtävä). Tee se, tarkista erivärisellä kynällä, vastaukset materiaaleissa.
 
-Maanantaina katson klo 13 digikirjan tehtävät, joista tulee olla tehtynä työvihkon opintokortissa lukevat tehtävät aiheista text 1 + Sverige ja lukusanat.
+Maanantaina katson klo 13 digikirjan tehtävät, joista tulee olla tehtynä työvihkon opintokortissa lukevat tehtävät aiheista text 1 + Sverige ja lukusanat. 
+
+Jos sinulla on muuttuvaan istumajärjestykseen painavia toiveita (esim. sijainti näkemisen kannalta, sosiaaliset syyt jne.) laita minulle viestiä sunnuntaihin mennessä.
+
