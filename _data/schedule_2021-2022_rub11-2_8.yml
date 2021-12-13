@@ -12,14 +12,14 @@
   grammar: Lukusanat
 - date: pe 10.12.
   title: Harjoituksia
-  grammar: Kysymyssanat ja kysymyslause
+  grammar: Lukusanat
 - date: ma 13.12.
   title: Temaord - Fritid
   grammar: Kysymyssanat ja kysymyslause
   other: Sanakoe text 1
 - date: to 16.12.
   title:  Temaord - Fritid
-  grammar: Päälause
+  grammar: Kysymyssanat ja kysymyslause
 - date: pe 17.12.
   title: Ohjattu kirjoitusharjoitus
   grammar: Päälause
