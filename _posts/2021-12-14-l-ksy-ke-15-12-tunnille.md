@@ -13,3 +13,6 @@ Työvihkon s. 21. Työvihkon s. 19-20. Katso otsikoista muodot! (nämä voit nä
 POISSAOLIJAT:
 Tee loppuun työvihkon s. 17-18.
 
+OBS!
+Flipgridin palautus siirretty tältä päivää sunnuntai-iltaan klo 21 mennessä. Osa olikin jo reippaasti aikataulua noudattaen tehnyt, tack till alla de som redan hade gjort uppgiften. Eli tee heti alta pois kun on sopiva rako mutta viimeistään sunnuntaina :)
+
