@@ -13,18 +13,19 @@
   title:  Text 1 vanhana
   grammar: epäsuorakysymys
 - date: ti 14.12.
-  title: Temaord - Lappland, bastu, natur
+  title: Temaord - Lappland, natur
   grammar: epäsuorakysymys 
 - date: to 16.12.
-  title: Nähtävyydet
+  title: Bastu, nähtävyydet
   grammar: relatiivilause
-  other: Sanakoe text 1, kuuntelukoe
+  other: Sanakoe text 1
 - date: ma 20.12.
-  title: Ohjattu kirjoitusharjoitus - pitkä
+  title: Ohjattu kirjoitusharjoitus - lyhyt
   grammar: relatiivilause
 - date: ti 21.12 
   title: Tienneuvominen
   grammar: relatiivilause
+  other: kuuntelukoe
 - date: 23.12.-7.1.
   title: JULLOV
 - date: ma 10.12.
