@@ -12,6 +12,9 @@ Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vett
 
 Jos jokin asia jää mietitityttämään, älä murehdi yksin tai kuuntele huhupuheita. **Kysy opelta!** Voit lähettää viestin Wilmassa tai yksityisviestin Teamsissa, Snappikin toimii.
 
+**Moduulin arviointi perustuu aina ensisijaisesti läsnäoloon (fyysinen ja henkinen) oppitunneilla ja niiden
+aikana tapahtuvan työskentelyn eri osa-alueisiin.**
+
 Jos sinulla on **erityisen tuen suunnitelma** ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin alussa!
 
 Oppitunnit ovat opiskelua varten, hoida vessakäynnit välitunnilla. Hammaslääkärit, kampaajat ja fysioterapiat varataan muihin ajankohtiin kuin oppituntien päälle. Kun olet läsnä fyysisesti ja henkisesti, oppimista ei voi estää ja kotonatehtävän työn määrä on erittäin kohtuullinen.
@@ -123,4 +126,3 @@ tiskatessa tai pyöräillessä. Tämä auttaa myös ääntämisen treeniin, kuin
 Sanakokeisiin on hyvä alkaa lukea pari päivää ennen sanakoetta ja tehdä hommaa
 pikkuhiljaa. Mikäli kokeeseen luetaan 23-01 välillä edellisenä yönä, ei tieto
 tartu päähän niin, että voisit hyödyntää sitä vielä päättöviikolla.
-
