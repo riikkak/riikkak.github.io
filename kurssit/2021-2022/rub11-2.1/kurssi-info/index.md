@@ -10,6 +10,9 @@ published: true
 
 Kun hallitset yllä olevat säännöt, kaikki tästä eteenpäin menee kuin vettä vain :) 
 
+Moduulin arviointi perustuu aina ensisijaisesti läsnäoloon (fyysinen ja henkinen) oppitunneilla ja niiden
+aikana tapahtuvan työskentelyn eri osa-alueisiin.
+
 Jos sinulla on **erityisen tuen suunnitelma** ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin alussa.
 
 ### Poissaolot
