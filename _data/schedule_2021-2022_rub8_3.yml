@@ -21,7 +21,7 @@
 - date: ma 10.1.
   title: Kuuntelu + Omistusmuodot
 - date: ti 11.1.
-  title: Infinitiivi
+  title: Infinitiivi + Sanasto - Lumpen
 - date: to 13.1.
   title: Erisnimen suku + YTL:n lemppareita
 - date: ma 17.1.
@@ -33,10 +33,10 @@
 - date: ma 24.1.
   title: Kuuntelu + tärkeitä verbifraaseja
 - date: ti 25.1.
-  title: Sanasto - Lumpen
-- date: to 27.1.
   title: Kuuntelu, lukuohjeet lukulomalle
   other: Päättöpäivän korvaavien tehtävien näyttö
+- date: to 27.1.
+  title: ÄIKÄ PRELI - ei oppituntia
 - date: ke 3.2.
   title: PÄÄTTÖPÄIVÄ (5h sisältäen ruokailun)
   grammar: suoritetaan korvaavilla tehtävillä ennakkoon
