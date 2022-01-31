@@ -4,6 +4,14 @@ title: Materiaali
 course: rub11-2.8
 published: true
 ---
+**[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
+
+OBS! Ohjeissa virhe, ensimmäisen kirjoitelman puhtaaksikirjoitus katsottu jo. Lisäyksenä: 
+
+1. Huolehdi digikirjasta kaikki opintokortin tehtävät tehdyiksi käsitellyistä teemoista ja kieliopeista, harjoitus tekee mestarin! 
+2. Tee työvihkosta pikkuplussat mitä sinne mahdollisesti on jäänyt. 
+3. Työvihkon pakolliset osiot oltava tehtyinä. 
+
 ### Quizletit
 
 - [Text 1 - fraser](https://quizlet.com/_a2zbi1?x=1qqt&i=dz01n)
