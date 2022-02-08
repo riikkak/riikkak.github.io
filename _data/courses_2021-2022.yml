@@ -40,12 +40,12 @@
 
 - name: rub7.3
   code:
-  desc:
-  period:
+  desc: luonto, ympäristö ja liikenne
+  period: 5
 
 - name: rub7.5
   code:
-  desc:
+  desc: luonto, ympäristö ja liikenne
   period: 5
 
 - name: rub8.3
@@ -60,14 +60,14 @@
 
 - name: rub11-2.1
   code:
-  desc:
+  desc: opiskelutekniikat, arkisanastoa ja Ruotsi
   period:
     - 1
     - 2
 
 - name: rub11-2.8
   code:
-  desc:
+  desc: opiskelutekniikat, arkisanastoa ja Ruotsi
   period:
     - 3
     - 4
@@ -79,5 +79,5 @@
 
 - name: rub13.2
   code:
-  desc:
-  period:
+  desc: Suomi ja suomalaisuus, mediat ja kulttuuri
+  period: 4
