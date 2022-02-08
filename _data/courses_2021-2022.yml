@@ -28,11 +28,6 @@
   desc: opiskelu, työelämä, sosiaaliset mediat
   period: 3
 
-- name: rub5.7
-  code:
-  desc: opiskelu, työelämä, sosiaaliset mediat
-  period: 5
-
 - name: rub6.2
   code:
   desc: ihmissuhteet, politiikka, matkustaminen, kulttuuri
@@ -42,6 +37,11 @@
   code:
   desc: ihmissuhteet, politiikka, matkustaminen, kulttuuri
   period: 4
+
+- name: rub7.3
+  code:
+  desc:
+  period:
 
 - name: rub7.5
   code:
@@ -77,7 +77,7 @@
   desc: kirjoittaminen ja kuuntelu
   period: 1
 
-- name: rub13.1
+- name: rub13.2
   code:
   desc:
-  period: 4
+  period:

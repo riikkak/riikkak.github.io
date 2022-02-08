@@ -46,14 +46,6 @@
       url: laksyt
     - page: Materiaali
     - page: Kurssi-info
-# ----- RUB5.7 ----- #
-- course: rub5.7
-  pages:
-    - page: Aikataulu
-    - page: Läksyt
-      url: laksyt
-    - page: Materiaali
-    - page: Kurssi-info
 # ----- RUB6.2 ----- #
 - course: rub6.2
   pages:
@@ -64,6 +56,14 @@
     - page: Kurssi-info
 # ----- RUB6.3 ----- #
 - course: rub6.3
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
+# ----- RUB7.3 ----- #
+- course: rub7.3
   pages:
     - page: Aikataulu
     - page: Läksyt
@@ -118,8 +118,8 @@
       url: laksyt
     - page: Materiaali
     - page: Kurssi-info
-# ----- RUB13.1 ----- #
-- course: rub13.1
+# ----- RUB13.2 ----- #
+- course: rub13.2
   pages:
     - page: Aikataulu
     - page: Läksyt

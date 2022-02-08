@@ -1,6 +1,6 @@
 ---
 layout: content-main
 title: Materiaali
-course: rub13.1
+course: rub7.3
 published: true
 ---
