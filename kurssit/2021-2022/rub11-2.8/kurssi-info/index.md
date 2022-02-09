@@ -15,7 +15,7 @@ Jos jokin asia jää mietitityttämään, älä murehdi yksin tai kuuntele huhup
 **Moduulin arviointi perustuu aina ensisijaisesti läsnäoloon (fyysinen ja henkinen) oppitunneilla ja niiden
 aikana tapahtuvan työskentelyn eri osa-alueisiin.**
 
-Jos sinulla on **erityisen tuen suunnitelma** ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin alussa!
+Jos sinulla on **erityisen tuen suunnitelma** ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin ensimmäisellä oppitunnilla! Tukitoimia ei järjestetä ilman tätä ilmoitusta.
 
 Oppitunnit ovat opiskelua varten, hoida vessakäynnit välitunnilla. Hammaslääkärit, kampaajat ja fysioterapiat varataan muihin ajankohtiin kuin oppituntien päälle. Kun olet läsnä fyysisesti ja henkisesti, oppimista ei voi estää ja kotonatehtävän työn määrä on erittäin kohtuullinen.
 
@@ -44,6 +44,7 @@ Kieliopissa:
 3. Lukusanat
 
 ### Moduuli 2
+
 Teemat:
 1. Mat
 1. Kompisar och vänner
@@ -63,7 +64,8 @@ Kieliopissa:
 1. Prepositiot
 
 ## Arviointi
-Moduulien 1-2 arviointi koostuu kahden jakson aikana tehtävistä suorituksista, sekä muista osa-alueista.
+
+Moduulien 1-2 arviointi koostuu kahden jakson aikana tehtävistä suorituksista, sekä muista osa-alueista. Sanakokeet ja kuuntelut tehdään paperilla, tulos jaetaan siinä (lämmin suositus näyttää myös kotiväelle), kirjoitelmat tehdään Emendediin (arviointi siellä) ja suulliset tehtävät Flipgridiin (palaute siellä). Moduulin suorittamisen jälkeen saat paperisen arviointiyhteenvedon, jossa näkyvät kaikki suorituksesi.
 
 ### Arvioitavat suoritukset
 
@@ -89,6 +91,7 @@ Arvioitavat suoritukset (sanakokeet, kuuntelut, flipgridit ja ohjatut kirjoitust
 * Ohjattujen kirjoitustehtävien puhtaaksikirjoituksen deadline on arviointipäivä.
 
 ### Muuta huomioitavaa
+
 * Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös plussat. 
 * Läksyjen teko vaikuttaa arvosanaan niin nousevasti kuin laskevastikin.
 * EXTRAPLUSSAT eivät ole pakollisia tehtäviä, mutta niitä kannattaa tehdä jos on voimia ja ajankäyttö sallii. MUTTA, jos ei koskaan tee yhtään extraa, on vaikea tavoittaa huipputuloksia tai yltää omaan parhaaseesi. 
@@ -96,6 +99,7 @@ Arvioitavat suoritukset (sanakokeet, kuuntelut, flipgridit ja ohjatut kirjoitust
 * Jos olet esim. seiskan tai kasin saaja, voit hyvin helposti nostaa osaamistasi ja arvosanaa numerolla tekemällä extroja. Extralla kerrataan opittua ja kertaus on opintojen äiti :D
 
 ## Arvosana 4
+
 Nelonen on ansaittava ja edellyttää jo melko paljon osaamista osaamista. 
 * Mikäli moduulin osasuorituksista liian moni (kts. yllä) jäävät alle arvosanan 4-, ei kurssista voi antaa arvosanaa vaan moduuli katsotaan keskeytyneeksi (K)
 * Keskeytynyt moduuli on suoritettava alusta asti uudelleen. 
