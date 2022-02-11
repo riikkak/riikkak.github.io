@@ -4,7 +4,9 @@ title: Materiaali
 course: rub11-2.8
 published: true
 ---
-**[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
+### TIPS!
+
+-Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
 OBS! Ohjeissa virhe, ensimmäisen kirjoitelman puhtaaksikirjoitus katsottu jo. Lisäyksenä: 
 
@@ -33,3 +35,5 @@ OBS! Ohjeissa virhe, ensimmäisen kirjoitelman puhtaaksikirjoitus katsottu jo. L
 **[Text 1 harjoitussanakokeen vastaukset](/media/rub1/Text1_harjoitussanakoe.pdf)**
 
 **[Text 2 harjoitussanakokeen vastaukset](/media/rub1/Text 2_harjoitussanis.pdf)**
+
+**[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
