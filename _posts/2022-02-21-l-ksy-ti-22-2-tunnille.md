@@ -7,8 +7,8 @@ tags: rub13.2 läksyt
 **PAKOLLISET:**
 
 Täytä työvihkoon s. 14 tekstin 4 + dialog fraasit.
-**
-DIGIKIRJA:**
+
+**DIGIKIRJA:**
 
 Adjektiivin vertailun tehtävät pe 25.2. klo 13.00 mennessä. Harkinnan tuloksena päädyin siihen että testitehtävät voit tehdä plussana päättöpäivään mennessä. Katson prosentit niistä päättöpäivän päätteeksi. Eli vaaleanpunaiset tehtävät plussaa.
 
