@@ -36,4 +36,8 @@ OBS! Ohjeissa virhe, ensimmäisen kirjoitelman puhtaaksikirjoitus katsottu jo. L
 
 **[Text 2 harjoitussanakokeen vastaukset](/media/rub1/Text 2_harjoitussanis.pdf)**
 
+**[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
+
+**[refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivipronominit_facit.pdf)**
+
 **[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
