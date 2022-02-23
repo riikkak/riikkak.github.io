@@ -17,4 +17,8 @@ Katson nämä tehtävät pe 4.3. klo 12.00.
 PLUSSAT:
 Vihreät tehtävät käydyistä aiheista saa näyttää sitä mukaa kun on tehnyt.
 
+POISSAOLIJAT:
+
+Tee työvihkon s. 21-23. Käytä apuna digikirjasta substantiivin teoriaa.
+
 
