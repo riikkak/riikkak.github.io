@@ -38,6 +38,6 @@ OBS! Ohjeissa virhe, ensimmäisen kirjoitelman puhtaaksikirjoitus katsottu jo. L
 
 **[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
 
-**[refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivipronominit_facit.pdf)**
+**[Refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivit_facit.pdf)**
 
 **[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
