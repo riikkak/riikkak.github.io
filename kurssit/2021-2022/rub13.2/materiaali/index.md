@@ -26,4 +26,4 @@ published: true
 
 ### Tarkistukset
 
-**[Adjektiivin vertailu - lisäharjoitus](/media/rub2/Adjektiivin vertailu_facit.pdf)**
+**[Adjektiivin vertailu - lisäharjoitus](/media/rub3/Adjektiivin vertailu_facit.pdf)**
