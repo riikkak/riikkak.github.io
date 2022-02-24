@@ -24,3 +24,6 @@ published: true
 
 - [Text 2 + dialog fraasien tarkistus](/media/rub3/Text 2_fraser.pdf)
 
+### Tarkistukset
+
+**[Adjektiivin vertailu - lisäharjoitus](/media/rub2/Adjektiivin vertailu_facit.pdf)**
