@@ -22,41 +22,40 @@
   title: ENSIAPUPÄIVÄ
   grammar:  Relatiivilause itsenäisesti
 - date: ti  1.3.
-  title: Tienneuvominen
+  title: Temaord - medier
   grammar: Relatiivilause
 - date: to 3.3.
-  title: Städer + vädret
+  title: Text 2 Våga vara dig själv! 
   grammar: Interrogatiivipronominit
-  other: Kuuntelukoe (kultur + medier), FLIPGRID - PALAUTUS
+  other: Kuuntelukoe (kultur), FLIPGRID - PALAUTUS
 - date: 7. - 11.3.
   title: SPORTLOV
 - date: ma 14.3.
-  title: Text 2 Våga vara dig själv!
+  title: Temaord - medier
   grammar: Man ja det 
-  other: FLIPGRID - medier palautus
 - date: ti 15.3.
-  title: Temaord - medier 
-  grammar: Indefiniittipronominit 
+  title: Skriftlig framställning  
+  other: Sanakoe - medier
 - date:  to 17.3.
-  title: Skriftlig framställning
+  title: Text 1 En helt vanlig finlandssvensk 
   grammar: någon, ingen, alla
-  other: Sanakoe medier
 - date: ma 21.3.
-  title: Typiskt för finländare
+  title: Typiskt för finländare 
   grammar: varje
 - date: ti 22.3.
-  title: Text 1 En helt vanlig finlandssvensk
+  title: Berätta om Finland! 
   grammar: annan, själv, hela,  båda
 - date: to 24.3.
-  title: Berätta om Finland!
-  grammar: paljoussanat
-- date: ma 28.3.
   title: Fester och traditioner
+  grammar: paljoussanat
+  other: Sanakoe
+- date: ma 28.3.
+  title: Tienneuvominen
   grammar: den här, det här, de här
 - date: ti 29.3.
-  title: Tema - Finland
+  title: Städer + vädret
   grammar: en sådan, en likadan
-  other: Sanakoe ja kuuntelu
+  other: Kuuntelukoe
 - date: ti 5.4.
   title: PÄÄTTÖPÄIVÄ
   grammar: suullinen koe, kielioppi, luettu, käännöslauseet
