@@ -3,10 +3,9 @@
   other: Bänkskuddardagen
 - date: ma 14.2.
   title: Temaord - musik
-  grammar: Adjektiivin kertaus
 - date: ti 15.2.
   title: Text 3 Miriam en tuff och känslig popstjärna
-  grammar: Adjektiivin vertailu
+  grammar: Adjektiivin kertaus
 - date: to 17.2.
   title: Temaord - litteratur och film
   grammar: Adjektiivin vertailu
@@ -15,48 +14,49 @@
   grammar: Adjektiivin vertailu
 - date: ti 22.2.
   title: Temaord - litteratur och film
-  grammar: Relatiivilause
+  grammar: Adjektiivin vertailu
 - date: to 24.2.
   title: Skritflig framställning - pitkä
-  grammar:  Relatiivilause
+  grammar: Adjektiivin vertailu
 - date: ma 28.2.
-  title: Temaord - medier
-  grammar:  Relatiivilause
+  title: ENSIAPUPÄIVÄ
+  grammar:  Relatiivilause itsenäisesti
 - date: ti  1.3.
-  title: Text 2 Våga vara dig själv!
-  grammar: Interrogatiivipronominit
+  title: Tienneuvominen
+  grammar: Relatiivilause
 - date: to 3.3.
-  title: Temaord - medier
-  grammar: Man ja det
-  other: Sana- ja kuuntelukoe (kultur + medier)
+  title: Städer + vädret
+  grammar: Interrogatiivipronominit
+  other: Kuuntelukoe (kultur + medier), FLIPGRID - PALAUTUS
 - date: 7. - 11.3.
   title: SPORTLOV
 - date: ma 14.3.
-  title: Städer + vädret
-  grammar: Indefiniittipronominit 
+  title: Text 2 Våga vara dig själv!
+  grammar: Man ja det 
   other: FLIPGRID - medier palautus
 - date: ti 15.3.
-  title: Typiskt för finländare
-  grammar: någon, ingen, alla
+  title: Temaord - medier 
+  grammar: Indefiniittipronominit 
 - date:  to 17.3.
-  title: Text 1 En helt vanlig finlandssvensk
-  grammar: varje
+  title: Skriftlig framställning
+  grammar: någon, ingen, alla
+  other: Sanakoe medier
 - date: ma 21.3.
-  title: Fester och traditioner
-  grammar: annan, själv, hela,  båda
+  title: Typiskt för finländare
+  grammar: varje
 - date: ti 22.3.
+  title: Text 1 En helt vanlig finlandssvensk
+  grammar: annan, själv, hela,  båda
+- date: to 24.3.
   title: Berätta om Finland!
   grammar: paljoussanat
-- date: to 24.3.
-  title: Harjoituksia
-  grammar: den här, det här, de här
-  other: Sanakoe ja kuuntelu
 - date: ma 28.3.
-  title: Tienneuvominen
-  grammar: en sådan, en likadan
+  title: Fester och traditioner
+  grammar: den här, det här, de här
 - date: ti 29.3.
-  title: Harjoituksia
-  grammar: pronominikertaus
+  title: Tema - Finland
+  grammar: en sådan, en likadan
+  other: Sanakoe ja kuuntelu
 - date: ti 5.4.
   title: PÄÄTTÖPÄIVÄ
   grammar: suullinen koe, kielioppi, luettu, käännöslauseet
