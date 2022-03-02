@@ -14,6 +14,6 @@ published: true
 
 [Temaord - relationer](https://quizlet.com/_b60rj3?x=1jqt&i=dz01n)
 
-[Temaord - politik och samhälle fraser](https://quizlet.com/_9rg3x9?x=1jqt&i=dz01n)
+[Fraser - politik och samhälle](https://quizlet.com/_9rg3x9?x=1jqt&i=dz01n)
 
-
+[Temaord - politik och samhälle](https://quizlet.com/_b6anca?x=1qqt&i=dz01n)
