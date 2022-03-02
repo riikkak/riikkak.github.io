@@ -6,7 +6,7 @@ published: true
 ---
 ### TIPS!
 
--Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
+- Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
 ### Quizlet - flashcardsit
 
@@ -15,6 +15,12 @@ published: true
 - [Text 4 + dialog](https://quizlet.com/_b3nqs3?x=1qqt&i=dz01n)
 
 - [Text 2 + dialog](https://quizlet.com/_b3nrbx?x=1qqt&i=dz01n)
+
+- [Temaord - litteratur och film](https://quizlet.com/_b3nrxv?x=1jqt&i=dz01n)
+
+- [Temaord - musik](https://quizlet.com/_b3nrnv?x=1jqt&i=dz01n)
+
+- [Temaord - medier](https://quizlet.com/_b3nskl?x=1jqt&i=dz01n)
 
 ### Fraasien tarkistus
 
