@@ -26,35 +26,35 @@
   grammar: Relatiivilause
 - date: to 3.3.
   title: Text 2 Våga vara dig själv! 
-  grammar: Interrogatiivipronominit
+  grammar: 
   other: Kuuntelukoe (kultur), FLIPGRID - PALAUTUS
 - date: 7. - 11.3.
   title: SPORTLOV
 - date: ma 14.3.
   title: Temaord - medier
-  grammar: Man ja det 
+  grammar: Interrogatiivipronominit
 - date: ti 15.3.
   title: Skriftlig framställning  
   other: Sanakoe - medier
 - date:  to 17.3.
   title: Text 1 En helt vanlig finlandssvensk 
-  grammar: någon, ingen, alla
+  grammar: Man ja det 
 - date: ma 21.3.
   title: Typiskt för finländare 
-  grammar: varje
+  grammar: någon, ingen, alla
 - date: ti 22.3.
   title: Berätta om Finland! 
-  grammar: annan, själv, hela,  båda
+  grammar: varje
 - date: to 24.3.
   title: Fester och traditioner
-  grammar: paljoussanat
+  grammar: annan, själv, hela,  båda
   other: Sanakoe
 - date: ma 28.3.
   title: Tienneuvominen
-  grammar: den här, det här, de här
+  grammar: paljoussanat
 - date: ti 29.3.
   title: Städer + vädret
-  grammar: en sådan, en likadan
+  grammar: den här, det här, de här, en sådan, en likadan
   other: Kuuntelukoe
 - date: ti 5.4.
   title: PÄÄTTÖPÄIVÄ
