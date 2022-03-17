@@ -10,4 +10,4 @@ Utseende ja Kläder-teeman ja adjektiivien-tehtävät oltava tehtyinä ma 21.3. 
 
 Maanantaina kirjoitetaan pitkä kirjoitelma aiheella Utseende och kläder.
 
-Tunnilla jaettiin plussamoniste (kaksipuolinen) substantiivin ja adjektiivin yhteistaivutuksesta. Tee, korjaa erivärisellä kynällä (vastaukset materiaalit-sivulla) ja näytä opelle plussien kerryttämiseksi.
+Tunnilla jaettiin plussamoniste (kaksipuolinen) substantiivin ja adjektiivin yhteistaivutuksesta. Tee, korjaa erivärisellä kynällä (vastaukset materiaalit-sivulla) ja näytä opelle plussien kerryttämiseksi (ennen päättöviikkoa).
