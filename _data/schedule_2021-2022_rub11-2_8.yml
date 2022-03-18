@@ -48,19 +48,17 @@
   title: Skriftlig framställning 2 - pitkä
   grammar: Adjektiivit
 - date: ke 23.3.
-  title: Temaord - Välbefinnande och hälsa
-  grammar: Adjektiivit
-- date: to 24.3.
   title: Text 5
+  grammar: Käskymuoto
+- date: to 24.3.
+  title: Temaord - Välbefinnande och hälsa
+  grammar: Käskymuoto
 - date: ma 28.3.
   title: Temaord - Välbefinnande och hälsa
-  grammar: Kertausta
+  other: Sanakoe text 5
 - date: ke 30.3.
   title: Temaord - Välbefinnande och hälsa 
-  other: Kuuntelukoe - temaord 
-- date: to 31.3.
-  title: Harjoituksia
-  gramamr: Kertausta
+  other:, kuuntelukoe - temaord 
 - date: to 7.4.
   title: PÄÄTTÖPÄIVÄ klo 13.00-17.00
   grammar: suullinen koe, luettu, kielioppi, käännös
