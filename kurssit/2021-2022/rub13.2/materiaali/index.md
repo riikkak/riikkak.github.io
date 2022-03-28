@@ -16,11 +16,14 @@ published: true
 
 - [Text 2 + dialog](https://quizlet.com/_b3nrbx?x=1qqt&i=dz01n)
 
+- [Tema Finland - fraser](https://quizlet.com/_bbhanb?x=1qqt&i=dz01n)
+
 - [Temaord - litteratur och film](https://quizlet.com/_b3nrxv?x=1jqt&i=dz01n)
 
 - [Temaord - musik](https://quizlet.com/_b3nrnv?x=1jqt&i=dz01n)
 
 - [Temaord - medier](https://quizlet.com/_b3nskl?x=1jqt&i=dz01n)
+
 
 ### Fraasien tarkistus
 
