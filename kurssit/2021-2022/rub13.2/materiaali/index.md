@@ -8,6 +8,8 @@ published: true
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
+- [Päättöpäivän ohjeet](/media/rub3/Päättöpäivä.pdf)
+
 ### Quizlet - flashcardsit
 
 - [Text 3 + dialog](https://quizlet.com/_b3nqjp?x=1qqt&i=dz01n)
@@ -36,3 +38,5 @@ published: true
 ### Tarkistukset
 
 **[Adjektiivin vertailu - lisäharjoitus](/media/rub3/Adjektiivin vertailu_facit.pdf)**
+
+
