@@ -8,7 +8,7 @@ published: true
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
-- [Päättöpäivän ohjeet](/media/rub3/Päättöpäivä.pdf)
+- [Päättöpäivän ohjeet](/media/rub3/Kertausohje_lyhyt.pdf)
 
 ### Quizlet - flashcardsit
 
