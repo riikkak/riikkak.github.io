@@ -39,4 +39,6 @@ published: true
 
 **[Adjektiivin vertailu - lisäharjoitus](/media/rub3/Adjektiivin vertailu_facit.pdf)**
 
+**[Pronominikertaus - tarkistus](/media/rub3/Pronomini_facit.pdf)**
 
+**[Uttal - facit](/media/rub3/Uttal_facit.pdf)**
