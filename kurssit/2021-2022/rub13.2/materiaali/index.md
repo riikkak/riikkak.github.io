@@ -10,6 +10,8 @@ published: true
 
 - [Päättöpäivän ohjeet](/media/rub3/Kertausohje_lyhyt.pdf)
 
+- [Kertauksen muistilista](/media/rub3/Kertausohje_pitkä.pdf)
+
 ### Quizlet - flashcardsit
 
 - [Text 3 + dialog](https://quizlet.com/_b3nqjp?x=1qqt&i=dz01n)
