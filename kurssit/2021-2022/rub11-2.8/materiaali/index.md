@@ -14,12 +14,6 @@ published: true
 
 -Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
-OBS! Ohjeissa virhe, ensimmäisen kirjoitelman puhtaaksikirjoitus katsottu jo. Lisäyksenä: 
-
-1. Huolehdi digikirjasta kaikki opintokortin tehtävät tehdyiksi käsitellyistä teemoista ja kieliopeista, harjoitus tekee mestarin! 
-2. Tee työvihkosta pikkuplussat mitä sinne mahdollisesti on jäänyt. 
-3. Työvihkon pakolliset osiot oltava tehtyinä. 
-
 ### Quizletit
 
 - [Text 1 - fraser](https://quizlet.com/_a2zbi1?x=1qqt&i=dz01n)
