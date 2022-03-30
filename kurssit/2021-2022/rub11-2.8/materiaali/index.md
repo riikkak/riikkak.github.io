@@ -4,6 +4,12 @@ title: Materiaali
 course: rub11-2.8
 published: true
 ---
+## Päättöpäivä 2
+
+**[Päättöpäivän 2 ohje](/media/rub2/Kertausohje_lyhyt.pdf)**
+
+**[Kertausohje päättöpäivään 2](/media/rub2/Kertausohje_pitkä.pdf)**
+
 ### TIPS!
 
 -Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
@@ -31,6 +37,8 @@ OBS! Ohjeissa virhe, ensimmäisen kirjoitelman puhtaaksikirjoitus katsottu jo. L
 - [Temaord - familj och släktingar](https://quizlet.com/_amfe7a?x=1qqt&i=dz01n)
 
 ### TEHTÄVIEN TARKISTUS
+
+**[Uttal tarkistus vihkot 1 ja 2](/media/rub2/Uttal_facit.pdf)**
 
 **[Text 1 harjoitussanakokeen vastaukset](/media/rub1/Text1_harjoitussanakoe.pdf)**
 
