@@ -44,3 +44,5 @@ published: true
 **[Pronominikertaus - tarkistus](/media/rub3/Pronomini_facit.pdf)**
 
 **[Uttal - facit](/media/rub3/Uttal_facit.pdf)**
+
+**[Tienneuvominen - facit](/media/rub3/Tienneuvominen.pdf)**
