@@ -46,3 +46,5 @@ published: true
 **[Uttal - facit](/media/rub3/Uttal_facit.pdf)**
 
 **[Tienneuvominen - facit](/media/rub3/Tienneuvominen.pdf)**
+
+**[Paikannimet ja sää - facit](/media/rub3/Paikat_facit.pdf)**
