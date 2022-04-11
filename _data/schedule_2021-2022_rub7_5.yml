@@ -1,7 +1,8 @@
 - date: ma 11.4.
   title: Kurssin aloitus, Text 1 - Ett med naturen   
-  grammar: Adjektiivin käyttö kertaus
+  grammar: Adjektiivin käyttö - kertaus
 - date: to 14.4.
+  title: Temaord - natur 1-2
   grammar: partisiipin perfekti
 - date: pe 15.4.
   title: LÅNGFREDAG
@@ -18,17 +19,17 @@
   title: Text 2 - Ett liv utan sopor 
   grammar: käskymuoto 
 - date: to 28.4.
-  title:  Temaord - Miljöfrågor     
+  title: Temaord - Miljöfrågor     
   grammar: partisiipin perfekti 
 - date: pe 29.4.
   title: DE GAMLAS BAL 
-  other: Itsenäistä työskentel
+  other: Itsenäistä työskentelyä
 - date: ma 2.5.
   title: Temaord - Miljöfrågor 
   grammar: lauseenvastikkeet
   other: Kuuntelu 1 (natur + miljö)
 - date: to 5.5.
-  title: Temaord - natur 1-2  Text 5 - Du sköna nya värld  
+  title: Text 5 - Du sköna nya värld  
   grammar: lauseenvastikkeet
   other: Suullisen tehtävän ohjeet
 - date: pe 6.5.
@@ -43,6 +44,7 @@
   other:  Sanakoe 2 text 5
 - date: pe 13.5.
   title: Temaord - Trafik 
+  grammar: genetiivi
 - date: ma 16.5. 
   title: Temaord - Brott och straff
   grammar: genetiivi
