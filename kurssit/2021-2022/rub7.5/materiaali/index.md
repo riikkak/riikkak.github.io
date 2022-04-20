@@ -24,6 +24,8 @@ Jos haluat harjoitella lisää, tee kirjasta s. 94 alkaen t. 4, 5a, 5b, 6b.
 
 ### Tekstien fraasit Quizletteina
 
+- [Tema natur - fraser till ordprovet](https://quizlet.com/_bfstah?x=1qqt&i=dz01n)
+
 - [Text 1 - fraser](https://quizlet.com/_6h7ccb)
 
 - [Text 2 - fraser](https://quizlet.com/_6lofwf)
