@@ -8,7 +8,7 @@ Huom! Töitä 75 min. oppitunnin edestä, suullisia tehtäviä korvaamaan.
 
 **PAKOLLISET:**
 
-1. Täytä työvihkoon s. 8 Miljö-teemasanasto. 
+1. Täytä työvihkoon s. 8 Miljö-teemasanasto, siis koko sivu. Tee huolella käskymuodot lauseisiin!
 
 2. Kirjasta s. 57 alkaen t. 5b, 6d, 6b
 
