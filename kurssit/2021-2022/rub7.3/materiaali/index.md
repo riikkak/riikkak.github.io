@@ -4,8 +4,6 @@ title: Materiaali
 course: rub7.3
 published: true
 ---
-**[Ohjeet itsenäiseen työskentelyyn](/media/rub7/Ohjeet itsenäiseen työskentelyyn.pdf)**
-
 ### Text 3 itsenäiset tehtävät
 
 1. KUULLUNYMMÄRTÄMINEN: Kuuntele text 3 Otavan opiskelijan maailmasta ja täytä kuunnellessasi puuttuvat sanat suomeksi työvihkon s. 10. Monet sanoista tuttuja aikasemmilta kursseilta, testaa mitä osaat :) Tarkista oikeat vastaukset kirjan tekstistä katsoen.
