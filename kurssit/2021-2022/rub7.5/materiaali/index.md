@@ -4,7 +4,7 @@ title: Materiaali
 course: rub7.5
 published: true
 ---
-**[Päättöpäivän ohjeet](/media/rub7/Koeohje_rub7.5.pdf)**
+**[Päättöpäivän ohjeet](/media/rub7/Koeohje_RUB7.5.pdf)**
 
 ### Text 3 itsenäiset tehtävät
 
