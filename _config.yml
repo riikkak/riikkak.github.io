@@ -11,7 +11,7 @@ url: https://riikka.koskenranta.fi
 baseurl: ""
 incremental: false
 timezone: Europe/Helsinki
-semester: 2021-2022
+semester: 2022-2023
 
 defaults:
   -
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      period: 5
+      period: 1
   -
     scope:
       path: "kurssit/2013-2014"
@@ -86,6 +86,13 @@ defaults:
       path: "kurssit/2021-2022"
     values:
       semester: "2021-2022"
+      current: false
+      archived: true
+  -
+    scope:
+      path: "kurssit/2022-2023"
+    values:
+      semester: "2022-2023"
       current: true
       archived: false
 
@@ -135,10 +142,9 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB7.5 - Läksyt"
-              value: "rub7.5 läksyt"
-            - name: "RUB7.3 - Läksyt"
-              value: "rub7.3 läksyt"
-     
-     
-
+            - name: "RUB11-12.1 - Läksyt"
+              value: "rub11-12.1 läksyt"
+            - name: "RUB12.3 - Läksyt"
+              value: "rub12.3 läksyt"
+            - name: "RUB14.2 - Läksyt"
+              value: "rub14.2 läksyt"
