@@ -9,14 +9,14 @@
   grammar: lukusanat
 - date: ma 22.8.
   title: Harjoituksia
-  grammar: kysymyssanat ja kysymyslause
+  grammar: lukusanat
   other: Sanakoe 1 text 1
 - date: ti 23.8.
   title: Temaord - Fritid
   grammar: kysymyssanat ja kysymyslause
 - date: to 25.8.
   title: Temaord - Fritid
-  grammar: päälause
+  grammar: kysymyssanat ja kysymyslause
 - date: ma 29.8.
   title: Text 2 Musik, sport, datorer eller något annat?
   grammar: päälause
@@ -28,6 +28,7 @@
   grammar: päälause
 - date: ma 5.9.
   title: Harjoituksia
+  grammar: päälause
   other: kuuntelukoe 1
 - date: ti 6.9.
   title: Temaord - mat
