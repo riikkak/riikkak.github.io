@@ -14,3 +14,5 @@ published: true
 ### Tarkistukset
 
 **[Vahvat ja epäsäännölliset verbit](/media/rub4/RUB14_verbit.pdf)**
+
+**[Johdosverbit](/media/rub4/Johdosverbit.pdf)**
