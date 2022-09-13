@@ -13,7 +13,7 @@
   other: Sanakoe 1 text 1
 - date: ti 23.8.
   title: Temaord - Fritid
-  grammar: kysymyssanat ja kysymyslause
+  grammar: lukusanat
 - date: to 25.8.
   title: Temaord - Fritid
   grammar: kysymyssanat ja kysymyslause
@@ -39,9 +39,10 @@
   grammar: sivulause
 - date: ma 12.9.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
+  grammar: verbit
 - date: ti 13.9.
   title: Text 4 vanhana
-  grammar: sivulause
+  grammar: verbit
 - date: to 15.9.
   title:  Harjoituksia
   grammar: verbit
