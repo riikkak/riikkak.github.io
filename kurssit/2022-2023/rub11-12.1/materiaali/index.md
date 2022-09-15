@@ -8,6 +8,8 @@ published: true
 
 -Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
+**[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva 1.pdf)**
+
 ### Quizletit
 
 - [Text 1 - fraser](https://quizlet.com/_a2zbi1?x=1qqt&i=dz01n)
@@ -38,10 +40,5 @@ published: true
 
 **[Adjektiivin ja substantiivin lisäharjoitus - vastaukset](/media/rub2/Yhteistaivutus.pdf)**
 
-**[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
 
-## Päättöpäivä 2
 
-**[Päättöpäivän 2 ohje](/media/rub2/Kertausohje_lyhyt.pdf)**
-
-**[Kertausohje päättöpäivään 2](/media/rub2/Kertausohje_pitkä.pdf)**
