@@ -8,7 +8,7 @@ published: true
 
 -Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
-**[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva 1.pdf)**
+**[Päättöpäivä 1 ohjeet](/media/rub1/Paattopaiva_ohjeet.pdf)**
 
 ### Quizletit
 
@@ -39,6 +39,3 @@ published: true
 **[Refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivit_facit.pdf)**
 
 **[Adjektiivin ja substantiivin lisäharjoitus - vastaukset](/media/rub2/Yhteistaivutus.pdf)**
-
-
-
