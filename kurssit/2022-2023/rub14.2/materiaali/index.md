@@ -4,7 +4,7 @@ title: Materiaali
 course: rub14.2
 published: true
 ---
-**[Päättöpäivän ohjeet](/media/rub4/paattopaiva_rub14.pdf)**
+**[Päättöpäivän ohjeet](/media/rub4/Paattopaiva_rub14.pdf)**
 
 ### Quizletit
 
