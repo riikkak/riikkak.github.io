@@ -1,5 +1,5 @@
 - date: ma 3.10.
-  title: Arviointi, lämmittelyä, 
+  title: Arviointi, lämmittelyä 
   other: digikirjan käyttöönotto
 - date: ke 5.10.
   title: Text 1 Sverige - landet där lagom är bäst
@@ -19,19 +19,19 @@
   grammar: kysymyssanat ja kysymyslause
 - date: ma 17.10.
   title: Text 2 Musik, sport, datorer eller något annat?
-  grammar: päälause
+  grammar: kysymyssanat ja kysymyslause
 - date: ke 19.10.
   title: Text 2 jatkuu
   grammar: päälause
 - date: pe 21.10.
-  title: Ohjattu kirjoitusharjoitus
-  grammar: päälause
-- date: 24.-28.10.
-  title: HÖSTLOV
-- date: ma 31.10.
   title: Harjoituksia
   grammar: päälause
   other: kuuntelukoe 1
+- date: 24.-28.10.
+  title: HÖSTLOV
+- date: ma 31.10.
+  title: Ohjattu kirjoitusharjoitus
+  grammar: sanajärjestys - päälause
 - date: ke 2.11.
   title: Temaord - mat
   grammar: sivulause 
@@ -41,12 +41,12 @@
   grammar: sivulause
 - date: ma 7.11.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
-  grammar: verbit
+  grammar: sanajärjestyskertaus
 - date: ke 9.11.
   title: Text 4 vanhana
   grammar: verbit
 - date: pe 11.11.
-  title:  Harjoituksia
+  title: Temaord - mat
   grammar: verbit
   other: Sanakoe text 4
 - date: ma 13.11.
@@ -55,8 +55,9 @@
 - date: ke 15.11.
   title: Temaord - kompisar och vänner
   grammar: verbit
-- pe 18.11.
-  title: HARJOITUKSIA
+- date: pe 18.11.
+  title: Temaord - kompisar och vänner
+  grammar: verbit
 - date: pe 23.11.
   title: PÄÄTTÖPÄIVÄ
   grammar: Verbitesti, kuuntelu, kirjoitelma, suullinen tehtävä
