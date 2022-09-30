@@ -28,11 +28,11 @@
 - date: ti 18.10.
   title: Text 3 Miriam -  en tuff och känslig...
   grammar: annan, själv, hela, båda
-  other: TEMA - Musik
+  other: TEMA - KULTUR
 - date: to 20.10.
   title: Temaord - musik
   grammar: någon, ingen, alla
-  other: TEMA - Musik
+  other: TEMA - KULTUR
 - date: 24.-28.10
   title: HÖSTLOV
 - date: ma 31.10
@@ -50,16 +50,18 @@
 - date: ma 7.11.
   title: Medier
   grammar: en sådan, en likadan
-  other: Medier
+  other: TEMA - Medier
 - date:  ti 8.11.
   title: Medier
   other: Sanakoe text 2 + medier, Kirjoitelma 2
 - date: to 10.11.
   title: Litteratur och film
   grammar: relatiivilause
+  other: TEMA - KULTUR
 - date: ma 13.11.
   title: Litteratur och film
   grammar: relatiivilause
+  other: TEMA - KULTUR
 - date: ti 14.11.
   title: Medier & Litteratur och film 
   other: Kuuntelu 2 - medier + litteratur & film
