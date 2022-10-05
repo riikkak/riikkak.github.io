@@ -11,3 +11,7 @@ Täytä työvihkoon s. 4 tekstin 1 fraasit. Täytä aina ensin kaikki mitkä mui
 **PLUSSATEHTÄVÄ:**
 
 Työvihkon s. 5. Hae tietoa laatikoihin ruotsalaisista asiosita. Kirjoita suomeksi.
+
+OBS!
+
+Opintokortin Start-osion tehtävät ma 10.10. mennessä.
