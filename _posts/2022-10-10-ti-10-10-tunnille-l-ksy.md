@@ -20,8 +20,4 @@ Tee työvihkon s. 2 loppuun (tehtiin jo tunnilla jonkun verran). Saa hakea sanas
 
 2. Tee työvihkon s. 3-4 (tema Fester) luetunymmärtämiset, hae sanat laatikoihin.
 
-
-
-
-
-
+Todella monelta puuttui ryhmään liittyminen digikirjasta! Hoida kuntoon asap! Muutamalla liittyneellä myös tekemättä ekat tehtävät (text 1 tehtävät opintokortilta...).
