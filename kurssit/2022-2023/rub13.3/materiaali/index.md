@@ -8,9 +8,6 @@ published: true
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
-- [Päättöpäivän ohjeet](/media/rub3/Kertausohje_lyhyt.pdf)
-
-- [Kertauksen muistilista](/media/rub3/Kertausohje_pitkä.pdf)
 
 ### Quizlet - flashcardsit
 
@@ -31,6 +28,8 @@ published: true
 
 ### Fraasien tarkistus
 
+- [Tema Finland fraasien tarkistus](/media/rub3/Finland_fraser.pdf)
+
 - [Text 3 + dialog fraasien tarkistus](/media/rub3/Text 3_fraser.pdf)
 
 - [Text 4 + dialog fraasien tarkistus](/media/rub3/Text 4_fraser.pdf)
@@ -38,6 +37,8 @@ published: true
 - [Text 2 + dialog fraasien tarkistus](/media/rub3/Text 2_fraser.pdf)
 
 ### Tarkistukset
+
+**[Tema Finland harjoitussaniksen tarkistus](/media/rub3/Finland_harjoitussanis.pdf)**
 
 **[Adjektiivin vertailu - lisäharjoitus](/media/rub3/Adjektiivin vertailu_facit.pdf)**
 
