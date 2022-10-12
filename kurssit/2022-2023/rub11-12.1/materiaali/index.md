@@ -36,6 +36,8 @@ published: true
 
 **[Text 2 harjoitussanakokeen vastaukset](/media/rub1/Text 2_harjoitussanis.pdf)**
 
+**[Tema-skola harjoitussanakokeen vastaukset](/media/rub2/Skola_harjoitussanis.pdf)**
+
 **[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
 
 **[Refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivit_facit.pdf)**
