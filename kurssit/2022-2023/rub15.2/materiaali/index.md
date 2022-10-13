@@ -13,3 +13,4 @@ published: true
 ### Tarkistukset
 
 - [Text 2 harjoitussanis tarkistus](/media/rub5/Text 2_harjoitussanis.pdf)
+- [Substantiivipistarin tarkistus](/media/rub5/Substantiivit_pistari.pdf)
