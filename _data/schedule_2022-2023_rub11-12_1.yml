@@ -12,26 +12,25 @@
   grammar: Persoonapronominit
 - date: ke 12.10.
   title: Temaord - skola
-  grammar: Käskymuoto
+  grammar: Persoonapronominit
   other: Kuuntelukoe - skola
 - date: to 13.10.
   title: Temaord Utseende
-  grammar: Käskymuoto
+  grammar:Refleksiivipronominit
   other: Sanakoe - Skola
 - date: ma 17.10.
   title: Temaord Utseende
-  grammar: Substantiivin taivutus
+  grammar: Käskymuoto
 - date: ke 19.10. 
   title: Temaord - Utseende
-  grammar: Substantiivin taivutus
+  grammar: Käskymuoto
 - date: to 20.10.
   title: Skriftlig framställning 1 - lyhyt
-  grammar: Substantiivin taivutus
 - date: 24.-28.10.
   title: HÖSTLOV
 - date: ma 31.10.
   title: Temaord - Välbefinnande och hälsa
-  grammar: Substantiivin käyttö
+  grammar: Substantiivin taivutus
   other: Suullisen tehtävän palautus
 - date: ke 2.11.
   title: Temaord - Välbefinnande och hälsa
