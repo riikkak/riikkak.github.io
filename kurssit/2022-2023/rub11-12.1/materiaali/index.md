@@ -40,6 +40,6 @@ published: true
 
 **[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
 
-**[Refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivit_facit.pdf)**
+**[Refleksiivipronominit - lisäharjoitus](/media/rub2/Rekleksiivit_facit.pdf)**
 
 **[Adjektiivin ja substantiivin lisäharjoitus - vastaukset](/media/rub2/Yhteistaivutus.pdf)**
