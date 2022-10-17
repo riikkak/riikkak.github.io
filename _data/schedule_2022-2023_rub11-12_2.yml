@@ -15,27 +15,27 @@
   title: Temaord - Fritid
   grammar: lukusanat
 - date: pe 14.10.
-  title: Temaord - Fritid
-  grammar: kysymyssanat ja kysymyslause
-- date: ma 17.10.
   title: Text 2 Musik, sport, datorer eller något annat?
   grammar: kysymyssanat ja kysymyslause
-- date: ke 19.10.
+- date: ma 17.10.
   title: Text 2 jatkuu
+  grammar: kysymyssanat ja kysymyslause
+- date: ke 19.10.
+  title: Temaord - Fritid
   grammar: päälause
 - date: pe 21.10.
-  title: Harjoituksia
+  title: Kirjoitelma
   grammar: päälause
   other: kuuntelukoe 1
 - date: 24.-28.10.
   title: HÖSTLOV
 - date: ma 31.10.
-  title: Ohjattu kirjoitusharjoitus
-  grammar: sanajärjestys - päälause
+  title: Harjoituksia
+  grammar: päälause
+  other: Suullinen tehtävä - palautus
 - date: ke 2.11.
   title: Temaord - mat
   grammar: sivulause 
-  other: Suullinen tehtävä - palautus
 - date: pe 4.11.
   title: Temaord - mat
   grammar: sivulause
