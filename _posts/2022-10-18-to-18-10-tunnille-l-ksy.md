@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: To 18.10. tunnille läksy
+title: To 20.10. tunnille läksy
 tags: rub13.3 läksyt
 ---
 Tee opintokortilta digikirjan tehtävät aiheista: 
