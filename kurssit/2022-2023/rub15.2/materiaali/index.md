@@ -7,7 +7,8 @@ published: true
 
 ### Flashcardsit
 
-- [Text 2 fraser](https://quizlet.com/_c4sdez?x=1qqt&i=dz01n)
+- [Text 3 - fraser](https://quizlet.com/_c90i5u?x=1qqt&i=dz01n)
+- [Text 2 - fraser](https://quizlet.com/_c4sdez?x=1qqt&i=dz01n)
 - [Text 1 - fraser](https://quizlet.com/_c58kn6?x=1qqt&i=dz01n)
 
 ### Tarkistukset
