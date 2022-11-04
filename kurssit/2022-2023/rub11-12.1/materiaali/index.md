@@ -40,7 +40,9 @@ published: true
 
 **[Tema-skola harjoitussanakokeen vastaukset](/media/rub2/Skola_harjoitussanis.pdf)**
 
-**[Substantiivin taivutus_tarkistus](/media/rub1/Substantiivi_taivutus_tarkistus.pdf)**
+**[Substantiivin taivutusmoniste tarkistus](/media/rub1/Substantiivi_taivutus_tarkistus.pdf)**
+
+**[Substantiivin taivutustaulukko_tarkistus](/media/rub1/Substantiivit.pdf)**
 
 **[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
 
