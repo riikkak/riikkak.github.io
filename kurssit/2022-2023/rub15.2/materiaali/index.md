@@ -11,6 +11,8 @@ published: true
 - [Text 2 - fraser](https://quizlet.com/_c4sdez?x=1qqt&i=dz01n)
 - [Text 1 - fraser](https://quizlet.com/_c58kn6?x=1qqt&i=dz01n)
 
+- [Prepositiot ajanilmauksissa](https://quizlet.com/_ca8jrl?x=1qqt&i=dz01n)
+
 ### Tarkistukset
 
 - [Text 2 harjoitussanis tarkistus](/media/rub5/Text 2_harjoitussanis.pdf)
