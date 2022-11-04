@@ -36,7 +36,7 @@ published: true
 
 **[Text 2 harjoitussanakokeen vastaukset](/media/rub1/Text 2_harjoitussanis.pdf)**
 
-**[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text 4_harjoitussanis.pdf)**
+**[Hälsa och välbefinnande harjoitussanakokeen vastaukset](/media/rub2/Terveys_harjoitussanis.pdf)**
 
 **[Tema-skola harjoitussanakokeen vastaukset](/media/rub2/Skola_harjoitussanis.pdf)**
 
