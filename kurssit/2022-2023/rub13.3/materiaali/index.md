@@ -40,6 +40,8 @@ published: true
 
 **[Tema Finland harjoitussaniksen tarkistus](/media/rub3/Finland_harjoitussanis.pdf)**
 
+**[Text 2 + medier harjoitussaniksen tarkistus](/media/rub3/Text 2_harjoitussanis.pdf)**
+
 **[Adjektiivin vertailu - lisäharjoitus](/media/rub3/Adjektiivin vertailu_facit.pdf)**
 
 **[Pronominikertaus - tarkistus](/media/rub3/Pronomini_facit.pdf)**
