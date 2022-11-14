@@ -2,6 +2,7 @@
 layout: none
 published: true
 title: Keskiviikon 16.11. tunnille
+tags: rub11-12.1 läksyt
 ---
 Täytä työvihkoon s. 14 kaikki sukulaisuussanat jotka muistat ilman että katsot mistään.
 
