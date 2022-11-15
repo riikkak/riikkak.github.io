@@ -4,6 +4,8 @@ title: Materiaali
 course: rub13.3
 published: true
 ---
+- [Päättöpäivänohjeet](/media/rub3/Kertausohje_pitkä.pdf)
+
 ### TIPS!
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
