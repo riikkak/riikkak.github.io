@@ -4,7 +4,7 @@ title: Materiaali
 course: rub13.3
 published: true
 ---
-- [Päättöpäivänohjeet](/media/rub3/Kertausohje_pitkä.pdf)
+- [Päättöpäivän tarkka kertausohje](/media/rub3/Kertausohje_pitkä.pdf)
 
 ### TIPS!
 
