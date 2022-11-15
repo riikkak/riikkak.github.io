@@ -6,6 +6,8 @@ published: true
 ---
 - [Päättöpäivän tarkka kertausohje](/media/rub3/Kertausohje_pitkä.pdf)
 
+- [Teemavihkon plussa - soittimet](/media/rub3/Soittimet.pdf)
+
 ### TIPS!
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
