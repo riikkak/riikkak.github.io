@@ -5,6 +5,8 @@ course: rub15.2
 published: true
 ---
 
+- [Päättöpäivän ohjeet](/media/rub5/Koeohje_RUB15.pdf)
+
 ### Flashcardsit
 
 - [Text 3 - fraser](https://quizlet.com/_c90i5u?x=1qqt&i=dz01n)
