@@ -1,64 +1,65 @@
 - date: ma 3.10.
-  title: Aloitus, vanhan kertaus
-  grammar: Persoonapronominit
+  title: Arviointi, lämmittelyä 
+  other: digikirjan käyttöönotto
 - date: ke 5.10.
-  title: Text 3 
-  grammar: Persoonapronominit
-- date: to 6.10.
-  title: Temaord - skola
-  grammar: Persoonapronominit
+  title: Text 1 Sverige - landet där lagom är bäst
+  grammar: lukusanat
+- date: pe 7.10.
+  title: Text 1 vanhana
+  grammar: lukusanat
 - date: ma 10.10.
-  title: Temaord - skola 
-  grammar: Persoonapronominit
+  title: Harjoituksia
+  grammar: lukusanat
+  other: Sanakoe 1 text 1
 - date: ke 12.10.
-  title: Temaord - skola
-  grammar: Persoonapronominit
-  other: Kuuntelukoe - skola
-- date: to 13.10.
-  title: Temaord Utseende
-  grammar: Refleksiivipronominit
-  other: Sanakoe - Skola
+  title: Temaord - Fritid
+  grammar: lukusanat
+- date: pe 14.10.
+  title: Text 2 Musik, sport, datorer eller något annat?
+  grammar: kysymyssanat ja kysymyslause
 - date: ma 17.10.
-  title: Temaord Utseende
-  grammar: Käskymuoto
-- date: ke 19.10. 
-  title: Temaord - Utseende
-  grammar: Käskymuoto
-- date: to 20.10.
-  title: Skriftlig framställning 1 - lyhyt
+  title: Text 2 jatkuu
+  grammar: kysymyssanat ja kysymyslause
+- date: ke 19.10.
+  title: Temaord - Fritid, ajanilmaukset
+  grammar: päälause
+- date: pe 21.10.
+  title: Kirjoitelma
+  grammar: päälause
+  other: kuuntelukoe 1
 - date: 24.-28.10.
   title: HÖSTLOV
 - date: ma 31.10.
-  title: Temaord - Välbefinnande och hälsa
-  grammar: Substantiivin taivutus
-  other: Suullisen tehtävän palautus
+  title: Harjoituksia
+  grammar: päälause
+  other: Suullinen tehtävä - palautus
 - date: ke 2.11.
-  title: Temaord - Välbefinnande och hälsa
-  grammar: Substantiivin käyttö
-- date: to 3.11.
-  title: Text 5
-  grammar: Substantiivin käyttö
+  title: Temaord - mat
+  grammar: sivulause 
+- date: pe 4.11.
+  title: Temaord - mat
+  grammar: sivulause
 - date: ma 7.11.
-  title: Temaord - kläder
-  grammar: Adjektiivit
-  other: Sanakoe - Välbefinnande och hälsa
+  title: Text 4 Köttbullar, sushi eller vegoburgare?
+  grammar: sanajärjestyskertaus
 - date: ke 9.11.
-  title: Temaord - Kläder
-  grammar: Adjektiivit
-- date: to 10.11.
-  title: Temaord - kläder
-  grammar: Adjektiivit
-- date: ma 15.11.
-  title: Skriftlig framställning 2 - lyhyt
-  grammar: adjektiivit
-  other: Kuuntelukoe - temaord
-- date: ke 16.11.
-  title: Temaord - familj och släkt
-  other: Suullinen tehtävä EXTRA - Min garderob 
-- date: to 17.11.
-  title: Temaord - familj och släkt
-  grammar: Kertausta
-- date: pe 28.11.
-  title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
-  grammar: suullinen koe, luettu, kielioppi, käännös
-  other: KONE MUKAAN, TYÖVIHKON (del 2) palautus
+  title: Text 4 vanhana
+  grammar: verbit
+- date: pe 11.11.
+  title: Temaord - mat
+  grammar: verbit
+  other: Sanakoe text 4
+- date: ma 13.11.
+  title: Temaord - kompisar och vänner
+  grammar: verbit
+- date: ke 15.11.
+  title: Temaord - kompisar och vänner
+  grammar: verbit
+- date: pe 18.11.
+  title: Temaord - kompisar och vänner
+  grammar: verbit
+- date: pe 23.11.
+  title: PÄÄTTÖPÄIVÄ
+  grammar: Verbitesti, kuuntelu, kirjoitelma, suullinen tehtävä
+  other: Työvihkon (del 1) palautus
+
