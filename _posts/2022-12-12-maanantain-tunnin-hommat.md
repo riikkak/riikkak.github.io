@@ -6,4 +6,4 @@ tags: rub8.5 läksyt
 ---
 Poissaolijoille:
 
-Tee sanajärjestyksen toinenkin sivu valmiiksi. Pyydä seuraavalla tunnilla tarkistukset + yksi moniste opelta.
+Tee sanajärjestyksen toinenkin tehtäväsivu valmiiksi. Pyydä seuraavalla tunnilla tarkistukset + yksi moniste opelta.
