@@ -8,4 +8,4 @@ Täytä työvihkoon tekstin 1 fraasit, laita ensin kaikki mitkä muistat ja vast
 
 POISSAOLIJAT:
 
-Tee. s. 22 alaosa (substantiivin attribuutti, pyydä muistiinpanot seuraavalla tunnilla) ja s. 24 yläosan tehtävä (alempi tehty jo).
+Tee. s. 22 alaosa (substantiivin attribuutti, pyydä muistiinpanot seuraavalla tunnilla) ja s. 24 yläosan tehtävä (alempi tehty jo). Pyydä tekstin merkinnät kaverilta/seuraavalla tunnilla.
