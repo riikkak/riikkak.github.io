@@ -38,6 +38,8 @@ published: true
 
 **[Skola harjoitussanakokeen vastaukset](/media/rub2/Skola_harjoitussanis.pdf)**
 
+**[Välbefinnande och hälsa harjoitussanakokeen vastaukset](/media/rub2/Terveysteema_harjoitussanis.pdf)**
+
 **[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text 4_harjoitussanis.pdf)**
 
 **[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
@@ -45,3 +47,7 @@ published: true
 **[Refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivit_facit.pdf)**
 
 **[Adjektiivin ja substantiivin lisäharjoitus - vastaukset](/media/rub2/Yhteistaivutus.pdf)**
+
+**[Substantiivin monikkomuodon lisäharjoitus - vastaukset](/media/rub2/Substantiivi_monikko.pdf)**
+
+**[Substantiivin taivutuksen lisäharjoitus - vastaukset](/media/rub2/Substantiivi_taivutus.pdf)**
