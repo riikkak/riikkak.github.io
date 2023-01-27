@@ -20,4 +20,5 @@ published: true
 - [Substantiivipistarin tarkistus](/media/rub5/Substantiivit_pistari.pdf)
 - [S-passiivin plussatehtävät tarkistus](/media/rub5/S-passiivi_plussa.pdf)
 - [Arbetslivets ABC tarkistus](/media/rub5/Arbetslivets_abc_plussa.pdf)
+- [Anställningsintervju tarkistus](/media/rub5/Haastattelu_vastaukset.pdf)
 - [Päättöpäivän ohjeet](/media/rub5/Koeohje_RUB15.pdf)
