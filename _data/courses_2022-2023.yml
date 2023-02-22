@@ -18,7 +18,6 @@
     - 3
 
 - name: rub11-12.9
-  code: 2
   desc:
   period: 
     - 4
@@ -60,21 +59,17 @@
   period: 3
 
 - name: rub15.8
-  code: 7
   desc:
   period: 5
 
 - name: rub16.1
-  code: 7
   desc:
   period: 4
   
 - name: rub16.4
-  code: 2
   desc:
   period: 5
 
 - name: rub17.2
-  code: 5
   desc:
   period: 5
