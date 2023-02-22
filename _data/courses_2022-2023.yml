@@ -68,8 +68,13 @@
   code: 7
   desc:
   period: 4
+  
+- name: rub16.4
+  code: 2
+  desc:
+  period: 5
 
-- name: rub17.3
-  code: 1
+- name: rub17.2
+  code: 5
   desc:
   period: 5
