@@ -2,7 +2,7 @@
 layout: none
 published: true
 title: Lektionen på fredag den 24 februari
-tags: rub14.8 läksyt
+tags: rub16.1 läksyt
 ---
 Vi har ordprov av temat Relationer. Läs fraserna + kolla även de andra sidorna gällande temat (för pluspoäng).
 
