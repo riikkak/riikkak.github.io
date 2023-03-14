@@ -11,4 +11,6 @@ tags: rub11-12.9 läksyt
 
 **POISSAOLIJAT:**
 
-Tee työvihkon s. 26. Kuuntele dialog mat (digikirja: tema mat: t. 2a) ja täytä aukot dialogi-lakanaan (a3-moniste).
+Tee työvihkon s. 25 ja 26. Kuuntele dialog mat (digikirja: tema mat: t. 2a) ja täytä aukot dialogi-lakanaan (a3-moniste).
+
+
