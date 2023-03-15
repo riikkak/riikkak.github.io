@@ -15,4 +15,4 @@ published: true
 ### Kolla dina svar
 
 - [Övningsprov - relationer](/media/rub6/Harjoitussanis_relationer.pdf)
-
+- [Övningsprov - resor](/media/rub6/Harjoitussanis_resor.pdf)
