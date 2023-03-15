@@ -8,3 +8,6 @@ Tee työvihkon s. 11 ja s. 12 Tänker du baka något sött-laatikkoon asti. Se l
 
 POISSAOLIJAT:
 Tee teemavihkosta mat-teemasanasto.
+
+OBS!
+Kirjoitelman puhtaaksikirjoitus pe 17.3. klo 21.00 mennessä!
