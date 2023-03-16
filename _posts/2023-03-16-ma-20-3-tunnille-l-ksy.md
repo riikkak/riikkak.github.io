@@ -15,3 +15,6 @@ Työvihkon s. 13 alkaksi alinta laatikkoa.
 **POISSAOLIJAT:**
 
 Lue, kuuntele ja suomenna teksti 4 (sanakoeteksti!) ja pyydä merkinnät. Tee s. 11-13 työvihkosta.
+
+OBS!
+Muista kirjoitelman puhtaaksikirjoitus perjantaihin mennessä!
