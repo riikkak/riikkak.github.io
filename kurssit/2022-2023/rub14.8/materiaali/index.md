@@ -7,6 +7,8 @@ published: true
 
 **[Päättöpäivän ohjeet](/media/rub4/Arviointipaiva_ohjeet.pdf)**
 
+**[Text 3 fraasit](/media/rub4/Text3_fraasit.pdf)**
+
 ### Quizletit
 
 * [Text 1 fraser](https://quizlet.com/_btuemm?x=1qqt&i=dz01n)
