@@ -5,7 +5,7 @@ course: rub14.9
 published: true
 ---
 
-**[Päättöpäivän ohjeet](/media/rub4/Paattopaiva_ohjeet.pdf)**
+**[Päättöpäivän ohjeet](/media/rub4/Arviointipaiva_ohjeet.pdf)**
 
 ### Quizletit
 
