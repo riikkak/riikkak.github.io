@@ -5,6 +5,8 @@ course: rub14.8
 published: true
 ---
 
+**[Päättöpäivän ohjeet](/media/rub4/Paattopaiva_ohjeet.pdf)**
+
 ### Quizletit
 
 * [Text 1 fraser](https://quizlet.com/_btuemm?x=1qqt&i=dz01n)
