@@ -1,40 +1,47 @@
 - date: ke 12.4.
-  title: Kurssi-info, Text 2 Allt är möjligt bara du vågar
-  grammar: substantiivin taivutus
+  title: Moduuli-info, arvioinnin perusteet
+  grammar: Prepositiot ajanilmauksissa
+  other: DIGI G 2,3
 - date: pe 14.4.
-  title: Text 2 jatkuu
-  grammar: substantiivien taivutus
+  title: Tema - Studier Text 2 Allt är...
+  grammar: partisiipin preesens
+  other: DIGI 4b, 6a, 7a, 76, 12
 - date: ti 18.4.
-  title: Studier
-  grammar: substantiivin taivutus 
+  title: Tema - Studier
+  grammar: partisiipin preesens
+  other: DIGI G 2b, 3a, 4a, 5
 - date: ke 19.4.
-  title: Studier
-  grammar: substantiivin käyttö
+  title: Tema - Studier
+  grammar: konjunktiot ja sanajärjestys
+  other: DIGI 3a, 3c, 4a, 6, 11
 - date: pe 21.4.
-  title: Studier + Norge
-  grammar: substantiivin käyttö
+  title: Tema - Norge
+  grammar: konjunktiot ja sanajärjestys
   other: Sanakoe - text 2
 - date: ti 25.4.
-  title: Text 1 Pröva dina vingar
+  title: Tema - Norge Text 1 Pröva dina...
   grammar: konjunktiot ja sanajärjestys
+  other: DIGI G 1b, 2b, 3b, 4
 - date: ke 26.4.
-  title: SJÄLVSTÄNDIGT ARBETE - Norge
-  grammar: konjunktiot ja sanajärjestys 
-  other: digi 
+  title: SJÄLVSTÄNDIGT ARBETE, Tema - Norge
+  grammar: S - päätteiset verbit
+  other: DIGI 3b, 4a, 6, 7a, 8
 - date: pe 28.4.
-  title: Text 1 + Norge jatkuu
-  grammar: konjunktiot ja sanajärjestys 
-  other: Kuuntelu 1 Studier + Norge
+  title: Tema - Pengar
+  grammar: S-passiivi
+  other: DIGI Pengar 4a, 4b, 6, 7a, 8
 - date: ti 2.5.
-  title: Text 3 Unga modiga företagare
-  grammar: s-päätteiset verbit
-  other: Suullisen tehtävän palautus
+  title: Tema - Pengar Text 4 Du är...Text 3 Unga modiga företagare
+  grammar: S-passiivi
+  other: DIGI text 4 5a, 5b, 6b, 8a
 - date: ke 3.5.
   title: Text 3 jatkuu
-  grammar: s-päätteiset verbit
+  grammar: S-passiivi 
+  other: DIGI G 2a, 3, 4
 - date: pe 5.5.
   title: Arbetslivet
   grammar: s-passiivi
+  other: Suullisen tehtävän palautus
 - date: ti 9.5.
   title: Arbetslivet
   grammar: s-passiivi
@@ -47,7 +54,7 @@
   grammar: s-passiivi 
   title: Skriftlig framställning - pitkä
 - date: ti 16.5.
-  title: Text 4 Du är vad du äger
+  title: 
   grammar: partisiipin preesens 
 - date: ke 17.5.
   title: Text 4 jatkuu
