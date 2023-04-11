@@ -30,20 +30,20 @@ Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saattaa opetta
 
 **Teemat:**
 
-Luonto
-Ympäristö ja kestävä kehitys
-Sosiaalinen kestävyys
-Liikenne
-Rikos ja rangaistus
-Tulevaisuus pohdintaa
+- Luonto
+- Ympäristö ja kestävä kehitys
+- Sosiaalinen kestävyys
+- Liikenne
+- Rikos ja rangaistus
+- Tulevaisuus pohdintaa
 
 **Kieliopissa:**
 
-Adverbit
-Prepositiot
-Partisiipin perfekti
-Lauseenvastikkeet
-Genetiivi
+- Adverbit
+- Prepositiot
+- Partisiipin perfekti
+- Lauseenvastikkeet
+- Genetiivi
 
 ### Arviointi
 
