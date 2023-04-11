@@ -30,18 +30,18 @@ Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saattaa opetta
 
 **Teemat:**
 
-Opiskelu
-Työelämä
-Norja
-Rahankäyttö ja kuluttaminen
+1. Opiskelu
+2. Työelämä
+3. Norja
+4. Rahankäyttö ja kuluttaminen
 
 **Kieliopissa:**
 
-Substantiivien taivutus ja käyttö
-S-päätteiset verbit
-S-passiivi
-Partisiipin preesens
-Prepositiot ajanilmauksissa
+1. Substantiivien taivutus ja käyttö
+2. S-päätteiset verbit
+3. S-passiivi
+4. Partisiipin preesens
+5. Prepositiot ajanilmauksissa
 
 ### Arviointi
 
