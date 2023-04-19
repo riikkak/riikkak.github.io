@@ -9,11 +9,11 @@
   grammar: Persoonapronominit
 - date: ke 19.4.
   title: Temaord - kläder
-  grammar: Refleksiivipronominit
+  grammar: Persoonapronominit
   other: Sanakoe ja kuuntelukoe - skola
 - date: pe 21.4.
   title: Temaord - kläder
-  grammar: adjektiivit
+  grammar: Refleksiivipronominit
   other: Suullisen tehtävän palautus su klo 21 mennessä
 - date: ma 24.4.
   title: Temaord - utseende och kläder
@@ -23,7 +23,7 @@
   grammar: adjektiivit + käskymuoto
 - date: pe 28.4.
   title: Temaord - utseende
-  grammar: Käskymuoto
+  grammar: adjektiivit
 - date: ma 1.5.
   title: VALBORG
 - date: ke 3.5.
@@ -31,7 +31,7 @@
   grammar: käskymuoto
 - date: pe 5.5.
   title: Temaord - Välbefinnande och hälsa
-  grammar: substantiivin taivutus ja käyttö
+  grammar: käskymuoto
 - date: ma 8.5.
   title: Text 5
   grammar: substantiivin taivutus ja käyttö
@@ -53,6 +53,7 @@
   title: LEDIG DAG - Självständigt arbete
 - date: ma 22.5.
   title: Temaord - familj och släkt
+  grammar: substantiivin taivutus ja käyttö
 - date: ma 29.5.
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
   grammar: suullinen koe, luettu, kielioppi, käännös
