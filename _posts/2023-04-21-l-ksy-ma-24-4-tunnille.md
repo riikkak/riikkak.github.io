@@ -12,7 +12,7 @@ tags: rub11-12.9 läksyt
 
 3. Tee vaateteemasta huolella s. 9-10 työvihkosta. Väritäplien kohdalla tarkoitus taivuttaa värit adjektiivin 3 muotoonsa (paitsi taipumattomat tietysti). 
 
-Tehtävään I klädaffären löydät apua digikirjan tehtävästä 10a ja tehtävään Hållbar garderob löydät apua digikirjan tehtävästä 8b.
+Tehtävään I klädaffären löydät apua digikirjan tehtävästä 10a ja tehtävään Hållbar garderob löydät apua digikirjan tehtävästä 8b. Värit löytyvät tema utseende ja kläder alta: kuvasanasto.
 
 ERITTÄIN POIKKEUKSELLISEN PALJON LÄKSYÄ KOSKA TIETOA OPON TUNNISTA EI OLLUT.
 
