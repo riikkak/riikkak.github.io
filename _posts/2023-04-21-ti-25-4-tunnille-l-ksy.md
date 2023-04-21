@@ -10,4 +10,4 @@ tags: rub15.8 läksyt
 
 POISSAOLIJAT:
 
-Tee työvihkon s. 2 ja 25 ja pyydä merkinnät. 
+Tee työvihkon s. 2 ja 25, sekä sivun 26 ylin kohta ennen träna mer -tehtäviä ja pyydä merkinnät. 
