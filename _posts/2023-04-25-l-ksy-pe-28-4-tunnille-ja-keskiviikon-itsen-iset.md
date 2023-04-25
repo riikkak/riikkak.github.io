@@ -10,7 +10,7 @@ tags: rub15.8 läksyt
 
 2. Opiskele asia **S-päätteiset verbit** digikirjan teoriasta. Käytännössä verbien ja taivutuksen ulkoaopettelua. Tee sitten työvihkon s. 27-28 JA **digikirjasta aiheen tehtävät opintokortilta.**
 
-3. Tee loppuun **tekstin 1 fraasit työvihkoon** JA **digikirjasta tekstin tehtävät** opintokortilta. Tarkista sitten fraasit materiaalit sivulta.
+3. Tee loppuun **tekstin 1 fraasit työvihkoon** JA **digikirjasta tekstin tehtävät** opintokortilta. Tarkista sitten fraasit erivärisellä, vastaukset löytyvät materiaalit sivulta.
 
 **POISSAOLIJAT:
 **
