@@ -9,3 +9,8 @@ published: true
 
 [Prepositioilmaisut](https://quizlet.com/_d6efr8?x=1jqt&i=dz01n)
 
+## Tarkistukset
+
+- [Prepositiotehtävän tarkistus](/media/rub7/Prepositiot_plussa.pdf)
+
+
