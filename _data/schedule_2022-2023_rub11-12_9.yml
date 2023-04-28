@@ -20,17 +20,17 @@
   grammar: adjektiivit
 - date: ke 26.4.
   title: Temaord - utseende
-  grammar: adjektiivit + käskymuoto
+  grammar: adjektiivit 
 - date: pe 28.4.
   title: Temaord - utseende
   grammar: adjektiivit
 - date: ma 1.5.
   title: VALBORG
 - date: ke 3.5.
-  title: Skriftlig framställning
-  grammar: käskymuoto
+  title: Temaord - utseende
+  grammar: adjektiivit + käskymuoto
 - date: pe 5.5.
-  title: Temaord - Välbefinnande och hälsa
+  title: Skriftlig framställning
   grammar: käskymuoto
 - date: ma 8.5.
   title: Text 5
@@ -41,14 +41,13 @@
 - date: pe 12.5.
   title: Temaord - Välbefinnande och hälsa
   grammar: substantiivin taivutus ja käyttö
-  other: Sanakoe - Välbefinnande och hälsa
 - date: ma 15.5.
-  title: Harjoituksia
+  title: Temaord - Välbefinnande och hälsa
   grammar: substantiivin taivutus ja käyttö
-  other: Kuuntelukoe - temaord
+  other: Sanakoe - Välbefinnande och hälsa, Kuuntelukoe - temaord
 - date: ke 17.5.
   title: Temaord - familj och släkt
-  grammar: kertaus
+  grammar: substantiivin taivutus ja käyttö
 - date: pe 19.5.
   title: LEDIG DAG - Självständigt arbete
 - date: ma 22.5.
