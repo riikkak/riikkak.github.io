@@ -10,4 +10,4 @@ Tee loppuun s. 17-18 työvihkosta.
 
 Pyydä merkinnät tekstistä 4 ja tee s. 16.
 
-OBS! Suullisen tehtävän palautus pe 12.5. mennessä, saatte tehtävän keskiviikon tunnilla. Perjantain tunnilla kirjoitelma.
+OBS! Suullisen tehtävän palautus pe 12.5. mennessä, saatte tehtävän keskiviikon tunnilla. Perjantain tunnilla kirjoitelma (älä ole pois ilman vakavaa estettä!)
