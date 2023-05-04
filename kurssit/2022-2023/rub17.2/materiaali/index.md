@@ -12,5 +12,6 @@ published: true
 ## Tarkistukset
 
 - [Prepositiotehtävän tarkistus](/media/rub7/Prepositiot_plussa.pdf)
+- [Natur harjoitussanakokeen tarkistus](/media/rub7/Natur_harjoitussanis.pdf)
 
 
