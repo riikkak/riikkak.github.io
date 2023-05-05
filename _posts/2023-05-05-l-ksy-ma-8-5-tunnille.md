@@ -6,14 +6,11 @@ tags: rub11-12.9 läksyt
 ---
 **PAKOLLISET:**
 
-Tee digikirjasta opintokortin mukaiset tehtävät aiheista:
+1. Tee digikirjasta opintokortin mukaiset tehtävät aiheesta käskymuoto.
 
-1. Utseende och kläder
+2. Lue ja suomenna teksti 5 (työvihkon s. 13) ja hae fraasit sivulle 14.
 
-2. Käskymuoto
 
 **POISSOLIJAT:**
 
 Sovi kirjoitelman tekemiselle ajankohta open kanssa kasvotusten (osa onkin jo sopinut).
-
-
