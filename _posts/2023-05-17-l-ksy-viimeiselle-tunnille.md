@@ -6,7 +6,7 @@ tags: rub11-12.9 läksyt
 ---
 **PAKOLLISET:**
 
-1. Tee digikirjan kaikki pakolliset tehtävät ma 22.5. klo 21 mennessä. Silloin katson tekoprosentin (tulee olla 100 opintokortin tehtävistä). Punaiset tehtävät katson päättöpäivänä.
+1. Tee digikirjan kaikki pakolliset tehtävät ma 22.5. klo 21 mennessä. Silloin katson tekoprosentin (tulee olla 100 opintokortin tehtävistä). Punaiset tehtävät katson päättöpäivänä ja ne ovat plussatehtäviä. 
 
 2. Tee loppuun substantiivin ja adjektiivin yhteistaivutuksen moniste.
 
@@ -25,3 +25,5 @@ Työvihkon s. 17 alaosan käännöslauseet.
 3. Tee työvihkon s. 15-16.
 
 4. Tee työvihkon s. 30 alaosan taulukko. Vastaava tehtävä päättöpäivässä.
+
+Maanantain tunnilla kertausmoniste + tarkemmat päättöpäivän ohjeet.
