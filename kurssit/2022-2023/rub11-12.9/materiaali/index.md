@@ -9,7 +9,10 @@ published: true
 
 -Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
+**[Päättöpäivä 2 ohjeet](/media/rub2/Koeviikko_rub12.pdf)**
+
 **[Päättöpäivä 1 ohjeet](/media/rub2/Paattopaiva_ohjeet.pdf)**
+
 
 ### Quizletit
 
