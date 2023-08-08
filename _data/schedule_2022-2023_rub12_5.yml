@@ -7,7 +7,7 @@
   title: LEDIG DAG
 - date: ke 7.12.
   title: Puhe
-  grammar: kirjallinen tuottaminen 
+  grammar: kirjallinen tuottaminen
   other: Yleiset kirjoittamisen ohjeet
 - date: to 8.12.
   title: Puhe
@@ -16,7 +16,7 @@
   title: Kuuntelu / kirjoittaminen
   grammar: tekniikka
 - date: ke 14.12.
-  title:  Mielipide lyhyt
+  title: Mielipide lyhyt
   grammar: kirjallinen tuottaminen
 - date: to 15.12.
   title: Mielipide - lyhyt/pitkä
@@ -24,7 +24,7 @@
 - date: ma 19.12.
   title: Mielipide - pitkä
   grammar: kirjallinen tuottaminen
-- date: ke 21.12. 
+- date: ke 21.12.
   title: JULKYRKA
 - date: 22.12. - 8.1.
   title: JULLOV
@@ -47,7 +47,7 @@
   title: Kuuntelua
   grammar: kirjallinen tuottaminen
 - date: ma 23.1.
-  title: Kertomus 
+  title: Kertomus
   grammar: kirjallinen tuottaminen
 - date: ke 25.1.
   title: Kertomus
@@ -61,5 +61,5 @@
   other: Päättöviikon korvaavien tehtävien palautus
 - date: ti 7.2.
   title: Päättöpäivä
-  grammar: EI OHJELMAA 
+  grammar: EI OHJELMAA
   other: päivän korvaava tehtäväpaketti tehtävä etukäteen
