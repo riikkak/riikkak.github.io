@@ -11,91 +11,84 @@ url: https://riikka.koskenranta.fi
 baseurl: ""
 incremental: false
 timezone: Europe/Helsinki
-semester: 2022-2023
+semester: 2023-2024
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: none
-  -
-    scope:
+  - scope:
       path: ""
     values:
-      period: 5
-  -
-    scope:
+      period: 1
+  - scope:
       path: "kurssit/2013-2014"
     values:
       semester: "2013-2014"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2014-2015"
     values:
       semester: "2014-2015"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2015-2016"
     values:
       semester: "2015-2016"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2016-2017"
     values:
       semester: "2016-2017"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2017-2018"
     values:
       semester: "2017-2018"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2018-2019"
     values:
       semester: "2018-2019"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2019-2020"
     values:
       semester: "2019-2020"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2020-2021"
     values:
       semester: "2020-2021"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2021-2022"
     values:
       semester: "2021-2022"
       current: false
       archived: true
-  -
-    scope:
+  - scope:
       path: "kurssit/2022-2023"
     values:
       semester: "2022-2023"
+      current: false
+      archived: true
+  - scope:
+      path: "kurssit/2023-2024"
+    values:
+      semester: "2023-2024"
       current: true
       archived: false
-
 
 exclude:
   - README.md
@@ -115,9 +108,9 @@ exclude:
   - .idea
 
 prose:
-  siteurl: 'https://riikka.koskenranta.fi'
-  media: 'media'
-  relativeLinks: 'https://riikka.koskenranta.fi/api/links.jsonp'
+  siteurl: "https://riikka.koskenranta.fi"
+  media: "media"
+  relativeLinks: "https://riikka.koskenranta.fi/api/links.jsonp"
   site:
     tags: "https://riikka.koskenranta.fi/api/tags.jsonp"
   metadata:
@@ -142,12 +135,11 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB11-12.9 - Läksyt"
-              value: "rub11-12.9 läksyt"
-            - name: "RUB15.8 - Läksyt"
-              value: "rub15.8 läksyt"
-            - name: "RUB16.4 - Läksyt"
-              value: "rub16.4 läksyt"
-            - name: "RUB17.2 - Läksyt"
-              value: "rub17.2 läksyt"
-        
+            - name: "RUB11-12.6 - Läksyt"
+              value: "rub11-12.6 läksyt"
+            - name: "RUB13.2 - Läksyt"
+              value: "rub13.2 läksyt"
+            - name: "RUB112.3 - Läksyt"
+              value: "rub112.3 läksyt"
+            - name: "RUB114.2 - Läksyt"
+              value: "rub114.2 läksyt"
