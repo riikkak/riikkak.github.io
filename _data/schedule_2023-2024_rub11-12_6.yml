@@ -13,13 +13,13 @@ a- date: ma 14.8.
   grammar: lukusanat
   other: Sanakoe 1 text 1
 - date: ti 22.8.
-  title: Temaord - Fritid
+  title: Text 2 Musik, sport, datorer eller något annat?
   grammar: lukusanat
 - date: to 24.8.
-  title: Text 2 Musik, sport, datorer eller något annat?
+  title:  Text 2 jatkuu
   grammar: kysymyssanat ja kysymyslause
 - date: ma 28.8.
-  title: Text 2 jatkuu
+  title: Temaord - Fritid
   grammar: päälause
 - date: ti 29.8.
   title: Temaord - Fritid, ajanilmaukset
@@ -27,11 +27,11 @@ a- date: ma 14.8.
 - date: to 31.8.
   title: Harjoituksia
   grammar: sivulause
-  other: kuuntelukoe 1
+  other: kuuntelukoe 1 
 - date: ma 4.9.
   title: Harjoituksia
   grammar: sivulause
-   title: Kirjoitelma 1
+  other: Kirjoitelma 1 
 - date: ti 5.9.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
   grammar: päälause + sivulause
