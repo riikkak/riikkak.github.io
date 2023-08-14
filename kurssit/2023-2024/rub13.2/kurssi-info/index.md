@@ -7,9 +7,9 @@ published: true
 
 # Välkommen!
 
-Moduulin arviointi perustuu aina ensisijaisesti läsnäoloon (fyysinen ja henkinen) oppitunneilla, sekä niiden aikana tapahtuvan työskentelyn eri osa-alueisiin.
+Moduulin arviointi perustuu aina ensisijaisesti **läsnäolo**on (fyysinen ja henkinen) oppitunneilla, sekä niiden aikana tapahtuvan työskentelyn eri osa-alueisiin.
 Jos sinulla on erityisen tuen suunnitelma ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin ensimmäisellä oppitunnilla! Tukitoimia ei järjestetä ilman tätä ilmoitusta.
-REKin oppitunnit ovat kännykätöntä aikaa, laita puhelin laukkuusi jo luokkaan saapuessasi. Pipot, lippikset ja päällysvaatteet eivät kuulu päälle sisätiloissa. Opettelemme myös hyviä tapoja ja yleissivistystä.
+REKin oppitunnit ovat **kännykätöntä **aikaa, laita puhelin laukkuusi jo luokkaan saapuessasi. Pipot, lippikset ja päällysvaatteet eivät kuulu päälle sisätiloissa. Opettelemme myös hyviä tapoja ja yleissivistystä.
 Oppitunnit ovat opiskelua varten, hoidathan siis vessakäynnit välitunnilla. Hammaslääkärit, kampaajat ja fysioterapiat varataan muihin ajankohtiin kuin oppituntien päälle. Kun olet läsnä fyysisesti ja henkisesti, oppimista ei voi estää ja kotonatehtävän työn määrä on erittäin kohtuullinen.
 
 ### Opintojakson aiheet
@@ -33,7 +33,7 @@ Relatiivilause
 ## Poissaolot
 
 Jos olet sairaana, tai muusta pätevästä syystä poissa arvioitavan suorituksen päivänä, hoida oma-aloitteisesti uuden ajan sopiminen suoritukselle (kasvotusten / Wilma-viestillä, ehdota valmiiksi aikoja). Jos et hoida itse suorituksellesi uutta aikaa, suorituksestasi annetaan 0 pistettä. 
-Sanakokeet, kuuntelut ja kirjoitelmat on oltava tehtynä periodin viimeiseen oppituntiin mennessä. Suullisten tehtävien deadline on sitova, myöhästyneet palaukset 0p. Jos sinulla on pätevä syy (leirillä olo, vakava sairastuminen), huolehdi että sovit arvioitavan tehtävän teosta opettajan kanssa. Lomamatka ei ole pätevä syy siirtää palautuspäivää.
+Sanakokeet, kuuntelut ja kirjoitelmat on oltava tehtynä periodin viimeiseen oppituntiin mennessä. **Suullisten tehtävien deadline on sitova**, myöhästyneet palaukset 0p. Jos sinulla on pätevä syy (leirillä olo, vakava sairastuminen), huolehdi että sovit arvioitavan tehtävän teosta opettajan kanssa. Lomamatka ei ole pätevä syy siirtää palautuspäivää.
 Poissaolotunneilta tulee hoitaa tehdyksi sekä tunnin aikana tehdyt tehtävät, että kotitehtävät. EI KORVAAVIA TEHTÄVIÄ! Pyydä jonkun ryhmäläisen (selväkäsialaisen!) yhteistiedot heti kurssin alussa, jotta voit pyytää muistiinpanot merkinnöistä.
 
 ### Pidemmät poissaolot
@@ -49,7 +49,7 @@ Opintojakson arviointi koostuu pienemmistä osasuorituksista, sekä muista arvio
 2.	Kuuntelut
 3.	Ohjatut kirjoitusharjoitukset
 4.	Suulliset tehtävät ja suullinen koe/suullinen paritehtävä
-5.	DIGIKIRJAN TEHTÄVÄT (40p)
+5.**	DIGIKIRJAN TEHTÄVÄT (40p)**
 6.	Kielioppikoe
 7.	Luetunymmärtämisen koe
 8.	Käännöslauseet
