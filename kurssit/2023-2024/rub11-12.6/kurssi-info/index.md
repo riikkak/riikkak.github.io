@@ -38,7 +38,8 @@ Teemat:
 1. Utseende
 1. Kläder
 1. Familj och släktingar
-1. Kieliopissa:
+
+Kieliopissa:
 
 1. Sivulause
 1. Verbit
