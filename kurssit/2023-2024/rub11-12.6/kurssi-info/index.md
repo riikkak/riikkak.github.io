@@ -87,22 +87,27 @@ Ohjattujen kirjoitustehtävien plussana olevien puhtaaksikirjoituksen deadline o
 
 **Muuta huomioitavaa**
 
-•	Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös myös extraplussat. Läksyjen teko vaikuttaa arvosanaan niin nousevasti, kuin laskevastikin.
-•	Digikirjasta olemme valinneet sellaiset tehtävät, jotka tukevat oppimista parhaiten. (yhteensä vain n. 25-30% koko digikirjan tehtävistä)
-•	EXTRAPLUSSAT eivät ole pakollisia tehtäviä, mutta niitä kannattaa tehdä, jos on voimia ja ajankäyttö sallii. MUTTA, jos ei koskaan tee yhtään extraa, on vaikea tavoittaa huipputuloksia tai yltää omaan parhaaseesi.
-•	Extrat ovat se ratkaiseva tekijä millä ylletään ysiin, kymppiin, eximiaan ja laudaturiin. Jos olet esim. seiskan tai kasin saaja, voit hyvin helposti nostaa osaamistasi ja arvosanaa numerolla tekemällä extroja. Extralla kerrataan opittua ja kertaus on opintojen äiti :D
-•	Tee se mitä tarvitsee yltääksesi omaan henkilökohtaiseen tavoitteeseesi.
-•	**Jos jokin asia jää mietityttämään suorituksissa, älä murehdi yksin tai kuuntele huhupuheita. Kysy opelta! **
+- **Työ- ja teemavihko, sekä arvioitavat tuotokset tehtävä lyijykynällä!**
+- Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös myös extraplussat. Läksyjen teko vaikuttaa arvosanaan niin nousevasti, kuin laskevastikin.
+- Digikirjasta olemme valinneet sellaiset tehtävät, jotka tukevat oppimista parhaiten. (yhteensä vain n. 25-30% koko digikirjan tehtävistä)
+- EXTRAPLUSSAT eivät ole pakollisia tehtäviä, mutta niitä kannattaa tehdä, jos on voimia ja ajankäyttö sallii. MUTTA, jos ei koskaan tee yhtään extraa, on vaikea tavoittaa huipputuloksia tai yltää omaan parhaaseesi.
+- Extrat ovat se ratkaiseva tekijä millä ylletään ysiin, kymppiin, eximiaan ja laudaturiin. Jos olet esim. seiskan tai kasin saaja, voit hyvin helposti nostaa osaamistasi ja arvosanaa numerolla tekemällä extroja. Extralla kerrataan opittua ja kertaus on opintojen äiti :D
+- Tee se mitä tarvitsee yltääksesi omaan henkilökohtaiseen tavoitteeseesi.
+- **Jos jokin asia jää mietityttämään suorituksissa, älä murehdi yksin tai kuuntele huhupuheita. Kysy opelta!**
 
 ## Vihkojen arviointi
-•	Työvihkosta arvosana 4-10
-•	Pakolliset moduulin aikana yhteisesti tehdyt tehty vaatimusten mukaan: 9 (hyvä)
-•	Kaikki tehtävät tehty: 9-10 (kiitettävä ja erinomainen)
-•	10+ erityisen huolella tehty ja opiskelujälki näkyy monella tapaa
-•	Teemavihko arvioidaan asteikolla ok-, ok, ok+
+
+- Työvihkosta arvosana 4-10
+- Pakolliset moduulin aikana yhteisesti tehdyt tehty vaatimusten mukaan: 9 (hyvä)
+- Kaikki tehtävät tehty: 9-10 (kiitettävä ja erinomainen)
+- 10+ erityisen huolella tehty ja opiskelujälki näkyy monella tapaa
+- Teemavihko arvioidaan asteikolla ok-, ok, ok+
 
 ## Arvosana 4
-Nelonen on ansaittava ja edellyttää jo melko paljon osaamista osaamista.
-Mikäli moduulin osasuorituksista liian moni (kts. yllä) jäävät alle arvosanan 4-, ei kurssista voi antaa arvosanaa vaan moduuli katsotaan keskeytyneeksi (K) Keskeytynyt moduuli on suoritettava alusta asti uudelleen. Arvosanan saamiseksi ei riitä läsnäolo, vaan opetukseen on osallistuttava ja kaikki vaadittavat suoritukset (kts. yllä) tehtävä ajallaan.
-OHJEET PARI- JA RYHMÄTYÖSKENTELYYN
+
+- Nelonen on ansaittava ja edellyttää jo melko paljon osaamista osaamista.
+- Mikäli moduulin osasuorituksista liian moni (kts. yllä) jäävät alle arvosanan 4-, ei kurssista voi antaa arvosanaa vaan moduuli katsotaan keskeytyneeksi (K) Keskeytynyt moduuli on suoritettava alusta asti uudelleen.
+- Arvosanan saamiseksi ei riitä läsnäolo, vaan opetukseen on osallistuttava ja kaikki vaadittavat suoritukset (kts. yllä) tehtävä ajallaan.
+  
+### OHJEET PARI- JA RYHMÄTYÖSKENTELYYN
 Ole läsnä, kuuntele, kommentoi. Auta kaveria, korjaa, kaveri toistaa korjatun sanan/fraasin. Olette vastuussa toinen toistenne oppimisesta. Jos kaveri ei keskity, huomauta asiasta. Ääntötehtävissä paino aina ääntämisellä, kääntäminen tulee toisella sijalla.
