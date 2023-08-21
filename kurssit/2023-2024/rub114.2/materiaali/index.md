@@ -7,7 +7,7 @@ published: true
 ### Tarkistukset
 
 - [Läsförståelse - Lumpen](/media/rub10.4/Lumpen_LF_facit.pdf)
-- [Hörförståelse - Udda spartips](/media/rub10.4/Uddaspartips_kuuntelu_vastaukset.pdf)
+- [Hörförståelse - Udda spartips](/media/rub10.4/Spartips_kuuntelu_vastaukset.pdf)
 - [Boende - sanakoe](/media/rub10.4/Boende.pdf)
 - [Relationer - sanakoe](/media/rub10.4/Relationer.pdf)
   
