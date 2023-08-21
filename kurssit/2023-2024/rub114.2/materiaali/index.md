@@ -8,6 +8,9 @@ published: true
 
 - [Läsförståelse - Lumpen](/media/rub10.4/Lumpen_LF_facit.pdf)
 - [Hörförståelse - Udda spartips](/media/rub10.4/Uddaspartips_kuuntelu_vastaukset.pdf)
+- [Boende - sanakoe](/media/rub10.4/Boende.pdf)
+- [Relationer - sanakoe](/media/rub10.4/Relationer.pdf)
+  
 ### Grammatik
 
 - [Liikkuvat määreet](https://quizlet.com/_44j30j?x=1jqt&i=dz01n)
