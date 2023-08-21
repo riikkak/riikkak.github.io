@@ -8,7 +8,7 @@ tags: rub11-12.6 läksyt
 
 1. Tee työvihkon s. 21.
 
-2. Muista että digipaketti 1 tulee olla tehtynä huomisiltaan klo 21 mennessä.
+2. Muista että digipaketti 1 tulee olla tehtynä huomisiltaan klo 21 mennessä. Kurssin aikataulusta nettisivulta löydät minkä aihepiirien tehätävät siihen kuuluvat. Itse tehtävät on lueteltuna teemavihkon alussa "opintokortilla".
 
 **POISSAOLIJAT:**
 
