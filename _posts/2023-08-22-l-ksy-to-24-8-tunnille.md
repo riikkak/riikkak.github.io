@@ -6,7 +6,7 @@ tags: rub11-12.6 läksyt
 ---
 **PAKOLLISET:**
 
-Täytä työvihkoon tekstin 2 fraasit s. 10. 
+Kuuntele teksti 2 digikirjasta ja täytä sitten työvihkoon tekstin 2 fraasit s. 10. 
 
 **PLUSSA:**
 
