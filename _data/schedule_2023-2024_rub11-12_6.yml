@@ -21,18 +21,18 @@
   grammar: kysymyssanat ja kysymyslause
 - date: ma 28.8.
   title: Temaord - Fritid
-  grammar: päälause
+  grammar: kysymyssanat ja kysymyslause
 - date: ti 29.8.
   title: Temaord - Fritid, ajanilmaukset
   grammar: päälause
 - date: to 31.8.
   title: Harjoituksia
-  grammar: sivulause
+  grammar: päälause
   other: kuuntelukoe 1 
 - date: ma 4.9.
   title: Harjoituksia
   grammar: sivulause
-  other: Kirjoitelma 1, Suullinen tehtävä - palautus
+  other: Kirjoitelma 1
 - date: ti 5.9.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
   grammar: päälause + sivulause
@@ -40,6 +40,7 @@
 - date: to 7.9.
   title: Text 4 vanhana
   grammar: prepositiokertaus
+  other: Suullinen tehtävä - palautus
 - date: ma 11.9.
   title: Temaord - mat
   grammar: prepositiokertaus
