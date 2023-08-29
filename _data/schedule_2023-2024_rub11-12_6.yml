@@ -23,10 +23,10 @@
   title: Temaord - Fritid
   grammar: kysymyssanat ja kysymyslause
 - date: ti 29.8.
-  title: Temaord - Fritid, ajanilmaukset
+  title: Temaord - Fritid 
   grammar: päälause
 - date: to 31.8.
-  title: Harjoituksia
+  title: Ajanilmaukset
   grammar: päälause
   other: kuuntelukoe 1 
 - date: ma 4.9.
@@ -35,11 +35,11 @@
   other: Kirjoitelma 1
 - date: ti 5.9.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
-  grammar: päälause + sivulause
+  grammar: sivulause
   other: DIGI 2, Tema Fritid, Text 2, kysymyslause, päälause
 - date: to 7.9.
   title: Text 4 vanhana
-  grammar: prepositiokertaus
+  grammar: päälause + sivulause
   other: Suullinen tehtävä - palautus
 - date: ma 11.9.
   title: Temaord - mat
