@@ -14,5 +14,6 @@ Poissaolijat saavat monisteen opelta maanantaina tai jos haluaa tehdä tehtävä
 
 Maanantain tunnilla on ensimmäinen kirjoitelma. Aiheina teemasananstoista Sverige ja Fritid, kieliopista kirjoitelmassa tulee osata käyttää lukusanailmaisuja, päälauseen suoraa ja käänteistä sanajärjestystä,  sekä ajanilmaisuja. Ei vaadi etukäteisvalmistautumista jos olet ollut oppitunneila, halutessasi voit **kevyesti silmäillä** aihepiirit läpi.
 
+**POISSAOLIJAT:**
 
-
+Täytä työvihkoon ajailmaisut sivu ja pyydä tarkistuskuva kaverilta.
