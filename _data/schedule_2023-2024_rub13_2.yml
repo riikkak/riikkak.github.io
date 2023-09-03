@@ -28,10 +28,10 @@
   other: Kirjoitelma 1
 - date: to 31.8.
   title: Temaord - musik
-  grammar: annan, själv, hela, båda
-- date: ma 4.9.
-  title: Text 3, musik
   grammar: någon, ingen, alla
+- date: ma 4.9.
+  title: Temaord musik
+  grammar: annan, själv, hela, båda
 - date: ke 6.9.
   title: Litteratur och film
   grammar: varje
