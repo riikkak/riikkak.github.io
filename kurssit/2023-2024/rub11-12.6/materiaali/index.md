@@ -8,6 +8,8 @@ published: true
 
 -Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
+**[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
+
 ### Quizletit
 
 - [Text 1 - fraser](https://quizlet.com/_a2zbi1?x=1qqt&i=dz01n)
