@@ -9,6 +9,8 @@ published: true
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
+- **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
+
 
 ### Quizlet - flashcardsit
 
