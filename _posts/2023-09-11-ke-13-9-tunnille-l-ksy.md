@@ -9,8 +9,8 @@ tags: rub13.2 läksyt
 1. Täytä loppuun työvihkon s. 10 tekstin 2 fraasit.
 2. Keskiviikkon iltaan klo 21.00 mennessä on DIGI 3-paketin deadline (aikataulussa näkyvät aiheet, kaikki käyty jo).
 
-POISSAOLIJAT:
-
+**POISSAOLIJAT:
+**
 1. Kuuntele, lue ja suomenna teksti 2, pyydä merkinnät.
 
 2. Täytä työvihkon s. 31, pyydä merkinnät.
