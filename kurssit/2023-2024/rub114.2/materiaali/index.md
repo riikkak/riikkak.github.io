@@ -11,6 +11,10 @@ published: true
 - [Boende - sanakoe](/media/rub10.4/Boende.pdf)
 - [Relationer - sanakoe](/media/rub10.4/Relationer.pdf)
 - [Adjektiivin lisäharjoitus](/media/rub10.4/Adjektiivi_extraharjoitus.pdf)
+- [Ajanilmaisut](/media/rub10.4/Ajanilmaisut.pdf)
+- [Työvihkon prepositio sivut](/media/rub10.4/Prepositiot_vihko.pdf)
+- [Adverbit lisämoniste](/media/rub10.4/Adverbit.pdf)
+- [Prepositiot lisämoniste](/media/rub10.4/Prepositiot_extra.pdf)
   
 ### Grammatik
 
