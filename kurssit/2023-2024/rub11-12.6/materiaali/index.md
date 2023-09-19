@@ -30,6 +30,8 @@ published: true
 
 **[Uttal tarkistus vihkot 1 ja 2](/media/rub2/Uttal_facit.pdf)**
 
+**[Verbien harjoituskoe](/media/rub2/Verbikoe_harjoitus.pdf)**
+
 **[Verbikertaus vastaukset](/media/rub1/Verbikertaus_vastaukset.pdf)**
 
 **[Text 1 harjoitussanakokeen vastaukset](/media/rub1/Text1_harjoitussanakoe.pdf)**
