@@ -13,7 +13,9 @@ Koe on vastaava kuin tunnilla jaettu Träna till verbprov-harjoitus.
 
 **PLUSSA:**
 
-Tee Träna till verbprov-moniste ja TARKASTA JA KORJAA VIRHEET ERIVÄRISELLÄ KYNÄLLÄ, vastaukset löydät materiaalit-sivulta.
+1. Tee Träna till verbprov-moniste ja TARKASTA JA KORJAA VIRHEET ERIVÄRISELLÄ KYNÄLLÄ, vastaukset löydät materiaalit-sivulta.
+
+2. Teemavihkon s. 6, kirjoita halutessasi kaksi lyhyttä viestiä. 0-4 plussapistettä.
 
 **POISSAOLIJAT:**
 
