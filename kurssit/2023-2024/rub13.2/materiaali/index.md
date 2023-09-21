@@ -53,6 +53,8 @@ published: true
 
 **[Tienneuvominen - facit](/media/rub3/Tienneuvominen.pdf)**
 
+**[Sanastokertaus - tarkistus](/media/rub3/Sanastokertaus.pdf)**
+
 ### Päättöviikko
 
 - [Päättöpäivän tarkka kertausohje](/media/rub3/Kertausohje_pitkä.pdf)
