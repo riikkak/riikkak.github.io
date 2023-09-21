@@ -62,4 +62,4 @@ published: true
 
 **[Päättöpäivä 2 ohjeet](/media/rub2/Koeviikko_rub12.pdf)**
 
-**[Päättöpäivä 1 ohjeet](/media/rub2/Paattopaiva_ohjeet.pdf)**
+**[Päättöpäivä 1 ohjeet](/media/rub2/Paattopaiva1_ohjeet.pdf)**
