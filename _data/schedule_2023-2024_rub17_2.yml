@@ -1,65 +1,61 @@
 - date: ti 3.10.
-  title: Kurssi-info
-  grammar: peruskieliopin kertaus
+  title: Moduulin sisältö ja arvioinnin perusteet, Tema - natur
+  grammar: kertausta
 - date: ke 4.10.
-  title: Tema - Natur
+  title: Tema - natur
   grammar: adverbit
 - date: pe 6.10.
-  title: Tema - Natur
+  title: Tema - natur
   grammar: adverbit
 - date: ti 10.10.
-  title: Tema - Natur
+  title: Tema - social och ekonomisk hållbarhet 
   grammar: adverbit
+  other: Sanakoe natur
 - date: ke 11.10.
-  title: Tema - Natur
+  title: Tema - social och ekonomisk hållbarhet 
   grammar: prepositiot
 - date: pe 13.10.
-  title: Tema - Social och ekonomisk hållbarhet 
+  title: Tema - social och ekonomisk hållbarhet
   grammar: prepositiot
-  other: Sanakoe 1 - tema Natur
 - date: ti 17.10.
-  title: Tema - Social och ekonomisk hållbarhet
-  grammar: prepositiot
+  title: Harjoituksia
+  other: Kirjoitelma 1 + kuuntelu 1
 - date: ke 18.10.
-  title: Tema - Social och ekonomisk hållbarhet
-  grammar: genetiivi
-  other: Kirjoitelma 1
+  title: Tema - miljö
+  grammar: prepositiot
 - date: pe 20.10.
-  title: Tema - Miljö
-  grammar: genetiivi
+  title: Tema - miljö
+  grammar: partisiipin perfekti
 - date: 23. - 27.10.
   title: HÖSTLOV
 - date: ti 31.10.
-  title: Tema - Miljö
-  grammar: genetiivi
+  title: Tema - miljö 
+  grammar: partisiipin perfekti
 - date: ke 1.11.
   title: ABIDAGEN på Linnanmaa
 - date: pe 3.11.
-  title: Tema - Miljö 
-  grammar: lauseenvastikkeet
-  other: Kuuntelu  1
-- date: ti 7.11.
-  title: Temaord - Trafik
-  grammar: lauseenvastikkeet
-  other: Sanakoe 2- tema Miljö
-- date: ke 8.11.
-  title: Temaord - Trafik
-  grammar: lauseenvastikkeet
-  other: Sanakoe - miljö
-- date: pe 10.11.
-  title: Temaord - Trafik
+  title: Tema - trafik 
   grammar: partisiipin perfekti
+  other: Sanakoe - miljö
+- date: ti 7.11.
+  title: Tema- trafik
+  grammar: genetiivi
+- date: ke 8.11.
+  title: Temaord - trafik
+  grammar: genetiivi
+- date: pe 10.11.
+  title: Temaord - brott och straff
+  grammar: genetiivi
   other: Suullisen tehtävän palautus Flipiin klo 16 mennessä
 - date: ti 14.11.
-  title: Temaord - Brott och straff
-  other: partisiipin perfekti
+  title: Temaord - brott och straff
+  other: lauseenvastikkeet
 - date: ke 15.11.
-  title: Temaord - Brott och straff
-  other: partisiipin perfekti
+  title: Självständigt arbete
 - date: pe 17.11.
-  title: Temaord - Brott och straff
-  grammar: partisiipin perfekti
-  other: Kuuntelu 2
+  title: Harjoituksia
+  grammar: lauseenvastikkeet
+  other: Kirjoitelma 2 + Kuuntelu 2
 - date: ti 21.11.
   title: Tema - framtiden
 - date: to 30.11.
