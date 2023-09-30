@@ -4,12 +4,7 @@ title: Kurssi-info
 course: rub11-12.8
 published: true
 ---
----
-layout: content-main
-title: Kurssi-info
-course: rub11-12.6
-published: true
----
+
 # Välkommen!
 
 Moduulin arviointi perustuu aina ensisijaisesti läsnäoloon (fyysinen ja henkinen) oppitunneilla, sekä niiden aikana tapahtuvan työskentelyn eri osa-alueisiin.
