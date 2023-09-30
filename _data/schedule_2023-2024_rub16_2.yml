@@ -1,21 +1,23 @@
 - date: ti 3.10.
-  title: Uppvärmning, väder
+  title: Allmän kursinfo + Uppvärmning
 - date: to 5.10.
   title: Resor
 - date: pe 6.10.
   title: Resor
 - date: ti 10.10.
-  title: Att visa vägen
+  title: Resor - väder
 - date: to 12.10.
-  title: Resor
-  other: Ordprov - Resor
+  title: Resor - Att visa vägen
 - date: pe 13.10.
   title: Hälsa och välmående
+  other: Ordprov - Resor
 - date: ti 17.10.
   title: Hälsa och välmående
 - date: to 19.10.
-  title: VALBORG
+  title: Hälsa och välmående
 - date: pe 20.10.
+  title: Övningar
+  other: Hörförståelseprov 1
 - date: 23.-27.10.
   title: HÖSTLOV
 - date: ti 31.10.
@@ -25,21 +27,22 @@
 - date: pe 3.11.
   title: Relationer
 - date: ti 7.11.
-  title: Att bli vuxen
-  other: Ordprov - relationer, HF resor + relationer
+  title: Relationer 
+  other: Ordprov - relationer
 - date: to 9.11.
-  title: Politik och samhälle
+  title: Att bli vuxen
 - date: pe 10.11.
   title: Politik och samhälle
 - date: ti 14.11.
-  title:
-  other:
+  title: Politik och samhälle
 - date: to 16.11.
-  title:
+  title:  Politik och samhälle
 - date: pe 17.11.
-  title:
+  title: Politik och samhälle
+  other: Orprov - politik och samhälle
 - date: ti 21.11.
-  title: 
+  title: Övningsprov
+  other: Hörföståelseprov 2
 - date: ti 28.11.
   title: Päättöpäivä kesto 45 min. per pari
   other: Suullinen koe parin kanssa erikseen sovittuna aikana
