@@ -12,7 +12,7 @@ published: true
 - [Prepositioilmaisut](https://quizlet.com/_d6efr8?x=1jqt&i=dz01n)
 - [Temaord - trafik](https://quizlet.com/834750831/temaord-trafik-flash-cards/?i=dz01n&x=1jqt)
 - [Temaord - social och ekonomisk hållbarhet](https://quizlet.com/834754228/temaord-social-och-ekonomisk-hallbarhet-flash-cards/?i=dz01n&x=1jqt)
-
+- [Temaord - brott och straff](https://quizlet.com/834755758/temaord-brott-och-straff-flash-cards/?i=dz01n&x=1jqt)
 
 ## Testa dig själv-tehtävien tarkistukset
 
