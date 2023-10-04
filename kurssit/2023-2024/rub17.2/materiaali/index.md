@@ -8,7 +8,11 @@ published: true
 ## Quizletit
 
 - [Natur - fraser](https://quizlet.com/_bfstah?x=1jqt&i=dz01n)
+- [Miljö - fraser](https://quizlet.com/834750196/miljo-fraser-flash-cards/?i=dz01n&x=1qqt)
 - [Prepositioilmaisut](https://quizlet.com/_d6efr8?x=1jqt&i=dz01n)
+- [Temaord - trafik](https://quizlet.com/834750831/temaord-trafik-flash-cards/?i=dz01n&x=1jqt)
+- [Temaord - social och ekonomisk hållbarhet](https://quizlet.com/834754228/temaord-social-och-ekonomisk-hallbarhet-flash-cards/?i=dz01n&x=1jqt)
+
 
 ## Testa dig själv-tehtävien tarkistukset
 
