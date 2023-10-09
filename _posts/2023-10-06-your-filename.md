@@ -14,5 +14,5 @@ Tee työvihkon s. 5. Hae laatikoihin tietoa ruotsalaisista asioista suomeksi. Pa
 
 POISSAOLIJAT:
 
-1. Pyydä kaveritla merkinnät tekstiin 1 ja tee ne.
+1. Pyydä kaverilta merkinnät tekstiin 1 ja tee ne.
 2. Tee työvihkon s. 18 yläosa.
