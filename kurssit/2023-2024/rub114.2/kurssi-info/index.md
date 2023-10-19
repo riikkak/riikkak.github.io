@@ -18,4 +18,4 @@ Hyväksytyn suorituksen edellytyksenä:
 
 Moduulissa painotetaan sanastoa ja kielioppia. Kertaamme niitä aihepiirejä, joissa eniten on hankaluuksia ja joita YTL tarkkailee.
 
-Koska kurssi on työkurssi, on läsnäolo oppitunneilla pakollista. Poissaoloraja on 2 oppituntia. Jos olet pois, ole yhteydessä opettajaan. Poissaoloja "korvataan" vain pätevästä syystä.
+Koska kurssi on läsnäoloon perustuva työkurssi, jossa lähes kaikki työ tehdään oppituntien aikana, on suotavaa, että poissaoloja kertyy maksimissaan 2 oppituntia. Tunteja ei pääsääntöisesti voi korvata erillisillä tehtävillä. Jos poissaoloja on enemmän, on kurssin suorittamisesta keskusteltava opettajan kanssa. Inhimilliset syyt kuten sairastuminen ovat toki mahdollisia, näissä tapauksissa neuvottele välittömästi sairauden alettua opettajan kanssa jatkosta. 
