@@ -5,7 +5,7 @@ course: rub16.2
 published: true
 ---
 
-Kurssin RUB16 (suullisen kielitaidon kurssi) **arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden aikana tapahtuvaan työskentelyyn**. Koska kurssi on läsnäoloon perustuva työkurssi, saa **poissaoloja kertyä maksimissaan 2 tuntia**, oli poissaolon syy mikä hyvänsä. Tunteja ei pääsääntöisesti voi korvata erillisillä tehtävillä. Jos poissaoloja on enemmän, kurssi keskeytyy. Inhimilliset syyt kuten sairastuminen ovat toki mahdollisia. Näissä tapauksissa neuvottele välittömästi sairauden alettua opettajan kanssa jatkosta.
+Kurssin RUB16 (suullisen kielitaidon kurssi) **arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden aikana tapahtuvaan työskentelyyn**. Koska kurssi on läsnäoloon perustuva työkurssi, jossa työ tehdään pääosin parin kanssa keskustellen, on suotavatavaa, että poissaoloja on maksimissaan 2 oppituntia. Tunteja ei pääsääntöisesti voi korvata erillisillä tehtävillä. Jos poissaoloja on enemmän, on kurssin suorittamisesta keskusteltava opettajan kanssa. Inhimilliset syyt kuten sairastuminen ovat toki mahdollisia, näissä tapauksissa neuvottele välittömästi sairauden alettua opettajan kanssa jatkosta.
 
 **Arviointiin kuuluu:**
 
