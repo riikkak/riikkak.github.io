@@ -10,8 +10,7 @@ published: true
 Moduulin arviointi perustuu aina ensisijaisesti läsnäoloon (fyysinen ja henkinen) oppitunneilla, sekä niiden aikana tapahtuvan työskentelyn eri osa-alueisiin.
 
 - Jos sinulla on erityisen tuen suunnitelma ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin ensimmäisellä oppitunnilla! Tukitoimia ei järjestetä ilman tätä ilmoitusta.
-- REKin oppitunnit ovat kännykätöntä aikaa, laita puhelin laukkuusi jo luokkaan saapuessasi. Pipot, lippikset ja päällysvaatteet eivät kuulu päälle sisätiloissa. Opettelemme myös hyviä tapoja ja yleissivistystä.
-- Oppitunnit ovat opiskelua varten, hoidathan siis vessakäynnit välitunnilla. Hammaslääkärit, kampaajat ja fysioterapiat varataan muihin ajankohtiin kuin oppituntien päälle.
+- REKin oppitunnit ovat kännykätöntä aikaa, laitathan siis puhelimen laukkuusi jo luokkaan saapuessasi. Pipot, lippikset ja päällysvaatteet eivät kuulu päälle sisätiloissa. Opettelemme myös hyviä tapoja ja yleissivistystä.
 
 Kun olet läsnä fyysisesti ja henkisesti, oppimista ei voi estää ja kotonatehtävän työn määrä on erittäin kohtuullinen.
 
@@ -55,15 +54,14 @@ Kieliopissa:
 
 ## Poissaolot
 
-- Jos olet sairaana, tai muusta pätevästä syystä poissa arvioitavan suorituksen päivänä, hoida oma-aloitteisesti uuden ajan sopiminen suoritukselle (kasvotusten / Wilma-viestillä, ehdota valmiiksi aikoja). Jos et hoida itse suorituksellesi uutta aikaa, suorituksestasi annetaan 0 pistettä.
+- Jos olet sairaana, tai muusta pätevästä syystä poissa arvioitavan suorituksen päivänä, hoida oma-aloitteisesti uuden ajan sopiminen suoritukselle (kasvotusten / Wilma-viestillä, ehdota valmiiksi aikoja).
 - Sanakokeet, kuuntelut ja kirjoitelmat on oltava tehtynä periodin viimeiseen oppituntiin mennessä.
 - **Suullisten tehtävien deadline on sitova, myöhästyneet palaukset 0p**. Jos sinulla on pätevä syy (leirillä olo, vakava sairastuminen), huolehdi että sovit arvioitavan tehtävän teosta opettajan kanssa. Lomamatka ei ole pätevä syy siirtää palautuspäivää.
-- Poissaolotunneilta tulee hoitaa tehdyksi sekä tunnin aikana tehdyt tehtävät, että kotitehtävät. EI KORVAAVIA TEHTÄVIÄ! Pyydä jonkun ryhmäläisen (selväkäsialaisen!) yhteistiedot heti kurssin alussa, jotta voit pyytää muistiinpanot merkinnöistä.
+- Poissaolotunneilta tulee hoitaa tehdyksi sekä tunnin aikana tehdyt tehtävät, että kotitehtävät. EI OLE ERILLISIÄ KORVAAVIA TEHTÄVIÄ. Pyydä jonkun ryhmäläisen (selväkäsialaisen ;)) yhteystiedot heti kurssin alussa, jotta voit pyytää muistiinpanot merkinnöistä.
 
 ### Pidemmät poissaolot
 
 Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saattaa opettajan tietoon kurssin ensimmäisellä tunnilla, jotta voidaan sopia tehtävistä ja aikataulusta.
-Opintojakson aiheet:
 
 ## Arviointi
 
@@ -96,7 +94,7 @@ Ohjattujen kirjoitustehtävien plussana olevien puhtaaksikirjoituksen deadline o
 
 - **Työ- ja teemavihko, sekä arvioitavat tuotokset tehtävä lyijykynällä!**
 - Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös myös extraplussat. Läksyjen teko vaikuttaa arvosanaan niin nousevasti, kuin laskevastikin.
-- Digikirjasta olemme valinneet sellaiset tehtävät, jotka tukevat oppimista parhaiten. (yhteensä vain n. 25-30% koko digikirjan tehtävistä)
+- Digikirjasta olemme valinneet sellaiset tehtävät, jotka tukevat oppimista parhaiten. 
 - EXTRAPLUSSAT eivät ole pakollisia tehtäviä, mutta niitä kannattaa tehdä, jos on voimia ja ajankäyttö sallii. MUTTA, jos ei koskaan tee yhtään extraa, on vaikea tavoittaa huipputuloksia tai yltää omaan parhaaseesi.
 - Extrat ovat se ratkaiseva tekijä millä ylletään ysiin, kymppiin, eximiaan ja laudaturiin. Jos olet esim. seiskan tai kasin saaja, voit hyvin helposti nostaa osaamistasi ja arvosanaa numerolla tekemällä extroja. Extralla kerrataan opittua ja kertaus on opintojen äiti :D
 - Tee se mitä tarvitsee yltääksesi omaan henkilökohtaiseen tavoitteeseesi.
