@@ -18,4 +18,5 @@ published: true
 
 - [Prepositiotehtävän tarkistus](/media/rub7/Prepositiot_plussa.pdf)
 - [Natur harjoitussanakokeen tarkistus](/media/rub7/Natur_harjoitussanis.pdf)
+- [Miljö harjoitussanakokeen tarkistus](/media/rub7/Miljo_harjoitussanis.pdf)
 - [Social och ekonomisk hållbarhet harjoitussanakokeen tarkistus](/media/rub7/Hallbarhet_sanis.pdf)
