@@ -23,4 +23,6 @@ published: true
 - [Miljö harjoitussanakokeen tarkistus](/media/rub7/Miljo_harjoitussanis.pdf)
 - [Social och ekonomisk hållbarhet harjoitussanakokeen tarkistus](/media/rub7/Hallbarhet_sanis.pdf)
 - [Brott och straff harjoitussanankokeen tarkistus](/media/rub7/Brott och straff_harjoitussanis.pdf)
+- [Trafik harjoitussanakokeen tarkistus](/media/rub7/Trafik_harjoitussanis.pdf)
 - [Adverbit ja prepositiotfraasit tarkistus](/media/rub7/Adverbit_prepositiot.pdf)
+
