@@ -18,11 +18,18 @@ published: true
 
 ## Testa dig själv-tehtävien tarkistukset
 
-- [Prepositiotehtävän tarkistus](/media/rub7/Prepositiot_plussa.pdf)
+**SANASTO**
+
 - [Natur harjoitussanakokeen tarkistus](/media/rub7/Natur_harjoitussanis.pdf)
 - [Miljö harjoitussanakokeen tarkistus](/media/rub7/Miljo_harjoitussanis.pdf)
 - [Social och ekonomisk hållbarhet harjoitussanakokeen tarkistus](/media/rub7/Hallbarhet_sanis.pdf)
 - [Brott och straff harjoitussanankokeen tarkistus](/media/rub7/Brott och straff_harjoitussanis.pdf)
 - [Trafik harjoitussanakokeen tarkistus](/media/rub7/Trafik_harjoitussanis.pdf)
-- [Adverbit ja prepositiotfraasit tarkistus](/media/rub7/Adverbit_prepositiot.pdf)
 
+**KIELIOPPI**
+
+- [Prepositiotehtävän tarkistus](/media/rub7/Prepositiot_plussa.pdf)
+- [Adverbit ja prepositiotfraasit tarkistus](/media/rub7/Adverbit_prepositiot.pdf)
+- [Partisiipin preesens tarkistus](/media/rub7/Partisiipit_plussa.pdf)
+- [Genetiivit tarkistus](/media/rub7/Genetiivi_plussa.pdf)
+- [Lauseenvastikkeet tarkistus](/media/rub7/Lauseenvastikkeet_plussa.pdf)
