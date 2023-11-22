@@ -1,4 +1,4 @@
-{% assign columns = 3 %}
+{% assign columns = 4 %}
 <table class="table table-bordered table-striped">
     <thead>
     <tr>
@@ -12,6 +12,7 @@
         <th>Etukäteistehtävä</th>
         {% assign columns = columns | plus: 1 %}
         {% endif %}
+        <th>Digitehtävät</th>
         <th>Muuta</th>
     </tr>
     </thead>
@@ -44,6 +45,7 @@
         {% if include.prework %}
         <td>{{ event.prework }}</td>
         {% endif %}
+        <td>{{ event.digi }}</td>
         <td itemprop="description">{{ event.other }}</td>
         {% else %}
         <td colspan="{{ columns }}" style="text-align: center">
