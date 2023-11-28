@@ -5,114 +5,69 @@ course: rub11-12.8
 published: true
 ---
 
-# Välkommen!
+# Opintojakson arviointi ja suoritusohjeet
+Lukiolain, LOPS2021 perusteiden sekä paikallisen opsin (Oulun kaupunki) pohjalta:
 
-Moduulin arviointi perustuu aina ensisijaisesti läsnäoloon (fyysinen ja henkinen) oppitunneilla, sekä niiden aikana tapahtuvan työskentelyn eri osa-alueisiin.
+**Opiskelijan velvollisuudet**
 
-- Jos sinulla on erityisen tuen suunnitelma ja mahdollisesti myönnetty lisäaika, ilmoita siitä opettajalle heti kurssin ensimmäisellä oppitunnilla! Tukitoimia ei järjestetä ilman tätä ilmoitusta.
-- REKin oppitunnit ovat kännykätöntä aikaa, laitathan siis puhelimen laukkuusi jo luokkaan saapuessasi. Pipot, lippikset ja päällysvaatteet eivät kuulu päälle sisätiloissa. Opettelemme myös hyviä tapoja ja yleissivistystä.
+_Opiskelijalla on velvollisuus osallistua opetukseen, jollei hänen poissaololleen ole perusteltua syytä. Koulutuksen järjestäjä päättää opiskelijan poissaoloa koskevista menettelyistä. Opiskelijan on suoritettava tehtävänsä tunnollisesti ja käyttäydyttävä asiallisesti. (Lukiolaki 30 §)_
 
-Kun olet läsnä fyysisesti ja henkisesti, oppimista ei voi estää ja kotonatehtävän työn määrä on erittäin kohtuullinen.
+## TAVOITTEET
 
-### Lukion ruotsin moduulit 1 ja 2 aiheittain
+_Opetuksessa tavoitellaan tilanteita, joissa opiskelija pääsee turvallisesti haastamaan oman osaamisensa rajoja. Oppitunneilla käytetään monipuolisia ja opiskelijakeskeisiä menetelmiä sekä tarjotaan merkityksellisiä, avoimia ja riittävän haastavia tehtäviä. Opetellaan käyttämään tehokkaasti erilaisia kielenopiskelustrategioita ja työvälineitä.
+Opiskelija kehittää kielenopiskelutaitojaan tunnistamalla itselleen sopivia strategioita oppia toista kotimaista kieltä ja arvioimalla oman oppimisensa edistymistä. Häntä ohjataan ymmärtämään monipuolisen kielitaidon merkitys jatko-opinnoissa ja työelämässä sekä kieli-identiteetin rakentamisessa. (LOPS 2021 perusteet)_
 
-**Moduuli 1**
+Toisen kotimaisen kielen opiskelu vahvistaa opiskelijan yhteiskunnallista osaamista. Ruotsin opintojen mahdollistamat taidot helpottavat opiskelijan siirtymistä jatko-opintoihin, työelämään ja kansalaisaktiivisuutta edellyttäviin tehtäviin. Opiskelija oppii ymmärtämään ja tuottamaan (suullisesti ja kirjallisesti) opintokokonaisuuden teemoihin liittyviä tehtäviä.
 
-Teemat:
+## ARVIOINTI
 
-Sverige
-Fritid
-Mat
+Arviointi Kastellin lukiossa on monipuolista, rakentavaa ja kannustaa opiskelijoita oppimiseen ja ponnistelemaan omista lähtökohdistaan parempaan.
 
-Kieliopissa:
+_Kunkin opintojakson arvioinnista päättää opiskelijan opettaja tai, jos opettajia on useita, opettajat yhdessä. (Lukiolaki 38 §)_
 
-Päälauseen sanajärjestys
-Kysymyssanat ja kysymyslause
-Lukusanat
+_Opiskelijan työskentelyä, oppimista ja osaamisen kehittymistä tulee arvioida monipuolisesti. Opiskelijan arvioinnilla pyritään ohjaamaan ja kannustamaan opiskelua sekä kehittämään opiskelijan edellytyksiä itsearviointiin. Opiskelijalla on oikeus saada tieto arvioinnissa käytettävistä arviointiperusteista ja niiden soveltamisesta häneen. Opiskelijalle on lukio-opintojen aikana annettava mahdollisuus itsearviointiin. (Lukiolaki 714/2018, 37 § 1 mom.)_
 
-**Moduuli 2**
+Arviointi on monipuolista ja tarkoituksenmukaisin menetelmin toteutettua. Opiskelijalla on opintojakson aikana erilaisia mahdollisuuksia, tilaisuuksia ja tapoja osoittaa oppimistaan ja osaamistaan. Arvioinnilla saatu tieto auttaa opettajia suuntaamaan opetustaan opiskelijoiden tarpeiden mukaisesti.
 
-Teemat:
+_Opiskelijan työskentelyä, oppimista ja osaamisen kehittymistä tulee arvioida opetussuunnitelman mukaisen opintojakson suorittamisen aikana suhteessa opintojaksolle asetettuihin tavoitteisiin. Opiskelijan tulee saada palautetta oppimisensa kehittymisestä. (Lukiolaki 714/2018, 37 § 2 mom.)_ 
 
-1. Mat
-1. Kompisar och vänner
-1. Skola
-1. Välbefinnande och hälsa
-1. Utseende
-1. Kläder
-1. Familj och släktingar
+Opintojakson arvosana perustuu monipuoliseen oppimisen, osaamisen ja opitun näyttöön. Arvioinnin kohteina ovat opiskelijan tiedot, taidot ja työskentely. Oppimista tukevaa palautetta annetaan pitkin opintojaksoa, jotta opiskelijalla on mahdollisuus kehittää sen perusteella opiskeluaan ja työskentelyään.
 
-Kieliopissa:
+**1.Arvioitavat suoritukset (arviointi)**
 
-1. Sivulause
-1. Verbit
-1. Substantiivit
-1. Adjektiivit
-1. Käskymuoto
-1. Persoonapronominit
-1. Prepositiot
+- sanakokeet (0-10)
+- kuuntelut (0-10)
+- ohjatut kirjoitustehtävät 
+- suulliset tehtävät 
+- verbikokeet RUB12, RUB14 (0-10)
+- päättöpäivän suoritukset (suullinen osuus, kielioppi, luetunymmärtäminen, käännöslauseet)
 
-## Poissaolot
+**2.	Muut arviointiin vaikuttavat osa-alueet**
 
-- Jos olet sairaana, tai muusta pätevästä syystä poissa arvioitavan suorituksen päivänä, hoida oma-aloitteisesti uuden ajan sopiminen suoritukselle (kasvotusten / Wilma-viestillä, ehdota valmiiksi aikoja).
-- Sanakokeet, kuuntelut ja kirjoitelmat on oltava tehtynä periodin viimeiseen oppituntiin mennessä.
-- **Suullisten tehtävien deadline on sitova, myöhästyneet palaukset 0p**. Jos sinulla on pätevä syy (leirillä olo, vakava sairastuminen), huolehdi että sovit arvioitavan tehtävän teosta opettajan kanssa. Lomamatka ei ole pätevä syy siirtää palautuspäivää.
-- Poissaolotunneilta tulee hoitaa tehdyksi sekä tunnin aikana tehdyt tehtävät, että kotitehtävät. EI OLE ERILLISIÄ KORVAAVIA TEHTÄVIÄ. Pyydä jonkun ryhmäläisen (selväkäsialaisen ;)) yhteystiedot heti kurssin alussa, jotta voit pyytää muistiinpanot merkinnöistä.
+- tuntiaktiivisuus (aktiivisuutta voi osoittaa viittaamisen lisäksi tehtävillä)
+- läksyt
+- 
+Oppimista tukee ja ohjaa formatiivinen arviointi. Palautteella kuvataan opiskelijan edistymistä suhteessa asetettuihin tavoitteisiin. Opintojakson aikainen palaute auttaa opiskelijaa ymmärtämään omaa oppimistaan, tunnistamaan vahvuuksiaan, korjaamaan virheitään ja kehittämään työskentelyään niin, että oppimiselle asetetut tavoitteet voivat toteutua.
 
-### Pidemmät poissaolot
-
-Ennalta tiedossa olevat poissaolot (lomamatkat, leirit jne) tulee saattaa opettajan tietoon kurssin ensimmäisellä tunnilla, jotta voidaan sopia tehtävistä ja aikataulusta.
-
-## Arviointi
-
-Opintojakson arviointi koostuu pienemmistä osasuorituksista, sekä muista arvioinnin osa-alueista. Sanakokeet, kuuntelut ja kirjoitelmat tehdään paperilla, tulos jaetaan siinä (lämmin suositus näyttää myös kotiväelle). Kirjoitelmien puhtaaksikirjoitus Emendediin ja suulliset tehtävät Flip-sovellukseen (palaute siellä). Moduulin suorittamisen jälkeen saat paperisen arviointiyhteenvedon, jossa näkyvät kaikki suorituksesi.
-
-**Arvioitavat suoritukset**
-
-1.	Sanakokeet
-2.	Kuuntelut
-3.	Ohjatut kirjoitusharjoitukset
-4.	Suulliset tehtävät ja suullinen koe/suullinen paritehtävä
-5.	DIGIKIRJAN TEHTÄVÄT (40p)
-6.	Kielioppikoe
-7.	Luetunymmärtämisen koe
-8.	Käännöslauseet
-   
-**Muut arviointiin vaikuttavat osa-alueet**
-
-1.	Tuntiaktiivisuus ja parityöskentely
-2.	Läksyt (pakollisten tehtävien teko on edellytys arvosanan saannille)
-3.	Plussatehtävät (läksyplussat, ylimääräiset suulliset/kirjoitukset, testitehtävät ym.)
-4.	Ruotsi-kansion täyttäminen ohjeistuksen mukaan
-5.	Muut mahdolliset lisätehtävät / pistarit
-6.	Sanakokeet, kuuntelut ja ohjatut kirjoitustehtävät on oltava tehtynä moduulin viimeiseen oppituntiin mennessä.
-   
-Ruotsi-kansio palautetaan arviointipäivänä.
-Ohjattujen kirjoitustehtävien plussana olevien puhtaaksikirjoituksen deadline on päättöpäivä.
-
-**Muuta huomioitavaa**
-
-- **Työ- ja teemavihko, sekä arvioitavat tuotokset tehtävä lyijykynällä!**
-- Läksyt tarkistetaan joka tunti (ope kiertää) ja merkataan ylös myös extraplussat. Läksyjen teko vaikuttaa arvosanaan niin nousevasti, kuin laskevastikin.
-- Digikirjasta olemme valinneet sellaiset tehtävät, jotka tukevat oppimista parhaiten. 
-- EXTRAPLUSSAT eivät ole pakollisia tehtäviä, mutta niitä kannattaa tehdä, jos on voimia ja ajankäyttö sallii. MUTTA, jos ei koskaan tee yhtään extraa, on vaikea tavoittaa huipputuloksia tai yltää omaan parhaaseesi.
-- Extrat ovat se ratkaiseva tekijä millä ylletään ysiin, kymppiin, eximiaan ja laudaturiin. Jos olet esim. seiskan tai kasin saaja, voit hyvin helposti nostaa osaamistasi ja arvosanaa numerolla tekemällä extroja. Extralla kerrataan opittua ja kertaus on opintojen äiti :D
-- Tee se mitä tarvitsee yltääksesi omaan henkilökohtaiseen tavoitteeseesi.
-- **Jos jokin asia jää mietityttämään suorituksissa, älä murehdi yksin tai kuuntele huhupuheita. Kysy opelta!**
-
-## Vihkojen arviointi
-
-- Työvihkosta arvosana 4-10
-- Pakolliset moduulin aikana yhteisesti tehdyt tehty vaatimusten mukaan: 9 (hyvä)
-- Kaikki tehtävät tehty: 9-10 (kiitettävä ja erinomainen)
-- 10+ erityisen huolella tehty ja opiskelujälki näkyy monella tapaa
-- Teemavihko arvioidaan asteikolla ok-, ok, ok+
-
-## Arvosana 4
-
-- Nelonen on ansaittava ja edellyttää jo melko paljon osaamista osaamista.
-- Mikäli moduulin osasuorituksista liian moni (kts. yllä) jäävät alle arvosanan 4-, ei kurssista voi antaa arvosanaa vaan moduuli katsotaan keskeytyneeksi (K) Keskeytynyt moduuli on suoritettava alusta asti uudelleen.
-- Arvosanan saamiseksi ei riitä läsnäolo, vaan opetukseen on osallistuttava ja kaikki vaadittavat suoritukset (kts. yllä) tehtävä ajallaan.
+- itse- ja vertaisarviointi (parityöskentely)
+- opettajan antama palaute (esim. tuntityöskentely, ääntämisohjeet, kotitehtävien ja tuotosten kommentointi)
+- suullisten tehtävien palaute
   
-### OHJEET PARI- JA RYHMÄTYÖSKENTELYYN
-Ole läsnä, kuuntele, kommentoi. Auta kaveria, korjaa, kaveri toistaa korjatun sanan/fraasin. Olette vastuussa toinen toistenne oppimisesta. Jos kaveri ei keskity, huomauta asiasta. Ääntötehtävissä paino aina ääntämisellä, kääntäminen tulee toisella sijalla.
+_Kielten opetuksessa opiskelijalta arvioidaan kielitaidon muiden osa-alueiden lisäksi suullinen kielitaito. Suullista kielitaitoa voidaan arvioida erillisellä kokeella. (Lukiolaki 714/2018, 37 § 4 mom.)_
+
+Osaamiselle ja oppimiselle asetettujen tavoitteiden saavuttamisen näkyväksi tekee summatiivinen arviointi. Osaamisen arviointi perustuu todennettuun näyttöön siitä, kuinka hyvin ja missä määrin opiskelija on saavuttanut opintojaksolle asetetut tavoitteet. 
+
+Sekä formatiiviseen että summatiiviseen arviointiin kuuluu opiskelijan työskentelyn arviointi, joka perustuu oppiaineissa määriteltyihin työskentelyn tavoitteisiin ja niiden saavuttamiseen. Suurin osa arvioinnista tapahtuu pienissä osissa periodin aikana, mikä vähentää kuormitusta päättöviikolla. Kuuntelut, ohjatut kirjoitustehtävät ja suulliset tehtävät eivät vaadi erillistä valmistautumista, koska arvioitava asia on opiskeltu perusteellisesti usean oppitunnin aikana. Sanakokeisiin ja verbikokeisiin on hyvä kerrata.
+
+**ARVOSANA 4**
+Arvosana 4 on ansaittava ja edellyttää jo melko paljon osaamista. Mikäli moduulin osasuoritusten keskiarvo jää alle arvosanan 4-, ei kurssista voi antaa arvosanaa. Arvosanan saamiseksi opetukseen on osallistuttava ja kaikki vaadittavat suoritukset tehtävä.
+
+### KIELIPROFIILI
+Lukion opetussuunnitelman perusteet 2019 velvoittavat jokaista opiskelijaa laatimaan henkilökohtaisen kieliprofiilin osana lukion vieraiden kielten ja toisen kotimaisen kielen opintoja. 
+Kieliprofiilin laatimisella on kaksi päätavoitetta. Kieliprofiilia laatiessaan opiskelija oppii tunnistamaan ja tekemään näkyväksi eri kielten taitojaan. Samalla on tarkoitus, että opiskelija ottaa nykyistä enemmän vastuuta kielitaitonsa kehittämisestä sekä lukio-opintojen aikana että niiden jälkeen.
+Opiskelija laatii lukio-opintojensa aikana yhden kieliprofiilin. Siihen hän kerää tiedot kaikista kielistä, joissa hänellä on osaamista. Kieliprofiiliin voi myös liittää suppeampia tai laajempia näyttöjä kielitaidosta sekä todistuksia kielitaidosta. Opiskelija voi liittää kieliprofiiliin myös itsearviointia ja pohdintaa kieltenopiskelutaidoistaan, niiden kehittymisestä sekä tulevaisuuden tavoitteistaan. Kieliprofiili onkin ennen kaikkea itsearviointityökalu, josta opiskelija on itse vastuussa.
+
+**OHJE:**
+•	Luo OneDriveen kansio – Kieliprofiili
+•	Luo tuon kansion sisään alikansiot opiskelemillesi kielille.
+•	Tallenna kunkin kielen alle suullisia ja kirjallisia näyttöjä lukio-opintojen ajalta.
