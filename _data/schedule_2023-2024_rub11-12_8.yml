@@ -1,70 +1,71 @@
-- date: ke 4.10.
-  title: Arviointi, lämmittelyä
-  grammar: lukusanat
-  other: digikirjan käyttöönotto
-- date: pe 6.10.
-  title: Text 1 Sverige - landet där lagom är bäst
-  grammar: lukusanat
-- date: ma 9.10.
-  title: Text 1 jatkuu
-  grammar: lukusanat
-- date: ke 11.10.
-  title: Harjoituksia, arkifraasit
-  grammar: lukusanat
-  other: Sanakoe 1 text 1
-- date: pe 13.10.
-  title: Text 2 Musik, sport, datorer eller något annat?
-  grammar: lukusanat
-  other: DIGI 1 Start, Text 1 + Sverige, lukusanat
-- date: ma 16.10.
-  title: Text 2 jatkuu
-  grammar: kysymyssanat ja kysymyslause
-- date: ke 18.10.
-  title: Temaord - Fritid
-  grammar: kysymyssanat ja kysymyslause
-- date: pe 20.10.
-  title: Temaord - Fritid
-  grammar: päälause
-- date: 23.-27.10.
-  title: HÖSTLOV
-- date: ma 30.10.
-  title: Temaord - Fritid, ajanilmaukset
-  grammar: päälause
-- date: ke 1.11.
-  title: Temaord - Fritid
-  grammar: sivulause
-  other: Kirjoitelma 1 + kuuntelukoe 1
-- date: pe 3.11.
-  title: Text 4 Köttbullar, sushi eller vegoburgare?
-  grammar: sivulause
-  other: DIGI 2, Tema Fritid, Text 2, kysymyslause, päälause
-- date: ma 6.11.
-  title: SJÄLVSTÄNDIGT ARBETE
-  grammar: sivulause
-- date: ke 8.11.
-  title: Text 4 vanhana, Temaord - mat
-  grammar: päälause + sivulause
-  other: Suullinen tehtävä - palautus Flipiiin su 12.11. mennessä
-- date: pe 10.11.
-  title: Temaord - mat
-  grammar: prepositiokertaus
-  other: DIGI 3 Tema Mat, Text 4, sivulause
-- date: ma 13.11.
-  title: Temaord - mat
-  grammar: verbit
-  other: Sanakoe text 4
-- date: ke 15.11.
+- date: pe 1.12.
   title: Temaord - kompisar och vänner
-  grammar: verbit
-- date: pe 17.11.
-  title: Temaord - kompisar och vänner
-  grammar: verbit
-  other: VERBIKOE 1
-- date: ma 20.11.
-  title: Temaord - kompisar och vänner
-  grammar: verbit
-  other: päättöpäivän ohjeet, DIGI 4 Tema kompisar och vänner, verbit
-- date: pe 24.11.
-  title: PÄÄTTÖPÄIVÄ
-  grammar: Verbitesti, kuuntelu, kirjoitelma, suullinen tehtävä
-  other: Työvihkon (del 1) palautus
+  grammar: persoonapronominit
+  other: puhtaaksikirjoitus
+- date: ti 5.12.
+  title: Text 3
+  grammar: persoonapronominit
+- date: to 7.12.
+  title: Temaord - skola
+  grammar: Persoonapronominit
+- date: pe 8.12.
+  title: Temaord - skola
+  grammar: Persoonapronominit
+- date: ti 12.12.
+  title: Temaord - skola
+  grammar: refleksiivipronominit
+  other: Sanakoe - skola, DIGI 1 Text 3, Skola, pronominit
+- date: to 14.12.
+  title: Temaord - kläder
+  grammar: adjektiivit
+  other: Tunti alkaa klo 14.45 ja loppuu klo 16.00 
+- date: pe 15.12.
+  title: Temaord - kläder
+  grammar: adjektiivit
+- date: ti 19.12.
+  title: Temaord - kläder
+  grammar: adjektiivit
+- date: to 21.12.
+  title: Temaord - utseende
+  grammar: adjektiivit + käskymuoto
+  other: Suullisen plussatehtävän palautus klo 21 mennessä
+- date: pe 22.12.
+  title: JULKYRKA
+- date: 25.12.-7.1.
+  title: JULLOV
+- date: ti 9.1.
+  title: Temaord - utseende
+  grammar: käskymuoto
+- date: to 11.1.
+  title: Harjoituksia
+  grammar: substantiivin taivutus ja käyttö
+  other: Kirjoitelma
+- date: pe 12.1.
+  title: SJÄLVSTÄNDIGT ARBETE - Text 5
+  grammar: substantiivin taivutus ja käyttö
+  other: DIGI 2 kläder + utseende, adjektiivit, käskymuoto
+- date: ti 16.1.
+  title: Temaord - Välbefinnande och hälsa
+  grammar: substantiivin taivutus ja käyttö
+- date: to 18.1.
+  title: Temaord - Välbefinnande och hälsa
+  grammar: substantiivin taivutus ja käytt
+- date: pe 19.1..
+  title: Temaord - Välbefinnande och hälsa
+  grammar: substantiivin taivutus ja käyttö
+  other: DIGI 3 välbefinnande och hälsa, text 5
+- date: ti 23.1.
+  title: Temaord - Välbefinnande och hälsa
+  other: Sanakoe - Välbefinnande och hälsa
+- date: to 25.1.
+  title: Temaord - familj och släkt
+  grammar: substantiivin taivutus ja käyttö
+  other: Kuuntelukoe 2
+- date: pe 26.1.
+  title: Temaord - familj och släkt
+  grammar: substantiivin taivutus ja käyttö
+  other: DIGI 4 familj och släkt,  substantiivit
+- date: ma 5.2.
+  title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
+  grammar: suullinen koe, luettu, kielioppi, käännös
+  other: KONE MUKAAN, Ruotsi-kansion palautus
