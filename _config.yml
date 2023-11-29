@@ -22,7 +22,7 @@ defaults:
   - scope:
       path: ""
     values:
-      period: 2
+      period: 3
   - scope:
       path: "kurssit/2013-2014"
     values:
@@ -137,9 +137,9 @@ prose:
           options:
             - name: "RUB11-12.6 - Läksyt"
               value: "rub11-12.6 läksyt"
-            - name: "RUB11-12.8 - Läksyt"
-              value: "rub11-12.8 läksyt"
-            - name: "RUB16.2 - Läksyt"
-              value: "rub16.2 läksyt"
-            - name: "RUB17.2 - Läksyt"
-              value: "rub17.2 läksyt"
+            - name: "RUB11-12.7 - Läksyt"
+              value: "rub11-12.7 läksyt"
+            - name: "RUB112.4 - Läksyt"
+              value: "rub112.4 läksyt"
+            - name: "RUB114.5 - Läksyt"
+              value: "rub114.5 läksyt"
