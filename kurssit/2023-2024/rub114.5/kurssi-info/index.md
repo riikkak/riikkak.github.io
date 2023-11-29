@@ -23,7 +23,7 @@ Moduulin tavoitteena on, että sen käytyään opiskelija
 
 ## Arviointi
 
--Moduuli on tuntityöskentelyyn perustuva työkurssi, joten opiskelijan on oltava läsnä. Yli kolmen poissaolon jälkeen kurssimerkintää ei voi enää saada, mutta tunneilla saa kyllä käydä. Sairauden tai urheilun vuoksi tulevat poissaolot katsotaan tapauskohtaisesti, eivätkä aiheuta automaattista keskeytystä. 
+- Moduuli on tuntityöskentelyyn perustuva työkurssi, joten opiskelijan on oltava läsnä. Yli kolmen poissaolon jälkeen kurssimerkintää ei voi enää saada, mutta tunneilla saa kyllä käydä. Sairauden tai urheilun vuoksi tulevat poissaolot katsotaan tapauskohtaisesti, eivätkä aiheuta automaattista keskeytystä. 
 - Sanastovihkon lopussa olevat sanastokertaustehtävät tehdään itsenäisenä työnä kotona, ja niiden tulee olla tehtynä ja värillisellä kynällä tarkistettuna opettajan antamaan päivämäärään mennessä. Tehtävät korvaavat päättöviikon tunnit.
 - Moduulista saa suoritusmerkinnän vain, jos kaikki suoritukset on tehty.
 
