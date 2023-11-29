@@ -1,53 +1,56 @@
 - date: pe 1.12.
   title: Kurssin aloitus, pelisäännöt ja kirjoittamisen lämmittelyä
 - date: ma 4.12.
-  title: Sähköposti - lyhyet viestit
+  title: Sähköposti - lyhyet viestit P
   grammar: kirjallinen tuottaminen
   other: Yleiset kirjoittamisen ohjeet
 - date: ke 6.12.
   title: SJÄLVSTÄNDIGHETSDAG
 - date: pe 8.12.
-  title: Sähköposti - lyhyet viestit
+  title: Sähköposti - lyhyet viestit P
   grammar: kirjallinen tuottaminen
 - date: ma 11.12.
-  title: Sähköposti - lyhyet viestit
+  title: Sähköposti - lyhyet viestit P
+  grammar: kirjallinen tuottaminen
+  other: päättöviikon korvaavien tehtävien näyttö
 - date: ke 13.12.
-  title: Mielipide - lyhyt P
+  title: Puhe P
   grammar: kirjallinen tuottaminen
 - date: pe 15.12.
-  title: Mielipide lyhyt P
+  title: Puhe P
   grammar: kirjallinen tuottaminen
 - date: ma 18.12.
-  title: Kuuntelua / Mielipide lyhyt P
+  title: Kuuntelua / Puhe P 
   grammar: kuuntelun tekniikka
 - date: ke 20.12.
   title: Kuuntelua
+  other: itsenäiset kuuntelut
 - date: pe 22.12.
   title: JULKYRKA
 - date: 25.12. - 7.1.
   title: JULLOV
 - date: ma 8.1.
-  title: Mielipide - pitkä P
+  title: Mielipide - lyhyt P
   grammar: kirjallinen tuottaminen
 - date: ke 10.1.
-  title: Mielipide - pitkä P
+  title: Mielipide - lyhyt P
 - date: pe 12.1.
-  title: Puhe P
+  title: Mielipide - lyhyt/pitkä P
   grammar: kirjallinen tuottaminen
 - date: ma 15.1.
-  title: Puhe P
+  title: Mielipide - pitkä P
   grammar: kirjallinen tuottaminen
 - date: ke 17.1.
-  title: Puhe P / kuuntelua
+  title: Mielipide - pitkä P
   grammar: kirjallinen tuottaminen
 - date: pe 19.1.
-  title: Kertomus
+  title: Kuuntelua 
   grammar: kirjallinen tuottaminen
 - date: ma 22.1.
   title: Kertomus
   grammar: kirjallinen tuottaminen
 - date: ke 24.1.
-  title: Kirjoittaminen (valinnainen aihe)
+  title: Kertomus 
   other: Työvihkot oltava valmiit + niiden näyttö.
 - date: pe 26.1.
   title: Preliminärprovet i modersmål
