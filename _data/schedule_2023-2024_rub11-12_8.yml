@@ -1,71 +1,77 @@
 - date: pe 1.12.
-  title: Temaord - kompisar och vänner
-  grammar: persoonapronominit
+  title: Temaord - skola
+  grammar: käskymuoto
   other: puhtaaksikirjoitus
 - date: ti 5.12.
   title: Text 3
-  grammar: persoonapronominit
+  grammar: käskymuoto + persoonapronominit
+  digi: "käskymuoto: "1, 2a, 3a"
 - date: to 7.12.
   title: Temaord - skola
   grammar: Persoonapronominit
+  digi: "Text 3: 3a, 5a, 6a"
 - date: pe 8.12.
   title: Temaord - skola
   grammar: Persoonapronominit
+  digi: "pronominit: 3, 4c, 5, 7b, 7c, 10, 11"
 - date: ti 12.12.
   title: Temaord - skola
   grammar: refleksiivipronominit
-  other: Sanakoe - skola, DIGI 1 Text 3, Skola, pronominit
+  digi: "refleksiivipronominit: 2"
+  other: Sanakoe - skola, kuuntelu 1
 - date: to 14.12.
-  title: Temaord - kläder
-  grammar: adjektiivit
+  title: Temaord - utseende
+  grammar: substantiivien taivutus
+  digi: "Substantiivien taivutus: 1, 3a, 5, 6"
   other: Tunti alkaa klo 14.45 ja loppuu klo 16.00 
 - date: pe 15.12.
-  title: Temaord - kläder
-  grammar: adjektiivit
+  title: Temaord - utseende
+  grammar: substantiivien taivutus
 - date: ti 19.12.
   title: Temaord - kläder
-  grammar: adjektiivit
+  grammar: substantiivien taivutus
 - date: to 21.12.
-  title: Temaord - utseende
-  grammar: adjektiivit + käskymuoto
+  title: Temaord - kläder
+  grammar: substantiivien taivutus 
+  digi: "utseende och kläder: 4a, 4c, 4d, 6a, 8a"
   other: Suullisen plussatehtävän palautus klo 21 mennessä
 - date: pe 22.12.
   title: JULKYRKA
 - date: 25.12.-7.1.
   title: JULLOV
 - date: ti 9.1.
-  title: Temaord - utseende
-  grammar: käskymuoto
+  title: Temaord - kläder
+  grammar: substantiivin käyttö
 - date: to 11.1.
   title: Harjoituksia
-  grammar: substantiivin taivutus ja käyttö
-  other: Kirjoitelma
+  grammar: substantiivin käyttö
+  other: Ohjattu kirjoitusharjoitus
 - date: pe 12.1.
-  title: SJÄLVSTÄNDIGT ARBETE - Text 5
-  grammar: substantiivin taivutus ja käyttö
-  other: DIGI 2 kläder + utseende, adjektiivit, käskymuoto
+  title: Text 5
+  grammar: adjektiivien taivutus
+  digi: "Text 5: 6a, 7a, 7b"
 - date: ti 16.1.
   title: Temaord - Välbefinnande och hälsa
-  grammar: substantiivin taivutus ja käyttö
+  grammar: adjektiivien taivutus
 - date: to 18.1.
   title: Temaord - Välbefinnande och hälsa
-  grammar: substantiivin taivutus ja käytt
-- date: pe 19.1..
+  grammar: adjektiivien käyttö
+  digi: "adjektiivit: 2a, 2b, 3a, 5, 6a, 7"
+- date: pe 19.1.
   title: Temaord - Välbefinnande och hälsa
-  grammar: substantiivin taivutus ja käyttö
-  other: DIGI 3 välbefinnande och hälsa, text 5
+  grammar: adjektiivien käyttö
+  digi: "Välbefinnande och hälsa: 3a, 4a, 5a, 6a"
 - date: ti 23.1.
   title: Temaord - Välbefinnande och hälsa
-  other: Sanakoe - Välbefinnande och hälsa
+  other: Sanakoe - Välbefinnande och hälsa, kuuntelu 2
 - date: to 25.1.
   title: Temaord - familj och släkt
-  grammar: substantiivin taivutus ja käyttö
-  other: Kuuntelukoe 2
+  grammar: adjektiivien ja subst. yhteistaivutus
 - date: pe 26.1.
   title: Temaord - familj och släkt
-  grammar: substantiivin taivutus ja käyttö
-  other: DIGI 4 familj och släkt,  substantiivit
+  digi: "Familj och släkt: 5a, 6a, 6b, 10a
 - date: ma 5.2.
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
   grammar: suullinen koe, luettu, kielioppi, käännös
-  other: KONE MUKAAN, Ruotsi-kansion palautus
+  digi: Testitehtävät löydät opintokortilta, ne ovat vapaaehtoisia plussatehtäviä, palautus päättöpäivään mennessä.
+  other: KONE MUKAAN
