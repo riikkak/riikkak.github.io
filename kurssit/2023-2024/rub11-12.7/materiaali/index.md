@@ -5,9 +5,11 @@ course: rub11-12.7
 published: true
 ---
 
--Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
+**[Opintokortti moduulit rub11-12](/media/rub2/Opintokortti_rub12.pdf)**
 
 **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
+
+-Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/)
 
 ### Quizletit
 
