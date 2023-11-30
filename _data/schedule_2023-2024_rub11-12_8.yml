@@ -1,15 +1,16 @@
 - date: pe 1.12.
   title: Temaord - skola
   grammar: käskymuoto
+  digi: "käskymuoto: "1, 2a, 3a"
   other: puhtaaksikirjoitus
 - date: ti 5.12.
   title: Text 3
   grammar: käskymuoto + persoonapronominit
-  digi: "käskymuoto: "1, 2a, 3a"
+  digi: "Text 3: 3a, 5a, 6a"
 - date: to 7.12.
   title: Temaord - skola
   grammar: Persoonapronominit
-  digi: "Text 3: 3a, 5a, 6a"
+  digi: skola: 3a, 3c, 4a"
 - date: pe 8.12.
   title: Temaord - skola
   grammar: Persoonapronominit
@@ -22,11 +23,11 @@
 - date: to 14.12.
   title: Temaord - utseende
   grammar: substantiivien taivutus
-  digi: "Substantiivien taivutus: 1, 3a, 5, 6"
   other: Tunti alkaa klo 14.45 ja loppuu klo 16.00 
 - date: pe 15.12.
   title: Temaord - utseende
   grammar: substantiivien taivutus
+  digi: "Substantiivien taivutus: 1, 3a, 5, 6"
 - date: ti 19.12.
   title: Temaord - kläder
   grammar: substantiivien taivutus
