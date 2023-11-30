@@ -11,14 +11,14 @@ Lukiolain, LOPS2021 perusteiden sekä paikallisen opsin (Oulun kaupunki) pohjalt
 
 _Opiskelijalla on velvollisuus osallistua opetukseen, jollei hänen poissaololleen ole perusteltua syytä. Koulutuksen järjestäjä päättää opiskelijan poissaoloa koskevista menettelyistä. Opiskelijan on suoritettava tehtävänsä tunnollisesti ja käyttäydyttävä asiallisesti. (Lukiolaki 30 §)_
 
-## TAVOITTEET
+## Tavoitteet
 
 _Opetuksessa tavoitellaan tilanteita, joissa opiskelija pääsee turvallisesti haastamaan oman osaamisensa rajoja. Oppitunneilla käytetään monipuolisia ja opiskelijakeskeisiä menetelmiä sekä tarjotaan merkityksellisiä, avoimia ja riittävän haastavia tehtäviä. Opetellaan käyttämään tehokkaasti erilaisia kielenopiskelustrategioita ja työvälineitä.
 Opiskelija kehittää kielenopiskelutaitojaan tunnistamalla itselleen sopivia strategioita oppia toista kotimaista kieltä ja arvioimalla oman oppimisensa edistymistä. Häntä ohjataan ymmärtämään monipuolisen kielitaidon merkitys jatko-opinnoissa ja työelämässä sekä kieli-identiteetin rakentamisessa. (LOPS 2021 perusteet)_
 
 Toisen kotimaisen kielen opiskelu vahvistaa opiskelijan yhteiskunnallista osaamista. **Ruotsin opintojen mahdollistamat taidot helpottavat opiskelijan siirtymistä jatko-opintoihin, työelämään** ja kansalaisaktiivisuutta edellyttäviin tehtäviin. Opiskelija oppii ymmärtämään ja tuottamaan (suullisesti ja kirjallisesti) opintokokonaisuuden teemoihin liittyviä tehtäviä.
 
-## ARVIOINTI
+## Arviointi
 
 Arviointi Kastellin lukiossa on monipuolista, rakentavaa ja **kannustaa opiskelijoita oppimiseen ja ponnistelemaan omista lähtökohdistaan parempaan. Arvioitavat suoritukset arvioidaan 50% taulukolla, ellei opettaja toisin ilmoita.**
 
@@ -58,15 +58,18 @@ Osaamiselle ja oppimiselle asetettujen tavoitteiden saavuttamisen näkyväksi te
 
 Sekä formatiiviseen että summatiiviseen arviointiin kuuluu opiskelijan työskentelyn arviointi, joka perustuu oppiaineissa määriteltyihin työskentelyn tavoitteisiin ja niiden saavuttamiseen. **Suurin osa arvioinnista tapahtuu pienissä osissa periodin aikana, mikä vähentää kuormitusta päättöviikolla. Kuuntelut, ohjatut kirjoitustehtävät ja suulliset tehtävät eivät vaadi erillistä valmistautumista, koska arvioitava asia on opiskeltu perusteellisesti usean oppitunnin aikana. Sanakokeisiin ja verbikokeisiin on hyvä kerrata.**
 
-**ARVOSANA 4**
+**Arvosana 4**
 Arvosana 4 on ansaittava ja edellyttää jo melko paljon osaamista. Mikäli moduulin osasuoritusten keskiarvo jää alle arvosanan 3,75, ei kurssista voi antaa arvosanaa. Arvosanan saamiseksi opetukseen on osallistuttava ja kaikki vaadittavat suoritukset tehtävä.
 
-### KIELIPROFIILI
+### Kieliprofiili
+
 Lukion opetussuunnitelman perusteet 2019 velvoittavat jokaista opiskelijaa laatimaan henkilökohtaisen kieliprofiilin osana lukion vieraiden kielten ja toisen kotimaisen kielen opintoja. 
 Kieliprofiilin laatimisella on kaksi päätavoitetta. Kieliprofiilia laatiessaan opiskelija oppii tunnistamaan ja tekemään näkyväksi eri kielten taitojaan. Samalla on tarkoitus, että opiskelija ottaa nykyistä enemmän vastuuta kielitaitonsa kehittämisestä sekä lukio-opintojen aikana että niiden jälkeen.
+
 Opiskelija laatii lukio-opintojensa aikana yhden kieliprofiilin. Siihen hän kerää tiedot kaikista kielistä, joissa hänellä on osaamista. Kieliprofiiliin voi myös liittää suppeampia tai laajempia näyttöjä kielitaidosta sekä todistuksia kielitaidosta. Opiskelija voi liittää kieliprofiiliin myös itsearviointia ja pohdintaa kieltenopiskelutaidoistaan, niiden kehittymisestä sekä tulevaisuuden tavoitteistaan. Kieliprofiili onkin ennen kaikkea itsearviointityökalu, josta opiskelija on itse vastuussa.
 
-**OHJE:**
+**Ohje:**
+
 - Luo OneDriveen kansio – Kieliprofiili
 - Luo tuon kansion sisään alikansiot opiskelemillesi kielille.
 - Tallenna kunkin kielen alle suullisia ja kirjallisia näyttöjä lukio-opintojen ajalta.
