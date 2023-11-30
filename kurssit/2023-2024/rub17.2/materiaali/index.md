@@ -7,6 +7,8 @@ published: true
 
 **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
 
+- [Tekstien fraasien tarkistus](/media/rub7/Tekstifraasit.pdf)
+
 ## Quizletit
 
 - [Natur - fraser](https://quizlet.com/_bfstah?x=1jqt&i=dz01n)
