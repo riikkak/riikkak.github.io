@@ -1,7 +1,7 @@
 - date: pe 1.12.
   title: Temaord - skola
   grammar: käskymuoto
-  digi: "käskymuoto: "1, 2a, 3a"
+  digi: "käskymuoto: 1, 2a, 3a"
   other: puhtaaksikirjoitus
 - date: ti 5.12.
   title: Text 3
@@ -10,7 +10,7 @@
 - date: to 7.12.
   title: Temaord - skola
   grammar: Persoonapronominit
-  digi: skola: 3a, 3c, 4a"
+  digi: "skola: 3a, 3c, 4a"
 - date: pe 8.12.
   title: Temaord - skola
   grammar: Persoonapronominit
@@ -70,7 +70,7 @@
   grammar: adjektiivien ja subst. yhteistaivutus
 - date: pe 26.1.
   title: Temaord - familj och släkt
-  digi: "Familj och släkt: 5a, 6a, 6b, 10a
+  digi: "Familj och släkt: 5a, 6a, 6b, 10a"
 - date: ma 5.2.
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
   grammar: suullinen koe, luettu, kielioppi, käännös
