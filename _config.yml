@@ -135,8 +135,8 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB11-12.6 - Läksyt"
-              value: "rub11-12.6 läksyt"
+            - name: "RUB11-12.8 - Läksyt"
+              value: "rub11-12.8 läksyt"
             - name: "RUB11-12.7 - Läksyt"
               value: "rub11-12.7 läksyt"
             - name: "RUB112.4 - Läksyt"
