@@ -19,17 +19,18 @@
   title: Temaord - skola
   grammar: refleksiivipronominit
   digi: "refleksiivipronominit: 2"
-  other: Sanakoe - skola, kuuntelu 1
 - date: to 14.12.
   title: Temaord - utseende
   grammar: substantiivien taivutus
   other: Tunti alkaa klo 14.45 ja loppuu klo 16.00 
+  other: kuuntelu 1 - skola
 - date: pe 15.12.
-  title: Temaord - utseende
+  title: Harjoituksia
   grammar: substantiivien taivutus
   digi: "Substantiivien taivutus: 1, 3a, 5, 6"
+  other: Sanakoe - skola
 - date: ti 19.12.
-  title: Temaord - kläder
+  title: Temaord - utseende
   grammar: substantiivien taivutus
 - date: to 21.12.
   title: Temaord - kläder
@@ -44,7 +45,7 @@
   title: Temaord - kläder
   grammar: substantiivin käyttö
 - date: to 11.1.
-  title: Harjoituksia
+  title: Temaord - kläder
   grammar: substantiivin käyttö
   other: Ohjattu kirjoitusharjoitus
 - date: pe 12.1.
