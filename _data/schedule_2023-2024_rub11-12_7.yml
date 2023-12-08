@@ -1,5 +1,5 @@
 - date: ma 4.12.
-  title: Arviointi, lämmittelyä
+  title: Arviointi,  arkifraasit
   grammar: lukusanat
   digi: "Start: 6a, 7a, 8, 10, 11a, 11b, 12a, 12b"
   other: digikirjan käyttöönotto
@@ -14,14 +14,14 @@
   grammar: lukusanat
   digi: "Text 1: 5a, 5b, 5c, 10a"
 - date: ti 12.12.
-  title: Harjoituksia, arkifraasit
+  title: Text 1 + Sverige
   grammar: lukusanat
   digi: "lukusanat: 2, 4a, 6a"
-  other: Sanakoe 1 - text 1
 - date: to 14.12.
   title: Text 2 Musik, sport, datorer eller något annat?
   grammar: lukusanat
   digi: Text 2 - 4a
+  other: Sanakoe 1 - text 1
 - date: ma 18.12.
   title: Text 2 jatkuu
   grammar: kysymyssanat ja kysymyslause
