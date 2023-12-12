@@ -12,6 +12,6 @@ Tee työvihkosta s. 18 kaksi ylintä tehtävää.
 
 Jos olit pois to 7.12. tunnilta, tee halutessasi kotiläksypisteiden korvaamiseksi text 3 tehtävä 1b huolella. (Muilla oli läksynkuulustelu)
 
-POISSAOLIJAT:**
-**
+**POISSAOLIJAT:**
+
 Tee työvihkon s. 17 ja s. 3 loppuun.
