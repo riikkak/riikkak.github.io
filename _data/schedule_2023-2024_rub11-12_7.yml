@@ -16,23 +16,23 @@
 - date: ti 12.12.
   title: Text 1 + Sverige
   grammar: lukusanat
-  digi: "lukusanat: 2, 4a, 6a"
 - date: to 14.12.
-  title: Text 2 Musik, sport, datorer eller något annat?
+  title: Temaord - Fritid
   grammar: lukusanat
-  digi: Text 2 - 4a
+  digi: "lukusanat: 2, 4a, 6a"
   other: Sanakoe 1 - text 1
 - date: ma 18.12.
-  title: Text 2 jatkuu
-  grammar: kysymyssanat ja kysymyslause
-  digi: "kysymyslause: 1a, 1b, 2"
-- date: ti 19.12.
   title: Temaord - Fritid
   grammar: kysymyssanat ja kysymyslause
   digi: "Tema fritid: 4a, 5a, 5b"
+- date: ti 19.12.
+  title: Text 2 Musik, sport, datorer eller något annat?
+  grammar: kysymyssanat ja kysymyslause
+  digi: "kysymyslause: 1a, 1b, 2"
 - date: to 21.12.
-  title: Temaord - Fritid
+  title: Text 2 jatkuu 
   grammar: päälause
+   digi: "Text 2 - 4a" 
 - date: 25.12.-7.1.
   title: JULLOV
 - date: ma 8.1.
