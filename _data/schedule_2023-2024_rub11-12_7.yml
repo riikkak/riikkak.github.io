@@ -1,82 +1,75 @@
-- date: ma 4.12.
-  title: Arviointi,  arkifraasit
-  grammar: lukusanat
-  digi: "Start: 6a, 7a, 8, 10, 11a, 11b, 12a, 12b"
-  other: digikirjan käyttöönotto
-- date: ti 5.12.
-  title: YLIOPPILASJUHLA
-  other: ei oppituntia iltapäivällä
-- date: to 7.12.
-  title: Text 1 Sverige - landet där lagom är bäst
-  grammar: lukusanat
-- date: ma 11.12.
-  title: Text 1 jatkuu
-  grammar: lukusanat
-  digi: "Text 1: 5a, 5b, 5c, 10a"
-- date: ti 12.12.
-  title: Text 1 + Sverige
-  grammar: lukusanat
-- date: to 14.12.
-  title: Temaord - Fritid
-  grammar: lukusanat
-  digi: "lukusanat: 2, 4a, 6a"
-  other: Sanakoe 1 - text 1
-- date: ma 18.12.
-  title: Temaord - Fritid
-  grammar: kysymyssanat ja kysymyslause
-  digi: "Tema fritid: 4a, 5a, 5b"
-- date: ti 19.12.
-  title: Text 2 Musik, sport, datorer eller något annat?
-  grammar: kysymyssanat ja kysymyslause
-  digi: "kysymyslause: 1a, 1b, 2"
-- date: to 21.12.
-  title: Text 2 jatkuu 
-  grammar: päälause
-  digi: "Text 2 - 4a" 
-- date: 25.12.-7.1.
-  title: JULLOV
-- date: ma 8.1.
-  title: Temaord - Fritid, ajanilmaukset
-  grammar: päälause
-  digi: "päälause: 2, 3, 6a"
-  other: Suullinen tehtävä - palautus Flipiiin ke 10.1. klo 21.00 mennessä
-- date: ti 9.1.
-  title: Temaord - Fritid
-  grammar: sivulause
-  other: Kirjoitelma 1 + kuuntelukoe 1
-- date: to 11.1.
-  title: Text 4 Köttbullar, sushi eller vegoburgare?
-  grammar: sivulause
-  digi: "sivulause: 2b, 4, 5a"
-- date: ma 15.1.
-  title: Text 4 vanhana
-  grammar: sivulause
-  digi: "text 4: 4a, 5a, 7a-c, 9a"
-- date: ti 16.1.
-  title: Temaord - mat
-  grammar: päälause + sivulause
-- date: to 18.1.
-  title: Temaord - mat
-  grammar: prepositiokertaus
-  digi: "Tema mat: 4b, 4c, 5a"
-- date: ma 22.1.
-  title: Temaord - mat
-  grammar: verbit
-  other: Sanakoe text 4
-- date: ti 23.1.
-  title: Temaord - kompisar och vänner
-  grammar: verbit
-  digi: "Tema kompisar och vänner: 3c, 5b"
-- date: to 25.1.
-  title: Temaord - kompisar och vänner
-  grammar: verbit
-  digi: "verbit: 1b, 2a-b, 3b, 4a, 4c, 5a"
-- date: ma 29.1.
-  title: Temaord - kompisar och vänner
-  grammar: verbit
-  digi: "verbit: 7b, 8a, 8c, 9c, 10c, 11"
-  other: VERBIKOE 1
-- date: ti 30.1.
-  title: PÄÄTTÖPÄIVÄ
-  grammar: Verbitesti, kuuntelu, kirjoitelma, suullinen tehtävä
-  other: Työvihkon (del 1) palautus
+- date: to 8.2.
+  title: Harjoituksia
+  grammar: käskymuoto
+  digi: "käskymuoto: 1, 2a, 3a"
+  other: puhtaaksikirjoitus
+- date: ma 12.2.
+  title: Text 3
+  grammar: käskymuoto 
+  digi: "Text 3: 3a, 5a, 6a"
+- date: ti 13.2.
+  title: Temaord - skola
+  grammar: Persoonapronominit
+  digi: "skola: 3a, 3c, 4a"
+- date: to 15.2.
+  title: Temaord - skola
+  grammar: persoonapronominit
+  digi: "pronominit: 3, 4c, 5, 7b, 7c, 10, 11"
+- date: ma 19.2.
+  title: Temaord - skola
+  grammar: persoonapronominit
+  digi: "refleksiivipronominit: 2"
+- date: ti 20.2.
+  title: Harjoituksia
+  grammar: persoonapronominit
+  other: Sanakoe ja kuuntelu - skola
+- date: to 22.2.
+  title: Temaord - utseende
+  grammar: refleksiivipronominit
+- date: ma 26.2.
+  title: Temaord - utseende
+  grammar: substantiivien taivutus
+- date: ti 27.2.
+  title: Temaord kläder
+  grammar: substantiivien taivutus
+- date: to 29.2.
+  title: Temaord - kläder
+  grammar: substantiivien taivutus
+  digi: "Substantiivien taivutus: 1, 3a, 5, 6"
+- date: 4.-8.3.
+  title: SPORTLOV
+- date: ma 11.3.
+  title: Temaord - kläder
+  grammar: substantiivin käyttö
+  digi: "utseende och kläder: 4a, 4c, 4d, 6a, 8a"
+- date: ti 12.3.
+  title: Harjoituksia
+  other: Ohjattu kirjoitusharjoitus
+- date: to 14.3.
+  title: Text 5
+  grammar: substantiivin käyttö
+  digi: "substantiivin käyttö: 1, 2"
+- date: ma 18.3.
+  title: Temaord - Välbefinnande och hälsa
+  grammar: adjektiivien taivutus
+  digi: "Text 5: 6a, 7a, 7b" 
+- date: ti 19.3.
+  title: Temaord - Välbefinnande och hälsa
+  grammar: adjektiivien taivutus
+  digi: "adjektiivit: 2a, 2b, 3a, 5, 6a, 7"
+- date: to 21.3.
+  title: Temaord - Välbefinnande och hälsa
+  grammar: adjektiivien käyttö
+  digi: "Välbefinnande och hälsa: 3a, 4a, 5a, 6a"
+- date: ma 25.3.
+  title: Temaord - familj och släkt
+  other: Sanakoe ja kuuntelu 
+- date: ti 26.3.
+  title: Temaord - familj och släkt
+  grammar: adjektiivien ja subst. yhteistaivutus
+  digi: "Familj och släkt: 5a, 6a, 6b, 10a"
+- date: to 28.3.
+  title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
+  grammar: suullinen koe, luettu, kielioppi, käännös
+  digi: Testitehtävät löydät opintokortilta, ne ovat vapaaehtoisia plussatehtäviä, palautus päättöpäivään mennessä.
+  other: KONE MUKAAN
