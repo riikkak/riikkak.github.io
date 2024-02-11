@@ -2,75 +2,77 @@
   title: BÄNKSKUDDARDAGEN
   grammar: ingen lektion
 - date: ma 12.2.
-  title: Opintojakson info, Temaord - Island
+  title: Opintojakson arviointiperusteet, Text 1 Island - mitt andra hemland
   grammar: Verbikertaus
 - date: ti 13.2.
-  title: Text 1 Island - mitt andra hemland
+  title: Text 1 jatkuu
   grammar: epäsäännölliset verbit
   digi: "Text 1: 6a, 8a"
 - date: to 15.2.
-  title: Text 1 jatkuu
+  title: Tema Island
   grammar: epäsäännölliset verbit
-  digi: "Verbit: 1b, 2b, 3a-b"
+  digi: "Verbit: 1b, 2b, 3a-b,5a, 7, 8"
 - date: ma 19.2.
-  title: Temaord - boende
+  title: Harjoituksia
   grammar: epäsäännölliset verbit
-  digi: "Verbit: 5a, 7, 8"
+  digi: "Verbit: 9b, 10b, 11b"
   other: Sanakoe text 1
 - date: ti 20.2.
-  title: Temaord - boende
-  grammar: epäsäännölliset verbit
-  digi: "Tema: Boende: 3a"
-- date: to 22.2.
-  title: Temaord - boende
+  title: Text 4 Bli mer kultursmart 
   grammar: johdosverbit
-  digi: "Verbit: 9b, 10b, 11b"
+  digi: "Text 4: 4, 6a" 
+- date: to 22.2.
+  title: Temaord - Mångfald
+  grammar: johdosverbit
+  digi: "Tema: Mångfald: 4b, 10b"
 - date: ma 26.2.
-  title: Text 3 Ett lyckligt liv
-  other: johdosverbit
-  digi: "Text 3: 6a-b"
-- date: ti 27.2.
-  title: Temaord - syn på livet 
+  title: Text 5 Två bilder - två historier
   grammar: apuverbit
   other: VERBIKOE
-  digi: "Tema: Syn på livet: 4a"
-- date: to 29.2.
-  title: Temaord - syn på livet
+- date: ti 27.2.
+  title: Text 5 jatkuu
   grammar: apuverbit
-  other: kuuntelukoe 
+  digi: "Text 5: 7a, 8a"
+  other: Suullisen tehtävän palautus ma 11.3. mennessä
+- date: to 29.2.
+  title: Tema - mångfald
+  grammar: apuverbit
+  other: Sana- ja kuuntelukoe 
   digi: "Apuverbit: 1a, 2, 3ab, 7"
 - date: 4.-8.3.
   title: SPORTLOV
-- date: ma 11.2.
-  title: Text 5 Två bilder - två historier
+- date: ma 11.3.
+  title: Harjoituksia
   grammar: infinitiivi
+  other: Ohjattu kirjoitusharjoitus - lyhyt
 - date: ti 12.3.
-  title: Text 5 jatkuu
+  title: Temaord - boende
   grammar: infinitiivi
-  other: Suullisen tehtävän palautus Flipiin
-  digi: "Text 5: 7a, 8a"
+  digi: "Infinitiivi: 2a, 4, 5"
 - date: to 14.3.
-  title: Temaord - Mångfald
-  other: Kirjoitelma 1
+  title: Temaord - boende
+  grammar: kysyvä sivulause
+  other: Suullisen tehtävän palautus Flipiin klo 21.00 mennessä
 - date: ma 18.3.
-  title: Temaord - Mångfald
+  title: Temaord - boende
   grammar: kysyvä sivulause
-  digi: "Text 4: 4, 6a"
 - date: ti 19.3.
-  title: 
+  title: Temaord - boende
   grammar: kysyvä sivulause
-  digi: "Tema: Mångfald: 4b, 10b"
+  digi: "Boende: 3a + Kys. SL: 3, 4, 5"
 - date: to 21.3.
   title: Harjoituksia
-  other: Sanakoe - text 5, ohjattu kirjoitusharjoitus
+  grammar: konditionaali
+  other: Ohjattu kirjoitusharjoitus - pitkä
 - date: ma 25.3.
-  title: Text 4 Bli mer kultursmart 
+  title: Text 3 Ett lyckligt liv 
+  grammar: konditionaali
+  digi: "Text 3: 6ab" 
+- date: ti 26.3.
+  title: Temaord - syn på livet
   grammar: konditionaali
   other: Kuuntelukoe 2 
-- date: ti 26.3.
-  title: Text 4 jatkuu
-  grammar: konditionaali
-  other:  , kirjoitelma 2
+  digi: "Tema: Syn på livet: 4a"
 - date: ti 2.4.
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
   grammar: suullinen, kielioppi, luettu, käännöslauseet
