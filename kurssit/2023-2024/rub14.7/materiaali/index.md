@@ -4,6 +4,7 @@ title: Materiaali
 course: rub14.7
 published: true
 ---
+**[Opintokortti](/media/rub4/Opintokortti_RUB14.pdf)**
 
 ### Quizletit
 
