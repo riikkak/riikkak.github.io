@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: Tiistain 19.2. tunnille läksy
+title: Tiistain 20.2. tunnille läksy
 tags: rub11-12.7 läksyt
 ---
 **PAKOLLISET:**
@@ -15,4 +15,4 @@ Tee halutessasi harjoitussanakoe. Korjaaminen erivärisellä kynällä. Vastauks
 **POISSAOLIJAT:**
 
 Tee s.19 omistuspronominit. Ei vielä sin, sitt, sina-asiaa.
-Teimme koko tunnin paljon suullista skola-aiheesta, valmistautuen sana- ja kuuntelukokeisiin. 
+Teimme koko tunnin paljon suullista skola-aiheesta, valmistautuen sana- ja kuuntelukokeisiin.
