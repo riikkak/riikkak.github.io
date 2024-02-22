@@ -19,6 +19,8 @@ published: true
 
 **[Harjoitussanis - text 5](/media/rub4/Harjoitussanis_text5.pdf)**
 
+**[Verbien harjoituskoe](/media/rub4/Verbiharjoituskoe.pdf)**
+
 **[Vahvat ja epäsäännölliset verbit](/media/rub4/RUB14_verbit.pdf)**
 
 **[Johdosverbit](/media/rub4/Johdosverbit.pdf)**
