@@ -6,6 +6,10 @@ published: true
 ---
 **[Opintokortti](/media/rub4/Opintokortti_RUB14.pdf)**
 
+**[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
+
+-Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/)
+
 ### Quizletit
 
 * [Text 1 fraser](https://quizlet.com/_btuemm?x=1qqt&i=dz01n)
