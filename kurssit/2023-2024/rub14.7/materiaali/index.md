@@ -29,4 +29,6 @@ published: true
 
 **[Johdosverbit](/media/rub4/Johdosverbit.pdf)**
 
+**[Apuverbi + infinitiivi lisäharjoitus](/media/rub4/Apuverbit.pdf)**
+
 **[Päättöpäivän ohjeet](/media/rub4/Arviointipaiva_ohjeet.pdf)**
