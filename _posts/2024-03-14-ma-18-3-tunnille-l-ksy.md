@@ -8,6 +8,8 @@ tags: rub14.7 läksyt
 
 1. Tee työvihkon s. 5 yläosan laatikot + Fyll i-tehtävä.
 
+Muista suullisen palautus!
+
 
 **PLUSSAT:**
 
