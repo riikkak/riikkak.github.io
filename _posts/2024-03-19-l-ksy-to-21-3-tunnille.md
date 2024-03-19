@@ -13,3 +13,5 @@ Tee halutessasi harjoitussanakoe, tarkista ja korjaa erivärisellä kynällä, v
 Tee työvihkon s. 27 kaikki mitä osaat.
 
 Pyydä tarkistukset s. 13 ja 14.
+
+Tee teeman välbefinnande och hälsa digitehtävät aikautaulusta.
