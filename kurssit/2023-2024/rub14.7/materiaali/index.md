@@ -32,3 +32,5 @@ published: true
 **[Apuverbi + infinitiivi lisäharjoitus](/media/rub4/Apuverbit.pdf)**
 
 **[Päättöpäivän ohjeet](/media/rub4/Arviointipaiva_ohjeet.pdf)**
+
+**[Kertausmoniste - prepositiofraasit](/media/rub4/Kertausmoniste.pdf)**
