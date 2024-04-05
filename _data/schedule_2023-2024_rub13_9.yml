@@ -1,7 +1,6 @@
 - date: ke 10.4.
   title: Moduulin arviointi, Tema musik
   grammar: adjektiivin kertaus  
-  digi: "Text 3: 7"
 - date: to 11.4.
   title: Tema musik
   grammar: adjektiivin vertailu
@@ -9,26 +8,29 @@
 - date: ma 15.4.
   title: Tema litteratur och film
   grammar: adjektiivin vertailu
-  digi: "Text 4: 7a, 8a, 8b"
+  digi: "adjektiivin vertailu: 1a, 1b, 2b, 4a"
 - date: ke 16.4.
   title: Tema litteratur och film
   grammar: adjektiivin vertailu
+  digi: "Tema litteratur och film: 3b, 6a Text 4: 7a, 8a, 8b"
 - date: to 17.4.
   title: Harjoituksia
   grammar: interrogatiivipronominit
   other: Ohjattu kirjoitusharjoitus - lyhyt KULTUR
+  digi: "interrogatiivipronominit: 1, 2"
 - date: ma 22.4.
   title: "Tema medier: Text 2 Våga vara dig själv"
   grammar: man ja det
-  digi: "Text 2: 5c, 7a, 8"
+  digi: "Text 2: 7a, 8 man ja det: 3"
 - date: ke 24.4.
   title: Tema medier
   grammar: annan, själv, hela, båda
+  digi: "Tema medier: 3a, 5b(H), 9c (H)"
 - date: to 25.4.
   title: SJÄLVSTÄNDIGT ARBETE
   grammar: prepositiot paikanilmauksissa
   other: katso itsenäisten tehtävien ohjeet läksyt-sivulta
-  digi: "Tema medier: 3a, 5b, 9c"
+  digi: "prepositiot paikanilmauksissa: 1a, 1b, 4a, 4b"
 - date: ma 29.4.
   title: Tema medier
   grammar: någon, ingen, alla
@@ -39,15 +41,17 @@
   title: Harjoituksia
   grammar: varje + paljoussanat
   other: Sanakoe medier, Kuuntelu - kultur och medier
+  digi: "indefiniittipronominit: 3, 4a, 4b, 7a, 7b, 8b, 9, 10"
 - date: ma 6.5.
   title: Tema Finland Text 1
   grammar: den här, den där, samma, densamma
   other: Suullisen tehtävän palautus - medier
+  digi: "Text 1: 6, 10b"
 - date: ke 8.5.
   title: SJÄLVSTÄNDIGT ARBETE 
   grammar: en sådan, en likadan
   other: katso itsenäisten tehtävien ohjeet läksyt-sivulta
-  digi: "Text 1: 3b, 6, 10b, 10d"
+  digi: "demonstratiivipronominit: 1a, 1b, 3a, 3b, 4"
 - date: to 9.5.
   title: Kristihimmelfärds dagen 
   other: gå och vistas i naturen
@@ -61,7 +65,7 @@
 - date: to 16.5.
   title: Tema Finland, teeman koonti
   grammar: relatiivilause
-  digi: "Tema Finland: 3b, 5d, 8d"
+  digi: "Tema Finland: 3b(H)"
 - date: ma 20.5.
   title: Kertausmateriaali
   grammar: relatiivilause
