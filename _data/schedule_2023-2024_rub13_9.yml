@@ -1,70 +1,70 @@
 - date: ke 10.4.
-  title: Moduulin arviointi, "Tema kultur: musik"
+  title: Moduulin arviointi, Tema musik
   grammar: adjektiivin kertaus  
   digi: "Text 3: 7"
 - date: to 11.4.
-  title: "Tema kultur: musik"
+  title: Tema musik
   grammar: adjektiivin vertailu
   digi: "Tema musik: 3a, 5b, 6"
 - date: ma 15.4.
-  title: "Tema kultur: litteratur och film"
+  title: Tema litteratur och film
   grammar: adjektiivin vertailu
   digi: "Text 4: 7a, 8a, 8b"
 - date: ke 16.4.
-  title: "Tema kultur: litteratur och film"
+  title: Tema litteratur och film
   grammar: adjektiivin vertailu
 - date: to 17.4.
   title: Harjoituksia
-  grammar: Adjektiivin vertailu
-  other: Ohjattu kirjoitusharjoitus: KULTUR
+  grammar: interrogatiivipronominit
+  other: Ohjattu kirjoitusharjoitus - lyhyt KULTUR
 - date: ma 22.4.
   title: "Tema medier: Text 2 Våga vara dig själv"
-  grammar: interrogatiivipronominit
-  digi: 
+  grammar: man ja det
+  digi: "Text 2: 5c, 7a, 8"
 - date: ke 24.4.
-  title: Tienneuvominen
-  grammar: interrogatiivipronominit
-  other: Kuuntelu 1 - Tema Finland
+  title: Tema medier
+  grammar: annan, själv, hela, båda
 - date: to 25.4.
   title: SJÄLVSTÄNDIGT ARBETE
-  grammar: man ja det
+  grammar: prepositiot paikanilmauksissa
+  other: katso itsenäisten tehtävien ohjeet läksyt-sivulta
+  digi: "Tema medier: 3a, 5b, 9c"
 - date: ma 29.4.
-  title: Temaord - musik
+  title: Tema medier
   grammar: någon, ingen, alla
-  other: Kirjoitelma 1
 - date: ke 1.5.
-  title: VALBORG Temaord musik
-  grammar: annan, själv, hela, båda
+  title: VALBORG 
+  other: munkar, struvor och mjöd
 - date: to 2.5.
-  title: Litteratur och film
-  grammar: varje
-  other: 
+  title: Harjoituksia
+  grammar: varje + paljoussanat
+  other: Sanakoe medier, Kuuntelu - kultur och medier
 - date: ma 6.5.
-  title: Litteratur och film
-  grammar: paljoussanat
-- date: ke 8.5.
-  title: SJÄLVSTÄNDIGT ARBETE Text 2 Våga vara dig själv!
+  title: Tema Finland
   grammar: den här, den där, samma, densamma
-  other: SUULLISEN TEHTÄVÄN PALAUTUS
-- date: to 9.5.
-  title: Kristihimmelfärds dagen Medier
+  other: Suullisen tehtävän palautus - medier
+- date: ke 8.5.
+  title: SJÄLVSTÄNDIGT ARBETE 
   grammar: en sådan, en likadan
-  other: 
+  other: katso itsenäisten tehtävien ohjeet läksyt-sivulta
+- date: to 9.5.
+  title: Kristihimmelfärds dagen 
+  other: gå och vistas i naturen
 - date: ma 13.5.
-  title: Medier
+  title: Tema Finland
   grammar: relatiivilause
 - date: ke 15.5.
-  title: Medier
+  title: Tema Finland
   grammar: relatiivilause
   other: Sanakoe text 2 + medier, Kirjoitelma 2
 - date: to 16.5.
-  title: Medier & Litteratur och film
-  other: Kuuntelu 2 - medier + litteratur & film
+  title: Tema Finland
+  grammar: relatiivilause
 - date: ma 20.5.
   title: Harjoituksia
   grammar: relatiivilause
-  other: 
+  other: Sanakoe Finland
 - date: pe 29.5
   title: PÄÄTTÖPÄIVÄ
-  grammar: suullinen koe, kielioppi, luettu, käännöslauseet
+  grammar: kuuntelu 2, suullinen koe, kielioppi, luettu, käännöslauseet
   other: MUKAAN RUOTSI-KANSIO, LÄPPÄRI, KYNÄ JA KUMI
