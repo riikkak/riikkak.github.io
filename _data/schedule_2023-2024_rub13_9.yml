@@ -40,13 +40,14 @@
   grammar: varje + paljoussanat
   other: Sanakoe medier, Kuuntelu - kultur och medier
 - date: ma 6.5.
-  title: Tema Finland
+  title: Tema Finland Text 1
   grammar: den här, den där, samma, densamma
   other: Suullisen tehtävän palautus - medier
 - date: ke 8.5.
   title: SJÄLVSTÄNDIGT ARBETE 
   grammar: en sådan, en likadan
   other: katso itsenäisten tehtävien ohjeet läksyt-sivulta
+  digi: "Text 1: 3b, 6, 10b, 10d"
 - date: to 9.5.
   title: Kristihimmelfärds dagen 
   other: gå och vistas i naturen
@@ -58,10 +59,11 @@
   grammar: relatiivilause
   other: Sanakoe text 2 + medier, Kirjoitelma 2
 - date: to 16.5.
-  title: Tema Finland
+  title: Tema Finland, teeman koonti
   grammar: relatiivilause
+  digi: "Tema Finland: 3b, 5d, 8d"
 - date: ma 20.5.
-  title: Harjoituksia
+  title: Kertausmateriaali
   grammar: relatiivilause
   other: Sanakoe Finland
 - date: pe 29.5
