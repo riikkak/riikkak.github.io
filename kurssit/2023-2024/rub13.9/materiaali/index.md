@@ -28,16 +28,6 @@ published: true
 - [Temaord - medier](https://quizlet.com/_b3nskl?x=1jqt&i=dz01n)
 
 
-### Fraasien tarkistus
-
-- [Tema Finland fraasien tarkistus](/media/rub3/Finland_fraser.pdf)
-
-- [Text 3 + dialog fraasien tarkistus](/media/rub3/Text 3_fraser.pdf)
-
-- [Text 4 + dialog fraasien tarkistus](/media/rub3/Text 4_fraser.pdf)
-
-- [Text 2 + dialog fraasien tarkistus](/media/rub3/Text 2_fraser.pdf)
-
 ### Tarkistukset
 
 **[Tema Finland harjoitussaniksen tarkistus](/media/rub3/Finland_harjoitussanis.pdf)**
