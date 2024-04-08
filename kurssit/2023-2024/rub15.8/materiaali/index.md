@@ -14,8 +14,8 @@ published: true
 
 ### Tarkistukset
 
-- [Text 2 harjoitussanis tarkistus](/media/rub5/Text 2_harjoitussanis.pdf)
-- [Text 3 harjoitussanis tarkistus](/media/rub5/Text 3_harjoitussanis.pdf)
+- [Text 2 harjoitussanis tarkistus](/media/rub5/Text2_harjoitussanis.pdf)
+- [Text 3 harjoitussanis tarkistus](/media/rub5/Text3_harjoitussanis.pdf)
 - [Substantiivipistarin tarkistus](/media/rub5/Substantiivit_pistari.pdf)
 - [S-passiivin plussatehtävät tarkistus](/media/rub5/S-passiivi_plussa.pdf)
 - [Arbetslivets ABC tarkistus](/media/rub5/Arbetslivets_abc_plussa.pdf)
