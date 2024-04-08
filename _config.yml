@@ -137,6 +137,8 @@ prose:
           options:
             - name: "RUB13.9 - Läksyt"
               value: "rub13.9 läksyt"
+            - name: "RUB13.10 - Läksyt"
+              value: "rub13.10 läksyt"
             - name: "RUB15.8 - Läksyt"
               value: "rub15.8 läksyt"
             - name: "RUB17.4 - Läksyt"
