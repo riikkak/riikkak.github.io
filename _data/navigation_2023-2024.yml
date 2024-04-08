@@ -70,6 +70,14 @@
       url: laksyt
     - page: Materiaali
     - page: Kurssi-info
+# ----- RUB13.10 ----- #
+- course: rub13.10
+  pages:
+    - page: Aikataulu
+    - page: Läksyt
+      url: laksyt
+    - page: Materiaali
+    - page: Kurssi-info
 # ----- RUB14.7 ----- #
 - course: rub14.7
   pages:
