@@ -10,4 +10,4 @@ tags: rub13.9 läksyt
 
 **POISSAOLIJAT:**
 
-Hae työvihko ja moniste opelta.
+Hae työvihko ja moniste opelta, sekä digikirjan ryhmäkoodi.
