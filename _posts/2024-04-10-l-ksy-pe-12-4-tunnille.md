@@ -6,8 +6,12 @@ tags: rub15.8 läksyt
 ---
 **PAKOLLISET:**
 
-1. Kuuntele, lue ja suomenna text 2 ajatuksella digikirjasta. 3p Digikirjan koodi tullut wilmaviestillä.
+1. Kuuntele, lue ja suomenna text 2 ajatuksella digikirjasta. 3p 
+
+OBS! Sanakoeteksti.
+
+Digikirjan koodi tullut Wilma-viestillä.
 
 **POISSAOLIJAT:**
 
-Hae työvihko.
+Hae työvihko opelta, jotta pääset tekemään tunnilla tehdyt tehtävät.
