@@ -8,6 +8,7 @@ published: true
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
+- **[Opintokortti RUB13](/media/rub3/Opintokortti_rub13.pdf)**
 - **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
 
 
