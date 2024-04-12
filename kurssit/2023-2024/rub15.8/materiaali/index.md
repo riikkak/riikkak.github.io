@@ -4,6 +4,10 @@ title: Materiaali
 course: rub15.8
 published: true
 ---
+  
+- **[Opintokortti RUB13](/media/rub3/Opintokortti_rub13.pdf)**
+- **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
+
 ### Flashcardsit
 
 - [Text 3 - fraser](https://quizlet.com/_c90i5u?x=1qqt&i=dz01n)
