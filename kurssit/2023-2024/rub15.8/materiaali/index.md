@@ -5,7 +5,7 @@ course: rub15.8
 published: true
 ---
   
-- **[Opintokortti RUB13](/media/rub3/Opintokortti_rub13.pdf)**
+- **[Opintokortti RUB15](/media/rub3/Opintokortti_rub15.pdf)**
 - **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
 
 ### Flashcardsit
@@ -18,8 +18,8 @@ published: true
 
 ### Tarkistukset
 
-- [Text 2 harjoitussanis tarkistus](/media/rub5/Text 2_harjoitussanis.pdf)
-- [Text 3 harjoitussanis tarkistus](/media/rub5/Text 3_harjoitussanis.pdf)
+- [Text 2 harjoitussanakoe](/media/rub5/Harjoitussanis_studier.pdf)
+- [Text 3 harjoitussanakoe](/media/rub5/Harjoitussanis_arbetslivet.pdf)
 - [Substantiivipistarin tarkistus](/media/rub5/Substantiivit_pistari.pdf)
 - [S-passiivin plussatehtävät tarkistus](/media/rub5/S-passiivi_plussa.pdf)
 - [Arbetslivets ABC tarkistus](/media/rub5/Arbetslivets_abc_plussa.pdf)
