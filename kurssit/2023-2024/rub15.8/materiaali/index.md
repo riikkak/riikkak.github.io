@@ -5,7 +5,7 @@ course: rub15.8
 published: true
 ---
   
-- **[Opintokortti RUB15](/media/rub3/Opintokortti_rub15.pdf)**
+- **[Opintokortti RUB15](/media/rub5/Opintokortti_rub15.pdf)**
 - **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
 
 ### Flashcardsit
