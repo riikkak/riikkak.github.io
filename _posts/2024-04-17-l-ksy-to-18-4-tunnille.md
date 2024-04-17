@@ -26,4 +26,6 @@ Torstain tunnilla kirjoitelma kultur-teemasta eli musik + litteratur och filmer.
 
 2. Tee työvihkon s. 19 (alin tehtävä plussa).
 
+Adjektiivin vertailusta tukiopetus tarvitseville **pe 19.4. klo 14.30.**
+
 
