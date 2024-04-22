@@ -10,7 +10,7 @@ Tunnilla sanakoe tema Finland fraaseista. Tee halutessasi harjoitussanakoe, korj
 
 Sanakokeen jälkeen hieman kielioppia ja sitten kirjoitelma Suomi-teemasta.
 
-Torstain tunti tehdään itsenäisesti. Tekemättömät tehtävät = poissaolo. Kurssilla käytössä yhteensä 14 kontaktiopetustuntia, kaksi oppituntia tehdään itsenäisesti.
+Torstain tunti tehdään itsenäisesti. Tekemättömät tehtävät = poissaolo. Kurssilla käytössä yhteensä 14 kontaktiopetustuntia, kaksi oppituntia tehdään itsenäisesti. Olethan aina läsnä, ellet sairastu.
 
 **POISSAOLIJAT:**
 
