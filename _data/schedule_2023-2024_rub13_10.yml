@@ -14,18 +14,16 @@
   digi: "Tema Finland: 3b(H), Text 1: 6, 10b"
 - date: ma 22.4.
   title: Tema Finland, teeman koonti
-  grammar: interrogatiivipronominit
-  digi: "interrogatiivipronominit: 1, 2"
 - date: ti 23.4.
   title: Harjoituksia
-  grammar: man ja det
-  digi: "man ja det: 3"
+  grammar: interrogatiivipronominit 
+  digi: "interrogatiivipronominit: 1, 2"
   other: Sanakoe Finland, ohjattu kirjoitusharjoitus
 - date: to 25.4.
-  title: SJÄLVSTÄNDIGT ARBETE
-  grammar: prepositiot paikanilmauksissa
+  title: SJÄLVSTÄNDIGT ARBETE, tienneuvominen
+  grammar: man ja det
   other: katso itsenäisten tehtävien ohjeet läksyt-sivulta
-  digi: "prepositiot paikanilmauksissa: 1a, 1b, 4a, 4b"
+  digi: "prepositiot paikanilmauksissa: 1a, 1b, 4a, 4b, man ja det: 3"
 - date: ma 29.4.
   title: Tema medier Text 2 Våga vara dig själv
   grammar: annan, själv, hela, båda
