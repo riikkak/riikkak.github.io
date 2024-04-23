@@ -7,6 +7,7 @@ published: true
 **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
 
 - [Tekstien fraasien tarkistus](/media/rub7/Tekstifraasit.pdf)
+- [Natur teemasanaston tarkistus](/media/rub7/Natur_teemasanasto.pdf)
 
 ## Quizletit
 
@@ -26,6 +27,7 @@ published: true
 - [Social och ekonomisk hållbarhet harjoitussanakokeen tarkistus](/media/rub7/Hallbarhet_sanis.pdf)
 - [Brott och straff harjoitussanankokeen tarkistus](/media/rub7/Brott och straff_harjoitussanis.pdf)
 - [Trafik harjoitussanakokeen tarkistus](/media/rub7/Trafik_harjoitussanis.pdf)
+
 
 **KIELIOPPI**
 
