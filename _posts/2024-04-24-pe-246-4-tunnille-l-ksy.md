@@ -8,7 +8,7 @@ tags: rub15.8 läksyt
 
 Tee työvihkosta s. 16 vihreä laatikko ja s. 17 violettilaatikko.
 
-Muista palauttaa suullinen tehtävä!
+Muista palauttaa suullinen tehtävä! Suullinen tehdään Flip-sovellukseen, ohjeistukseen oli jäänyt virheellisesti että Teamsiin. Eli flip.com, koodi on työvihkon kannessa ja kirjautuminen eduouka-tunnuksilla, ohjeet kirjautumiseen myös materiaalit-sivulla.
 
 **PLUSSAT:**
 
