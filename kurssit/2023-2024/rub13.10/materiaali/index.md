@@ -43,6 +43,8 @@ published: true
 
 **[Tienneuvominen - facit](/media/rub3/Tienneuvominen.pdf)**
 
+**[Man ja det - tarkistus](/media/rub3/Man ja det_tarkistus.pdf)**
+
 **[Sanastokertaus - tarkistus](/media/rub3/Sanastokertaus.pdf)**
 
 ### Päättöviikko
