@@ -8,6 +8,8 @@ tags: rub17.4 läksyt
 
 Tee loppuun työvihkon s. 3-4.
 
+Muistathan edistää digikirjan tehtäviä, monella näkyi olevan melko tyhjännäköinen opintokortti...
+
 **POISSAOLIJAT:**
 
 1. Tee työvihkon s. 26 (apua digikirjan teoriasta) ja s. 27 yläosan taulukot.
