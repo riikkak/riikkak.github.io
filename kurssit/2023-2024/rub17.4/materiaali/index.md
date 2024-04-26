@@ -8,7 +8,7 @@ published: true
 
 - [Tekstien fraasien tarkistus](/media/rub7/Tekstifraasit.pdf)
 - [Natur teemasanaston tarkistus](/media/rub7/Natur_teemasanasto.pdf)
-
+- [Prepositiosivujen tarkistus](/media/rub7/Prepositioilmauksia.pdf)
 ## Quizletit
 
 - [Natur - fraser](https://quizlet.com/_bfstah?x=1jqt&i=dz01n)
