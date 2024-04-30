@@ -47,6 +47,12 @@ published: true
 
 **[Sanastokertaus - tarkistus](/media/rub3/Sanastokertaus.pdf)**
 
+**[Teema - media tarkistus 1](/media/rub3/Media_1.pdf)**
+
+**[Teema - media tarkistus 2](/media/rub3/Media_2.pdf)**
+
+**[Någon, ingen, all -tarkistus](/media/rub3/Indefiniitit.pdf)**
+
 ### Päättöviikko
 
 - [Päättöpäivän tarkka kertausohje](/media/rub3/Kertausohje_pitkä.pdf)
