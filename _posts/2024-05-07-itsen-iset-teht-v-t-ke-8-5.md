@@ -12,7 +12,7 @@ tags: rub13.9 läksyt
 
 3. Tee s.9 (paikkojen nimet)
 
-4- Tee digikirjan tehtävät: **Text 1  teht. 6, 10b JA indefiniittipronominit 3, 4a, 4b, 7a, 7b, 8b, 9, 10" 
+4- Tee digikirjan tehtävät: **Text 1  teht. 6, 10b JA indefiniittipronominit 3, 4a, 4b, 7a, 7b, 8b, 9, 10** 
 
 **OBS!**
 
