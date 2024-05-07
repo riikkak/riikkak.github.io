@@ -39,17 +39,16 @@
   other: munkar, struvor och mjöd
 - date: to 2.5.
   title: Harjoituksia
-  grammar: varje + paljoussanat
+  grammar: varje 
   other: Sanakoe medier, Kuuntelu - kultur och medier
   digi: "indefiniittipronominit: 3, 4a, 4b, 7a, 7b, 8b, 9, 10"
 - date: ma 6.5.
   title: Tema Finland Text 1
-  grammar: den här, den där, samma, densamma
-  other: Suullisen tehtävän palautus - medier
+  grammar: paljoussanat
   digi: "Text 1: 6, 10b"
 - date: ke 8.5.
   title: SJÄLVSTÄNDIGT ARBETE
-  grammar: en sådan, en likadan
+  grammar: den här, den där, samma, densamma 
   other: katso itsenäisten tehtävien ohjeet läksyt-sivulta
   digi: "demonstratiivipronominit: 1a, 1b, 3a, 3b, 4"
 - date: to 9.5.
@@ -57,7 +56,8 @@
   other: gå och vistas i naturen
 - date: ma 13.5.
   title: Tema Finland
-  grammar: relatiivilause
+  grammar: en sådan, en likadan
+  other: Suullisen tehtävän palautus - medier
 - date: ke 15.5.
   title: Tema Finland
   grammar: relatiivilause
