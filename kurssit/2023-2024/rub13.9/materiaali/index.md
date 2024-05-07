@@ -45,6 +45,8 @@ published: true
 
 **[Tienneuvominen - facit](/media/rub3/Tienneuvominen.pdf)**
 
+**[Den här, det här, de här -tarkistus](/media/rub3/Demonstratiivit_tamanama.pdf)**
+
 **[Sanastokertaus - tarkistus](/media/rub3/Sanastokertaus.pdf)**
 
 ### Päättöviikko
