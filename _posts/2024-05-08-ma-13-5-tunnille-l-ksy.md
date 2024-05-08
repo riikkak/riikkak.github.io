@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: Ma 13.5. tunnille läksy
+title: Pe 10.5. tunnille läksy
 tags: rub15.8 läksyt
 ---
 **PAKOLLISET:**
@@ -13,7 +13,3 @@ tags: rub15.8 läksyt
 1. Opiskele huolella teksti 3 ja pyydä halutessasi teksti opelta ja merkinnät.
 
 2. Tee työvihkon s. 26-27.
-
-
-
-
