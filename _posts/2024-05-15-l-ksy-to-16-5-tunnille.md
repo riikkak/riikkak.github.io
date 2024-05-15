@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: Läksy to 16.5. tunnille
+title: To 16.5. tunnille läksy
 tags: rub13.9 läksyt
 ---
 **PAKOLLISET:**
@@ -21,5 +21,3 @@ Työvihkon s. 7.
 2. Tee työvihkon s. 5 kokonaan. Pyydä merkinnät ylimpään tehtävään. 
 
 4. Tee sivu 4 loppuun.
-
-
