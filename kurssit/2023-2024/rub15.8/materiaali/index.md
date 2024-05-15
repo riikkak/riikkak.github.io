@@ -25,3 +25,4 @@ published: true
 - [Arbetslivets ABC tarkistus](/media/rub5/Arbetslivets_abc_plussa.pdf)
 - [Anställningsintervju tarkistus](/media/rub5/Haastattelu_vastaukset.pdf)
 - [Päättöpäivän ohjeet](/media/rub5/Koeohje_RUB15.pdf)
+- [Substantiivien lisäharjoitus - tarkistus](/media/rub5/Substantiivit_plussa.pdf)
