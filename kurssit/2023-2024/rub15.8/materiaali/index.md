@@ -4,6 +4,7 @@ title: Materiaali
 course: rub15.8
 published: true
 ---
+- [Työhaastattelun kysymykset](/media/rub5/Haastattelu_kysymykset.pdf)
   
 - **[Opintokortti RUB15](/media/rub5/Opintokortti_rub15.pdf)**
 - **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
