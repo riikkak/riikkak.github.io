@@ -1,0 +1,83 @@
+- name: rub11-12.4
+  code:
+  desc:
+  period:
+    - 2
+    - 3
+
+- name: rub11-12.7
+  code:
+  desc:
+  period:
+    - 4
+    - 5
+
+- name: rub112.1
+  code:
+  desc:
+  period: 1
+
+- name: rub114.4
+  code:
+  desc:
+  period: 3
+
+- name: rub13.1
+  code:
+  desc:
+  period: 1
+
+- name: rub13.5
+  code:
+  desc:
+  period: 3
+
+- name: rub14.1
+  code:
+  desc:
+  period: 1
+
+- name: rub14.4
+  code:
+  desc:
+  period: 2
+
+- name: rub14.5
+  code:
+  desc:
+  period: 3
+
+- name: rub14.7
+  code:
+  desc:
+  period: 4
+
+- name: rub15.1
+  code:
+  desc:
+  period: 2
+
+- name: rub15.6
+  code:
+  desc:
+  period: 5
+
+- name: rub15.7
+  code:
+  desc:
+  period: 4
+
+- name: rub16.1
+  code:
+  desc:
+  period: 1
+
+- name: rub16.6
+  code:
+  desc:
+  period: 5
+
+- name: rub17.2
+  code:
+  desc:
+  period: 2
