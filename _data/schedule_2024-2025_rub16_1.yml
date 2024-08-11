@@ -1,44 +1,41 @@
 - date: pe 9.8.
-  title: Resor
-  other: Allmän kursinfo + Uppvärmning
+  title: Uppvärmning
 - date: ma 12.8.
-  title: Resor
+  title: Allmän kursinfo, Resor
+  other: uttal
 - date: ke 14.8.
-  title: Resor - väder
+  title: Resor 
 - date: pe 16.8.
-  title: Resor - Att visa vägen
+  title: Resor - Väder
 - date: ma 19.8.
-  title: Relationer
-  other: Ordprov - resor
+  title: Resor - Att visa vägen
 - date: ke 21.8.
-  title: Relationer
+  title: Relationer 
+  other: Ordprov - resor
 - date: pe 23.8.
   title: Relationer
 - date: ma 26.8.
   title: Relationer
-  other: Ordprov och hörförståelseprov 1
 - date: ke 28.8.
-  title: Att bli vuxen
+  title: Relationer 
 - date: pe 30.8.
-  title: Politik och samhälle
+  title: Att bli vuxen
+  other: Ordprov relationer och hörförståelseprov 1
 - date: ma 2.9.
   title: Politik och samhälle
 - date: ke 4.9.
   title: Politik och samhälle
 - date: pe 6.9.
-  title: Hälsa och välmående
-  other: Orprov - politik och samhälle
+  title: Politik och samhälle 
 - date: ma 9.9.
-  title: Hälsa och välmående
+  title: Politik och samhälle 
 - date: ke 11.9.
-  title: Övningsprov
-  other: Hörföståelseprov 2
+  title: Hälsa och välmående
+  other: Orprov - politik och samhälle, hörföståelseprov 2
 - date: pe 13.9.
-  title: Övningsprov
-  other: Hörföståelseprov 2
+  title: Hälsa och välmående
 - date: ma 16.9.
   title: Övningsprov
-  other: Hörföståelseprov 2
 - date: ma 23.9.
   title: Päättöpäivä kesto 45 min. per pari
   other: Suullinen koe parin kanssa erikseen sovittuna aikana
