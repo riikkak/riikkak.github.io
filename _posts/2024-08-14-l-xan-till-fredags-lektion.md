@@ -6,7 +6,9 @@ tags: rub16.1 läksyt
 ---
 **OBLIGATORISKA:**
 
-Fortsätt fylla i s. 13 och 14 i häftet.
+1. Fortsätt fylla i s. 13 och 14 i häftet.
+
+2. Om du bara hinner, gör också s. 15.
 
 **PLUSÖVNING:**
 
