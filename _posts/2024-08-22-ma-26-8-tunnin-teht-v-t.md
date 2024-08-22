@@ -22,3 +22,9 @@ Tekemättömät tehtävät = poissaolo tunnilta.
 
 **Tiistain tunnilla verbikoe sivun 22 johdosverbeistä.**
 
+**TORSTAIN POISSAOLIJAT:**
+
+1. Tee s. 22 ja pyydä merkinnät (näistä koe tiistaina)
+
+2. Tee s. 12 loppuun.
+
