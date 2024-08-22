@@ -20,5 +20,5 @@ Tekemättömät tehtävät = poissaolo tunnilta.
 
 5. Tee digikirjasta tekstin 5 tehtävät **7a, 8a**
 
-## Tiistain tunnilla verbikoe sivun 22 johdosverbeistä.
+**Tiistain tunnilla verbikoe sivun 22 johdosverbeistä.**
 
