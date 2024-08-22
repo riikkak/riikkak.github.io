@@ -27,7 +27,7 @@ published: true
 
 **[Vahvat ja epäsäännölliset verbit](/media/rub4/RUB14_verbit.pdf)**
 
-**[Johdosverbit](/media/rub4/Johdosverbit.pdf)**
+**[Johdosverbitehtävät](/media/rub4/Johdosverbiharjoitukset.pdf)**
 
 **[Apuverbi + infinitiivi lisäharjoitus](/media/rub4/Apuverbit.pdf)**
 
