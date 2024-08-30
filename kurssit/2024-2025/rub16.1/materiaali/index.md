@@ -10,6 +10,10 @@ published: true
 - [Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)
 - [Kehumisfraaseja Introduktioner-videoihin](/media/rub6/Komplimang.pdf)
 
+### TRÄNA!
+
+- [Övningsprov - relationer](/media/rub6/Harjoitussanakoe_relationer.pdf)
+  
 ### QUIZLET
 
 - [Relationer - fraser](https://quizlet.com/_b6aqnb?x=1jqt&i=dz01n)
@@ -21,6 +25,6 @@ published: true
 
 ### Kolla dina svar
 
-- [Övningsprov - relationer](/media/rub6/Harjoitussanis_relationer.pdf)
-- [Övningsprov - resor](/media/rub6/Harjoitussanis_resor.pdf)
-- [Övningsprov - politik](/media/rub6/Harjoitussanis_politik.pdf)
+- [Övningsprov SVAREN - relationer](/media/rub6/Harjoitussanis_relationer.pdf)
+- [Övningsprov SVAREN - resor](/media/rub6/Harjoitussanis_resor.pdf)
+- [Övningsprov SVAREN - politik](/media/rub6/Harjoitussanis_politik.pdf)
