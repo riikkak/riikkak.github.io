@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: Läksy ma 9.9. tunnille
+title: Läksy ti 10.9. tunnille
 tags: rub13.1 läksyt
 ---
 **PAKOLLISET:**
