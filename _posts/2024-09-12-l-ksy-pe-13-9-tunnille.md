@@ -8,4 +8,8 @@ tags: rub13.1 läksyt
 
 Täytä työvihkoon tema Finland fraasit (huomaa että ne jatkuvat seuraavalle sivulle). Sanakoe näistä tiistain tunnille.
 
+POISSAOLIJAT:
+
+Kysy kaverilta.
+
 
