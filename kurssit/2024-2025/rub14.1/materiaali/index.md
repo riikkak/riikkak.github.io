@@ -31,6 +31,10 @@ published: true
 
 **[Apuverbi + infinitiivi lisäharjoitus](/media/rub4/Apuverbit.pdf)**
 
+**[Konditionaali lisäharjoitus](/media/rub4/Konditionaali_plussa.pdf)**
+
+**[Kysyvä sivulause lisäharjoitus](/media/rub4/Kysyvasivulause_plussa.pdf)**
+
 **[Päättöpäivän ohjeet](/media/rub4/Arviointipaiva_ohjeet.pdf)**
 
 **[Kertausmoniste - prepositiofraasit](/media/rub4/Kertausmoniste.pdf)**
