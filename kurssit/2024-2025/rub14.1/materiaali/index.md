@@ -37,4 +37,4 @@ published: true
 
 **[Päättöpäivän ohjeet](/media/rub4/Arviointipaiva_ohjeet.pdf)**
 
-**[Kertausmoniste - prepositiofraasit](/media/rub4/Kertausmoniste.pdf)**
+**[Kertausmoniste - prepositiofraasit](/media/rub4/KPrepositiofraasit.pdf)**
