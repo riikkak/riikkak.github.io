@@ -49,6 +49,8 @@ published: true
 
 **[Sanastokertaus - tarkistus](/media/rub3/Sanastokertaus.pdf)**
 
+**[Pronominien yhteenveto](/media/rub3/Pronomini_yhteenveto.pdf)**
+
 ### Päättöviikko
 
 - [Päättöpäivän tarkka kertausohje](/media/rub3/Kertausohje_pitkä.pdf)
