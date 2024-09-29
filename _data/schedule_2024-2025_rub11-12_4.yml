@@ -1,5 +1,5 @@
 - date: ma 30.9.
-  title: Sisältö, arviointi, kertausta ja lämmittelyä
+  title: Sisältö, arviointi, arkifraasit
   digi: "Start: 6a, 7a, 8, 10, 11a, 11b, 12a, 12b"
   other: digikirjan käyttöönotto
 - date: ke 2.10.
@@ -11,70 +11,68 @@
   grammar: Päälause
   digi: "päälause: 2, 3, 6a"
 - date: ma 7.10.
-  title: Harjoituksia, arkifraasit
-  grammar: Päälause, Kys. lause
-- date: ke 9.10.
   title: Tema - Fritid
-  grammar: Kysymyslause
+  grammar: Päälause, Kys. lause
   other: Sanakoe Text 1
-- date: pe 11.10.
+- date: ke 9.10.
   title: Text 2 Musik, sport, datorer eller något annat?
   grammar: Kysymyslause
+  digi: "kysymyslause: 1a, 1b, 2"
+- date: pe 11.10.
+  title: Text 2 jatkuu
+  grammar: Kysymyslause
+  digi: "Text 2: 4a"
 - date: ma 14.10.
-  title: Text 2 jatkuu, ajanmääreet
+  title: Tema - Fritid, ajanmääreet
   grammar: prepositiokertaus
   digi: "Tema fritid: 4a, 5a, 5b"
 - date: ke 16.10.
-  title: Tema - Fritid
-  grammar: verbit
-  digi: "kysymyslause: 1a, 1b, 2"
+  title: Harjoituksia
+  other: kuuntelukoe 1, ohjattu kirjoitusharjoitus
 - date: pe 18.10.
   title: INGEN UNDERVISNING 
-  grammar: päälause
-  digi: "Text 2 - 4a" 
 - date: 21.-25.10.
   title: HÖSTLOV
 - date: ma 28.10.
-  title: 
-  grammar: päälause
-  other: Suullinen tehtävä - palautus Flipiiin ke 10.1. klo 21.00 mennessä
-- date: ke 30.10.
-  title: Temaord - Fritid
-  grammar: sivulause
-  other: Kirjoitelma 1 + kuuntelukoe 1
-- date: pe 1.11.
-  title: Text 4 Köttbullar, sushi eller vegoburgare?
-  grammar: sivulause
-  digi: "sivulause: 2b, 4, 5a"
-- date: ma 4.11.
-  title: Text 4 vanhana
-  grammar: sivulause
-  digi: "text 4: 4a, 5a, 7a-c, 9a"
-- date: ke 6.11.
-  title: Temaord - mat
-  grammar: päälause + sivulause
-- date: pe 8.11.
-  title: Temaord - mat
-  grammar: prepositiokertaus
-  digi: "Tema mat: 4b, 4c, 5a"
-- date: ma 11.11.
-  title: Temaord - mat
+  title: Temaord - kompisar och vänner
   grammar: verbit
-  other: Sanakoe text 4
-- date: ke 13.11.
+- date: ke 30.10.
   title: Temaord - kompisar och vänner
   grammar: verbit
   digi: "Tema kompisar och vänner: 3c, 5b"
-- date: pe 15.11.
+- date: pe 1.11.
   title: Temaord - kompisar och vänner
   grammar: verbit
   digi: "verbit: 1b, 2a-b, 3b, 4a, 4c, 5a"
-- date: ma 18.11.
-  title: INGEN LEKTION Temaord - kompisar och vänner
+  other: Suullinen tehtävä - palautus Teamsiin klo 17.00 mennessä
+- date: ma 4.11.
+  title: Harjoituksia
+  grammar: verbit
+  digi: "text 4: 4a, 5a, 7a-c, 9a"
+  other: verbikoe 1
+- date: ke 6.11.
+  title: Text 4 Köttbullar, sushi eller vegoburgare?
   grammar: verbit
   digi: "verbit: 7b, 8a, 8c, 9c, 10c, 11"
-  other: VERBIKOE 1
+- date: pe 8.11.
+  title: Temaord - mat
+  grammar: pronominit
+  digi: "Tema mat: 4b, 4c, 5a"
+  other: verbikoe 2
+- date: ma 11.11.
+  title: Temaord - mat
+  grammar: pronominit
+  digi: "persoonapronominit: 3, 4c, 5, 7b, 7c, 10, 11"
+- date: ke 13.11.
+  title: Temaord - mat
+  grammar: pronominit
+- date: pe 15.11.
+  title: Harjoituksia, päättöviikon ohjeet
+  grammar: pronominit
+  other: Sanakoe text 4
+- date: ma 18.11.
+  title: INGEN LEKTION 
 - date: ti 30.1.
-  title: PÄÄTTÖPÄIVÄ
-  grammar: kuuntelu, kirjoitelma, digikoe kielioppi
+  title: PÄÄTTÖPÄIVÄ klo 8.15-12
+  grammar: kuuntelu 2, ohjattu kirjoitelma, kielioppikoe
   other: MUKAAN KONE, KIRJOITUSVÄLINEET JA TUKIMATERIAALI
