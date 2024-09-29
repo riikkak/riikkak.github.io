@@ -14,34 +14,36 @@
   grammar: prepositiot
   other: Ohjattu kirjoitusharjoitus
 - date: pe 11.10.
-  title: Tema - miljö 
+  title: Tema - natur
 - date: ti 15.10.
-  title: Tema - miljö 
+  title: Tema - natur
   grammar: prepositiot
 - date: ke 16.10.
-  title: Tema - miljö
+  title: Tema - natur
   grammar: prepositiot
 - date: pe 18.10.
-  title: Tema - miljö
+  title: Tema - natur
   grammar: prepositiot
-  other: Sanakoe miljö, kuuntelu 1
+  other: Sanakoe natur, kuuntelu 1
 - date: 21. - 25.10.
   title: HÖSTLOV
 - date: ti 29.10.
-  title: Tema - natur
+  title: Tema - miljö
   grammar: partisiipin perfekti
 - date: ke 30.10.
-  title: Tema - natur
+  title: Tema - miljö
   grammar: partisiipin perfekti
 - date: pe 1.11.
-  title: Tema - natur
+  title: Tema -miljö
   grammar: partisiipin perfekti
 - date: ti 5.11.
-  title: Tema- natur
+  title: Tema- miljö
   grammar: genetiivi
+  other: Suullisen tehtävän palautus Teamsiin klo 21.00 mennessä
 - date: ke 6.11.
   title: Temaord - social och ekonomisk hållbarhet
   grammar: genetiivi
+  other: Sanakoe miljö
 - date: pe 8.11.
   title: Temaord - social och ekonomisk hållbarhet
   grammar: genetiivi
@@ -50,7 +52,6 @@
   other: lauseenvastikkeet
 - date: ke 13.11.
   title: Temaord - brott och straff
-  other: Suullisen tehtävän palautus Flipiin pe klo 16 mennessä
 - date: pe 15.11.
   title: Tema - framtiden
   grammar: lauseenvastikkeet
