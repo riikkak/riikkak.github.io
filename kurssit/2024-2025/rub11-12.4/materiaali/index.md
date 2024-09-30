@@ -56,7 +56,4 @@ published: true
 
 **[Verbikertaus - tarkistus](/media/rub2/Verbikertaus.pdf)**
 
-**[Päättöpäivä 2 ohjeet](/media/rub2/Koeviikko_rub12.pdf)**
-
-**[Päättöpäivä 1 ohjeet](/media/rub2/Paattopaiva1_ohjeet.pdf)**
 
