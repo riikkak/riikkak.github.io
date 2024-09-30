@@ -8,6 +8,10 @@ tags: rub11-12.4 läksyt
 
 1. Kirjaudu digikirjan ryhmään.
 
-2. Tee sieltä Start-osion tehtävät (huom! mukana pari kuuntelutehtävää), näissä yläkoulun perusasian kertausta, tee ajatuksella. Arvioitu kesto 15 min. 
+2. Tee sieltä Start-osion tehtävät (huom! mukana pari kuuntelutehtävää), näissä yläkoulun perusasian kertausta, tee ajatuksella. Arvioitu kesto 15 min., 8 pistettä.
 
 **Start: 6a, 7a, 8, 10, 11a, 11b, 12a, 12b**
+
+**PLUSSA:**
+
+Tee halutessasi jakson aikana tunnilla jaettu vapaaehtoinen ääntömoniste. Kirjoita sanojen ääntöasu auk. Tarkista vastauksesi ja korjaa erivärisellä kynällä (vastaukset tulevat materiaalit-sivulle).
