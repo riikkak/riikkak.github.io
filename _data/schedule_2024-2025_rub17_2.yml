@@ -7,12 +7,12 @@
   title: Tema - trafik
   grammar: adverbit
 - date: ti 8.10.
-  title: Tema - trafik
-  grammar: adverbit
-- date: ke 19.10.
   title: Övningar
-  grammar: prepositiot
+  grammar: adverbit
   other: Ohjattu kirjoitusharjoitus
+- date: ke 19.10.
+  title: Tema - natur
+  grammar: prepositiot
 - date: pe 11.10.
   title: Tema - natur
 - date: ti 15.10.
@@ -21,10 +21,9 @@
 - date: ke 16.10.
   title: Tema - natur
   grammar: prepositiot
-- date: pe 18.10.
-  title: Tema - natur
-  grammar: prepositiot
   other: Sanakoe natur, kuuntelu 1
+- date: pe 18.10.
+  title: LEDIG DAG
 - date: 21. - 25.10.
   title: HÖSTLOV
 - date: ti 29.10.
