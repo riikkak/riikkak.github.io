@@ -6,7 +6,7 @@ tags: rub11-12.4 läksyt
 ---
 **PAKOLLISET:**
 
-1. Kirjaudu digikirjan ryhmään.
+1. Kirjaudu digikirjan ryhmään Otavan opiskelijan maailmassa. Koodi jaettiin tunnin lopussa. Kirjasarja on FOKUS. Käytä digikirjaa aina ryhmän kautta, älä materiaaleista. Näkymä ryhmän kautta on muokattu.
 
 2. Tee sieltä Start-osion tehtävät (huom! mukana pari kuuntelutehtävää), näissä yläkoulun perusasian kertausta, tee ajatuksella. Arvioitu kesto 15 min., 8 pistettä.
 
