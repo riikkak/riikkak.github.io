@@ -14,20 +14,22 @@
   grammar: johdosverbit
   other: VERBIKOE 1
 - date: ke 9.10.
-  title: Text 1 Island - mitt andra hemland
+  title: Harjoituksia 
   grammar: johdosverbit
   digi: "Verbit: 9b, 10b, 11b"
+  other: Ohjattu kirjoitusharjoitus 1
 - date: to 10.10.
-  title: Text 1 jatkuu 
+  title: Text 1 Island - mitt andra hemland
   digi: "Text 1: 6a, 8a"  
   other: VERBIKOE 2
 - date: ma 14.10.
-  title: Tema Island 
+  title: Text 1 jatkuu 
   grammar: apuverbit
   digi: "Apuverbit: 1a, 2, 3ab, 7"
 - date: ke 16.10.
-  title: Harjoituksia 
-  other: Kuuntelukoe 1, ohjattu kirjoitusharjoitus 1
+  title: Tema Island 
+  grammar: apuverbit
+  other: Kuuntelukoe 1
 - date: to 17.10.
   title: Text 4 Bli mer kultursmart 
   digi: "Text 4: 4, 6a"
