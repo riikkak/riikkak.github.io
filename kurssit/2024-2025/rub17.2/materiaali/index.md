@@ -27,7 +27,7 @@ published: true
 - [Social och ekonomisk hållbarhet harjoitussanakokeen tarkistus](/media/rub7/Hallbarhet_sanis.pdf)
 - [Brott och straff harjoitussanankokeen tarkistus](/media/rub7/Brott och straff_harjoitussanis.pdf)
 - [Trafik harjoitussanakokeen tarkistus](/media/rub7/Trafik_harjoitussanis.pdf)
-
+- [Rahankäyttö-teeman kertaava tehtävä](/media/rub7/Pengar_sanastokertaus_vastaukset.pdf)
 
 **KIELIOPPI**
 
