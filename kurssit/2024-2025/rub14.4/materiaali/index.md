@@ -22,6 +22,8 @@ published: true
 
 **[Verbien harjoituskoe](/media/rub4/Verbiharjoituskoe.pdf)**
 
+**[Johdosverbit tarkistus](/media/rub4/Johdosverbi_tarkistus.pdf)**
+
 **[Vahvat ja epäsäännölliset verbit](/media/rub4/RUB14_verbit.pdf)**
 
 **[Johdosverbitehtävät](/media/rub4/Johdosverbiharjoitukset.pdf)**
