@@ -8,6 +8,10 @@ tags: rub11-12.4 läksyt
 
 Tee **työvihkon s. 7.**
 
+**PLUSSA:**
+
+Sivun 8 alaosan käännöslauseet.
+
 **POISSAOLIJAT:**
 
 1. Pyydä tarkistukset fraaseihin (s. 9).
