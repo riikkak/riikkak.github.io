@@ -40,6 +40,8 @@ published: true
 
 **[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text 4_harjoitussanis.pdf)**
 
+**[Päälauseen ja kysymyslauseen sanajärjestyksen kertaustehtävän vastaukset](/media/rub2/SJkertaus_vastaukset.pdf)**
+
 **[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
 
 **[Refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivit_facit.pdf)**
