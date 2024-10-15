@@ -16,10 +16,6 @@ Keskiviikon tunnilla kuuntelukoe teemoista Sverige + fritid + kirjoitelma samois
 
 Kirjoitelmassa on kyse ohjatusta kirjoitusharjoituksesta, 70-90 sanaa, mukana apukysymyksiä. Apuna käytetään ainoastaan kieliopin tiivistelmää (esittelen sen ennen kirjoittamista). Olemme harjoitelleet tarvittavaa sanastoa 7x 75min, ei siis tarvitse kummemmin valmistautua, olettaen että olet tehnyt tuntityöskentelyn ja läksyt ajatuksella. Aikaa kirjoitelman tekemiseen on n. 30-40 min. Tästä ei siis tarvitse paineita ottaa. Tekniikka ja tehtävätyyppi tulee tutuksi moduulien aikana, teemme näitä joka moduulissa 1-2.
 
-**PLUSSA:**
-
-Text 2 digitehtävät 
-
 **POISSAOLIJAT:**
 
 1. Tee s. 20 loppuun, pyydä merkinnät.
