@@ -26,7 +26,7 @@ published: true
 
 ### TEHTÄVIEN TARKISTUS
 
-**[Verbien harjoituskoe](/media/rub2/Heikot + vahvat osa 1_lisäharjoitus_s-24.pdf)**
+**[Verbien harjoituskoe s. 24 verbit](/media/rub2/Heikot + vahvat osa 1_lisäharjoitus_s-24.pdf)**
 
 **[Verbien harjoituskoe](/media/rub2/Verbikoe_harjoitus.pdf)**
 
