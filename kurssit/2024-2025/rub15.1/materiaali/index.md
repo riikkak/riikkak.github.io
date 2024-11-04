@@ -21,6 +21,7 @@ published: true
 - [Text 3 harjoitussanakoe](/media/rub5/Harjoitussanis_arbetslivet.pdf)
 - [Substantiivipistarin tarkistus](/media/rub5/Substantiivit_pistari.pdf)
 - [S-passiivin plussatehtävät tarkistus](/media/rub5/S-passiivi_plussa.pdf)
+- [Partisiipin preesens plussatehtävä tarkistus](/media/rub5/Partisiipinpreesens_plussa.pdf)
 - [Arbetslivets ABC tarkistus](/media/rub5/Arbetslivets_abc_plussa.pdf)
 - [Anställningsintervju tarkistus](/media/rub5/Haastattelu_vastaukset.pdf)
 - [Substantiivien lisäharjoitus - tarkistus](/media/rub5/Substantiivit_plussa.pdf)
