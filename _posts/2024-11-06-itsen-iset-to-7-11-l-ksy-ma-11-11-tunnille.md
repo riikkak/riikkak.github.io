@@ -10,9 +10,11 @@ OBS! Tekemättömät tehtävät = poissaolo, teethän tehtävät huolella, snäl
 
 1. Kuuntele, lue ja suomenna teksti 3 digikirjasta.
 
-2. Hae työvihkoon tekstin fraasit.
+2. Hae työvihkoon tekstin fraasit s. 7. Tee myös sivun alaosa.
 
 3. Tee työvihkosta s. 29 loppuun + s. 30 konditionaalin tehtävät.
+
+
 
 **POISSAOLIJAT:**
 
