@@ -10,6 +10,8 @@ tags: rub17.2 läksyt
 
 2. Kirjoita realistinen rikosuutinen (3-5 virkettä) annetulle väripaperille. Saa piirtää myös kuvan :D
 
+TUNNILLA KUUNTELUKOE TEEMOISTA MILJÖ, SOCIAL OCH EKONOMISK HÅLLBARHET JA BROTT OCH STRAFF!
+
 **PLUSSA:**
 
 1. S. 30 alempi tehtävä
