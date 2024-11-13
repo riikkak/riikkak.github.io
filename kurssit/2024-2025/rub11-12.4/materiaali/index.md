@@ -38,11 +38,12 @@ published: true
 
 **[Text 2 harjoitussanakokeen vastaukset](/media/rub1/Text 2_harjoitussanis.pdf)**
 
+**[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text 4_harjoitussanis.pdf)**
+
 **[Skola harjoitussanakokeen vastaukset](/media/rub2/Skola_harjoitussanis.pdf)**
 
 **[Välbefinnande och hälsa harjoitussanakokeen vastaukset](/media/rub2/Terveysteema_harjoitussanis.pdf)**
 
-**[Text 4 harjoitussanakokeen vastaukset](/media/rub1/Text 4_harjoitussanis.pdf)**
 
 **[Päälauseen ja kysymyslauseen sanajärjestyksen kertaustehtävän vastaukset](/media/rub2/SJkertaus_vastaukset.pdf)**
 
@@ -58,7 +59,7 @@ published: true
 
 ## PÄÄTTÖVIIKOT
 
-**[Kielopin kertaus - tarkistus ](/media/rub2/Kieliopin kertaustehtävät_FACIT.pdf)**
+**[Kielopin kertaus (aloitusperiodi) - tarkistus ](/media/rub2/Kertaus_aloitusperiodi.pdf)**
 
 **[Verbikertaus - tarkistus](/media/rub2/Verbikertaus.pdf)**
 
