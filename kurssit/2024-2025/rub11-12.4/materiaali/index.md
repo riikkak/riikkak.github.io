@@ -61,6 +61,8 @@ published: true
 
 **[Kielopin kertaus (aloitusperiodi) - tarkistus ](/media/rub2/Kertaus_aloitusperiodi.pdf)**
 
+**[Päättöpäivä 1 - valmistautumisen ohje (aloitusperiodi)](/media/rub2/Kertausohje_aloitusperiodi.pdf)**
+
 **[Verbikertaus - tarkistus](/media/rub2/Verbikertaus.pdf)**
 
 
