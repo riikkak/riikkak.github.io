@@ -5,6 +5,7 @@ course: rub11-12.4
 published: true
 ---
 ### TIPS!
+**[RUB11-12 opintokortti](/media/rub2/RUB12_opintokortti.pdf)**
 
 -Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
 
