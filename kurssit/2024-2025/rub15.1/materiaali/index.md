@@ -25,6 +25,7 @@ published: true
 - [Arbetslivets ABC tarkistus](/media/rub5/Arbetslivets_abc_plussa.pdf)
 - [Anställningsintervju tarkistus](/media/rub5/Haastattelu_vastaukset.pdf)
 - [Substantiivien lisäharjoitus - tarkistus](/media/rub5/Substantiivit_plussa.pdf)
+- [Substantiivin käytön lisäharjoitus](/media/rub5/Substantiiviplussa.pdf)
 
 ### Päättöviikko
 - [Työhaastattelun kysymykset](/media/rub5/Haastattelukysymykset.pdf)
