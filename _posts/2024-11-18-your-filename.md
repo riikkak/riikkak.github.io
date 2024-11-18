@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: ''
+title: Päättöpäivä ti 19.11.
 tags: rub15.1 läksyt
 ---
 ### PÄÄTTÖPÄIVÄ
