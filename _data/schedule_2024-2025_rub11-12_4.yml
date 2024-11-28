@@ -1,3 +1,82 @@
+- date: to 28.11.
+  title: Tema - skola
+  grammar: substantiivin taivutus 
+- date: ma 2.12.
+  title: Tema skola - Text 3
+  grammar: substantiivin taivutus 
+  digi: "Text 3: 3a, 5a, 6a"
+  other: puhtaaksikirjoitus
+- date: ke 4.12.
+  title: Tema - skola
+  grammar: substantiivin taivutus 
+- date: to 5.12.
+  title: Temaord - skola
+  grammar: substantiivin taivutus 
+  digi: "substantiivien taivutus: 1, 3a, 5, 6"
+- date: ma 9.12.
+  title: Temaord - skola
+  grammar: substantiivin käyttö
+  digi: "skola: 3a, 3c, 4a"
+- date: ke 11.12.
+  title: Tema - utseende
+  grammar: substantiivin käyttö
+  digi: "substantiivin käyttö: 1, 2"
+  other: Sanakoe + kuuntelu skola
+- date: to 12.12.
+  title: Tema - utseende
+  grammar: käskymuoto
+  other: Sanakoe - skola
+- date: ma 16.12.
+  title: Tema - utseende och kläder
+  grammar: käskymuoto
+- date: ke 18.12.
+  title: Tema - kläder
+  grammar: substantiivien taivutus 
+  digi: "käskymuoto: 1, 2a, 3a"
+  other: suullisen tehtävän palautus
+- date: to 19.12.
+  title: Tema - kläder
+  digi: "utseende och kläder: 4a, 4c, 4d, 6a, 8a"
+- date: 23.12.-6.1.
+  title: JULLOV
+- date: ma 6.1.
+  title: Temaord - kläder
+  grammatik: adjektiivit
+- date: ke 8.1.
+  title: Temaord - kläder
+  grammar: adjektiivit
+  digi: "adjektiivit: 2a, 2b, 3a, 5, 6a, 7"
+- date: to 9.1.
+  title: Harjoituksia
+  other: Ohjattu kirjoitusharjoitus
+- date: ma 13.1.
+  title: Tema hälsa - Text 5
+  grammar: sivulause
+- date: ke 15.1.
+  title: Tema hälsa
+  grammar: sivulause
+  digi: "Text 5: 6a, 7a, 7b" 
+- date: to 16.1.
+  title: Temaord - Välbefinnande och hälsa
+  grammar: sivulause
+  digi: "sivulause: 2b, 4, 5a"
+- date: ma 20.1.
+  title: Temaord - familj och släkt
+  grammar: sivulause + päälause
+  digi: "Välbefinnande och hälsa: 3a, 4a, 5a, 6a"
+  other: Sanakoe hälsa + kuuntelukoe
+- date: ke 22.1.
+  title: Temaord - familj och släkt
+  grammar: lukusanat
+- date: to 23.1.
+  title: Temaord - familj och släkt
+  grammar: lukusanat
+  digi: "Familj och släkt: 5a, 6a, 6b, 10a"
+- date: ma 3.11.
+  title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
+  grammar: suullinen koe, luettu, kielioppi, käännös
+  digi: Testitehtävät löydät opintokortilta, ne ovat vapaaehtoisia plussatehtäviä, palautus päättöpäivään mennessä.
+  other: KONE MUKAAN
 - date: ma 30.9.
   title: Sisältö, arviointi, arkifraasit
   digi: "Start: 6a, 7a, 8, 10, 11a, 11b, 12a, 12b"
