@@ -8,6 +8,10 @@ tags: rub13.5 läksyt
 
 1. Tee loppuun vihkon s. 16.
 
+**PLUSSA:**
+
+Adjektiivin perustaivutuksen moniste.
+
 **POISSAOLIJAT:**
 
 Tee vihkon s. 15 ja 16 heti kun olet hakenut vihkon.
