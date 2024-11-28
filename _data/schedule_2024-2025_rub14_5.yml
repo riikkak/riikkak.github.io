@@ -4,39 +4,42 @@
 - date: ma 2.12.
   title: Tema - boende
   grammar: epäsäännölliset verbit
-  digi: "Boende: 3a, Verbit: 1b, 2b, 3a-b,5a, 7, 8""
+  digi: "Boende: 3a Verbit: 1b, 2b, 3a-b,5a, 7, 8""
 - date: ke 4.12.
   title: Tema - boende
   grammar: epäsäännölliset verbit
+  other: VERBIKOE 1
 - date: pe 6.12.
   title: SJÄLVSTÄNDIGHETSDAGEN
 - date: ma 9.12.
   title: Text 1 Island - mitt andra hemland
-  grammar: johdosverbit
-  other: VERBIKOE 
+  grammar: johdosverbit 
 - date: ke 11.12.
   title: Text 1 jatkuu 
   grammar: johdosverbit
   digi: "Verbit: 9b, 10b, 11b"
+  other: VERBIKOE 2
 - date: pe 13.12.
   title: Tema Island 
   digi: "Text 1: 6a, 8a"  
-  other: Sanakoe 1 + johdosverbit
 - date: ma 16.12.
   title: Text 3 Ett lyckligt liv
   grammar: apuverbit
   digi: "Apuverbit: 1a, 2, 3ab, 7"
+  other: Sanakoe text 1
 - date: ke 18.12.
   title: Tema - syn på livet
   grammar: apuverbit
+  digi: "Text 3: 6ab Tema: Syn på livet: 4a""
 - date: pe 19.12.
   title: JULKYRKAN
 - date: 23.12. - 6.1.
   title: JULLOVET
 - date: ke 8.1
-  title: Text 4 itsenäisten tehtävien tarkistus 
+  title: Text 4 
   grammar: infinitiivi
   digi: "Text 4: 4, 6a" 
+  other: Suullisen tehtävän palautus
 - date: pe 10.1.
   title: Text 5 Två bilder - två historier  
   grammar: infinitiivi
@@ -47,33 +50,23 @@
   digi: "Text 5: 7a, 8a"
 - date: ke 15.1.
   title: VALPANELEN
+  grammar: konditionaali
+  digi: "konditionaali: 2, 3, 4, 7"
 - date: pe 17.1.
   title: Temaord - Mångfald
   digi: "Tema: Mångfald: 4b, 10b"
 - date: ma 20.1.
   title: Tema - mångfald
+  grammar: kysyvä sivulause
+  other: Sanakoe - mångfald
 - date: ke 22.1.
   title: Harjoituksia
-  grammar: konditionaali
-  digi: "konditionaali: 2, 3, 4, 7"
-  other: Sanakoe - mångfald, ohjattu kirjoitusharjoitus 2
-- date: pe 24.1.
-  title: 8. KOODIN KOE
-  
-  grammar: konditionaali
- 
-- date: ma 11.11.
-  title: 
-  grammar: konditionaali
-  digi: "Text 3: 6ab"
-- date: ke 13.11.
-  title: Tema - syn på livet
-  grammar: kysyvä sivulause
-  digi: "Tema: Syn på livet: 4a"
-- date: to 14.11.
-  title: T
   grammar: kysyvä sivulause
   digi: "Kys. SL: 3, 4, 5"
+  other: Ohjattu kirjoitusharjoitus
+- date: pe 24.1.
+  title: 8. KOODIN KOE
+  other: INGEN LEKTION
 - date: ti 26.11.
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
   grammar: kuuntelu, kielioppi, luettu, käännöslauseet
