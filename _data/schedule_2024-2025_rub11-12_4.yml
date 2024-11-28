@@ -24,8 +24,6 @@
   other: Sanakoe + kuuntelu skola
 - date: to 12.12.
   title: Tema - utseende
-  grammar: käskymuoto
-  other: Sanakoe - skola
 - date: ma 16.12.
   title: Tema - utseende och kläder
   grammar: käskymuoto
@@ -33,7 +31,7 @@
   title: Tema - kläder
   grammar: substantiivien taivutus 
   digi: "käskymuoto: 1, 2a, 3a"
-  other: suullisen tehtävän palautus
+  other: Suullisen tehtävän palautus Teamsiin klo 13.15 mennessä.
 - date: to 19.12.
   title: Tema - kläder
   digi: "utseende och kläder: 4a, 4c, 4d, 6a, 8a"
