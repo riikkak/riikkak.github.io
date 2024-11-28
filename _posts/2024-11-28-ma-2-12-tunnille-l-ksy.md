@@ -6,11 +6,11 @@ tags: rub13.5 läksyt
 ---
 **PAKOLLISET:**
 
-1. Tee loppuun vihkon s. 16.
+1. Tee loppuun vihkon s. 16. Näin vähän, joten tee sitäkin huolellisemmin.
 
 **PLUSSA:**
 
-Adjektiivin perustaivutuksen moniste.
+Adjektiivin perustaivutuksen moniste. Vastaukset löydät materiaalit-sivulta, korjaus eri värisellä kynällä.
 
 **POISSAOLIJAT:**
 
