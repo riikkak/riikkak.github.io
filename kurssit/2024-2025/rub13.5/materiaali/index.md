@@ -37,6 +37,8 @@ published: true
 
 **[Kultur-fraasien tarkistus](/media/rub3/Kultur_fraasit.pdf)**
 
+**[Adjektiivin perustaivutus - tarkistus](/media/rub3/Adjektiivi_perustaivutus.pdf)**
+
 **[Adjektiivin vertailu - lisäharjoitus](/media/rub3/Adjektiivin vertailu_facit.pdf)**
 
 **[Pronominikertaus - tarkistus](/media/rub3/Pronomini_facit.pdf)**
