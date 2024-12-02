@@ -20,11 +20,9 @@ published: true
 
 **[Harjoitussanis - text 5](/media/rub4/Harjoitussanis_text5.pdf)**
 
-**[Verbien harjoituskoe](/media/rub4/Verbiharjoituskoe.pdf)**
+**[Verbikoeharjoitus - s. 20 verbit](/media/rub4/Harjoituskoe_verbit.pdf)**
 
-**[Johdosverbit tarkistus](/media/rub4/Johdosverbi_tarkistus.pdf)**
-
-**[Vahvat ja epäsäännölliset verbit](/media/rub4/RUB14_verbit.pdf)**
+**[Verbikoeharjoitus - johdosverbit](/media/rub4/Harjoitussanis_text5.pdf)**
 
 **[Johdosverbitehtävät](/media/rub4/Johdosverbiharjoitukset.pdf)**
 
