@@ -22,7 +22,7 @@ published: true
 
 **[Verbikoeharjoitus - s. 20 verbit](/media/rub4/Harjoituskoe_verbit.pdf)**
 
-**[Verbikoeharjoitus - johdosverbit](/media/rub4/Harjoitussanis_text5.pdf)**
+**[Verbikoeharjoitus - johdosverbit](/media/rub4/Harjoituskoe_johdosverbit.pdf)**
 
 **[Johdosverbitehtävät](/media/rub4/Johdosverbiharjoitukset.pdf)**
 
