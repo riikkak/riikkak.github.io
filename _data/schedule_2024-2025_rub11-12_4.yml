@@ -15,7 +15,7 @@
   digi: "substantiivien taivutus: 1, 3a, 5, 6"
 - date: ma 9.12.
   title: Temaord - skola
-  grammar: substantiivin käyttö
+  grammar: substantiivin taivutus
   digi: "skola: 3a, 3c, 4a"
 - date: ke 11.12.
   title: Tema - utseende
@@ -24,17 +24,18 @@
   other: Sanakoe + kuuntelu skola
 - date: to 12.12.
   title: Tema - utseende
+  grammar: substantiivin käyttö
 - date: ma 16.12.
   title: Tema - utseende och kläder
   grammar: käskymuoto
 - date: ke 18.12.
   title: Tema - kläder
-  grammar: substantiivien taivutus 
+  grammar: käskymuoto
   digi: "käskymuoto: 1, 2a, 3a"
-  other: Suullisen tehtävän palautus Teamsiin klo 13.15 mennessä.
 - date: to 19.12.
   title: Tema - kläder
   digi: "utseende och kläder: 4a, 4c, 4d, 6a, 8a"
+  other: Suullisen tehtävän palautus Teamsiin klo 16.00 mennessä.
 - date: 23.12.-6.1.
   title: JULLOV
 - date: ma 6.1.
