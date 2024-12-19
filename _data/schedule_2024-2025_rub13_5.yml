@@ -32,7 +32,6 @@
   digi: "Tema medier: 3a, 5b(H), 9c (H)"
 - date: to 19.12.
   title: Tema medier
-  grammar: någon, ingen, alla
   other: Sanakoe medier, Kuuntelu - kultur och medier
 - date: 23.12.-6.1.
   title: JULLOVET
@@ -41,23 +40,23 @@
   grammatik: EN LEDIG DAG
 - date: ti 7.1.
   title: Tema Finland
-  grammar: varje, paljoussanat
+  grammar: någon, ingen, alla 
   digi: "indefiniittipronominit: 3, 4a, 4b, 7a, 7b, 8b, 9, 10"
 - date: to 9.1.
   title: Tema Finland Text 1
-  grammar: den här, den där 
+  grammar: varje, paljoussanat
   digi: "Text 1: 6, 10b"
 - date: ma 13.1.
   title: Tema Finland
-  grammar: samma, densamma 
+  grammar: den här, den där 
   digi: "demonstratiivipronominit: 1a, 1b, 3a, 3b, 4"
 - date: ti 14.1.
   title: Tema Finland
-  grammar: en sådan, en likadan
+  grammar: samma, densamma 
   digi: "Tema Finland: 3b(H)"
 - date: to 16.1.
   title: Tema Finland
-  grammar: relatiivilause
+  grammar: en sådan, en likadan
   other: Suullisen tehtävän palautus
 - date: ma 20.1.
   title: Tema Finland
@@ -68,6 +67,7 @@
   other: Sanakoe Finland
 - date: to 23.1.
   title: Tema Finland
+  grammar: relatiivilause
   digi: "prepositiot paikanilmauksissa: 1a, 1b, 4a, 4b"
   other: kuuntelukoe FINLAND
 - date: ti 28.1.
