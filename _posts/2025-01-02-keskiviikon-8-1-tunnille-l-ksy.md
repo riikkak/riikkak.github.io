@@ -6,7 +6,7 @@ tags: rub14.5 läksyt
 ---
 **PAKOLLISET:**
 
-1.Tee digitehtävät aiheesta **apuverbit: 1a, 2, 3a, 3b, 7.**
+1. Tee digitehtävät aiheesta **apuverbit: 1a, 2, 3a, 3b, 7.**
 
 2. tee digitehtävät aiheesta **Text 3: 6a ja b.**
 
@@ -17,7 +17,3 @@ tags: rub14.5 läksyt
 1. Tee vihkosta abuverbien kaikki sivut valmiiksi.
 2. Tee syn på livet-teeman sivut ja pyydä tarkistukset.
 3. Kuuntele, lue ja suomenna tema syn på livet dialogi digikirjasta (teht. 2)
-
-
-
-
