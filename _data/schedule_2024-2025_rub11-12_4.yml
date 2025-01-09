@@ -48,7 +48,7 @@
   other: Suullisen tehtävän palautus Teamsiin klo 21.00 mennessä.
 - date: ma 13.1.
   title: Harjoituksia
-  grammar: sivulause
+  grammar: adjektiivit
   other: Ohjattu kirjoitusharjoitus
 - date: ke 15.1.
   title: Tema hälsa - Text 5 
@@ -60,7 +60,7 @@
   digi: "sivulause: 2b, 4, 5a"
 - date: ma 20.1.
   title: Tema hälsa
-  grammar: sivulause + päälause
+  grammar: sivulause
   digi: "Välbefinnande och hälsa: 3a, 4a, 5a, 6a"
 - date: ke 22.1.
   title: Temaord - familj och släkt
