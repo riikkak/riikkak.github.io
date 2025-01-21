@@ -6,7 +6,9 @@ tags: rub13.5 läksyt
 ---
 **PAKOLLISET:**
 
-1. Tee työvihkon s. 25 loppuun.
+1. Tee työvihkon s. 25 alin tehtävä, jos jäi kesken.
+
+2. Tee digikirjasta relatiivilauseentehtävät **2, 3a, 5.**
 
 **Tunnilla kuuntelukoe teemasta Finland!**
 
