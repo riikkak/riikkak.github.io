@@ -48,6 +48,8 @@ published: true
 
 **[Päälauseen ja kysymyslauseen sanajärjestyksen kertaustehtävän vastaukset](/media/rub2/SJkertaus_vastaukset.pdf)**
 
+**[Sanajärjestyksen plussatehtävä - tarkistus](/media/rub2/Sivulause_plussa.pdf)**
+
 **[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
 
 **[Refleksiivipronominit - lisäharjoitus](/media/rub2/Refleksiivit_facit.pdf)**
