@@ -43,7 +43,7 @@ published: true
 
 **[Skola harjoitussanakokeen vastaukset](/media/rub2/Skola_harjoitussanis.pdf)**
 
-**[Välbefinnande och hälsa harjoitussanakokeen vastaukset](/media/rub2/Terveysteema_harjoitussanis.pdf)**
+**[Välbefinnande och hälsa harjoitussanakokeen vastaukset](/media/rub2/Harjoitussanis_terveys.pdf)**
 
 
 **[Päälauseen ja kysymyslauseen sanajärjestyksen kertaustehtävän vastaukset](/media/rub2/SJkertaus_vastaukset.pdf)**
