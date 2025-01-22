@@ -32,6 +32,6 @@ published: true
 
 **[Kysyvä sivulause lisäharjoitus](/media/rub4/Kysyvasivulause_plussa.pdf)**
 
-**[Päättöpäivän ohjeet](/media/rub4/Koeohjeet_lyhytjakso.pdf)**
+**[Päättöpäivän ohjeet](/media/rub4/Koeohje_lyhytjakso.pdf)**
 
 **[Kertausmoniste - prepositiofraasit](/media/rub4/Prepositiofraasit.pdf)**
