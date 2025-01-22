@@ -66,6 +66,8 @@ published: true
 
 **[Päättöpäivä 1 - valmistautumisen ohje (aloitusperiodi)](/media/rub2/Kertausohje_aloitusperiodi.pdf)**
 
+**[Päättöpäivä 2 - valmistautumisen ohje (jatkoperiodi)](/media/rub2/Koeohje_uusi.pdf)**
+
 **[Verbikertaus - tarkistus](/media/rub2/Verbikertaus.pdf)**
 
 
