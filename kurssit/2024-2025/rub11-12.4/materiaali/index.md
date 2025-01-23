@@ -60,6 +60,8 @@ published: true
 
 **[Substantiivin taivutuksen lisäharjoitus - vastaukset](/media/rub2/Substantiivi_taivutus.pdf)**
 
+**[Lukusanatehtävä s. 33 - tarkistus](/media/rub2/Lukusana_tarkistus.pdf)**
+
 ## PÄÄTTÖVIIKOT
 
 **[Kielopin kertaus (aloitusperiodi) - tarkistus ](/media/rub2/Kertaus_aloitusperiodi.pdf)**
