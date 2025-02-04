@@ -1,6 +1,6 @@
 - date: ke 5.2.
   title: Arvioinnin perusteet ja käytänteet, Tema studier
-  grammar: partisiipin preesens
+  other: 60 min.
 - date: pe 7.2. 
   title: DE GAMLAS BAL
   other: INGEN LEKTION
@@ -10,20 +10,20 @@
   digi: "partisiipin preesens: 2b, 3a, 4a, 5"
 - date: ke 12.2.
   title: Text 2 jatkuu, Tema - studier
-  grammar: konjuktiot ja sanajärjestys
+  grammar: partisiipin preesens
   digi: "Text 2: 4b, 6a, 7a, 7b"
 - date: pe 14.2.
   title: Tema - studier
   grammar: konjuktiot ja sanajärjestys
   digi: "Tema studier: 3a, 3c, 4a, 11a"
 - date: ma 17.2.
-  title: ema - Norge Text 1 Pröva dina...
+  title: Tema - Norge Text 1 Pröva dina...
   grammar: konjunktiot ja sanajärjestys
   digi: "konjunktiot ja sanajärjestys: 1b, 2b, 3a, 4"
   other: Sanakoe - studier
 - date: ke 19.2.
   title: Text 1 jatkuu 
-  grammar: s-päätteiset verbit
+  grammar: konjuktiot ja sanajärjestys
   digi: "Text 1: 4, 6, 7a"
 - date: pe 21.2.
   title: Tema - Norge
@@ -32,6 +32,7 @@
   other: Suullisen tehtävän palautus Teamsiin klo 22.00 mennessä
 - date: ma 24.2.
   title: Harjoituksia
+  grammar: s-päätteiset verbit
   other: ohjattu kirjoitusharjoitus
 - date: ke 26.2.
   title: Text 4 Du är vad du äger
