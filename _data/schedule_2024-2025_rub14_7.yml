@@ -21,12 +21,11 @@
   digi: "Verbit: 9b, 10b, 11b"
   other: VERBIKOE 2
 - date: to 20.2.
-  title: Text 1 jatkuu 
+  title: Text 1 jatkuu , tema Island
   digi: "Text 1: 6a, 8a"  
 - date: ma 24.2.
-  title: Tema Island 
-  grammar: apuverbit
-  digi: "Apuverbit: 1a, 2, 3ab, 7"
+  title: GRUPPHANDLEDNING
+  other: INGEN LEKTION
 - date: ti 25.2.
   title: Text 3 Ett lyckligt liv
   grammar: apuverbit
@@ -34,8 +33,8 @@
   other: Sanakoe text 1
 - date: to 27.2.
   title: Tema - syn på livet
-  grammar: infinitiivi
-  digi: "Infinitiivi: 2a, 4, 5"
+  grammar: apuverbit
+  digi: "Apuverbit: 1a, 2, 3ab, 7"
   other: Suullisen tehtävän palautus Teamsiin klo 22.00 mennessä
 - date: 3.-7.3.
   title: SPORTLOV
@@ -43,10 +42,10 @@
 - date: ma 10.3.
   title: Text 4  
   grammar: infinitiivi
-  digi: "Text 4: 4, 6a" 
+  digi: "Infinitiivi: 2a, 4, 5, Text 4: 4, 6a" 
 - date: ti 11.3.
   title: Text 5 Två bilder - två historier 
-  grammar: konditionaali
+  grammar: infinitiivi
   digi: "Text 5: 7a, 8a"
 - date: to 13.3.
   title: Text 5 jatkuu
@@ -54,6 +53,7 @@
   digi: "konditionaali: 2, 3, 4, 7"
 - date: ma 17.3.
   title: Temaord - Mångfald
+  grammar: konditionaali
   digi: "Tema: Mångfald: 4b, 10b"
 - date: ti 18.3.
   title: Tema - mångfald
