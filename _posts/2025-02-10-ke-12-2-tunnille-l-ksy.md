@@ -6,7 +6,7 @@ tags: rub11-12.7 läksyt
 ---
 **PAKOLLISET:**
 
-Täytä monistemateriaalin **s. 4 tekstin 1 fraasit**. Täytä ensin kaikki mitä muistat, hae sitten tekstistä. Näistä sanakoe torstain tunnilla.
+Täytä monistemateriaalin **s. 4 tekstin 1 fraasit**. Täytä ensin kaikki mitä muistat, hae sitten tekstistä. Näistä sanakoe torstain tunnilla. Tee huolella, keventää huomattavasti sanakokeeseen lukua kun teet huolella ja ajatuksella.
 
 **PLUSSA:**
 
