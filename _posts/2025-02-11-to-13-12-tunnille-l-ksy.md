@@ -12,7 +12,9 @@ tags: rub14.7 läksyt
 
 **PLUSSAT:**
 
-Tee halutessasi tunnilla jaettu harjoitusverbikoe. Tarkista erivärisellä kynällä, vastaukset materiaalit-sivulla. 
+1. Tee halutessasi tunnilla jaettu harjoitusverbikoe. Tarkista erivärisellä kynällä, vastaukset materiaalit-sivulla. 
+
+2. s. 21 alin tehtävä.
 
 **POISSAOLIJAT:**
 
