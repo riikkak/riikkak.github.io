@@ -8,6 +8,8 @@ tags: rub15.7 läksyt
 
 Sanakoe tekstin 2 fraaseista. Luehan huolella, varsinkin jos olit pois jonkun tunnin kun asiaa käsiteltiin.
 
+Tee loppuun digikirjasta tema studier tehtävät 3a, 3c, 4a, 11a, jos jäi kesken.
+
 **PLUSSA:**
 
 Tee halutessasi harjoitussanakoe. Korjaa eri värisellä kynällä, vastaukset löydät materiaalit-sivulta.
