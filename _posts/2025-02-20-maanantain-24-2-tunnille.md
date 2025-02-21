@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: 'Maanantain 24.2. tunnille '
+title: 'Tiistain 25.2. tunnille '
 tags: rub14.7 läksyt
 ---
 **PAKOLLISET:**
