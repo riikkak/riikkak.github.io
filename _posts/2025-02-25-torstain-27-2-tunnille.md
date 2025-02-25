@@ -10,7 +10,7 @@ tags: rub14.7 läksyt
 
 2. Tee sivun 7 alaosan tehtävä.
 
-3. Tee loppuun apuverbien s. 25 tehtävistä 2 ensimmäistä, jos jäi kesken.
+3. Tee loppuun apuverbien s. 25 tehtävistä 3 ensimmäistä, jos jäi kesken.
 
 **Suullinen tehtävä Teamsissa.** Aikataulun mukainen palautus torstai-iltaan mennessä. Ehdoton takaraja kuitenkin ma 10.3. klo 22.00 mennessä, siitä myöhästyneitä ei hyväksytä (= 0 pistettä). Mieti haluatko tehdä tehtävän alta pois ennen lomaa, vai vasta loman jälkeen (aika ankea voi olla sitten tehdä...) Arvioitu kesto tehtävän tekemiselle 15 min.
 
