@@ -14,6 +14,8 @@ Tee digitehtävät
 
 **1b, 2a-b, 3b, 4a, 4c, 5a**
 
+Loman jälkeen vaihdamme paria ja istumajärjestystä loppujakson ajaksi. Mikäli sinulla on jokin painava syy ettet voi työskennellä jonkun henkilön kanssa tai perustellusta syystä tarvitset tietyn paikan luokassa (esim. et näe taululle), laitathan minulle viestiä Wilmassa.
+
 **PLUSSAT:**
 
 Loput 4 verbien tehtävää.
