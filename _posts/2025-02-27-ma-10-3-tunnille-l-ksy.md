@@ -10,7 +10,7 @@ Tee digitehtävät
 
 1. tema kompisar och vänner **t. 3c, 5b** 
 
-2. JA valitse verbien tehtävistä **3** , loput plussia (suositus tehdä kaikki elleivät mene kuin vettä vain, verbit ovat keskeisin osa kielen käyttöä)
+2. JA valitse verbien tehtävistä **KOLME** , loput plussia (suositus tehdä kaikki elleivät mene kuin vettä vain, verbit ovat keskeisin osa kielen käyttöä)
 
 **1b, 2a-b, 3b, 4a, 4c, 5a**
 
@@ -18,7 +18,7 @@ Loman jälkeen vaihdamme paria ja istumajärjestystä loppujakson ajaksi. Mikäl
 
 **PLUSSAT:**
 
-Loput 4 verbien tehtävää.
+Loput NELJÄ verbien tehtävää.
 
 **POISSAOLIJAT:**
 
