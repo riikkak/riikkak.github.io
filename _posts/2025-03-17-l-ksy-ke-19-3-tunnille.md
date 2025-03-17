@@ -6,9 +6,13 @@ tags: rub11-12.7 läksyt
 ---
 **PAKOLLISET:**
 
-Tee vähintään neljä persoonapronominin tehtävää, loput kolme (erittäin suositeltuja) plussatehtäviä.
+Tee persoonapronominiem tehtävät digistä (löytyy Grammatik 2 - alta)
 
-persoonapronominit: **3, 4c, 5, 7b, 7c, 10, 11**
+**3, 4c, 5, 7b, 7c, 10, 11**
+
+**PLUSSA:**
+
+Text 4 toisella puolella oleva persoonapronomini-tehtävät, korjaus erivärisellä kynällä (vastaukset materiaalit -sivulla) ja näyttö opelle plussapisteiden saamiseksi (3p).
 
 **POISSAOLIJAT:**
 
