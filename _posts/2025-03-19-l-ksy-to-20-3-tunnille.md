@@ -12,6 +12,8 @@ Sanakoe tekstin 4 fraaseista (vihkossa).
 
 Tee halutessasi plussasanakoe (sanastovihkon lopussa). Korjaa eri värisellä kynällä, vastaukset materiaalit-sivulla. 3p (tehty ja korjattu sanis)
 
+Sin, sitt, sina-plussatehtävän ehtii näyttää vielä ma oppituntiin mennessä.
+
 **POISSAOLIJAT:**
 
 1. Tee aikataulusta digikirjan tehtävät aiheista text 4 + tema mat.
