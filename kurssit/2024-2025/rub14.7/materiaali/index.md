@@ -34,7 +34,7 @@ published: true
 
 ### Päättöpäivä
 
-**[Päättöpäivän ohjeet](/media/rub4/Koeohje_lyhytjakso.pdf)**
+**[Päättöpäivän ohjeet](/media/rub4/Koeohjeet_suullinenkoe.pdf)**
 
 **[Suullisen kokeen kysymykset](/media/rub4/Suullinenkoe_kysymykset.pdf)**
 
