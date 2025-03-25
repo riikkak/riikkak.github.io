@@ -32,6 +32,10 @@ published: true
 
 **[Kysyvä sivulause lisäharjoitus](/media/rub4/Kysyvasivulause_plussa.pdf)**
 
+### Päättöpäivä
+
 **[Päättöpäivän ohjeet](/media/rub4/Koeohje_lyhytjakso.pdf)**
+
+**[Suullisen kokeen kysymykset](/media/rub4/Suullinenkoe_kysymykset.pdf)**
 
 **[Kertausmoniste - prepositiofraasit](/media/rub4/Prepositiofraasit.pdf)**
