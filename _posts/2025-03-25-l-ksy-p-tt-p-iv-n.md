@@ -12,6 +12,8 @@ Lue huolella [Päättöpäivän ohjeet](https://riikka.koskenranta.fi/media/rub4
 
 Valmistaudu suulliseen kokeeseen etukäteen tutustumalla [suullisen kokeen kysymyksiin](https://riikka.koskenranta.fi/media/rub4/Suullinenkoe_kysymykset.pdf).
 
+Tee puhtaaksikirjoitus, jos et ehtinyt tunnilla!
+
 Jos vielä on korotettavia sanakokeita, verbikokeita tai puuttuvia suorituksia, tehdään ne päättöpäivän muiden osioiden jälkeen.
 
 Verbikokeet tulevat olla läpi kurssin arvosanan saamiseksi.
