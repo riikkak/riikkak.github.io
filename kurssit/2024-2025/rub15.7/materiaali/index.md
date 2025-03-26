@@ -27,5 +27,5 @@ published: true
 - [Substantiivin käytön lisäharjoitus](/media/rub5/Substantiiviplussa.pdf)
 
 ### Päättöviikko
-- [Työhaastattelun kysymykset](/media/rub5/Haastattelukysymykset.pdf)
+- [Työhaastattelun kysymykset](/media/rub5/Haastattelukysymykset_2025.pdf)
 - [Päättöpäivän ohjeet](/media/rub5/Koeohje_RUB15.pdf)
