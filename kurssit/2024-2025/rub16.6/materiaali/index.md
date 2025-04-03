@@ -4,11 +4,11 @@ title: Materiaali
 course: rub16.6
 published: true
 ---
-### TIPS!
+### TIPS
 
-- Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
-- [Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)
-- [Kehumisfraaseja Introduktioner-videoihin](/media/rub6/Komplimang.pdf)
+- Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Svenska akademiens ordböcker](https://svenska.se/tre/?sok=&pz=1).
+- [Opintokortti - digitehtävät](/media/rub6/RUB16_opintokortti.pdf)
+
 
 ### TRÄNA!
 
