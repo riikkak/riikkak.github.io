@@ -7,7 +7,8 @@ published: true
 ### TIPS
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Svenska akademiens ordböcker](https://svenska.se/tre/?sok=&pz=1).
-- [Opintokortti - digitehtävät](/media/rub6/RUB16_opintokortti.pdf)
+  
+- [Opintokortti - digitehtävät](/media/rub6/RUB6_opintokortti.pdf)
 
 
 ### TRÄNA!
