@@ -6,7 +6,7 @@ tags: rub16.6 läksyt
 ---
 **OBLIGATORISKA:**
 
-Fyll i sista övningen på s. 27 och gör sen sidorna 28-29.
+Fyll i sista övningen på s. 27 och gör sedan sidorna 28-29.
 
 OBS! Kom ihåg att lämna in den muntliga övningen på Teams senast på söndag, den 13 april klockan 22.
 
