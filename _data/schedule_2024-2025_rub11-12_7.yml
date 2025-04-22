@@ -45,12 +45,12 @@
 - date: to 1.5.
   title: VALBORG
 - date: pe 2.5.
+  title: LEDIG DAG
+- date: ti 6.5.
   title: Tema hälsa - Text 5 
   grammar: sivulause
-- date: ti 6.5.
-  title: Temaord - Välbefinnande och hälsa
-  grammar: sivulause
   digi: "Text 5: 6a, 7a, 7b" 
+  other: Itsenäiset tehtävät valmiit
 - date: to 8.5.
   title: Temaord - Välbefinnande och hälsa
   grammar: sivulause
@@ -67,7 +67,7 @@
   title: Temaord - familj och släkt
   grammar: lukusanat
   digi: "Familj och släkt: 5a, 6a, 6b, 10a"
-  other: Sanakoe hälsa + kuuntelukoe
+  other: Sanakoe hälsa
 - date: pe 16.5.
   title: Temaord - familj och släkt
   grammar: lukusanat
