@@ -26,4 +26,4 @@ Tee päättöpäivän kirjoitelman puhtaaksikirjoitus Emendediin, jos et vielä 
 
 1. Tee s. 7-8, pyydä merkinnät. Apua digikirjan teemasanastosta utseende och kläder.
 
-2. Opiskele käskymuoto digikirjasta ja tee s. 
+2. Opiskele käskymuoto digikirjasta ja tee s. 18.
