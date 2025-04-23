@@ -14,6 +14,9 @@ tags: rub15.6 läksyt
 
 4. Tee digikirjasta tehtävät prepositiot ajanilmauksissa **2, 3** JA text 4 tehtävät **5a, 5b, 6b, 8a**.
 
+
+OBS! Tekemättömät tehtävät = poissaolo (plus ne pitää silti tehdä...)
+
 **POISSAOLIJAT:**
 
 1. Tee sivu 2, pyydä merkinnät.
