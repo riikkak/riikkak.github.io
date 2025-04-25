@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: Läksy ma 28.8. tunnille
+title: Läksy ti 29.4. tunnille
 tags: rub11-12.7 läksyt
 ---
 **PAKOLLISET:**
@@ -15,5 +15,3 @@ Valmistaudu kirjoitelmaan, siinä sanastot skola, utseende och kläder.
 1. tee s. 26.
 
 2. Pyydä merkinnät s. 9-10.
-
-
