@@ -10,6 +10,10 @@ tags: rub11-12.7 läksyt
 
 2. Jos et ollut vielä tehnyt s. 15 fraaseja, tee ne nyt.
 
+**PLUSSA:**
+
+Tee halutessasi tunnilla jaossa ollut adjektiviin ja substantiivin yhteistaivutuksen moniste, korjaa eri värisellä kynällä, vastaukset materiaalit-sivulla.
+
 **POISSAOLIJAT:**
 
 1. Kuuntele, lue ja suomenna teksti 5 digikirjasta, pyydä merkinnät (teksti tekstin 3 monisteen toisella puolella).
