@@ -22,3 +22,5 @@ Tee vihkosta s. 30 perusluvut + tehtävä "kirjoita lukusanat numeroin". Tee s. 
 
 2. Pyydä merkinnät tema hälsa-fraaseihin.
 
+3. Pyydä halutessasi opelta sivulauseen lisäharjoitusmoniste.
+
