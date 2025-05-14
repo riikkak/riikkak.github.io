@@ -29,3 +29,5 @@ published: true
 - [Övningsprov SVAREN - relationer](/media/rub6/Harjoitussanis_relationer.pdf)
 - [Övningsprov SVAREN - resor](/media/rub6/Harjoitussanis_resor.pdf)
 - [Övningsprov SVAREN - politik](/media/rub6/Harjoitussanis_politik.pdf)
+- [Väder ANTECKNINGAR - politik](/media/rub6/Vader.pdf)
+- [Att visa vägen SVAREN - politik](/media/rub6/Tienneuvominen.pdf)
