@@ -23,6 +23,7 @@ published: true
 - [Partisiipin preesens plussatehtävä tarkistus](/media/rub5/Partisiipinpreesens_plussa.pdf)
 - [Arbetslivets ABC tarkistus](/media/rub5/Arbetslivets_abc_plussa.pdf)
 - [Anställningsintervju tarkistus](/media/rub5/Haastattelu_vastaukset.pdf)
+- [Työhakemukset tarkistus](/media/rub5/Hakemus.pdf)
 - [Substantiivien lisäharjoitus - tarkistus](/media/rub5/Substantiivit_plussa.pdf)
 - [Substantiivin käytön lisäharjoitus](/media/rub5/Substantiiviplussa.pdf)
 - [Pengar fraasien tarkistus](/media/rub5/Pengar_fraser.pdf)
