@@ -31,5 +31,5 @@ published: true
 
 ### Päättöviikko
 - [Työhaastattelun kysymykset](/media/rub5/Haastattelukysymykset_2025.pdf)
-- [Päättöpäivän ohjeet](/media/rub5/Koeohje_RUB15.pdf)
+
 
