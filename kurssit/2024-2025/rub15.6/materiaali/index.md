@@ -27,6 +27,7 @@ published: true
 - [Substantiivien lisäharjoitus - tarkistus](/media/rub5/Substantiivit_plussa.pdf)
 - [Substantiivin käytön lisäharjoitus](/media/rub5/Substantiiviplussa.pdf)
 - [Pengar fraasien tarkistus](/media/rub5/Pengar_fraser.pdf)
+- [Kieliopin kertaus - tarkistus](/media/rub5/Kieliopin_kertaus.pdf)
 
 ### Päättöviikko
 - [Työhaastattelun kysymykset](/media/rub5/Haastattelukysymykset_2025.pdf)
