@@ -31,3 +31,5 @@ published: true
 - [Övningsprov SVAREN - politik](/media/rub6/Harjoitussanis_politik.pdf)
 - [Väder ANTECKNINGAR - politik](/media/rub6/Vader.pdf)
 - [Att visa vägen SVAREN - politik](/media/rub6/Tienneuvominen.pdf)
+- [Danmark SVAREN](/media/rub6/Danmark_tarkistus.pdf)
+
