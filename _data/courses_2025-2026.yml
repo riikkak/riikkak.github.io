@@ -1,0 +1,77 @@
+- name: ena01-02.8
+  code: 6
+  desc:
+  period:
+    - 3
+    - 4
+
+- name: rub11-12.5
+  code: 4
+  desc:
+  period:
+    - 3
+    - 4
+
+- name: rub11-12.6
+  code:
+    - 1
+    - 2
+  desc:
+  period:
+    - 1
+    - 2
+
+- name: rub112.2
+  code: 5
+  desc:
+  period: 1
+
+- name: rub114.2
+  code: 4
+  desc:
+  period: 1
+
+- name: rub114.4
+  code: 7
+  desc:
+  period: 3
+
+- name: rub13.4
+  code: 4
+  desc:
+  period: 2
+
+- name: rub13.8
+  code: 2
+  desc:
+  period: 5
+
+- name: rub15.8
+  code: 3
+  desc:
+  period: 5
+
+- name: rub15.9
+  code: 7
+  desc:
+  period: 5
+
+- name: rub16.2
+  code: 5
+  desc:
+  period: 2
+
+- name: rub16.4
+  code: 7
+  desc:
+  period: 4
+
+- name: rub17.1
+  code: 1
+  desc:
+  period: 2
+
+- name: rub17.3
+  code: 1
+  desc:
+  period: 5
