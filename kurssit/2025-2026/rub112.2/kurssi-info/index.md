@@ -11,8 +11,7 @@ _Opiskelijalla on velvollisuus osallistua opetukseen, jollei hänen poissaololle
 
 ## Arviointi
 
-- Moduuli on tuntityöskentelyyn perustuva työkurssi, joten opiskelijan on oltava läsnä. 
-- Sairauden tai urheilun vuoksi tulevat poissaolot ja kurssin eteneminen katsotaan tapauskohtaisesti.
+- Moduuli on tuntityöskentelyyn perustuva työkurssi, joten opiskelijan on oltava läsnä. Yli kolmen poissaolon jälkeen kurssimerkintää ei voi enää saada, mutta tunneilla saa kyllä käydä. Sairauden tai urheilun vuoksi tulevat poissaolot katsotaan tapauskohtaisesti, eivätkä aiheuta automaattista keskeytystä. 
 - Moduulista saa suoritusmerkinnän vain, jos kaikki suoritukset on tehty. Suoritusten tulee olla valmiit annetuihin päivämääriin mennessä.
 
 ## Moduuliin kuuluvat suoritukset:
