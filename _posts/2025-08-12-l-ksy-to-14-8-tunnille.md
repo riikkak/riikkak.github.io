@@ -10,4 +10,4 @@ Täytä vihkoon tekstin 1 fraasit s. 4. Näistä ensimmäinen sanakoe ensi viiko
 
 **PLUSSA:**
 
-Tee halutessasi s. 3, hae Googlen avulla selityksen ruotsalaisille asioille, sekä sivun alas kuningasperheen jäsenten ruotsinkieliset tittelit ja nimet. 0-4p panostuksen mukaan.
+Tee halutessasi s. 3, hae Googlen avulla selitykset ruotsalaisille asioille (kirjoita suomeksi), sekä sivun alas kuningasperheen jäsenten ruotsinkieliset tittelit ja nimet. 0-4p panostuksen mukaan.
