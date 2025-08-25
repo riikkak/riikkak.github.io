@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: Läksy ke 27.8. tunnille
+title: Läksy ti 26.8. tunnille
 tags: rub11-12.6 läksyt
 ---
 **PAKOLLISET**:
