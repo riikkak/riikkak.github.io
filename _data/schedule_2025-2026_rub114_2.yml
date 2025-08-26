@@ -17,13 +17,13 @@
   title: RYHMÄNOHJAUS
   other: Päättöviikon korvaavien digitehtävien palautus klo 22.00
 - date: ke 27.8.
-  title: Sanasto - Kultur
-- date: pe 29.8.
-  title: Futuuri + yo-tehtäviä
-- date: ma 1.9. 
   title: Apuverbit
+- date: pe 29.8.
+  title: Apuverbit + infinitiivi 
+- date: ma 1.9. 
+  title: Futuuri + yo-tehtäviä
 - date: ke 3.9.
-  title: Apuverbit + infinitiivi
+  title: Sanasto - Kultur
 - date: pe 5.9.
   title: Sanasto - Djur + konditionaali
 - date: ma 8.9.
@@ -40,6 +40,7 @@
 - date: ti 23.9.
   title: PÄÄTTÖPÄIVÄ
   grammar: suoritetaan ennakkoon tehtävillä
+
 
 
 
