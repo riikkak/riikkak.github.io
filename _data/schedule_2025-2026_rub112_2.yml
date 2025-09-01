@@ -32,29 +32,30 @@
 - date: pe 29.8.
   title: Mielipide - lyhyt P
 - date: ti 2.9.
-  title: SJÄLVSTÄNDIGT ARBETE 
-  grammar: kuuntelua
+  title: Mielipide - pitkä P
+  grammar: kirjallinen tuottaminen
 - date: to 4.9.
   title: Mielipide - pitkä P
   grammar: kirjallinen tuottaminen
 - date: pe 5.9.
-  title: Mielipide - pitkä P
+  title: Kertomus
   grammar: kirjallinen tuottaminen
 - date: ti 9.9.
-  title: Kuuntelua
+  title: Kertomus
   grammar: kirjallinen tuottaminen
   other: Päättöpäivän korvaavat digitehtävät valmiina
 - date: to 11.9.
-  title: Kertomus
-  grammar: kirjallinen tuottaminen
+  title: Kuuntelu 
 - date: pe 12.9.
-  title: Kertomus
+  title: Kuuntelu / Extrakirjoitelma
 - date: ti 16.9.
   title: Kuuntelu
+- date: ma 22.9.
+  title: STUDENTPROVET I SVENSKA
 - date: ke 24.9.
   title: Päättöpäivä
   grammar: EI OHJELMAA
   other: päivä korvattu tehtävillä
-- date: ma 22.9.
-  title: STUDENTPROVET I SVENSKA
+
+
 
