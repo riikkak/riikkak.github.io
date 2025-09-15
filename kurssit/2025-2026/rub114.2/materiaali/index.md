@@ -17,6 +17,7 @@ published: true
 - [Työvihkon prepositiosivut](/media/rub10.4/Prepositiot_vihko.pdf)
 - [Adverbit lisämoniste](/media/rub10.4/Adverbit.pdf)
 - [Prepositiot lisämoniste](/media/rub10.4/Prepositiot_extra.pdf)
+- [Konditionaali lisämoniste](/media/rub4/Konditionaali_plussa.pdf)
   
 ### Grammatik
 
