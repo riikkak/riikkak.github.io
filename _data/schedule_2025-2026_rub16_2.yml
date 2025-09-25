@@ -1,49 +1,39 @@
-- date: pe 4.4.
-  title: Uppvärmning
-  other: uttal
-- date: ma 7.4.
-  title: Resor
-  other: uttal
-- date: ke 9.4.
-  title: Resor 
-- date: pe 11.4.
-  title: Resor 
 - date: ti 30.9.
-  title: Resor 
+  title: Uppvärmning - Resor 
 - date: to 2.10.
   title: Resor 
 - date: pe 3.10.
-  title: Relationer
-  other: Ordprov - resor
+  title: Resor
 - date: ti 7.10.
-  title: Relationer
+  title: Resor
 - date: to 9.10.
-  title: Relationer
+  title: Resor
 - date: pe 10.10.
   title: Relationer
+  other: Ordprov - resor
 - date: ti 14.10.
   title: Relationer
-  other: Ordprov relationer, Hörförståelseprov 1
 - date: to 16.10.
-  title: Att bli vuxen
+  title: Relationer
 - date: pe 17.10.
-  title: Att bli vuxen
+  title: Relationer
+  other: Ordprov relationer, Hörförståelseprov 1
 - date: ma 20. - 24.10.
   title: HÖSTLOV
 - date: ti 28.10.
-  title: Politik och samhälle
+  title: Att bli vuxen 
 - date: to 30.10.
-  title: Politik och samhälle
+  title: Att bli vuxen
 - date: pe 31.10.
   title: Politik och samhälle
 - date: ti 4.11.
   title: Politik och samhälle
-  other: Ordprov - politik
 - date: to 6.11.
-  title: Muntlig uppgift
+  title: Politik och samhälle
   other: SJÄLVSTÄNDIGT ARBETE
 - date: pe 7.11.
   title: Hälsa och välmående
+  other: Ordprov - politik
 - date: ti 11.11. 
   title: Hälsa och välmående
 - date: to 13.11.
@@ -55,3 +45,4 @@
 - date: pe 21.11. 
   title: Suullinen koe 45 min./pari 
   other: Erikseen sovittuna aikana - pe vapaa
+
