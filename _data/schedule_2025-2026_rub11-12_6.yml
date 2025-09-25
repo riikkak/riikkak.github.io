@@ -17,7 +17,7 @@
 - date: ti 7.10.
   title: Tema - utseende
   grammar: substantiivin käyttö
-  other: Sanakoe skola
+  other: Sanakoe skola, kuuntelukoe 1
 - date: to 9.10.
   title: Tema - utseende
   grammar: substantiivin käyttö
@@ -53,15 +53,15 @@
 - date: ti 4.11.
   title: Temaord - Välbefinnande och hälsa
   grammar: sivulause
+  digi: "Välbefinnande och hälsa: 3a, 4a, 5a, 6a"
 - date: to 6.11.
   title: Temaord - Välbefinnande och hälsa
   grammar: sivulause
   digi: "sivulause: 2b, 4, 5a"
   other: SJÄLVSTÄNDIGT ARBETE
 - date: ma 10.11.
-  title: Temaord - Välbefinnande och hälsa
+  title: Temaord - familj och släkt
   grammar: sivulause
-  digi: "Välbefinnande och hälsa: 3a, 4a, 5a, 6a"
 - date: ti 11.11.
   title: Temaord - familj och släkt
   grammar: lukusanat
@@ -71,6 +71,7 @@
   title: Temaord - familj och släkt
   grammar: lukusanat
   digi: "Familj och släkt: 5a, 6a, 6b, 10a"
+  other: Kuuntelukoe 2
 - date: ti 18.11.
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
   grammar: suullinen koe, kuuntelu, luettu, kielioppi, käännös
@@ -228,5 +229,6 @@
   title: PÄÄTTÖPÄIVÄ klo 8.15-12
   grammar: kuuntelu 2, ohjattu kirjoitelma, kielioppikoe
   other: MUKAAN KONE, KIRJOITUSVÄLINEET JA TUKIMATERIAALI
+
 
 
