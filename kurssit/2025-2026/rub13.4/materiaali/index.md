@@ -7,7 +7,7 @@ published: true
 
 ### TIPS!
 
-- Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Forvo](https://fi.forvo.com/).
+- Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Svenska akademiens ordböcker](https://svenska.se/tre/?sok=&pz=1).
 - 
 - **[Opintokortti RUB13](/media/rub3/Opintokortti_rub13.pdf)**
 - **[Flip-sovelluksen ohjeet](/media/rub3/Flip_ohjeet.pdf)**
