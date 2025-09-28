@@ -5,6 +5,7 @@ course: rub17.1
 published: true
 ---
 
+- [OPINTOKORTTI RUB17](/media/rub7/Opintokortti_FOKUS7.pdf)
 - [Tekstien fraasien tarkistus](/media/rub7/Tekstifraasit.pdf)
 - [Natur teemasanaston tarkistus](/media/rub7/Natur_teemasanasto.pdf)
 - [Prepositiosivujen tarkistus](/media/rub7/Prepositioilmauksia.pdf)
