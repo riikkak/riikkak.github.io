@@ -13,7 +13,7 @@
 - date: ti 7.10.
   title: Tema - natur
   grammar: prepositiot
-  other: Ohjattu kirjoitusharjoitus
+  other: Suullisen tehtävän palautus Teamsiin 
 - date: to 9.10.
   title: Tema - natur
   grammar: prepositiot
@@ -40,7 +40,7 @@
 - date: ma 3.11.
   title: Tema- miljö
   grammar: genetiivi
-  other: Suullisen tehtävän palautus Teamsiin klo 21.00 mennessä
+  other: Ohjattu kirjoitusharjoitus
 - date: ti 4.11.
   title: Temaord - social och ekonomisk hållbarhet
   grammar: genetiivi
@@ -51,7 +51,7 @@
   other: SJÄLVSTÄNDIGT ARBETE
 - date: ma 10.11.
   title: Temaord - brott och straff
-  other: lauseenvastikkeet
+  grammar: lauseenvastikkeet
 - date: ti 11.11.
   title: Temaord - brott och straff
   grammar: lauseenvastikkeet
@@ -62,3 +62,4 @@
 - date: ma 17.11.
   title: PÄÄTTÖPÄIVÄ klo 9 -12
   other: suullinen, kielioppi, luettu, käännös
+
