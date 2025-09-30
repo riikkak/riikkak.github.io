@@ -6,7 +6,7 @@ tags: rub16.2 läksyt
 ---
 **OBLIGATORISKA:**
 
-Fyll i s. 15 i häftet. Du kan leta efter orden i digiboken ordbok om det känns svårt.
+Fyll i s. 15 i häftet. Du kan leta efter orden i digibokens ordbok om det känns svårt.
 
 **FRÅNVARANDE:**
 
