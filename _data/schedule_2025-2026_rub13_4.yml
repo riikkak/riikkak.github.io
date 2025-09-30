@@ -14,10 +14,11 @@
   grammar: adjektiivin vertailu
   digi: "Tema litteratur och film: 3b, 6a,  Text 4: 7a, 8a, 8b"
 - date: ke 8.10.
-  title: Tema litteratur och film
+  title: Tema KULTUR
+  other: Ohjattu kirjoitusharjoitus - KULTUR 
 - date: pe 10.10.
-  title: Ohjattu kirjoitusharjoitus - KULTUR 
-  other: TUNTI ALKAA KLO 14.50 ja LOPPUU 16.00
+  title: Tema medier
+  digi: "Tema medier: 3a, 5b(H), 9c (H)"
 - date: ma 13.10.
   title: "Tema medier: Text 2 Våga vara dig själv" 
   grammar: interrogatiivipronominit
@@ -29,12 +30,11 @@
 - date: pe 17.10.
   title: Tema medier
   grammar: annan, själv, hela, båda
-  digi: "Tema medier: 3a, 5b(H), 9c (H)"
+  other: Sanakoe medier, Kuuntelu - kultur och medier
 - date: ma 20. - 24.9.
   title: HÖSTLOV
 - date: ma 27.10.
-  title: Tema medier
-  other: Sanakoe medier, Kuuntelu - kultur och medier
+  title: Tema Finland
 - date: ke 29.10.
   title: Tema Finland
   grammar: någon, ingen, alla 
@@ -72,4 +72,5 @@
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
   grammar: kuuntelu 2, suullinen koe, kielioppi, luettu, käännöslauseet
   other: MUKAAN RUOTSI-KANSIO, LÄPPÄRI, KYNÄ JA KUMI
+
 
