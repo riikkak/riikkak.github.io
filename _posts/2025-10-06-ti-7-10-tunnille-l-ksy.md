@@ -6,7 +6,9 @@ tags: rub11-12.6 läksyt
 ---
 **PAKOLLISET:**
 
-Sanakoe tema skola fraaseista s.4 plus merkinnöistä.
+1. **Sanakoe** tema skola fraaseista s.4 plus merkinnöistä.
+
+2. **Kuuntelukoe** teemasta koulu.
 
 Huolehdi että olet varmasti tehnyt digitehtävät text 3 **3, 5a, 6a** ja tema skola **3a, 3c, 4a.** Näitä tehtiin edellisellä tunnilla.
 
