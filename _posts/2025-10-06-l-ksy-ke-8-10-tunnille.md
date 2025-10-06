@@ -2,6 +2,7 @@
 layout: none
 published: true
 title: Läksy ke 8.10. tunnille
+tags: rub13.4 läksyt
 ---
 **PAKOLLISET:**
 
