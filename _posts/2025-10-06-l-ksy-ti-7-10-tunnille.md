@@ -12,7 +12,7 @@ Valmistaudu suulliseen tehtävään (tema trafik) tunnilla jaetun monisteen avul
 
 Testaa itseäsi trafik-teeman sanaston osaamisesta. Tee halutessasi plussaharjoitussanakoe. Korjaus erivärisellä kynällä, vastaukset materiaalit-sivulla.
 
-**POISSOLIJAT:**
+**POISSAOLIJAT:**
 
 1. Tee vihkon s. 17, pyydä merkinnät.
 
