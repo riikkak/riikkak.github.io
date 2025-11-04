@@ -56,6 +56,8 @@ published: true
 
 **[Adjektiivin ja substantiivin lisäharjoitus - vastaukset](/media/rub2/Yhteistaivutus.pdf)**
 
+**[Adjektiivin käytön lisäharjoitus - vastaukset](/media/rub2/Adjektiivit_kaytto.pdf)**
+
 **[Substantiivin monikkomuodon lisäharjoitus - vastaukset](/media/rub2/Substantiivi_monikko.pdf)**
 
 **[Substantiivin taivutuksen lisäharjoitus - vastaukset](/media/rub2/Substantiivi_taivutus.pdf)**
