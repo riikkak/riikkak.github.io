@@ -54,7 +54,6 @@
 - date: pe 7.11.
   title: Tema Finland
   grammar: en sådan, en likadan
-  other: Suullisen tehtävän palautus
 - date: ma 10.11.
   title: Tema Finland
   grammar: relatiivilause
@@ -62,7 +61,7 @@
   title: Tema Finland
   grammar: relatiivilause
   digi: "relatiivilause: 2, 3a, 5"
-  other: Sanakoe Finland
+  other: Sanakoe Finland, suullinen ääntökoe
 - date: pe 14.11.
   title: Tema Finland
   grammar: relatiivilause
@@ -72,5 +71,6 @@
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
   grammar: kuuntelu 2, suullinen koe, kielioppi, luettu, käännöslauseet
   other: MUKAAN RUOTSI-KANSIO, LÄPPÄRI, KYNÄ JA KUMI
+
 
 
