@@ -6,4 +6,4 @@ tags: rub17.1 läksyt
 ---
 **PAKOLLISET:**
 
-Tee s. 18.
+Tee s. 18-19.
