@@ -50,6 +50,8 @@ published: true
 
 **[Den här, det här, de här -tarkistus](/media/rub3/Demonstratiivit_tamanama.pdf)**
 
+**[Relativiilause - lisäharjoitus](/media/rub3/Relatiivikertaus_facit.pdf)**
+
 **[Sanastokertaus - tarkistus](/media/rub3/Sanastokertaus.pdf)**
 
 **[Pronominien yhteenveto](/media/rub3/Pronomini_yhteenveto.pdf)**
