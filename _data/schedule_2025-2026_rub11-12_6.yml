@@ -74,7 +74,7 @@
   other: Kuuntelukoe 2
 - date: ti 18.11.
   title: PÄÄTTÖPÄIVÄ klo 8.15-12.00
-  grammar: suullinen koe, kuuntelu, luettu, kielioppi, käännös
+  grammar: suullinen koe, luettu, kielioppi, käännös
   digi: Testitehtävät löydät opintokortilta, ne ovat vapaaehtoisia plussatehtäviä, palautus päättöpäivään mennessä.
   other: KONE MUKAAN
 - date: ke 5.2.
@@ -229,6 +229,7 @@
   title: PÄÄTTÖPÄIVÄ klo 8.15-12
   grammar: kuuntelu 2, ohjattu kirjoitelma, kielioppikoe
   other: MUKAAN KONE, KIRJOITUSVÄLINEET JA TUKIMATERIAALI
+
 
 
 
