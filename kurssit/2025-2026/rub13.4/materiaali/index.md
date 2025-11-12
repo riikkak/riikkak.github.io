@@ -60,4 +60,5 @@ published: true
 
 -    [Päättöpäivän tarkka kertausohje](/media/rub3/Koeohje.pdf)
 -    [Päättöpäivän tarkka kertausohje](/media/rub3/Kertausohje_pitkä.pdf)
+-    [Suullisen kokeen kysymykset](/media/rub3/Suullinenkoe.pdf)
 
