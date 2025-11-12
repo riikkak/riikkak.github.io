@@ -58,6 +58,6 @@ published: true
 
 ### Päättöviikko
 
--  [Päättöpäivän yleisohje](/media/rub3/Koeohjeet_RUB13.pdf)
--  [Päättöpäivän tarkka kertausohje](/media/rub3/Kertausohje_pitkä.pdf)
+-    [Päättöpäivän tarkka kertausohje](/media/rub3/Koeohje.pdf)
+-    [Päättöpäivän tarkka kertausohje](/media/rub3/Kertausohje_pitkä.pdf)
 
