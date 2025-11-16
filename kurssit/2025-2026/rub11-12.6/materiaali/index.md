@@ -70,6 +70,8 @@ published: true
 
 **[Päättöpäivä 1 - valmistautumisen ohje (aloitusperiodi)](/media/rub2/Koeohje_uusi.pdf)**
 
+**[Päättöpäivä 2 - valmistautumisen ohje (aloitusperiodi)](/media/rub2/Paattopaiva2.pdf)**
+
 **[Suullisen kokeen kysymykset](/media/rub2/Suullinenkoe_kysymykset.pdf)**
 
 **[Verbikertaus - tarkistus](/media/rub2/Verbikertaus.pdf)**
