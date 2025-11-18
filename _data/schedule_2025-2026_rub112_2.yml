@@ -6,7 +6,7 @@
   grammar: kirjallinen tuottaminen
   other: lukusanat
 - date: ti 12.8.
-  title:  Lyhyet viestit P
+  title: Lyhyet viestit P
   grammar: kirjallinen tuottaminen
 - date: to 14.8.
   title: Lyhyet viestit P
@@ -45,7 +45,7 @@
   grammar: kirjallinen tuottaminen
   other: Päättöpäivän korvaavat digitehtävät valmiina
 - date: to 11.9.
-  title: Kuuntelu 
+  title: Kuuntelu
 - date: pe 12.9.
   title: Kuuntelu / Extrakirjoitelma
 - date: ti 16.9.
@@ -56,6 +56,3 @@
   title: Päättöpäivä
   grammar: EI OHJELMAA
   other: päivä korvattu tehtävillä
-
-
-
