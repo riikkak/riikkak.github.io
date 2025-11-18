@@ -1,7 +1,7 @@
 ---
 layout: content-main
 title: Kurssi-info
-course: rub15.8
+course: rub15.6
 published: true
 ---
 
