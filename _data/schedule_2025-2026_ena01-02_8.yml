@@ -9,7 +9,7 @@
 - date: ke 3.12.
   title: GRAMMAR
   grammar: yleisimperfekti
-  other: Wordexam text 2
+  other: Vocabulary test text 2
 - date: to 4.12.
   title: Text 3 I became a meme!
   grammar: kestoimperfekti
@@ -24,7 +24,7 @@
   grammar: yleispluskvamperfekti
 - date: ma 15.12.
   title: Listening comprehension
-  other: Wordexam text 4
+  other: Vocabulary test text 4
 - date: ke 17.12.
   title: Text 5 My first apartment
   grammar: Kestopluskvamperfekti
@@ -40,6 +40,7 @@
 - date: to 8.1.
   title: GRAMMAR
   grammar: futuuri
+  other: Oral assignment
 - date: ma 12.1.
   title: Text 7 My pronouns are they/them
   grammar: konditionaali
@@ -50,6 +51,7 @@
 - date: to 15.1.
   title: Listening comprehension
   grammar: konditionaali
+  other: Vocabulary test text 7
 - date: ma 19.1.
   title: GRAMMAR
   grammar: revision
@@ -60,4 +62,5 @@
 - date: pe 30.1.
   title: PÄÄTTÖPÄIVÄ 1 8.15-12.00
   other: Listening comprehension, grammar
+
 
