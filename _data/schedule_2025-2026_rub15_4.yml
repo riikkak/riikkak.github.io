@@ -3,18 +3,18 @@
   grammar: substantiivin taivutus ja käyttö
   digi: "tema pengar: 4a, 6, 7a"
   other: REK & KLEH 42091
-- date: pe 28.11. 
+- date: pe 28.11.
   title: Tema pengar - Text 4 Du är vad du äger
   grammar: substantiivin taivutus ja käyttö
   digi: "Text 4: 5a, 5b, 6b, 8a"
   other: KLEH 42084
 - date: ti 2.12.
-  title: Tema pengar 
-  grammar: substantiivin taivutus ja käyttö 
-  digi: "substantiivit: 1, 2b, 3b, 5, 8" 
+  title: Tema pengar
+  grammar: substantiivin taivutus ja käyttö
+  digi: "substantiivit: 1, 2b, 3b, 5, 8"
   other: REK 42091
 - date: to 4.12.
-  title: Tema - studier - Text 2 Allt är... 
+  title: Tema - studier - Text 2 Allt är...
   grammar: substantiivin taivutus ja käyttö
   other: KLEH 42084
 - date: pe 5.12.
@@ -23,12 +23,12 @@
   digi: "Text 2: 4b, 6a, 7a, 7b"
   other: REK 42091
 - date: ti 9.12.
-  title: Tema - studier 
+  title: Tema - studier
   grammar: konjunktiot ja sanajärjestys
   digi: "Tema studier: 3a, 3c, 4a, 11a"
-  other: KLEH 42084 
+  other: KLEH 42084
 - date: to 11.12.
-  title: Tema - studier 
+  title: Tema - studier
   grammar: konjuktiot ja sanajärjestys
   digi: "konjunktiot ja sanajärjestys: 1b, 2b, 3a, 4"
   other: REK 42091
@@ -46,29 +46,29 @@
   digi: "Text 1: 4, 6, 7a"
   other: KLEH & REK 42084
 - date: pe 19.12.
-  title: JULKYRKA 
+  title: JULKYRKA
 - date: to 8.1.
-  title: Tema Arbetslivet 
+  title: Tema Arbetslivet
   grammar: prepositiot ajanilmauksissa
-  digi: "prepositiot ajanilmauksissa: 2, 3" 
+  digi: "prepositiot ajanilmauksissa: 2, 3"
   other: REK 42091
 - date: pe 9.1.
-  title: Tema Arbetslivet - Text 3 Unga modiga... 
+  title: Tema Arbetslivet - Text 3 Unga modiga...
   grammar: s-passiivi
   digi: "Tema arbetslivet: 3b, 7a"
   other: KLEH 42084
 - date: ti 13.1.
-  title: Tema Arbetslivet  
+  title: Tema Arbetslivet
   grammar: s-passiivi
-  digi: "Text 3: 5a, 10a, 10b" 
+  digi: "Text 3: 5a, 10a, 10b"
   other: REK 42091
 - date: to 15.1.
-  title: Tema Arbetslivet 
+  title: Tema Arbetslivet
   grammar: s-passivi
   digi: "s-passiivi: 2a, 3, 4"
   other: KLEH 42084
 - date: pe 16.1.
-  title: Tema - Arbetslivet 
+  title: Tema - Arbetslivet
   grammar: partisiipin preesens
   digi: "partisiipin preesens: 2b, 3a, 4a, 5"
   other: KLEH 42084
@@ -80,5 +80,3 @@
   title: PÄÄTTÖPÄIVÄ
   grammar: työhaastattelu, kielioppi, luettu, käännöslauseet
   other: MUKAAN OMA KONE, PEPP och PREP-vihko + kirjoitusvälineet
-
-
