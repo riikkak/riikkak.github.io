@@ -12,7 +12,7 @@ tags: rub11-12.5 läksyt
 
 **PLUSSA:**
 
-Tee s. 3, etsi tietoa ruotsalaisista asioista ja kirjoita ruotsiksi. Tämän ehdit näyttää vielä ensi viikon maanantain tunnilla.
+Tee s. 3, etsi tietoa ruotsalaisista asioista ja kirjoita suomeksi. Tämän ehdit näyttää vielä ensi viikon maanantain tunnilla.
 
 **POISSAOLIJAT:**
 
