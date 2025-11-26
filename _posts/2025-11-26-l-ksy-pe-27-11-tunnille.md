@@ -1,7 +1,7 @@
 ---
 layout: none
 published: true
-title: Läksy pe 27.11. tunnille
+title: Läksy pe 28.11. tunnille
 tags: rub11-12.5 läksyt
 ---
 **PAKOLLISET:**
