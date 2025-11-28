@@ -10,7 +10,7 @@ Tee s. 14.
 
 **POISSAOLIJAT:**
 
-1. Lue, suomenna trksti 4 erittäin huolella, pyydä merkinnät.
+1. Lue, suomenna teksti 4 erittäin huolella, pyydä merkinnät.
 
 2. Tee s. 17 kaksi ekaa tehtävää, pyydä merkinnät.
 
