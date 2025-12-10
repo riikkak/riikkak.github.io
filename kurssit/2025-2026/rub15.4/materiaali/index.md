@@ -5,6 +5,8 @@ course: rub15.4
 published: true
 ---
 - **[Opintokortti RUB15](/media/rub5/Opintokortti_rub15.pdf)**
+
+[Suullinen ääntökoe](/media/rub5/Suullinen_aanto.pdf)
   
 ### Flashcardsit
 
