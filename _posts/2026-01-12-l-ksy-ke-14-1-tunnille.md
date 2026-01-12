@@ -6,4 +6,4 @@ tags: rub11-12.5 läksyt
 ---
 **PAKOLLISET:**
 
-Täytä vihkoon twkstin 4 fraasit s. 16. Näistä sanakoe perjantain tunnilla.
+Täytä vihkoon tekstin 4 fraasit s. 16. Näistä sanakoe perjantain tunnilla.
