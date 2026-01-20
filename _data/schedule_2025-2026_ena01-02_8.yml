@@ -49,18 +49,16 @@
 - date: ke 14.1.
   title: Text 7 continues
   grammar: konditionaali
-  digi: "Tema Finland: 3b(H)"
 - date: to 15.1.
-  title: Listening comprehension
+  title: Grammar exercises
   grammar: konditionaali
   other: Vocabulary test text 7
 - date: ma 19.1.
-  title: GRAMMAR
-  grammar: revision
-  other: Written assignment
+  title: Listening comprehension
+  grammar: liitekysymykset
 - date: ke 21.1.
-  title: Vocabulary revision
-  grammar: exercises
+  title: Written assignment
+  other: arvioitava suoritus
 - date: pe 30.1.
   title: PÄÄTTÖPÄIVÄ 1 8.15-12.00
-  other: Listening comprehension, grammar
+  other: Listening comprehension, grammar, reading comprehension (module 1)
