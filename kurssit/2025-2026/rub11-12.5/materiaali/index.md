@@ -65,8 +65,6 @@ published: true
 
 ## PÄÄTTÖVIIKOT
 
-**[Kielopin kertaus (aloitusperiodi) - tarkistus ](/media/rub2/Kertaus_aloitusperiodi.pdf)**
-
 **[Päättöpäivä 1 - valmistautumisen ohje (aloitusperiodi)](/media/rub2/Kertausohje_aloitusperiodi.pdf)**
 
 **[Päättöpäivä 2 - valmistautumisen ohje (jatkoperiodi)](/media/rub2/Koeohje_uusi.pdf)**
