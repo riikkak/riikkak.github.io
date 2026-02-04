@@ -6,7 +6,7 @@ tags: ena01-02.8 läksyt
 ---
 **PAKOLLISET:**
 
-Tee tekstin 10 tehtävät 10b ja 10d.
+Tee tekstin 10 tehtävät 10b ja 10d. Huolehdi että olet tehnyt tunnin kielioppitehtävän 65.
 
 **POISSAOLIJAT:**
 
