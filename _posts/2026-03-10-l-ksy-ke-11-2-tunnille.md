@@ -6,7 +6,7 @@ tags: rub11-12.5 läksyt
 ---
 **PAKOLLISET:**
 
-Lue teksti 5 digistä (tai monisteelta) ja tee s. 15 sueraavat tehtävät:
+Lue teksti 5 digistä (tai monisteelta) ja tee s. 15 seuraavat tehtävät:
 
 1. yläosan laatikko (kerro lyhyesti suomeksi tekstistä)
 
