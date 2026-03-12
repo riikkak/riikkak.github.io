@@ -63,6 +63,11 @@ published: true
 
 **[Lukusanatehtävä s. 33 - tarkistus](/media/rub2/Lukusana_tarkistus.pdf)**
 
+**[Hälsa s. 13 - tarkistus](/media/rub2/Terveys_tehtavasivu.pdf)**
+
+**[Substantiivin taivutus s. 21-23 - tarkistus](/media/rub2/Substantiivit_taivutus.pdf)**
+
+
 ## PÄÄTTÖVIIKOT
 
 **[Päättöpäivä 1 - valmistautumisen ohje (aloitusperiodi)](/media/rub2/Kertausohje_aloitusperiodi.pdf)**
