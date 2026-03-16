@@ -32,5 +32,8 @@ published: true
 - [Väder ANTECKNINGAR](/media/rub6/Vader.pdf)
 - [Att visa vägen SVAREN](/media/rub6/Tienneuvominen.pdf)
 - [Danmark SVAREN](/media/rub6/Danmark_tarkistus.pdf)
-
+- [Resor s. 11 - SVAREN](/media/rub6/Resor_s11.pdf)
+- [Resor s. 12 - SVAREN](/media/rub6/Resor_s12.pdf)
+- [Resor s. 13 - SVAREN](/media/rub6/Resor_s13.pdf)
+- [Sevärdheter s. 15 - SVAREN](/media/rub6/Sevardheter.pdf)
 
