@@ -14,6 +14,9 @@ Täytä Tanska-sivu vihkosta, toisen vihkon vika sivu.
 - suullisen kokeen tehtävien harjoittelua
 - (Tanskaa yhdessä)
 
+**OBS!**
+Huolehdithan että olet tehnyt kaikki digitehtävät opintokortilta to 2.4. mennessä. Suosittelen että teet kaikki kuuntelutehtävät ennen viimeistä kuuntelukoetta.
+
 **POISSAOLIJAT:**
 
 Täytä Väder-sivu, pyydä merkinnät.
