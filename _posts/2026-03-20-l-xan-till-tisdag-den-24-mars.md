@@ -8,7 +8,7 @@ tags: rub16.4 läksyt
 
 Täytä Tanska-sivu vihkosta, toisen vihkon vika sivu. 
 
-- Maanantain tunnilla kuuntelu teemoista Resor ja Hälsa och välbefinnande. 
+- Tiistain tunnilla kuuntelu teemoista Resor ja Hälsa och välbefinnande. 
 - Lopuilla ääntämiskoe
 - FIKA-tunti
 - suullisen kokeen tehtävien harjoittelua
