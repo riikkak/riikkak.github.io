@@ -18,15 +18,15 @@
   digi: "konjunktiot ja sanajärjestys: 1b, 2b, 3a, 4"
   other: Sanakoe - studier
 - date: pe 17.4.
-  title: Text 1 jatkuu 
-  grammar: konjuktiot ja sanajärjestys
-  digi: "Text 1: 4, 6, 7a"
-- date: ti 21.4.
   title: Tema - Norge
   grammar: s-päätteiset verbit
-  digi: "s-päätteiset verbit: 1, 2a, 5"
+  digi: "Text 1: 4, 6, 7a"
+- date: ti 21.4.
+  title: GRUPPHANDLEDNING
+  other: INGEN LEKTION 
 - date: ke 22.4.
   title: Harjoituksia
+  digi: "s-päätteiset verbit: 1, 2a, 5"
   grammar: s-päätteiset verbit
   other: Kirjoitelma
 - date: pe 24.4.
