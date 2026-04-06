@@ -4,13 +4,8 @@ title: Materiaali
 course: rub17.3
 published: true
 ---
+[OPINTOKORTTI RUB17](/media/rub7/Opintokortti_FOKUS 7.pdf)
 
-- [OPINTOKORTTI RUB17](/media/rub7/Opintokortti_FOKUS 7.pdf)
-- [Tekstien fraasien tarkistus](/media/rub7/Tekstifraasit.pdf)
-- [Natur teemasanaston tarkistus](/media/rub7/Natur_teemasanasto.pdf)
-- [Prepositiosivujen tarkistus](/media/rub7/Prepositioilmauksia.pdf)
-- [Kertaustehtävien tarkistus](/media/rub7/RUB17_kertaus.pdf)
-  
 ## Quizletit
 
 - [Natur - fraser](https://quizlet.com/_bfstah?x=1jqt&i=dz01n)
@@ -41,3 +36,4 @@ published: true
 - [Adverbien tarkistus](/media/rub7/Adverbi_tarkistus.pdf)
 - [Adverbien kertaustehtävän tarkistus](/media/rub7/Adverbi_kertaus.pdf)
 
+- [Kertaustehtävien tarkistus](/media/rub7/RUB17_kertaus.pdf)
