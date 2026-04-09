@@ -1,4 +1,4 @@
-layout: none
+---
 published: true
 title: Ma 13.3. tunnille läksy
 tags: rub15.6 läksyt
