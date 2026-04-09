@@ -1,4 +1,4 @@
-layout: none
+---
 published: true
 title: Läksy ma 13.3. tunnille
 tags: rub17.3 läksyt
