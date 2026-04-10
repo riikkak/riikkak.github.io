@@ -8,7 +8,7 @@ tags: rub15.6 läksyt
 
 Liity digikirjaan ryhmään, jos et vielä ole.
 
-Tee digitehtävät tema pengar **4a, 6 ja 7a** ja text 2 **5a, 5b, 6b, 8a**.
+Tee digitehtävät tema pengar **4a, 6 ja 7a** ja text 4 **5a, 5b, 6b, 8a**.
 
 Älä säikähdä määrää, tosi lyhyitä suurin osa!
 
