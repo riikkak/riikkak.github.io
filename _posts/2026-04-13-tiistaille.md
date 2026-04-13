@@ -1,12 +1,12 @@
 ---
 published: true
-title: ti 14.4. tunnille läksy
+title: Ti 14.4. tunnille läksy
 tags: rub17.3 läksyt
 ---
 
 **PAKOLLISET:**
 
-1. Huolehdi että olet tehnyt, tai teet viimeistään ennen suullista ja kirjoitelmaa tema **trafik digitehtävt opintokortilta** (materiaalit-sivu).
+1. Huolehdi että olet tehnyt, tai teet viimeistään ennen suullista ja kirjoitelmaa tema **trafik digitehtävät opintokortilta** (materiaalit-sivu).
 
 2. Tee **s. 22-23 loppuun**, jos jäi kesken tunnilla.
 
