@@ -19,7 +19,7 @@
   digi: "Text 2: 4b, 6a, 7a, 7b"
 - date: ma 20.4.
   title: Tema - studier
-  grammar: konjunktiot ja sanajärjestys
+  grammar: substantiivin taivutus ja käyttö
   digi: "Tema studier: 3a, 3c, 4a, 11a"
 - date: ke 22.4.
   title: Tema - studier
@@ -28,11 +28,11 @@
   other: Sanakoe - studier
 - date: to 23.4.
   title: Tema - Norge
+  grammar: konjuktiot ja sanajärjestys
   other: ITSENÄINEN TYÖSKENTELY
 - date: ma 27.4.
   title: Tema Norge Text 1 Pröva dina...
-  grammar: s-päätteiset verbit
-  digi: "s-päätteiset verbit: 1, 2a, 5"
+  grammar: konjuktiot ja sanajärjestys
 - date: ke 29.4.
   title: Tema Norge
   grammar: s-päätteiset verbit
@@ -40,6 +40,8 @@
   other: Kirjoitelma
 - date: to 30.4.
   title: Tema Arbetslivet
+  grammar: s-päätteiset verbit
+  digi: "s-päätteiset verbit: 1, 2a, 5"
 - date: ma 4.5.
   title: Tema Arbetslivet
   grammar: prepositiot ajanilmauksissa
