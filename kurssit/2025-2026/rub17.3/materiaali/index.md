@@ -6,6 +6,8 @@ published: true
 ---
 [OPINTOKORTTI RUB17](/media/rub7/Opintokortti_FOKUS 7.pdf)
 
+[Suullinen tehtävä - uutinen](/media/rub7/Suullinen_uutinen.pdf)
+
 ## Quizletit
 
 - [Natur - fraser](https://quizlet.com/_bfstah?x=1jqt&i=dz01n)
