@@ -1,6 +1,6 @@
 ---
 published: true
-title: Läksy ti 21.4. tunnille
+title: Läksy ke 22.4. tunnille
 tags: rub15.9 läksyt
 ---
 
@@ -8,6 +8,8 @@ tags: rub15.9 läksyt
 
 1. Tee **s. 26 ylin tehtävä**. Verbit löytyvät edelliseltä sivulta.
 2. Tee tekstin 1 digitehtävät **4, 6, 7a.**
+
+Tiistain tunnilla kaikille pakollinen ryhmänohjaus.
 
 **PLUSSA:**
 
