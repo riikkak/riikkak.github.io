@@ -28,30 +28,30 @@
   digi: "Tema medier: 3a, 5b(H), 9c (H)"
 - date: to 23.4.
   title: Tema medier
-  grammar: prepositiot paikanilmauksissa
-  digi: "prepositiot paikanilmauksissa: 1a, 1b, 4a, 4b"
+  grammar: någon, ingen, alla
 - date: ma 27.4.
   title: Tema medier
-  grammar: någon, ingen, alla
+  grammar: varje
 - date: ti 28.4.
   title: Tema Finland
+  grammar: paljoussanat
   other: Sanakoe medier, kuuntelu
 - date: to 30.4.
   title: Tema Finland
-  grammar: varje 
   other: Suullisen tehtävän palautus Teamsiin klo 16.00 mennessä
   digi: "indefiniittipronominit: 3, 4a, 4b, 7a, 7b, 8b, 9, 10"
 - date: ma 4.5.
   title: Tema Finland Text 1
-  grammar: paljoussanat
-  digi: "Text 1: 6, 10b"
+  grammar: prepositiot paikanilmauksissa
+  digi: "prepositiot paikanilmauksissa: 1a, 1b, 4a, 4b"
 - date: ti 5.5.
   title: Tema Finland 
   grammar: den här, den där, samma, densamma 
-  digi: "demonstratiivipronominit: 1a, 1b, 3a, 3b, 4"
+  digi: "Text 1: 6, 10b"  
 - date: to 7.5.
   title: Tema Finland
   grammar: en sådan, en likadan
+  digi: "demonstratiivipronominit: 1a, 1b, 3a, 3b, 4"
 - date: ma 11.5.
   title: Tema Finland
   grammar: relatiivilause'
