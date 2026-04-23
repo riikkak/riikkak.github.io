@@ -6,7 +6,8 @@ tags: rub15.9 läksyt
 
 **PAKOLLISET:**
 
-Huolehdi että olet tehnyt s. 28 tehtävät loppuun.
+1. Huolehdi että olet tehnyt s. 28 tehtävät loppuun.
+2. Tee digitehtävät s-päätteisistä verbeistä **1, 2a ja 5.**
 
 **POISSAOLIJOILLE LISÄKSI:**
 
