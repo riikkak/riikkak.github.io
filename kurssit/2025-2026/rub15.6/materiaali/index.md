@@ -26,6 +26,7 @@ published: true
 - [Substantiivien lisäharjoitus - tarkistus](/media/rub5/Substantiivit_plussa.pdf)
 - [Substantiivin käytön lisäharjoitus](/media/rub5/Substantiiviplussa.pdf)
 - [Pengar - fraser](/media/rub5/Pengar_fraser.pdf)
+- [Konjunktiot ja sanajärjestys plussatehtävä](/media/rub5/Konjunktiot_sanaj.pdf)
 
 ### Päättöviikko
 - [Työhaastattelun kysymykset](/media/rub5/Haastattelukysymykset_2025.pdf)
