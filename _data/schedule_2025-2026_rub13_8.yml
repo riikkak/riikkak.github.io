@@ -38,15 +38,15 @@
   other: Sanakoe medier, kuuntelu
 - date: to 30.4.
   title: Tema Finland
-  other: Suullisen tehtävän palautus Teamsiin klo 16.00 mennessä
+  grammar: prepositiot paikanilmauksissa
   digi: "indefiniittipronominit: 3, 4a, 4b, 7a, 7b, 8b, 9, 10"
 - date: ma 4.5.
   title: Tema Finland Text 1
-  grammar: prepositiot paikanilmauksissa
+   grammar: den här, den där, samma, densamma  
   digi: "prepositiot paikanilmauksissa: 1a, 1b, 4a, 4b"
 - date: ti 5.5.
   title: Tema Finland 
-  grammar: den här, den där, samma, densamma 
+  grammar: samma, densamma 
   digi: "Text 1: 6, 10b"  
 - date: to 7.5.
   title: Tema Finland
@@ -54,12 +54,13 @@
   digi: "demonstratiivipronominit: 1a, 1b, 3a, 3b, 4"
 - date: ma 11.5.
   title: Tema Finland
-  grammar: relatiivilause'
+  grammar: relatiivilause
   digi: "Tema Finland: 3b(H)"
+  other: Suullisen tehtävän palautus klo 9.30 mennessä
 - date: ti 12.5.
   title: Tema Finland
   grammar: relatiivilause
-  other: Sanakoe Finland, kuuntelu
+  other: Sanakoe Finland, kuuntelu 
 - date: to 14.5.
   title: Kristihimmelfärds dagen
   other: NJUT AV FRILUFTSLIVET!
