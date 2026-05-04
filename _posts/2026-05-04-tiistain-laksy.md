@@ -13,7 +13,7 @@ tags: rub13.8 läksyt
 **SUULLINEN TEHTÄVÄ:**
 
 Tee suullinen tehtävä Screencastify-palveluun **ma 11.5. klo 9.30 mennessä**, linkki jaettu tunnilla, löydät sen myös Teams-ryhmän yleisen kanavan keskustelusta. Kirjaudu palveluun tunnuksilla jotka muista myöhemmin. Noudata erittäin huolella ohjeita. 
-Ohjeet ovat palvelun tehtävässä, sekä materiaalit-sivulla. Opelta sai myös paperilla ohjeet halutessaan.
+Ohjeet ovat palvelun tehtävässä, sekä materiaalit-sivulla. Opelta sai myös paperilla ohjeet halutessaan. Myöhästyneistä palautuksista arvosana tippuu yhden numeron / myöhästynyt päivä. Mikäli tarvit PERUSTELLUSTA syystä lisäaikaa, ole opettajaan yhteydessä ajoissa. Sinulla on viikko aikaa, älä jätä viimeiseen mahdolliseen hetkeen tekoa.
 
 Luettu / tekoälyllä valmisteltu tehtävä on automaattisesti arvosana 4. Tee omalla osaamisellasi ja ole oma hurmaava itsesi, lopputulos tulee olemaan paljon parempi! Tässä tehtävässä heittäytyminen ratkaisee.
 
