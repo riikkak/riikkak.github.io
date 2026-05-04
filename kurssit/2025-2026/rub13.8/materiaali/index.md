@@ -10,6 +10,8 @@ published: true
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Svenska akademiens ordböcker](https://svenska.se/tre/?sok=&pz=1).
 - **[Opintokortti RUB13](/media/rub3/Opintokortti_rub13.pdf)**
 
+- [Suullisen tehtävän ohje](/media/rub3/Medier_suullinen.pdf)
+
 ### Quizlet - flashcardsit
 
 - [Text 3 + dialog](https://quizlet.com/_b3nqjp?x=1qqt&i=dz01n)
