@@ -29,18 +29,21 @@
   grammar: partisiipin perfekti 
 - date: to 30.4.
   title: Tema - Miljö
+  grammar: partisiipin perfekti 
   other: Sanakoe - natur 
 - date: ma 4.5.
   title: Tema - Miljö
-  grammar: lauseenvastikkeet
+  grammar: partisiipin perfekti
 - date: ti 5.5.
   title: Tema - Miljö
+  grammar: lauseenvastikkeet
 - date: to 7.5.
   title: Tema - Social och ekonomisk hållbarhet
   grammar: lauseenvastikkeet
   other: Sanakoe - miljö
 - date: ma 11.5.
   title: Tema - Social och ekonomisk hållbarhet
+  grammatik: genetiivi
 - date: ti 12.5.
   title: Tema - framtiden
   grammar: genetiivi
