@@ -13,6 +13,8 @@ tags: rub13.8 läksyt
 
 Tee halutessasi harjoitussanakoe (jaettu mediateeman saniksen toisella puolella). Tee ensin itse, korjaa sitten erivärisellä kynällä plussapisteiden saamiseksi. Tarkistus löytyy materiaalit-sivulta.
 
+Jos haluat tehdä vielä pronominiplussaharjoituksen, löydät sen luokan edestä olevasta telineestä.
+
 **POISSAOLIJAT:**
 
 1. Tee s. 6 alaosa, pyydä merkinnät.
