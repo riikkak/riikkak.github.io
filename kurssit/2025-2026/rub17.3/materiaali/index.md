@@ -35,6 +35,7 @@ published: true
 - [Partisiipin preesens tarkistus](/media/rub7/Partisiipit_plussa.pdf)
 - [Genetiivit tarkistus](/media/rub7/Genetiivi_plussa.pdf)
 - [Lauseenvastikkeet tarkistus](/media/rub7/Lauseenvastikkeet_plussa.pdf)
+- [Lauseenvastikkeet UUSI_tarkistus](/media/rub7/Lauseenvastikkeet_uusi.pdf)
 - [Adverbien tarkistus](/media/rub7/Adverbi_tarkistus.pdf)
 - [Adverbien kertaustehtävän tarkistus](/media/rub7/Adverbi_kertaus.pdf)
 
