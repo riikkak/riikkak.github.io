@@ -40,3 +40,4 @@ published: true
 - [Adverbien kertaustehtävän tarkistus](/media/rub7/Adverbi_kertaus.pdf)
 
 - [Kertaustehtävien tarkistus](/media/rub7/RUB17_kertaus.pdf)
+- [Tekstien fraasien tarkistus](/media/rub7/Tekstifraasit.pdf)
