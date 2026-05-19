@@ -10,7 +10,7 @@ tags: rub15.9 läksyt
 2. Tee **s. 11** (apua tähän löydät teemasanastosta, sekä olepa tarkkana, sivun teksteistä löydät myös apuja aukkokohtiin!)
 
 Rästisanakoe tiistaina ennen oppituntia **klo 11.00**. Päättöpäivänä ei ole enää mahdollisuutta tehdä mitään osasuorituksia.
-Kuuntelu perjantaina poissaolleille järjestetään **ke 21.5. klo 13.30.**
+Kuuntelu perjantaina poissaolleille järjestetään **ke 20.5. klo 13.30.**
 
 **Ti ja Ke tunneilla tehtyä (mikäli olit pois):**
 
