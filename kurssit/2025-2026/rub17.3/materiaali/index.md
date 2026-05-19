@@ -39,5 +39,6 @@ published: true
 - [Adverbien tarkistus](/media/rub7/Adverbi_tarkistus.pdf)
 - [Adverbien kertaustehtävän tarkistus](/media/rub7/Adverbi_kertaus.pdf)
 
+- [Framtid-sivun tarkistus](/media/rub7/Framtid.pdf)
 - [Kertaustehtävien tarkistus](/media/rub7/RUB17_kertaus.pdf)
 - [Tekstien fraasien tarkistus](/media/rub7/Tekstifraasit.pdf)
