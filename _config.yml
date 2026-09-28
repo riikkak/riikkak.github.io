@@ -11,7 +11,7 @@ url: https://riikka.koskenranta.fi
 baseurl: ""
 incremental: false
 timezone: Europe/Helsinki
-semester: 2025-2026
+semester: 2026-2027
 
 defaults:
   - scope:
@@ -22,7 +22,7 @@ defaults:
   - scope:
       path: ""
     values:
-      period: 5
+      period: 2
   - scope:
       path: "kurssit/2013-2014"
     values:
@@ -99,6 +99,12 @@ defaults:
       path: "kurssit/2025-2026"
     values:
       semester: "2025-2026"
+      current: false
+      archived: true
+  - scope:
+      path: "kurssit/2026-2027"
+    values:
+      semester: "2026-2027"
       current: true
       archived: false
 
@@ -147,34 +153,28 @@ prose:
           label: "Valitse sivu"
           placeholder: "Valitse"
           options:
-            - name: "RUB11-12.5 - Läksyt"
-              value: "rub11-12.5 läksyt"
-            - name: "RUB11-12.6 - Läksyt"
-              value: "rub11-12.6 läksyt"
-            - name: "RUB112.2 - Läksyt"
-              value: "rub112.2 läksyt"
-            - name: "RUB114.2 - Läksyt"
-              value: "rub114.2 läksyt"
-            - name: "RUB114.4 - Läksyt"
-              value: "rub114.4 läksyt"
-            - name: "RUB13.4 - Läksyt"
-              value: "rub13.4 läksyt"
-            - name: "RUB13.8 - Läksyt"
-              value: "rub13.8 läksyt"
-            - name: "RUB15.4 - Läksyt"
-              value: "rub15.4 läksyt"
-            - name: "RUB15.6 - Läksyt"
-              value: "rub15.6 läksyt"
+            - name: "RUB11-12.3 - Läksyt"
+              value: "rub11-12.3 läksyt"
+            - name: "RUB11-12.9 - Läksyt"
+              value: "rub11-12.9 läksyt"
+            - name: "RUB112.4 - Läksyt"
+              value: "rub112.4 läksyt"
+            - name: "RUB13.3 - Läksyt"
+              value: "rub13.3 läksyt"
+            - name: "RUB13.5 - Läksyt"
+              value: "rub13.5 läksyt"
+            - name: "RUB14.8 - Läksyt"
+              value: "rub14.8 läksyt"
+            - name: "RUB14.9 - Läksyt"
+              value: "rub14.9 läksyt"
             - name: "RUB15.9 - Läksyt"
               value: "rub15.9 läksyt"
-            - name: "RUB16.2 - Läksyt"
-              value: "rub16.2 läksyt"
             - name: "RUB16.4 - Läksyt"
               value: "rub16.4 läksyt"
             - name: "RUB17.1 - Läksyt"
               value: "rub17.1 läksyt"
-            - name: "RUB17.3 - Läksyt"
-              value: "rub17.3 läksyt"
+            - name: "RUB17.4 - Läksyt"
+              value: "rub17.4 läksyt"
             - name: "ENA01-02.8 - Läksyt"
               value: "ena01-02.8 läksyt"
 

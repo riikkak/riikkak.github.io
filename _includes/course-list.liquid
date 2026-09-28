@@ -6,7 +6,7 @@
     {% if course.name contains include.name and course.period contains include.period or course.period == include.period %}
     <a href="/kurssit/{{ include.year }}/{{ course.name | downcase }}" class="list-group-item">
         {{ course.name | upcase }}
-        {% if course.code %} (koodi {{course.code}}){% endif %}
+        {% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
     </a>
     {% endif %}
     {% endfor %}
@@ -19,7 +19,7 @@
     {% include last-period-var.liquid %}
     {% if course.name contains include.name and last_period < include.period %}
     <a href="/kurssit/{{ include.year }}/{{ course.name | downcase }}" class="list-group-item">
-        {{ course.name | upcase }}{% if course.code %} (koodi {{course.code}}){% endif %}
+        {{ course.name | upcase }}{% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
         {% include periods_text.liquid period=course.period %}
     </a>
     {% endif %}
@@ -33,7 +33,7 @@
     {% include last-period-var.liquid %}
     {% if course.name contains include.name and last_period > include.period %}
     <li class="list-group-item">
-        {{ course.name | upcase }}{% if course.code %} (koodi {{course.code}}){% endif %}
+        {{ course.name | upcase }}{% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
         {% include periods_text.liquid period=course.period %}
     </li>
     {% endif %}
