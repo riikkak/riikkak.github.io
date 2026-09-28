@@ -1,0 +1,367 @@
+# Pages CMS -asetukset (https://app.pagescms.org). Lukukauden vaihtuessa päivitä
+# Läksyt-kansio, kurssivalinnat ja kurssiryhmät. Ks. README.md.
+
+media:
+  input: media
+  output: /media
+  rename: safe
+  categories: [document, image]
+
+settings:
+  content:
+    merge: true
+
+content:
+  - name: laksyt
+    label: Läksyt
+    type: collection
+    path: _posts/2026-2027
+    filename: "{year}-{month}-{day}-{primary}.md"
+    subfolders: false
+    view:
+      fields: [title, tags]
+      primary: title
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Otsikko
+        type: string
+        required: true
+        description: "esim. Läksy ti 19.5. tunnille"
+      - name: tags
+        label: Kurssi
+        type: select
+        required: true
+        options:
+          values:
+            - name: "ena01-02.8 läksyt"
+              label: ENA01-02.8
+            - name: "rub11-12.3 läksyt"
+              label: RUB11-12.3
+            - name: "rub11-12.9 läksyt"
+              label: RUB11-12.9
+            - name: "rub112.4 läksyt"
+              label: RUB112.4
+            - name: "rub13.3 läksyt"
+              label: RUB13.3
+            - name: "rub13.5 läksyt"
+              label: RUB13.5
+            - name: "rub14.8 läksyt"
+              label: RUB14.8
+            - name: "rub14.9 läksyt"
+              label: RUB14.9
+            - name: "rub15.9 läksyt"
+              label: RUB15.9
+            - name: "rub16.4 läksyt"
+              label: RUB16.4
+            - name: "rub17.1 läksyt"
+              label: RUB17.1
+            - name: "rub17.4 läksyt"
+              label: RUB17.4
+      - name: published
+        label: Julkaistu
+        type: boolean
+        default: true
+      - name: body
+        label: Sisältö
+        type: rich-text
+
+  - name: ena01-02_8
+    label: ENA01-02.8
+    type: group
+    items:
+      - name: ena01-02_8_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_ena01-02_8.yml
+        format: yaml
+        list: true
+        fields: &aikataulu
+          - name: date
+            label: Pvm
+            type: string
+            required: true
+            description: "esim. ti 7.4."
+          - name: title
+            label: Tunnin aihe
+            type: string
+          - name: grammar
+            label: Kielioppi
+            type: string
+          - name: digi
+            label: Digitehtävät
+            type: string
+          - name: other
+            label: Muuta
+            type: string
+      - name: ena01-02_8_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/ena01-02.8/materiaali/index.md
+        fields: &sivu
+          - name: body
+            label: Sisältö
+            type: rich-text
+      - name: ena01-02_8_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/ena01-02.8/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub11-12_3
+    label: RUB11-12.3
+    type: group
+    items:
+      - name: rub11-12_3_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub11-12_3.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub11-12_3_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub11-12.3/materiaali/index.md
+        fields: *sivu
+      - name: rub11-12_3_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub11-12.3/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub11-12_9
+    label: RUB11-12.9
+    type: group
+    items:
+      - name: rub11-12_9_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub11-12_9.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub11-12_9_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub11-12.9/materiaali/index.md
+        fields: *sivu
+      - name: rub11-12_9_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub11-12.9/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub112_4
+    label: RUB112.4
+    type: group
+    items:
+      - name: rub112_4_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub112_4.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub112_4_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub112.4/materiaali/index.md
+        fields: *sivu
+      - name: rub112_4_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub112.4/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub13_3
+    label: RUB13.3
+    type: group
+    items:
+      - name: rub13_3_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub13_3.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub13_3_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub13.3/materiaali/index.md
+        fields: *sivu
+      - name: rub13_3_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub13.3/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub13_5
+    label: RUB13.5
+    type: group
+    items:
+      - name: rub13_5_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub13_5.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub13_5_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub13.5/materiaali/index.md
+        fields: *sivu
+      - name: rub13_5_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub13.5/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub14_8
+    label: RUB14.8
+    type: group
+    items:
+      - name: rub14_8_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub14_8.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub14_8_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub14.8/materiaali/index.md
+        fields: *sivu
+      - name: rub14_8_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub14.8/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub14_9
+    label: RUB14.9
+    type: group
+    items:
+      - name: rub14_9_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub14_9.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub14_9_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub14.9/materiaali/index.md
+        fields: *sivu
+      - name: rub14_9_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub14.9/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub15_9
+    label: RUB15.9
+    type: group
+    items:
+      - name: rub15_9_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub15_9.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub15_9_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub15.9/materiaali/index.md
+        fields: *sivu
+      - name: rub15_9_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub15.9/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub16_4
+    label: RUB16.4
+    type: group
+    items:
+      - name: rub16_4_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub16_4.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub16_4_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub16.4/materiaali/index.md
+        fields: *sivu
+      - name: rub16_4_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub16.4/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub17_1
+    label: RUB17.1
+    type: group
+    items:
+      - name: rub17_1_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub17_1.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub17_1_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub17.1/materiaali/index.md
+        fields: *sivu
+      - name: rub17_1_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub17.1/kurssi-info/index.md
+        fields: *sivu
+
+  - name: rub17_4
+    label: RUB17.4
+    type: group
+    items:
+      - name: rub17_4_aikataulu
+        label: Aikataulu
+        type: file
+        path: _data/schedule_2026-2027_rub17_4.yml
+        format: yaml
+        list: true
+        fields: *aikataulu
+      - name: rub17_4_materiaali
+        label: Materiaali
+        type: file
+        path: kurssit/2026-2027/rub17.4/materiaali/index.md
+        fields: *sivu
+      - name: rub17_4_kurssiinfo
+        label: Kurssi-info
+        type: file
+        path: kurssit/2026-2027/rub17.4/kurssi-info/index.md
+        fields: *sivu
+
+  - name: asetukset
+    label: Asetukset
+    type: file
+    path: _data/asetukset.yml
+    fields:
+      - name: period
+        label: Jakso
+        type: number
+        required: true
+        description: "Nykyinen jakso (1–5). Näkyy etusivun ja valikon kurssilistoissa."
+        options:
+          min: 1
+          max: 5
