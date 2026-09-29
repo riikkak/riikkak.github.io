@@ -37,5 +37,5 @@ Tick the ones that have been done to mark progress.
 
 - [x] Retry `git pull --rebase` + `git push` in `.github/workflows/pages-cms-courses.yml` and `normalize-line-endings.yml`, so a CMS save landing at the same moment doesn't fail the job. ~10 min
 - [x] Add `.github/dependabot.yml` for the `github-actions` ecosystem only, monthly. ~5 min
-- [ ] `.github/scripts/pages-cms-courses.rb`: give a clear error when `_data/courses_<semester>.yml` is missing, and warn when the Läksyt `path` in `.pages.yml` doesn't match the semester. ~20 min
+- [x] `.github/scripts/pages-cms-courses.rb`: give a clear error when `_data/courses_<semester>.yml` is missing, and warn when the Läksyt `path` in `.pages.yml` doesn't match the semester. ~20 min
 

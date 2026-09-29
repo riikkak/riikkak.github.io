@@ -10,17 +10,35 @@ require "yaml"
 CONFIG = ".pages.yml"
 MARKERS = /^(?<indent>[ ]*)# kurssit:start[^\n]*\n(?<body>.*?)^[ ]*# kurssit:end/m
 
-semester = YAML.load_file("_config.yml")["semester"]
+# In GitHub Actions, prefix warnings so they show up as annotations.
+def warn_ci(message)
+  warn(ENV["GITHUB_ACTIONS"] ? "::warning::#{message}" : "Warning: #{message}")
+end
+
+semester = YAML.load_file("_config.yml")["semester"] or abort "_config.yml: no semester set"
 period = YAML.load_file("_data/asetukset.yml")["period"].to_i
-courses = YAML.load_file("_data/courses_#{semester}.yml")
+
+courses_file = "_data/courses_#{semester}.yml"
+unless File.exist?(courses_file)
+  abort "#{courses_file} not found. _config.yml says the semester is #{semester}; " \
+        "add the courses file first (see \"Adding a new semester\" in CLAUDE.md)."
+end
+courses = YAML.load_file(courses_file)
+abort "#{courses_file} has no courses" unless courses.is_a?(Array) && !courses.empty?
 
 current = courses.select { |c| Array(c["period"]).map(&:to_i).include?(period) }
 if current.empty?
-  warn "No #{semester} courses in period #{period}; offering all courses instead."
+  warn_ci "No #{semester} courses in period #{period}; offering all courses instead."
   current = courses
 end
 
 text = File.read(CONFIG, encoding: "UTF-8")
+
+laksyt = YAML.safe_load(text, aliases: true)["content"].find { |c| c["name"] == "laksyt" }
+if laksyt && laksyt["path"] != "_posts/#{semester}"
+  warn_ci "#{CONFIG}: the Läksyt path is #{laksyt['path']}, but the semester is #{semester}. " \
+          "New homework posts will go to the wrong folder; set it to _posts/#{semester}."
+end
 match = text.match(MARKERS) or abort "#{CONFIG}: kurssit:start/kurssit:end markers not found"
 indent = match[:indent]
 body = current.map do |c|
