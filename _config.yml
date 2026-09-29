@@ -103,6 +103,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CLAUDE.md
+  - TODO.md
   - CNAME
   - Gruntfile.js
   - package.json
