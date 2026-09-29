@@ -2,16 +2,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="Riikka Koskenranta">
 
-{% if site.google_analytics and jekyll.environment == "production" %}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.google_analytics }}');
-</script>
-{% endif %}
-
 <title>
     {% unless page.title == "Riikka Koskenranta" %}
     {{ page.title }}{% if page.course %} - {{ page.course | upcase }}{% endif %} &middot;

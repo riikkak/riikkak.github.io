@@ -7,8 +7,6 @@ url: https://riikka.koskenranta.fi
 baseurl: ""
 timezone: Europe/Helsinki
 semester: 2026-2027
-# GA4 measurement ID (G-XXXXXXXXXX). Leave empty to disable analytics.
-google_analytics:
 
 defaults:
   - scope:

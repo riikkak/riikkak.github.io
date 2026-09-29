@@ -17,7 +17,7 @@ Jekyll site for Riikka Koskenranta's blog and high school course pages (English 
 
 Everything is keyed by **semester** (`YYYY-YYYY`, e.g. `2026-2027`) and **course name** (lowercase, e.g. `rub11-12.3`). The school year is split into teaching periods ("jakso", 1–5).
 
-- `_config.yml`: `semester` is the current one. `defaults` give each `kurssit/<semester>/` path a `semester` value and `current`/`archived` flags. Templates only read `archived`: `archived: true` swaps the nav's "Kurssit" dropdown for a link to the archive. `google_analytics` holds the GA4 measurement ID; `head.liquid` only emits the gtag snippet when it is set and `jekyll.environment` is `production` (GitHub Pages sets that, local builds don't). `exclude` must list any new repo-only file at the root, or it gets published.
+- `_config.yml`: `semester` is the current one. `defaults` give each `kurssit/<semester>/` path a `semester` value and `current`/`archived` flags. Templates only read `archived`: `archived: true` swaps the nav's "Kurssit" dropdown for a link to the archive. The site has no analytics or tracking on purpose. `exclude` must list any new repo-only file at the root, or it gets published.
 - `_data/asetukset.yml`: `period`, the current teaching period. The front page and the course nav read it to show which courses are running.
 - `_data/courses_<semester>.yml`: course list with `name`, `code` (scalar or list) and `period` (scalar or list; the Liquid and the Ruby script handle both). Names containing `ena` go under English and names containing `rub` under Swedish.
 - `_data/navigation_<semester>.yml`: per-course nav pages. The first page links to the course root.
