@@ -4,7 +4,7 @@
 <div class="list-group">
     {% for course in include.db %}
     {% if course.name contains include.name and course.period contains include.period or course.period == include.period %}
-    <a href="/kurssit/{{ include.year }}/{{ course.name | downcase }}" class="list-group-item">
+    <a href="/kurssit/{{ include.year }}/{{ course.name | downcase }}/" class="list-group-item">
         {{ course.name | upcase }}
         {% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
     </a>
@@ -18,7 +18,7 @@
     {% for course in include.db %}
     {% include last-period-var.liquid %}
     {% if course.name contains include.name and last_period < include.period %}
-    <a href="/kurssit/{{ include.year }}/{{ course.name | downcase }}" class="list-group-item">
+    <a href="/kurssit/{{ include.year }}/{{ course.name | downcase }}/" class="list-group-item">
         {{ course.name | upcase }}{% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
         {% include periods_text.liquid period=course.period %}
     </a>

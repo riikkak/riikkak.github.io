@@ -6,7 +6,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/kurssit/{{ page.semester }}/{{ page.course }}">{{page.course | upcase}}</a>
+        <a class="navbar-brand" href="/kurssit/{{ page.semester }}/{{ page.course }}/">{{page.course | upcase}}</a>
         <div class="nav-collapse collapse course-navbar-collapse">
             {% assign selNav = page.title %}
             <ul class="nav navbar-nav">
@@ -17,13 +17,16 @@
                 {% if navItem.url %}
                     {% assign url = navItem.url %}
                 {% endif %}
+                {% comment %} An empty url means the course root; don't add a slash for it. {% endcomment %}
+                {% assign url_path = "" %}
+                {% if url != "" %}{% assign url_path = url | append: "/" %}{% endif %}
 
                 {% unless navItem.subpages %}
                 <li{% if selNav == navItem.page %} class="active"{% endif %}>
                 {% unless forloop.first %}
-                    <a href="/kurssit/{{ page.semester }}/{{ page.course }}/{{ url }}">{{ navItem.page }}</a>
+                    <a href="/kurssit/{{ page.semester }}/{{ page.course }}/{{ url_path }}">{{ navItem.page }}</a>
                 {% else %}
-                    <a href="/kurssit/{{ page.semester }}/{{ page.course }}">{{ navItem.page }}</a>
+                    <a href="/kurssit/{{ page.semester }}/{{ page.course }}/">{{ navItem.page }}</a>
                 {% endunless %}
                 </li>
                 {% else %}
@@ -34,7 +37,7 @@
                 {% endfor %}
                 <li class="dropdown{% if navSelected %} active{% endif %}">
                     {% assign navSelected = false %}
-                    <a id="d{{ url }}" href="/kurssit/{{ page.semester }}/{{ page.course }}/{{ url }}"
+                    <a id="d{{ url }}" href="/kurssit/{{ page.semester }}/{{ page.course }}/{{ url_path }}"
                        data-toggle="dropdown" data-target="#">{{ navItem.page }} <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="d{{ url }}">
@@ -43,8 +46,10 @@
                         {% if subNavItem.url %}
                             {% assign subNavUrl = subNavItem.url %}
                         {% endif %}
+                        {% assign subNavPath = "" %}
+                        {% if subNavUrl != "" %}{% assign subNavPath = subNavUrl | append: "/" %}{% endif %}
                         <li{% if selNav == subNavItem.page %} class="active"{% endif %}>
-                            <a tabindex="-1" href="/kurssit/{{ page.semester }}/{{ page.course }}/{{ url }}/{{ subNavUrl }}">
+                            <a tabindex="-1" href="/kurssit/{{ page.semester }}/{{ page.course }}/{{ url_path }}{{ subNavPath }}">
                                 {{ subNavItem.page }}
                             </a>
                         </li>
@@ -55,7 +60,7 @@
                 {% endfor %}
                 {% if page.semester == site.semester %}
                 <li class="dropdown">
-                    <a id="dKurssit" href="/kurssit" data-toggle="dropdown">Kurssit <span class="caret"></span></a>
+                    <a id="dKurssit" href="/kurssit/" data-toggle="dropdown">Kurssit <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="dKurssit">
                         {% assign eng_courses = "" %}
                         {% assign eng_urls = "" %}
@@ -91,7 +96,7 @@
                         {% if eng_size > 0 %}
                         <li class="dropdown-header">Englanti</li>
                         {% for name in eng_courses reversed %}
-                        <li><a tabindex="-1" href="/kurssit/{{ page.semester }}/{{ eng_urls[forloop.rindex0] }}">{{ name | upcase }}</a></li>
+                        <li><a tabindex="-1" href="/kurssit/{{ page.semester }}/{{ eng_urls[forloop.rindex0] }}/">{{ name | upcase }}</a></li>
                         {% endfor %}
                         {% if swe_size > 0 %}
                         <li class="divider"></li>
@@ -100,13 +105,13 @@
                         {% if swe_size > 0 %}
                         <li class="dropdown-header">Ruotsi</li>
                         {% for name in swe_courses reversed %}
-                        <li><a tabindex="-1" href="/kurssit/{{ page.semester }}/{{ swe_urls[forloop.rindex0] }}">{{ name | upcase }}</a></li>
+                        <li><a tabindex="-1" href="/kurssit/{{ page.semester }}/{{ swe_urls[forloop.rindex0] }}/">{{ name | upcase }}</a></li>
                         {% endfor %}
                         {% endif %}
                     </ul>
                 </li>
                 {% else %}
-                <li><a href="/kurssit/arkisto">Kurssiarkisto</a></li>
+                <li><a href="/kurssit/arkisto/">Kurssiarkisto</a></li>
                 {% endif %}
                 {% endif %}
             {% endfor %}
