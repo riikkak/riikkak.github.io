@@ -4,7 +4,7 @@ Tick the ones that have been done to mark progress.
 
 ## Privacy and third-party requests
 
-- [ ] Update Google Fonts urls. The current `css?family=` URLs are an old format without `display=swap`. ~5 min
+- [x] Update Google Fonts urls. The current `css?family=` URLs are an old format without `display=swap`. ~5 min
 
 ## Frontend libraries and build
 
