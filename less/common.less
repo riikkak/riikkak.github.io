@@ -32,7 +32,7 @@ body > .content-wrapper {
     .make-row();
 
     .author, .course {
-      .make-xs-column(10);
+      .make-xs-column(12);
       .make-sm-column(10);
 
       h1 {
@@ -55,7 +55,6 @@ body > .content-wrapper {
     }
 
     .owl {
-      .make-xs-column(2);
       .make-sm-column(2);
 
       img {
@@ -81,6 +80,11 @@ body > .content-wrapper {
       .desc {
         display: none;
       }
+    }
+
+    // On phones the owl is wider than its column and covers the title.
+    .owl {
+      display: none;
     }
   }
 }
