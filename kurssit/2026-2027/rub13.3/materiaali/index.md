@@ -7,7 +7,7 @@ published: true
 
 ### TIPS!
 
-- Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Svenska akademiens ordböcker](https://svenska.se/tre/?sok=&pz=1).
+- Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Svenska akademiens ordböcker](https://svenska.se/tre/?sok=&pz=1), sieltä ääntöohjeet antaa SO.
 
 ### Quizlet - flashcardsit
 
