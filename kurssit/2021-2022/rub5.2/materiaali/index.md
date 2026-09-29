@@ -4,11 +4,11 @@ title: Materiaali
 course: rub5.2
 published: true
 ---
-[Päättöpäivän ohjeet](/media/rub5/Arviointipäivän_ohjeet_RUB5.pdf)
+[Päättöpäivän ohjeet](/media/rub5/Arviointipäivän_ohjeet_RUB5.pdf)
 
 ## Tekstien fraasit - tarkistus
 
--[Text 2 fraasien tarkistus](/media/rub5/Text2_fraser.pdf)
+-[Text 2 fraasien tarkistus](/media/rub5/Text%202_fraser.pdf)
 
 -[Text 3 fraasien tarkistus](/media/rub5/Text3_fraasit.pdf)
 

@@ -36,13 +36,13 @@ published: true
 
 **[Text 2 harjoitussanakokeen vastaukset](/media/rub1/Text 2_harjoitussanis.pdf)**
 
-**[Hälsa och välbefinnande harjoitussanakokeen vastaukset](/media/rub2/Terveys_harjoitussanis.pdf)**
+**[Hälsa och välbefinnande harjoitussanakokeen vastaukset](/media/rub2/Terveysteema_harjoitussanis.pdf)**
 
 **[Tema-skola harjoitussanakokeen vastaukset](/media/rub2/Skola_harjoitussanis.pdf)**
 
 **[Substantiivin taivutusmoniste tarkistus](/media/rub1/Substantiivi_taivutus_tarkistus.pdf)**
 
-**[Substantiivin taivutustaulukko_tarkistus](/media/rub1/Substantiivit.pdf)**
+**[Substantiivin taivutustaulukko_tarkistus](/media/rub1/substantiivit.pdf)**
 
 **[Sin, sitt, sina - lisäharjoitus](/media/rub2/sinsittsina.pdf)**
 

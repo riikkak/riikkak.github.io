@@ -33,7 +33,7 @@ course: rub11.2
 
 [Fritid teemasanasto - flashcards](https://quizlet.com/_3poztd)
 
-[Skola teemasanasto - flashcards](://quizlet.com/_3pp0st)
+[Skola teemasanasto - flashcards](https://quizlet.com/_3pp0st)
 
 ## Kolmas kotikirjoitelma - När Sigurd flyttade hemifrån
 
