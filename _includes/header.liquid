@@ -4,7 +4,7 @@
             {% if page.course %}
             {% include course-description.liquid courses=page_courses %}
             <div class="owl">
-                <a href="/"><img src="/img/owl-{{theme}}.png" alt="" height="88" width="90" /></a>
+                <a href="/"><img src="/img/owl-{{ include.theme }}.png" alt="" height="88" width="90" /></a>
             </div>
             {% else %}
             <div class="author">
