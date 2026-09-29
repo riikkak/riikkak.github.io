@@ -4,7 +4,7 @@ title: Materiaali
 course: rub7.5
 published: true
 ---
-[Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus7/)
+Otavan äänitiedostot
 
 ### Text 3 itsenäiset tehtävät
 

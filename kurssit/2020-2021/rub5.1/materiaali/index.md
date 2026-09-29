@@ -14,7 +14,7 @@ published: true
 
 -[Text 4 fraasien tarkistus](/media/rub5/Text4_fraser.pdf)
 
-**[OTAVAN ÄÄNITIEDOSTO](http://tiedostot.otava.fi/aanet/fokus5/)**
+**OTAVAN ÄÄNITIEDOSTO**
 
 Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuuntele teksti kotona ja suomenna. Pyydä muistiinpanot kavereilta. Voit tehdä halutessasi myös äänitiedoston muita harjoituksia kuullunymmärtämisen treenamiseksi.
 

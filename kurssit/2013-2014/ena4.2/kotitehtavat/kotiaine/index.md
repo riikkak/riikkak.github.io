@@ -68,7 +68,7 @@ course: ena4.2
 
 <h3 id="first-task">First task</h3>
 
-<p>Watch the BBC documentary <a href="http://www.youtube.com/watch?v=KaBnmSyNxHE">“Secret lives”</a>.  You can start watching from where we left off (about 19:00). When watching, answer the following questions:</p>
+<p>Watch the BBC documentary <a href="https://www.youtube.com/watch?v=KaBnmSyNxHE">“Secret lives”</a>.  You can start watching from where we left off (about 19:00). When watching, answer the following questions:</p>
 
 <ol>
 <li> How are the church services of this community organized?</li>

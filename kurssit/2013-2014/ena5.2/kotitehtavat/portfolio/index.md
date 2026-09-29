@@ -84,10 +84,10 @@ tulee ensisijaisesti keskittyä tekstin rakenteeseen ja sisältöön. Vaikka osa
 houkuttavat kirjoittamaan puhekielisen puheen, älä sorru siihen loukkuun, vaan kirjoita asiallinen teksti, ja
 käytä mahdollisimman monipuolista, oman tasosi mukaista sanavarastoa. Vältä kuitenkin sanakirjan käyttöä! Jos on pakko
 tturvautua, käytä kirjan sanastoa. Suunnittele  puheesi tarkasti, ennen kirjoittamista. Aloita tutustumalla ohjeisiin
-<a href="http://www.write-out-loud.com/howtowritespeech.html">&quot;kuinka kirjoittaa puhe&quot;</a>.Apua aloitukseen, lopetukseen ja
+<a href="https://www.write-out-loud.com/howtowritespeech.html">&quot;kuinka kirjoittaa puhe&quot;</a>.Apua aloitukseen, lopetukseen ja
 siirtymiin saat myös kirjan s. 131-132.</p>
 
-<p>Käy tutustumassa sitten <a href="http://www.ismckenzie.com/4-basic-types-of-speeches/">neljään puhetyyppiin</a> ja valitse sen
+<p>Käy tutustumassa sitten neljään puhetyyppiin ja valitse sen
 jälkeen puuheellesi aihe alla olevasta listasta:</p>
 
 <ol>

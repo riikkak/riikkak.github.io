@@ -5,7 +5,7 @@ theme: swedish
 course: rub7.2
 published: true
 ---
-[Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus7/)
+Otavan äänitiedostot
 
 ### Text 3 itsenäiset tehtävät
 

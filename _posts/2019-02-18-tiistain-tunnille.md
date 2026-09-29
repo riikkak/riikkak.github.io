@@ -8,4 +8,4 @@ tags: rub2.4 läksyt
 
 2. Plussatehtävänä käännöslauseet t. 5d s. 52
 
-Muista täyttää myös tekstin 3 fraasit työvihkoon ennen torstaita! Sanakoe niistä torstain tunnilla. Tarkista ne [Materiaalit](http://riikka.koskenranta.fi/kurssit/2018-2019/rub2.4/kotitehtavat/materiaali/)-kohdasta.
+Muista täyttää myös tekstin 3 fraasit työvihkoon ennen torstaita! Sanakoe niistä torstain tunnilla. Tarkista ne [Materiaalit](/kurssit/2018-2019/rub2.4/kotitehtavat/materiaali/)-kohdasta.

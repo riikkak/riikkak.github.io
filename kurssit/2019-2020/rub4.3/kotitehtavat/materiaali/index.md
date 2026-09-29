@@ -5,7 +5,7 @@ theme: swedish
 course: rub4.3
 published: true
 ---
-[Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus4/)
+Otavan äänitiedostot
 
 ### Tekstien fraasit Quizletteina
 

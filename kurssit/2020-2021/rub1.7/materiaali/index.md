@@ -8,7 +8,7 @@ published: true
  [Arviointipäivään kertausohjeet](/media/rub1/Kertausohjeet.pdf)
 
 ### OBS!
- [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus1/)
+ Otavan äänitiedostot
  
 ## [Suullisten tehtävien ohjeet](/media/rub5/Suullisen_ohjeet.pdf)
 

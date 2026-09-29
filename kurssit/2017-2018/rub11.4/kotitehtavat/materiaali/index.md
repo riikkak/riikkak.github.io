@@ -6,7 +6,7 @@ course: rub11.4
 ---
 
 ### OBS!
- [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus1/)
+ Otavan äänitiedostot
 
 ## Tekstien fraasit
 

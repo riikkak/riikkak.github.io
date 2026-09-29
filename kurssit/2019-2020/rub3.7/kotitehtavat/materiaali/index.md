@@ -6,7 +6,7 @@ course: rub3.7
 published: true
 ---
 
-[Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus3/)
+Otavan äänitiedostot
 
 ### Tekstien fraasit Quizletteina
 
