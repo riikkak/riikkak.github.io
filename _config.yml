@@ -20,10 +20,6 @@ defaults:
     values:
       layout: none
   - scope:
-      path: ""
-    values:
-      period: 2
-  - scope:
       path: "kurssit/2013-2014"
     values:
       semester: "2013-2014"

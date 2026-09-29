@@ -5,7 +5,7 @@ redirect_from: /kurssit/
 ---
 
 {% assign course_db=site.data.courses_2026-2027 %}
-{% assign cur_period=page.period %}
+{% assign cur_period=site.data.asetukset.period %}
 {% assign ena_count = 0 %}
 {% assign rub_count = 0 %}
 {% for course in course_db %}
