@@ -32,8 +32,8 @@ body > .content-wrapper {
     .make-row();
 
     .author, .course {
-      .make-column(10);
-      .make-small-column(10);
+      .make-xs-column(10);
+      .make-sm-column(10);
 
       h1 {
         font-size: 42px;
@@ -55,8 +55,8 @@ body > .content-wrapper {
     }
 
     .owl {
-      .make-column(2);
-      .make-small-column(2);
+      .make-xs-column(2);
+      .make-sm-column(2);
 
       img {
         .pull-right();
@@ -65,7 +65,7 @@ body > .content-wrapper {
   }
 }
 
-@media (orientation:portrait) and (max-width: @screen-tablet) {
+@media (orientation:portrait) and (max-width: @screen-sm-min) {
   .header .wrapper {
     .author, .course {
       .desc {
@@ -75,7 +75,7 @@ body > .content-wrapper {
   }
 }
 
-@media (max-width: @screen-phone-max) {
+@media (max-width: @screen-xs-max) {
   .header .wrapper {
     .author, .course {
       .desc {
@@ -86,6 +86,53 @@ body > .content-wrapper {
 }
 
 //
+// Navbar
+// --------------------------------------------------
+
+// Bootstrap 3.4 gives the static navbar a 1px bottom border; the RC had none.
+.navbar-static-top {
+  border-width: 0;
+}
+
+// As in the RC: the brand is centred on phones and keeps a 5px gap before
+// the menu on wider screens.
+@media (max-width: @grid-float-breakpoint-max) {
+  .navbar-brand {
+    float: none;
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  // The expanded phone menu: taller items with rounded highlights and no
+  // divider line, as in the RC.
+  .navbar-collapse {
+    border-top: 0;
+    box-shadow: none;
+  }
+  .navbar-nav {
+    margin: 10px 0 15px;
+  }
+  .navbar-nav > li > a {
+    padding: 15px;
+    border-radius: @border-radius-base;
+  }
+}
+
+@media (min-width: @grid-float-breakpoint) {
+  .navbar-brand {
+    margin-right: 5px;
+  }
+}
+
+// Bootstrap 3.4 doubles the border under table headers; keep the RC's 1px.
+.table > thead > tr > th,
+.table-bordered > thead > tr > th {
+  border-bottom-width: 1px;
+}
+
+//
 // Content
 // --------------------------------------------------
 
@@ -93,8 +140,8 @@ body > .content-wrapper {
   .make-row();
 
   .main-header {
-    .make-column(12);
-    .make-small-column(12);
+    .make-xs-column(12);
+    .make-sm-column(12);
 
     h1 {
       margin: 0 0 10px;
@@ -107,8 +154,8 @@ body > .content-wrapper {
   .make-row();
 
   .main-content {
-    .make-column(12);
-    .make-small-column(12);
+    .make-xs-column(12);
+    .make-sm-column(12);
 
     table {
       background-color: @white;
@@ -116,8 +163,8 @@ body > .content-wrapper {
   }
 
   .info-content {
-    .make-column(9);
-    .make-small-column(12);
+    .make-xs-column(12);
+    .make-sm-column(9);
 
     h2:first-child {
       margin-top: 0;
@@ -125,14 +172,14 @@ body > .content-wrapper {
   }
 
   .sidebar {
-    .make-column(3);
-    .make-small-column(12);
+    .make-xs-column(12);
+    .make-sm-column(3);
   }
 
   .posts {
     margin-top: -20px;
-    .make-column(8);
-    .make-small-column(12);
+    .make-xs-column(12);
+    .make-sm-column(8);
   }
 }
 
@@ -215,13 +262,13 @@ body > .content-wrapper {
     .footer-text {
       padding-top: 30px;
       margin: 0;
-      .make-column(12);
-      .make-small-column(12);
+      .make-xs-column(12);
+      .make-sm-column(12);
     }
   }
 }
 
-@media (max-width: @screen-phone-max) {
+@media (max-width: @screen-xs-max) {
   .site-footer .wrapper .footer-text {
     padding-top: 10px;
   }
@@ -230,9 +277,6 @@ body > .content-wrapper {
 //
 // Helpers
 // --------------------------------------------------
-
-@screen-tiny-max: (@screen-small - 1);
-@screen-phone-max: @screen-tiny-max;
 
 .top-buffer() {
   padding-top: 20px;

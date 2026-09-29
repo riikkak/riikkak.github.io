@@ -1,4 +1,4 @@
-<nav class="navbar navbar-static-top" role="navigation">
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
     <div class="container">
         <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".course-navbar-collapse">
             <span class="sr-only">Vaihda navigaatio</span>
@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/kurssit/{{ page.semester }}/{{ page.course }}/">{{page.course | upcase}}</a>
-        <div class="nav-collapse collapse course-navbar-collapse">
+        <div class="navbar-collapse collapse course-navbar-collapse">
             {% assign selNav = page.title %}
             <ul class="nav navbar-nav">
             {% for courses in include.navItems %}
