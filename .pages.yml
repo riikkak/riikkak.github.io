@@ -37,30 +37,12 @@ content:
         options:
           values:
             # kurssit:start (updated automatically for the current Jakso by .github/workflows/pages-cms-courses.yml)
-            - name: "ena01-02.8 läksyt"
-              label: ENA01-02.8
             - name: "rub11-12.3 läksyt"
               label: RUB11-12.3
-            - name: "rub11-12.9 läksyt"
-              label: RUB11-12.9
-            - name: "rub112.4 läksyt"
-              label: RUB112.4
             - name: "rub13.3 läksyt"
               label: RUB13.3
-            - name: "rub13.5 läksyt"
-              label: RUB13.5
-            - name: "rub14.8 läksyt"
-              label: RUB14.8
-            - name: "rub14.9 läksyt"
-              label: RUB14.9
-            - name: "rub15.9 läksyt"
-              label: RUB15.9
-            - name: "rub16.4 läksyt"
-              label: RUB16.4
             - name: "rub17.1 läksyt"
               label: RUB17.1
-            - name: "rub17.4 läksyt"
-              label: RUB17.4
             # kurssit:end
       - name: published
         label: Julkaistu
