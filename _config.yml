@@ -105,7 +105,6 @@ exclude:
   - CLAUDE.md
   - TODO.md
   - CNAME
-  - Gruntfile.js
   - package.json
   - package-lock.json
   - less
