@@ -6,7 +6,7 @@ Jekyll site for Riikka Koskenranta's blog and high school course pages (English 
 
 ## Commands
 
-- `bundle exec jekyll build`: build into `_site/` (~20 s). There are no tests, so a clean build is the check. Ruby comes from `.tool-versions` via asdf. Don't use Docker.
+- `bundle exec jekyll build`: build into `_site/` (~20 s). There are no tests, so a clean build is the check. Ruby and Node come from `.tool-versions` via asdf. Don't use Docker.
 - `bundle exec jekyll serve --watch`: local server on :4000.
 - `npm run build:css`: compile `less/{blog,english,swedish}/main.less` with `lessc`, then minify with `cleancss`, into `themes/<theme>/css/styles.css` and `styles.min.css`. GitHub Pages doesn't build CSS, so commit the compiled CSS with any Less change. `npm run build:css:swedish` (or `:blog`, `:english`) builds one theme. Each `main.less` imports Bootstrap 3 from `less/bootstrap`, then the theme's `variables.less`, which overrides Bootstrap's variables because the last definition of a Less variable wins.
 - `ruby .github/scripts/pages-cms-courses.rb`: regenerate the Läksyt course dropdown in `.pages.yml` (CI normally does this).
