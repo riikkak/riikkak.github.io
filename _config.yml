@@ -1,4 +1,5 @@
 title: Riikka Koskenrannan sivut
+description: "Riikka Koskenrannan (REK) opettamat kurssit Kastellin lukiossa. Kurssimateriaalit ja -aikataulut."
 markdown: kramdown
 plugins:
   - jekyll-redirect-from

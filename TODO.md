@@ -23,7 +23,7 @@ Tick the ones that have been done to mark progress.
 - [x] Merge the 14 near-identical `defaults` blocks in `_config.yml` by working out `archived` from `page.semester != site.semester`. Fits well with the item above. ~30 min
 - [x] Add trailing slashes to the course-root links in `_includes/navigation.liquid:9,26`, so each click skips a redirect. ~5 min
 - [x] Add a `404.html` page instead of GitHub's generic one. Use the blog theme. ~15 min
-- [ ] Write a real `<meta name="description">` in `_includes/head.liquid` => "Riikka Koskenrannan (REK) opettamat kurssit Kastellin lukiossa. Kurssimateriaalit ja -aikataulut.". ~10 min
+- [x] Write a real `<meta name="description">` in `_includes/head.liquid` => "Riikka Koskenrannan (REK) opettamat kurssit Kastellin lukiossa. Kurssimateriaalit ja -aikataulut.". ~10 min
 - [ ] `_includes/header.liquid:7` uses `{{theme}}`, which leaks from `theme-selector.liquid` via `head.liquid`. It works but is fragile; assign it explicitly. ~10 min
 - [ ] Stop generating `redirects.json` (`redirect_from: { json: false }` in `_config.yml`). ~2 min
 
