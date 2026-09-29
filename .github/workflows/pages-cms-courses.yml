@@ -43,5 +43,18 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .pages.yml
           git commit -m "Update Pages CMS course list for current period"
-          git pull --rebase origin master
-          git push origin HEAD:master
+          # A CMS save can land between the pull and the push; if so, pull
+          # again and retry. A failed rebase is a real conflict, so stop.
+          for attempt in 1 2 3 4 5; do
+            if ! git pull --rebase origin master; then
+              git rebase --abort || true
+              echo "::error::Rebasing onto master failed"
+              exit 1
+            fi
+            if git push origin HEAD:master; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt of 5), retrying"
+            sleep $((attempt * 5))
+          done
+          exit 1
