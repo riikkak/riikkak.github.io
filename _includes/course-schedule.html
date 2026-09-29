@@ -1,5 +1,5 @@
 {% assign columns = 4 %}
-<table class="table table-bordered table-striped">
+<table class="table table-bordered table-striped schedule">
     <thead>
     <tr>
         <th>Pvm</th>
@@ -36,16 +36,16 @@
     <tr itemscope itemtype="https://schema.org/Event">
         {% unless event.alert %}
         <td class="hidden" itemprop="superEvent">{{ page.course | upcase }}</td>
-        <td{% if event_date != "" %} itemprop="startDate" content="{{ event_date }}"{% endif %}>{{ event.date }}</td>
-        <td itemprop="name">{{ event.title }}</td>
+        <td class="schedule-date"{% if event_date != "" %} itemprop="startDate" content="{{ event_date }}"{% endif %}>{{ event.date }}</td>
+        <td data-label="Tunnin aihe" itemprop="name">{{ event.title }}</td>
         {% unless include.no_grammar %}
-        <td>{{ event.grammar }}</td>
+        <td data-label="Kielioppi">{{ event.grammar }}</td>
         {% endunless %}
         {% if include.prework %}
-        <td>{{ event.prework }}</td>
+        <td data-label="Etukäteistehtävä">{{ event.prework }}</td>
         {% endif %}
-        <td>{{ event.digi }}</td>
-        <td itemprop="description">{{ event.other }}</td>
+        <td data-label="Digitehtävät">{{ event.digi }}</td>
+        <td data-label="Muuta" itemprop="description">{{ event.other }}</td>
         {% else %}
         <td colspan="{{ columns }}" style="text-align: center">
             {{ event.alert }}

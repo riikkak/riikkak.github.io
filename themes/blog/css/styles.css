@@ -7066,6 +7066,45 @@ body > .content-wrapper {
     margin-bottom: 0;
   }
 }
+@media (max-width: 767px) {
+  .table.schedule > thead {
+    display: none;
+  }
+  .table.schedule,
+  .table.schedule > tbody,
+  .table.schedule > tbody > tr,
+  .table.schedule > tbody > tr > td {
+    display: block;
+  }
+  .table.schedule > tbody > tr {
+    padding: 6px 0;
+  }
+  .table.schedule > tbody > tr + tr {
+    border-top: 1px solid #ddd;
+  }
+  .table.schedule > tbody > tr > td {
+    border: 0;
+    padding: 2px 8px;
+    word-wrap: break-word;
+  }
+  .table.schedule > tbody > tr > td:empty {
+    display: none;
+  }
+  .table.schedule > tbody > tr > .schedule-date {
+    font-weight: bold;
+  }
+  .table.schedule > tbody > tr > td[data-label] {
+    padding-left: calc(8.5em + 8px);
+  }
+  .table.schedule > tbody > tr > td[data-label]::before {
+    content: attr(data-label);
+    display: inline-block;
+    width: 8.5em;
+    margin-left: -8.5em;
+    padding-right: 8px;
+    color: #555555;
+  }
+}
 .post .title {
   font-size: 25px;
 }

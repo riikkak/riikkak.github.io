@@ -231,6 +231,68 @@ body > .content-wrapper {
 }
 
 //
+// Course schedule
+// --------------------------------------------------
+
+// Phones can't fit the schedule's five or six columns, so there each lesson
+// is a block: the date on top, then every filled-in cell with its column
+// name (data-label) hanging in the left padding. The label is an inline
+// block rather than a flex item because cells may contain inline HTML.
+@schedule-label-width: 8.5em; // includes the 8px gap before the value
+
+@media (max-width: @screen-xs-max) {
+  .table.schedule {
+    > thead {
+      display: none;
+    }
+
+    &,
+    > tbody,
+    > tbody > tr,
+    > tbody > tr > td {
+      display: block;
+    }
+
+    > tbody > tr {
+      padding: 6px 0;
+    }
+
+    > tbody > tr + tr {
+      border-top: 1px solid @table-border-color;
+    }
+
+    // A word longer than the value column, like SJÄLVSTÄNDIGHETSDAGEN on
+    // a 320px phone, breaks instead of widening the page.
+    > tbody > tr > td {
+      border: 0;
+      padding: 2px 8px;
+      word-wrap: break-word;
+    }
+
+    > tbody > tr > td:empty {
+      display: none;
+    }
+
+    > tbody > tr > .schedule-date {
+      font-weight: bold;
+    }
+
+    > tbody > tr > td[data-label] {
+      padding-left: calc(@schedule-label-width + 8px);
+    }
+
+    > tbody > tr > td[data-label]::before {
+      content: attr(data-label);
+      display: inline-block;
+      width: @schedule-label-width;
+      margin-left: -@schedule-label-width;
+      padding-right: 8px;
+      color: @gray;
+    }
+  }
+}
+
+//
 // Post
 // --------------------------------------------------
 
