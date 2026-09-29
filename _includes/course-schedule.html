@@ -20,24 +20,23 @@
     {% for event in include.data %}
       {% assign event_date = "" %}
       {% unless event.alert or event.date contains "?" %}
-        {% assign date_array = event.date | split: " " %}
-        {% if date_array %}
-          {% assign date_array = date_array | last | split: "." %}
-          {% assign event_day = date_array | first %}
-          {% assign event_month = date_array | last | plus: 0 %}
+        {% assign date_array = event.date | split: " " | last | split: "." %}
+        {% assign event_day = date_array | first | plus: 0 %}
+        {% assign event_month = date_array | last | plus: 0 %}
+        {% if date_array.size >= 2 and event_day >= 1 and event_month >= 1 and event_month <= 12 %}
           {% assign years = page.semester | split: "-" %}
           {% if event_month >= 7 %}
             {% assign event_year = years | first %}
           {% else %}
-            {% assign event_year = years | last %}
+            {% assign event_year = years | last %}
           {% endif %}
           {% assign event_date = event_day | append:"-" | append:event_month | append:"-" | append:event_year | date:"%F" %}
         {% endif %}
       {% endunless %}
-    <tr itemscope itemtype="http://schema.org/Event">
+    <tr itemscope itemtype="https://schema.org/Event">
         {% unless event.alert %}
         <td class="hidden" itemprop="superEvent">{{ page.course | upcase }}</td>
-        <td itemprop="startDate" content="{{ event_date }}">{{ event.date }}</td>
+        <td{% if event_date != "" %} itemprop="startDate" content="{{ event_date }}"{% endif %}>{{ event.date }}</td>
         <td itemprop="name">{{ event.title }}</td>
         {% unless include.no_grammar %}
         <td>{{ event.grammar }}</td>
