@@ -11,3 +11,8 @@ node_modules
 libpeerconnection.log
 Gemfile.lock
 .jekyll-metadata
+
+# Claude Code (local-only files)
+.claude/worktrees/
+.claude/settings.local.json
+CLAUDE.local.md
