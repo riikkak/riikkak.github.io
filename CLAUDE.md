@@ -1,0 +1,48 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+Jekyll site for Riikka Koskenranta's blog and high school course pages (English `ena*`, Swedish `rub*`), served by GitHub Pages from `master` at riikka.koskenranta.fi. Content and UI text are in Finnish.
+
+## Commands
+
+- `bundle exec jekyll build`: build into `_site/` (~20 s). There are no tests, so a clean build is the check. Ruby comes from `.tool-versions` via asdf. Don't use Docker.
+- `bundle exec jekyll serve --watch`: local server on :4000.
+- `npx grunt dist-css`: compile `less/{blog,english,swedish}/main.less` (plus Bootstrap 3 from `less/bootstrap`) into `themes/<theme>/css/styles.css` and `styles.min.css`. GitHub Pages doesn't run Grunt, so commit the compiled CSS with any Less change. `npx grunt build-swedish` (or `build-blog`, `build-english`) builds one theme. `npx grunt serve` watches the Less files and runs `jekyll serve`.
+- `ruby .github/scripts/pages-cms-courses.rb`: regenerate the Läksyt course dropdown in `.pages.yml` (CI normally does this).
+
+`_config.yml` has `safe: true` because GitHub Pages builds it with the `github-pages` gem. Only whitelisted plugins work, and `jekyll-redirect-from` is the only one used.
+
+## Architecture
+
+Everything is keyed by **semester** (`YYYY-YYYY`, e.g. `2026-2027`) and **course name** (lowercase, e.g. `rub11-12.3`). The school year is split into teaching periods ("jakso", 1–5).
+
+- `_config.yml`: `semester` is the current one. `defaults` give each `kurssit/<semester>/` path a `semester` value and `current`/`archived` flags. Templates only read `archived`: `archived: true` swaps the nav's "Kurssit" dropdown for a link to the archive. The `prose:` block and `api/*.jsonp` belong to the old Prose.io editor.
+- `_data/asetukset.yml`: `period`, the current teaching period. The front page and the course nav read it to show which courses are running.
+- `_data/courses_<semester>.yml`: course list with `name`, `code` (scalar or list) and `period` (scalar or list; the Liquid and the Ruby script handle both). Names containing `ena` go under English and names containing `rub` under Swedish.
+- `_data/navigation_<semester>.yml`: per-course nav pages. The first page links to the course root.
+- `_data/schedule_<semester>_<course>.yml`: rows for the Aikataulu table. The dot in the course name becomes `_` (`rub11-12.3` → `schedule_2026-2027_rub11-12_3.yml`). Fields: `date` ("ti 6.10."), `title`, `grammar`, `digi`, `other`, optional `prework`, or `alert` for a full-width row. `course-schedule.html` parses `date` into a schema.org date, using the semester's first year for July–December and the second for January–June.
+- `kurssit/<semester>/<course>/`: `index.html` (the schedule, via `{% include course-schedule.html data=site.data.schedule_... %}`), `laksyt/`, `materiaali/`, `kurssi-info/`. Each page sets `course:` in front matter, and that value must match `name` in the courses file.
+- `_includes/head.liquid` → `course-variables.liquid`: for pages with `page.course`, a hardcoded `case` on `page.semester` sets `page_nav` and `page_courses`, which the header and navigation use.
+- `_posts/`: homework and blog posts. The current semester's posts go in `_posts/<semester>/` (the folder Pages CMS writes to). Older posts stay in the `_posts/` root. Posts use `layout: none` and never render as standalone pages; they only appear through includes. Tags decide where a post shows: `"<course> läksyt"` → that course's Läksyt page (`posts-homework.html`), `etusivu` → course front page, but only in older semesters whose index includes `posts-frontpage.html`, `blogi` → `/blogi/`. Homework pages filter posts by date (July–June of the page's semester), not by folder.
+- Theme: `_includes/theme-selector.liquid` picks the `blog`, `english` or `swedish` stylesheet from `page.theme`, or from `page.tags` (`ena` → english, `rub` → swedish). The default is `blog`.
+- `index.html` is the course front page, sorted into current, past and upcoming by period. `kurssit/arkisto/index.html` lists past semesters. Both hardcode semester data keys.
+
+## Editing via Pages CMS
+
+The owner edits content at app.pagescms.org, configured by `.pages.yml`. Each CMS save is a commit to `master`. Labels are Finnish: Läksyt = homework, Aikataulu = schedule, Materiaali = material, Jakso = teaching period, Asetukset = settings. The Kurssi options between the `# kurssit:start` and `# kurssit:end` markers in `.pages.yml` are generated, so don't hand-edit them.
+
+GitHub Actions push bot commits to `master`:
+- `pages-cms-courses.yml` reruns the course script when `_config.yml`, `_data/asetukset.yml` or `_data/courses_*.yml` change.
+- `normalize-line-endings.yml` re-commits files as LF when CRLF gets in, because the web editors ignore `.gitattributes`.
+
+After pushing, pull before further work because a bot commit may have landed. Files must use LF line endings.
+
+## Adding a new semester
+
+Commit `c82b495e` ("Add 2026-2027 semester") is the reference. The steps:
+1. Add `_data/courses_<new>.yml`, `_data/navigation_<new>.yml` and an empty `_data/schedule_<new>_<course>.yml` for each course.
+2. Create `kurssit/<new>/<course>/` pages. Copy them from the previous semester and change `course:` and the schedule data key.
+3. In `_config.yml`, set `semester`, set the previous semester's defaults to `current: false, archived: true`, add a defaults entry for the new path, and update the `prose` tag options.
+4. Add a `when "<new>"` branch in `_includes/course-variables.liquid`, point `index.html` at `courses_<new>`, and add a section at the top of `kurssit/arkisto/index.html` for the previous semester.
+5. Follow the Pages CMS steps in README.md ("New semester"): Läksyt `path` → `_posts/<new>` with a `.gitkeep`, rebuild the course groups, and set `period: 1` in `_data/asetukset.yml`.
