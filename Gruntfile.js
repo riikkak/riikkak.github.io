@@ -1,18 +1,5 @@
 module.exports = function(grunt) {
   grunt.initConfig({
-    bower: {
-      install: {
-        options: {
-          targetDir: './dist',
-          layout: function(type, component) {
-            return type;
-          },
-          install: true,
-          verbose: false,
-          cleanup: true
-        }
-      }
-    },
     copy: {
       bootstrap: {
         files: [
@@ -139,7 +126,6 @@ module.exports = function(grunt) {
       }
     }
   });
-  grunt.loadNpmTasks('grunt-bower-task');
   grunt.loadNpmTasks('grunt-concurrent');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-copy');
