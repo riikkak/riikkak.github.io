@@ -32,7 +32,7 @@ body > .content-wrapper {
     .make-row();
 
     .author, .course {
-      .make-xs-column(12);
+      .make-xs-column(10);
       .make-sm-column(10);
 
       h1 {
@@ -55,6 +55,7 @@ body > .content-wrapper {
     }
 
     .owl {
+      .make-xs-column(2);
       .make-sm-column(2);
 
       img {
@@ -82,8 +83,13 @@ body > .content-wrapper {
       }
     }
 
-    // On phones the owl is wider than its column and covers the title.
-    .owl {
+    // "Riikka Koskenranta" runs under the owl on phones, so the front page
+    // and blog header drop it and give the title the whole row. The title
+    // links home, as the owl does. Course names are short and keep the owl.
+    .author {
+      width: 100%;
+    }
+    .author + .owl {
       display: none;
     }
   }
