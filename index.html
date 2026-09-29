@@ -42,22 +42,23 @@ redirect_from: /kurssit/
                     <div class="panel-heading">
                         <h2 class="panel-title">Englanti ({{ena_count}} kurssia)</h2>
                     </div>
+                    <div class="panel-body">
+                        {% if cur_english %}
+                        {% include course-list.liquid db=course_db time="current" name="ena" period=cur_period year=site.semester %}
+                        {% endif %}
 
-                    {% if cur_english %}
-                    {% include course-list.liquid db=course_db time="current" name="ena" period=cur_period year=site.semester %}
-                    {% endif %}
+                        {% if past_english %}
+                        {% include course-list.liquid db=course_db time="past" name="ena" period=cur_period year=site.semester %}
+                        {% endif %}
 
-                    {% if past_english %}
-                    {% include course-list.liquid db=course_db time="past" name="ena" period=cur_period year=site.semester %}
-                    {% endif %}
+                        {% if future_english %}
+                        {% include course-list.liquid db=course_db time="future" name="ena" period=cur_period year=site.semester %}
+                        {% endif %}
 
-                    {% if future_english %}
-                    {% include course-list.liquid db=course_db time="future" name="ena" period=cur_period year=site.semester %}
-                    {% endif %}
-
-                    {% if ena_count == 0 %}
-                        Ei kursseja tänä lukuvuonna.
-                    {% endif %}
+                        {% if ena_count == 0 %}
+                            Ei kursseja tänä lukuvuonna.
+                        {% endif %}
+                    </div>
                 </div>
             </div>
             <div class="language-wrapper">
@@ -65,21 +66,23 @@ redirect_from: /kurssit/
                     <div class="panel-heading">
                         <h2 class="panel-title">Ruotsi ({{rub_count}} kurssia)</h2>
                     </div>
-                    {% if cur_swedish %}
-                    {% include course-list.liquid db=course_db time="current" name="rub" period=cur_period year=site.semester %}
-                    {% endif %}
+                    <div class="panel-body">
+                        {% if cur_swedish %}
+                        {% include course-list.liquid db=course_db time="current" name="rub" period=cur_period year=site.semester %}
+                        {% endif %}
 
-                    {% if past_swedish %}
-                    {% include course-list.liquid db=course_db time="past" name="rub" period=cur_period year=site.semester %}
-                    {% endif %}
+                        {% if past_swedish %}
+                        {% include course-list.liquid db=course_db time="past" name="rub" period=cur_period year=site.semester %}
+                        {% endif %}
 
-                    {% if future_swedish %}
-                    {% include course-list.liquid db=course_db time="future" name="rub" period=cur_period year=site.semester %}
-                    {% endif %}
+                        {% if future_swedish %}
+                        {% include course-list.liquid db=course_db time="future" name="rub" period=cur_period year=site.semester %}
+                        {% endif %}
 
-                    {% if rub_count == 0 %}
-                    Ei kursseja tänä lukuvuonna.
-                    {% endif %}
+                        {% if rub_count == 0 %}
+                        Ei kursseja tänä lukuvuonna.
+                        {% endif %}
+                    </div>
                 </div>
             </div>
         </div>

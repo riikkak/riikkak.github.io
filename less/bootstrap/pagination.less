@@ -6,23 +6,33 @@
   padding-left: 0;
   margin: @line-height-computed 0;
   border-radius: @border-radius-base;
-  
+
   > li {
     display: inline; // Remove list-style and block-level defaults
     > a,
     > span {
+      position: relative;
       float: left; // Collapse white-space
-      padding: 4px 12px;
+      padding: @padding-base-vertical @padding-base-horizontal;
+      margin-left: -1px;
       line-height: @line-height-base;
+      color: @pagination-color;
       text-decoration: none;
       background-color: @pagination-bg;
       border: 1px solid @pagination-border;
-      border-left-width: 0;
+
+      &:hover,
+      &:focus {
+        z-index: 2;
+        color: @pagination-hover-color;
+        background-color: @pagination-hover-bg;
+        border-color: @pagination-hover-border;
+      }
     }
     &:first-child {
       > a,
       > span {
-        border-left-width: 1px;
+        margin-left: 0;
         .border-left-radius(@border-radius-base);
       }
     }
@@ -33,27 +43,31 @@
       }
     }
   }
-  
-  > li > a:hover,
-  > li > a:focus,
+
   > .active > a,
   > .active > span {
-    background-color: @pagination-active-bg;
+    &,
+    &:hover,
+    &:focus {
+      z-index: 3;
+      color: @pagination-active-color;
+      cursor: default;
+      background-color: @pagination-active-bg;
+      border-color: @pagination-active-border;
+    }
   }
-  > .active > a,
-  > .active > span {
-    color: @pagination-active-color;
-    cursor: default;
-  }
-  
+
   > .disabled {
     > span,
+    > span:hover,
+    > span:focus,
     > a,
     > a:hover,
     > a:focus {
       color: @pagination-disabled-color;
-      background-color: @pagination-bg;
-      cursor: not-allowed;
+      cursor: @cursor-disabled;
+      background-color: @pagination-disabled-bg;
+      border-color: @pagination-disabled-border;
     }
   }
 }
@@ -62,47 +76,11 @@
 // --------------------------------------------------
 
 // Large
-.pagination-large {
-  > li {
-    > a,
-    > span {
-      padding: @padding-large-vertical @padding-large-horizontal;
-      font-size: @font-size-large;
-    }
-    &:first-child {
-      > a,
-      > span {
-        .border-left-radius(@border-radius-large);
-      }
-    }
-    &:last-child {
-      > a,
-      > span {
-        .border-right-radius(@border-radius-large);
-      }
-    }
-  }
+.pagination-lg {
+  .pagination-size(@padding-large-vertical; @padding-large-horizontal; @font-size-large; @line-height-large; @border-radius-large);
 }
 
 // Small
-.pagination-small {
-  > li {
-    > a,
-    > span {
-      padding: @padding-small-vertical @padding-small-horizontal;
-      font-size: @font-size-small;
-    }
-    &:first-child {
-      > a,
-      > span {
-        .border-left-radius(@border-radius-small);
-      }
-    }
-    &:last-child {
-      > a,
-      > span {
-        .border-right-radius(@border-radius-small);
-      }
-    }
-  }
+.pagination-sm {
+  .pagination-size(@padding-small-vertical; @padding-small-horizontal; @font-size-small; @line-height-small; @border-radius-small);
 }

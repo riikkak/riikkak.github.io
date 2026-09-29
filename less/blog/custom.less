@@ -9,13 +9,13 @@
     .make-row();
 
     .blog, .courses {
-      .make-column(6);
-      .make-small-column(12);
+      .make-xs-column(12);
+      .make-sm-column(6);
 
       a {
         .btn();
         .btn-primary();
-        .btn-large();
+        .btn-lg();
         .btn-block();
         padding: 23px 16px;
         font-size: 28px;
@@ -24,7 +24,7 @@
   }
 }
 
-@media (max-width: @screen-phone-max) {
+@media (max-width: @screen-xs-max) {
   .frontpage {
     margin-top: 50px;
     margin-bottom: 50px;
@@ -44,8 +44,8 @@
     .make-row();
 
     .courses-heading {
-      .make-column(12);
-      .make-small-column(12);
+      .make-xs-column(12);
+      .make-sm-column(12);
 
       h1 {
         margin: 20px 0;
@@ -59,8 +59,8 @@
 
     .language-wrapper {
       .top-buffer();
-      .make-column(6);
-      .make-small-column(12);
+      .make-xs-column(12);
+      .make-sm-column(6);
 
       .language {
         .panel();
@@ -68,6 +68,15 @@
 
         h3 {
           font-size: 16px;
+        }
+
+        // Title size and heading spacing as in the Bootstrap 3.0 RC, where
+        // the heading's margin collapsed into the first h3's.
+        .panel-title {
+          font-size: (@font-size-base * 1.25);
+        }
+        .panel-body > h3:first-child {
+          margin-top: 5px;
         }
       }
     }
@@ -79,8 +88,8 @@
 // --------------------------------------------------
 
 .blog-header {
-  .make-column(12);
-  .make-small-column(12);
+  .make-xs-column(12);
+  .make-sm-column(12);
 
   h1 {
     margin: 20px 0 0;
