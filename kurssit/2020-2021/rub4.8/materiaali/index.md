@@ -11,7 +11,7 @@ published: true
 **[Ohjattujen kirjoitusharjoitusten yleisohje](/media/rub3/OKH_ohje.pdf)**
 
 ### OBS!
-[Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus4/)
+Otavan äänitiedostot
 
 ### Tekstien fraasit Quizletteina
 

@@ -31,9 +31,9 @@ olisit sopivin avoinna olevaan tehtävään. Hakemus ja cv siis täydentävät t
 siitä, kuka sinä olet.
 
 Kirjasta löydät selkeät ohjeet kirjeen kirjoittamiseen sivuilta 108-109. Muotoilu on kirjeen kirjoittamisessakin tärkeää,
-ole siis sen kanssa tarkkana. Voit käydä katsomassa myös esimerkin kirjeestä, jolla haetaan [**lastenhoitajaksi**]
-(http://jobsearch.about.com/od/student-cover-letters/a/nanny-cover-letter.htm) ja kirjeestä, jolla haetaan
-[**leiriohjaajaksi**](http://jobsearch.about.com/od/student-cover-letters/a/camp-counselor-cover-letter.htm).
+ole siis sen kanssa tarkkana. Voit käydä katsomassa myös esimerkin kirjeestä, jolla haetaan **lastenhoitajaksi**
+ja kirjeestä, jolla haetaan
+**leiriohjaajaksi**.
 
 **SANASTOA**
 

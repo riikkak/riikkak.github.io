@@ -18,7 +18,7 @@ course: rub12.6
 - [Text 4 fraasit - flashcards](https://quizlet.com/_36t5tf)
 - [Text 5 fraasit - flashcards](https://quizlet.com/_38tnv0)
 
-#### [Kurssin itsearviointi](http://bit.ly/2lJAx13)
+#### [Kurssin itsearviointi](https://docs.google.com/spreadsheets/d/1AO46HC8StqGl0_4OzfxcJ4lO-rmvDAiJMff1czZvqfI/edit?usp=sharing)
 
 Aina kun olemme opiskelleet yhden kielioppikokonaisuuden, täytä itsearviointilomakkeeseen sen kielioppiasian kohdalle miten koet ymmärtäneesi ja omaksuneesi kyseisen asian. Ole rehellinen itsellesi oman osaamisesi suhteen. Merkitse vastauksesi oman kurssilla jaetun opiskelijanumerosi alle. Valitse vastausvaihtoehto kirjaimella, ohjelma muuttaa sen automaattisesti väriksi. Jos kurssin myöhemmässä vaiheessa koet aiheelliseksi muuttaa vastaustasi, voit käydä vaihtamassa sitä.
 

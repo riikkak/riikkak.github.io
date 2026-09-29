@@ -29,7 +29,7 @@ Tick the ones that have been done to mark progress.
 
 ## Content
 
-- [ ] Check old `http://` external links in content (tiedostot.otava.fi, svenska.yle.fi, daringfireball.net, …) and likely-dead domains (jobsearch.about.com, app.emended.com, otava.flinga.fi). Update to https or remove link if the url is dead. ~1 h
+- [x] Check old `http://` external links in content (tiedostot.otava.fi, svenska.yle.fi, daringfireball.net, …) and likely-dead domains (jobsearch.about.com, app.emended.com, otava.flinga.fi). Update to https or remove link if the url is dead. ~1 h
 - [ ] Shrink the largest media: three ~2 MB `media/rub5/suulliset_harjoitukset_*.jpg` and the ~4 MB PDFs (`media/rub3/Medier_suullinen.pdf`, `media/rub6/RUB6_opintokortti.pdf`, `media/rub5/Suullinen_aanto.pdf`). Git history won't get smaller. ~15 min
 - [ ] Remove 2016-2017 courses which are empty (`kurssit/2016-2017/{rub10.2,rub10.3,rub10.4,rub9.3}`). ~5 min
 

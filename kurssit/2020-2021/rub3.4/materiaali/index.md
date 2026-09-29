@@ -12,7 +12,7 @@ published: true
 [Text 3 fraasien tarkistus](/media/rub3/Text3_fraser.pdf)
 [Text 6 fraasien tarkistus](/media/rub3/Text6_fraser.pdf)
 
-## [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus3/)
+## Otavan äänitiedostot
 
 Jos olit pois tunnilta jolloin uusi teksti käydään ensimmäisen kerran, kuuntele teksti kotona ja suomenna. Pyydä muistiinpanot kavereilta. Voit tehdä halutessasi myös äänitiedoston muita harjoituksia kuullunymmärtämisen treenamiseksi.
 

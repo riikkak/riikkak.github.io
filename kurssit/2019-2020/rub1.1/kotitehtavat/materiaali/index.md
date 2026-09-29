@@ -7,7 +7,7 @@ published: true
 ---
 
 ### OBS!
- [Otavan äänitiedostot](http://tiedostot.otava.fi/aanet/fokus1/)
+ Otavan äänitiedostot
 
 ## Tekstien fraasit
 

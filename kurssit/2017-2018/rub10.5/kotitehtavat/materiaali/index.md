@@ -5,7 +5,7 @@ theme: swedish
 course: rub10.5
 ---
 
-[Tänk om: Inne eller ute?](http://sverigesradio.se/dramaforunga)
+[Tänk om: Inne eller ute?](https://www.sverigesradio.se/drama-for-unga)
 
 Kelaa sivua alaspäin ja paina "visa fler", sieltä löydät otsikon mukaisen ohjelman.
 
