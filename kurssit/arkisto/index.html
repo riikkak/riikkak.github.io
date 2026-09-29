@@ -6,85 +6,20 @@ title: Kurssit
 <div class="course-menu">
     <div class="container">
         <div class="courses">
+            {% assign current_start = site.semester | split: "-" | first | plus: 0 %}
+            {% assign last_start = current_start | minus: 1 %}
+            {% for start in (2013..last_start) reversed %}
+            {% assign year = start | plus: 1 | prepend: "-" | prepend: start %}
+            {% assign courses_key = "courses_" | append: year %}
+            {% assign course_db = site.data[courses_key] %}
             <div class="courses-heading">
-                <h1>Kurssiarkisto</h1>
-                <h2>2025-2026</h2>
+                {% if forloop.first %}<h1>Kurssiarkisto</h1>{% endif %}
+                <h2>{{ year }}</h2>
             </div>
 
-            {% include course-archive.html course_db=site.data.courses_2025-2026 year_url="2025-2026" %}
+            {% include course-archive.html course_db=course_db year_url=year %}
 
-            <div class="courses-heading">
-                <h2>2024-2025</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2024-2025 year_url="2024-2025" %}
-
-            <div class="courses-heading">
-                <h2>2023-2024</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2023-2024 year_url="2023-2024" %}
-
-            <div class="courses-heading">
-                <h2>2022-2023</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2022-2023 year_url="2022-2023" %}
-
-            <div class="courses-heading">
-                <h2>2021-2022</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2021-2022 year_url="2021-2022" %}
-
-            <div class="courses-heading">
-                <h2>2020-2021</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2020-2021 year_url="2020-2021" %}
-
-            <div class="courses-heading">
-                <h2>2019-2020</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2019-2020 year_url="2019-2020" %}
-
-            <div class="courses-heading">
-                <h2>2018-2019</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2018-2019 year_url="2018-2019" %}
-
-            <div class="courses-heading">
-                <h2>2017-2018</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2017-2018 year_url="2017-2018" %}
-
-            <div class="courses-heading">
-                <h2>2016-2017</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2016-2017 year_url="2016-2017" %}
-
-            <div class="courses-heading">
-                <h2>2015-2016</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2015-2016 year_url="2015-2016" %}
-
-            <div class="courses-heading">
-                <h2>2014-2015</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2014-2015 year_url="2014-2015" %}
-
-            <div class="courses-heading">
-                <h2>2013-2014</h2>
-            </div>
-
-            {% include course-archive.html course_db=site.data.courses_2013-2014 year_url="2013-2014" %}
-
+            {% endfor %}
         </div>
     </div>
 </div>

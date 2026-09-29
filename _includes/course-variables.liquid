@@ -1,44 +1,4 @@
-{% case page.semester %}
-  {% when "2013-2014" %}
-  {% assign page_nav = site.data.navigation_2013-2014 %}
-  {% assign page_courses = site.data.courses_2013-2014 %}
-  {% when "2014-2015" %}
-  {% assign page_nav = site.data.navigation_2014-2015 %}
-  {% assign page_courses = site.data.courses_2014-2015 %}
-  {% when "2015-2016" %}
-  {% assign page_nav = site.data.navigation_2015-2016 %}
-  {% assign page_courses = site.data.courses_2015-2016 %}
-  {% when "2016-2017" %}
-  {% assign page_nav = site.data.navigation_2016-2017 %}
-  {% assign page_courses = site.data.courses_2016-2017 %}
-  {% when "2017-2018" %}
-  {% assign page_nav = site.data.navigation_2017-2018 %}
-  {% assign page_courses = site.data.courses_2017-2018 %}
-  {% when "2018-2019" %}
-  {% assign page_nav = site.data.navigation_2018-2019 %}
-  {% assign page_courses = site.data.courses_2018-2019 %}
-  {% when "2019-2020" %}
-  {% assign page_nav = site.data.navigation_2019-2020 %}
-  {% assign page_courses = site.data.courses_2019-2020 %}
-  {% when "2020-2021" %}
-  {% assign page_nav = site.data.navigation_2020-2021 %}
-  {% assign page_courses = site.data.courses_2020-2021 %}
-  {% when "2021-2022" %}
-  {% assign page_nav = site.data.navigation_2021-2022 %}
-  {% assign page_courses = site.data.courses_2021-2022 %}
-  {% when "2022-2023" %}
-  {% assign page_nav = site.data.navigation_2022-2023 %}
-  {% assign page_courses = site.data.courses_2022-2023 %}
-  {% when "2023-2024" %}
-  {% assign page_nav = site.data.navigation_2023-2024 %}
-  {% assign page_courses = site.data.courses_2023-2024 %}
-  {% when "2024-2025" %}
-  {% assign page_nav = site.data.navigation_2024-2025 %}
-  {% assign page_courses = site.data.courses_2024-2025 %}
-  {% when "2025-2026" %}
-  {% assign page_nav = site.data.navigation_2025-2026 %}
-  {% assign page_courses = site.data.courses_2025-2026 %}
-  {% when "2026-2027" %}
-  {% assign page_nav = site.data.navigation_2026-2027 %}
-  {% assign page_courses = site.data.courses_2026-2027 %}
-{% endcase %}
+{% assign nav_key = "navigation_" | append: page.semester %}
+{% assign courses_key = "courses_" | append: page.semester %}
+{% assign page_nav = site.data[nav_key] %}
+{% assign page_courses = site.data[courses_key] %}
