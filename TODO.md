@@ -15,7 +15,7 @@ Tick the ones that have been done to mark progress.
 
 ## Ruby
 
-- [ ] Add `faraday-retry` to the `Gemfile` to silence the build-time Faraday message. GitHub Pages ignores the Gemfile, so this is safe. ~2 min
+- [x] Add `faraday-retry` to the `Gemfile` to silence the build-time Faraday message. GitHub Pages ignores the Gemfile, so this is safe. ~2 min
 
 ## Templates and maintenance
 
