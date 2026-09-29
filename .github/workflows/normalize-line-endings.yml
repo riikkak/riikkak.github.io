@@ -1,0 +1,35 @@
+# The GitHub web editor (and other browser-based editors) ignores .gitattributes
+# and can commit CRLF line endings from Windows. This re-applies the
+# .gitattributes rules (eol=lf) to master after such a push.
+name: Normalize line endings
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normalize-line-endings
+  cancel-in-progress: false
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Commit and push
+        run: |
+          git add --renormalize .
+          if git diff --cached --quiet; then
+            echo "Line endings already normalized"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Normalize line endings to LF"
+          git pull --rebase origin master
+          git push origin HEAD:master
