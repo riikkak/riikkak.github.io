@@ -14,90 +14,22 @@ defaults:
       type: "posts"
     values:
       layout: none
-  - scope:
-      path: "kurssit/2013-2014"
-    values:
-      semester: "2013-2014"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2014-2015"
-    values:
-      semester: "2014-2015"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2015-2016"
-    values:
-      semester: "2015-2016"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2016-2017"
-    values:
-      semester: "2016-2017"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2017-2018"
-    values:
-      semester: "2017-2018"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2018-2019"
-    values:
-      semester: "2018-2019"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2019-2020"
-    values:
-      semester: "2019-2020"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2020-2021"
-    values:
-      semester: "2020-2021"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2021-2022"
-    values:
-      semester: "2021-2022"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2022-2023"
-    values:
-      semester: "2022-2023"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2023-2024"
-    values:
-      semester: "2023-2024"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2024-2025"
-    values:
-      semester: "2024-2025"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2025-2026"
-    values:
-      semester: "2025-2026"
-      current: false
-      archived: true
-  - scope:
-      path: "kurssit/2026-2027"
-    values:
-      semester: "2026-2027"
-      current: true
-      archived: false
+  # Each semester folder gets its semester. Templates compare it with
+  # `semester` above to tell the current semester from archived ones.
+  - {scope: {path: "kurssit/2013-2014"}, values: {semester: "2013-2014"}}
+  - {scope: {path: "kurssit/2014-2015"}, values: {semester: "2014-2015"}}
+  - {scope: {path: "kurssit/2015-2016"}, values: {semester: "2015-2016"}}
+  - {scope: {path: "kurssit/2016-2017"}, values: {semester: "2016-2017"}}
+  - {scope: {path: "kurssit/2017-2018"}, values: {semester: "2017-2018"}}
+  - {scope: {path: "kurssit/2018-2019"}, values: {semester: "2018-2019"}}
+  - {scope: {path: "kurssit/2019-2020"}, values: {semester: "2019-2020"}}
+  - {scope: {path: "kurssit/2020-2021"}, values: {semester: "2020-2021"}}
+  - {scope: {path: "kurssit/2021-2022"}, values: {semester: "2021-2022"}}
+  - {scope: {path: "kurssit/2022-2023"}, values: {semester: "2022-2023"}}
+  - {scope: {path: "kurssit/2023-2024"}, values: {semester: "2023-2024"}}
+  - {scope: {path: "kurssit/2024-2025"}, values: {semester: "2024-2025"}}
+  - {scope: {path: "kurssit/2025-2026"}, values: {semester: "2025-2026"}}
+  - {scope: {path: "kurssit/2026-2027"}, values: {semester: "2026-2027"}}
 
 exclude:
   - README.md
