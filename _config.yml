@@ -3,6 +3,8 @@ description: "Riikka Koskenrannan (REK) opettamat kurssit Kastellin lukiossa. Ku
 markdown: kramdown
 plugins:
   - jekyll-redirect-from
+redirect_from:
+  json: false
 safe: true
 url: https://riikka.koskenranta.fi
 baseurl: ""
