@@ -25,7 +25,7 @@ Tick the ones that have been done to mark progress.
 - [x] Add a `404.html` page instead of GitHub's generic one. Use the blog theme. ~15 min
 - [x] Write a real `<meta name="description">` in `_includes/head.liquid` => "Riikka Koskenrannan (REK) opettamat kurssit Kastellin lukiossa. Kurssimateriaalit ja -aikataulut.". ~10 min
 - [x] `_includes/header.liquid:7` uses `{{theme}}`, which leaks from `theme-selector.liquid` via `head.liquid`. It works but is fragile; assign it explicitly. ~10 min
-- [ ] Stop generating `redirects.json` (`redirect_from: { json: false }` in `_config.yml`). ~2 min
+- [x] Stop generating `redirects.json` (`redirect_from: { json: false }` in `_config.yml`). ~2 min
 
 ## Content
 
