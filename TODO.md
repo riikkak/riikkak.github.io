@@ -11,7 +11,7 @@ Tick the ones that have been done to mark progress.
 - [x] Upgrade Bootstrap 3.0.0 → 3.4.1 (JS in `dist/js/`, Less in `less/bootstrap/`) and jQuery 1.11.3 → 3.7. This clears known security issues that the site doesn't trigger but scanners flag. Rebuild the CSS and check all three themes visually. ~1–2 h
 - [x] Replace Grunt with npm scripts (`lessc` + `cleancss`). Drops about 10 devDependencies and the lodash/minimatch `overrides`. Check that the output is byte-identical to the committed `themes/*/css/*.css`. ~1 h
 - [x] Pin Node in `.tool-versions` (`nodejs 24`). Optionally add `engines` to `package.json`. ~5 min
-- [ ] Bump major version of `package.json` when all changes have been made. ~5 min
+- [x] Bump major version of `package.json` when all changes have been made. ~5 min
 
 ## Ruby
 
