@@ -53,7 +53,7 @@
                 </li>
                 {% endunless %}
                 {% endfor %}
-                {% unless page.archived %}
+                {% if page.semester == site.semester %}
                 <li class="dropdown">
                     <a id="dKurssit" href="/kurssit" data-toggle="dropdown">Kurssit <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="dKurssit">
@@ -107,7 +107,7 @@
                 </li>
                 {% else %}
                 <li><a href="/kurssit/arkisto">Kurssiarkisto</a></li>
-                {% endunless %}
+                {% endif %}
                 {% endif %}
             {% endfor %}
             </ul>
