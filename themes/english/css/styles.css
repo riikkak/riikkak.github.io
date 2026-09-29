@@ -6843,7 +6843,7 @@ body > .content-wrapper {
 .header .wrapper .author,
 .header .wrapper .course {
   float: left;
-  width: 100%;
+  width: 83.33333333%;
   position: relative;
   min-height: 1px;
   padding-right: 15px;
@@ -6877,6 +6877,8 @@ body > .content-wrapper {
   font-size: 24px;
 }
 .header .wrapper .owl {
+  float: left;
+  width: 16.66666667%;
   position: relative;
   min-height: 1px;
   padding-right: 15px;
@@ -6902,7 +6904,10 @@ body > .content-wrapper {
   .header .wrapper .course .desc {
     display: none;
   }
-  .header .wrapper .owl {
+  .header .wrapper .author {
+    width: 100%;
+  }
+  .header .wrapper .author + .owl {
     display: none;
   }
 }
