@@ -2,6 +2,7 @@
 layout: none
 published: true
 title: Torstain 17.11. tunnille
+tags: rub13.3 läksyt
 ---
 Tee loppuun s. 20 työvihkosta sekä digikirjasta opintokortin tehtävät aiheesta Relatiivilause.
 

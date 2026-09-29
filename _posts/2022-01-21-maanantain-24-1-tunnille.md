@@ -2,6 +2,7 @@
 layout: none
 published: true
 title: Maanantain 24.1. tunnille
+tags: rub11-2.8 läksyt
 ---
 Tunnilla sanakoe tekstistä 4.
 

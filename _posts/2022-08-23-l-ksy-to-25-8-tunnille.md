@@ -2,6 +2,7 @@
 layout: none
 published: true
 title: Läksy to 25.8. tunnille
+tags: rub11-12.1 läksyt
 ---
 PAKOLLISET:
 ​

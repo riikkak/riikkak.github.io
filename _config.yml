@@ -1,15 +1,10 @@
 title: Riikka Koskenrannan sivut
 markdown: kramdown
-redcarpet:
-  extensions: ["no_intra_emphasis", "autolink", "tables", "with_toc_data"]
 plugins:
   - jekyll-redirect-from
 safe: true
-lsi: false
-highlighter: rouge
 url: https://riikka.koskenranta.fi
 baseurl: ""
-incremental: false
 timezone: Europe/Helsinki
 semester: 2026-2027
 
@@ -107,70 +102,13 @@ defaults:
 exclude:
   - README.md
   - LICENSE.md
+  - CLAUDE.md
   - CNAME
-  - Gruntfile.coffee
-  - bower.json
+  - Gruntfile.js
   - package.json
-  - riikkak.github.io.iml
-  - libpeerconnection.log
+  - package-lock.json
   - less
   - node_modules
   - vendor
   - Gemfile
   - Gemfile.lock
-  - atlassian-ide-plugin.xml
-  - .idea
-
-prose:
-  siteurl: "https://riikka.koskenranta.fi"
-  media: "media"
-  relativeLinks: "https://riikka.koskenranta.fi/api/links.jsonp"
-  site:
-    tags: "https://riikka.koskenranta.fi/api/tags.jsonp"
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "none"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Otsikko"
-          value: ""
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Julkaise"
-          value: "true"
-      - name: "tags"
-        field:
-          element: "select"
-          label: "Valitse sivu"
-          placeholder: "Valitse"
-          options:
-            - name: "RUB11-12.3 - Läksyt"
-              value: "rub11-12.3 läksyt"
-            - name: "RUB11-12.9 - Läksyt"
-              value: "rub11-12.9 läksyt"
-            - name: "RUB112.4 - Läksyt"
-              value: "rub112.4 läksyt"
-            - name: "RUB13.3 - Läksyt"
-              value: "rub13.3 läksyt"
-            - name: "RUB13.5 - Läksyt"
-              value: "rub13.5 läksyt"
-            - name: "RUB14.8 - Läksyt"
-              value: "rub14.8 läksyt"
-            - name: "RUB14.9 - Läksyt"
-              value: "rub14.9 läksyt"
-            - name: "RUB15.9 - Läksyt"
-              value: "rub15.9 läksyt"
-            - name: "RUB16.4 - Läksyt"
-              value: "rub16.4 läksyt"
-            - name: "RUB17.1 - Läksyt"
-              value: "rub17.1 läksyt"
-            - name: "RUB17.4 - Läksyt"
-              value: "rub17.4 läksyt"
-            - name: "ENA01-02.8 - Läksyt"
-              value: "ena01-02.8 läksyt"
-

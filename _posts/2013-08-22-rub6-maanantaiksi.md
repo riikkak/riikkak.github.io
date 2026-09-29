@@ -1,6 +1,6 @@
 ---
 title: "Maratonläksyt maanantaiksi"
-tags: rub6
+tags: rub6 läksyt
 ---
 
 1. Tee lukusanaharjoitukset 1A, 2 ja 3 s. 134.
