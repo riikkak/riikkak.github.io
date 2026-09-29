@@ -1,5 +1,5 @@
 # Pages CMS -asetukset (https://app.pagescms.org). Lukukauden vaihtuessa päivitä
-# Läksyt-kansio, kurssivalinnat ja kurssiryhmät. Ks. README.md.
+# Läksyt-kansio ja kurssiryhmät. Kurssivalinnat päivittyvät Jakson mukaan. Ks. README.md.
 
 media:
   input: media
@@ -36,6 +36,7 @@ content:
         required: true
         options:
           values:
+            # kurssit:start (updated automatically for the current Jakso by .github/workflows/pages-cms-courses.yml)
             - name: "ena01-02.8 läksyt"
               label: ENA01-02.8
             - name: "rub11-12.3 läksyt"
@@ -60,6 +61,7 @@ content:
               label: RUB17.1
             - name: "rub17.4 läksyt"
               label: RUB17.4
+            # kurssit:end
       - name: published
         label: Julkaistu
         type: boolean

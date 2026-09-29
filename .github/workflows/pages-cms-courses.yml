@@ -1,0 +1,47 @@
+# Keeps the Läksyt "Kurssi" dropdown in .pages.yml limited to the courses of
+# the current Jakso. Runs when the period, course data or semester changes.
+name: Update Pages CMS course list
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - _data/asetukset.yml
+      - "_data/courses_*.yml"
+      - _config.yml
+      - .github/scripts/pages-cms-courses.rb
+      - .github/workflows/pages-cms-courses.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages-cms-courses
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+
+      - name: Update course list
+        run: ruby .github/scripts/pages-cms-courses.rb
+
+      - name: Commit and push
+        run: |
+          if git diff --quiet -- .pages.yml; then
+            echo "No change to .pages.yml"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .pages.yml
+          git commit -m "Update Pages CMS course list for current period"
+          git pull --rebase origin master
+          git push origin HEAD:master
