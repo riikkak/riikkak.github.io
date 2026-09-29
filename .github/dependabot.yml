@@ -1,0 +1,9 @@
+# Keeps the actions used in .github/workflows up to date. Only GitHub
+# Actions: GitHub Pages pins the Ruby gems, and npm is only used locally
+# for the Less build.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
