@@ -1,18 +1,18 @@
 - date: pe 4.4.
   title: Tema - skola
-  grammar: substantiivin taivutus 
+  grammar: substantiivin taivutus
   other: puhtaaksikirjoitus
 - date: ti 8.4.
   title: Tema skola - Text 3
-  grammar: substantiivin taivutus 
+  grammar: substantiivin taivutus
   digi: "Text 3: 3, 5a, 6a"
 - date: to 10.4.
   title: Tema - skola
-  grammar: substantiivin taivutus 
+  grammar: substantiivin taivutus
   digi: "skola: 3a, 3c, 4a"
 - date: pe 11.4.
   title: Temaord - skola
-  grammar: substantiivin taivutus 
+  grammar: substantiivin taivutus
   digi: "substantiivien taivutus: 1, 3a, 5, 6"
 - date: ti 15.4
   title: Tema - utseende
@@ -47,9 +47,9 @@
 - date: pe 2.5.
   title: LEDIG DAG
 - date: ti 6.5.
-  title: Tema hälsa - Text 5 
+  title: Tema hälsa - Text 5
   grammar: sivulause
-  digi: "Text 5: 6a, 7a, 7b" 
+  digi: "Text 5: 6a, 7a, 7b"
   other: Itsenäiset tehtävät valmiit
 - date: to 8.5.
   title: Temaord - Välbefinnande och hälsa
@@ -125,7 +125,7 @@
 - date: ma 10.3.
   title: Harjoituksia
   grammar: prepositiokertaus, verbit
-  digi: "verbit: 7b, 8a, 8c, 9c, 10c, 11" 
+  digi: "verbit: 7b, 8a, 8c, 9c, 10c, 11"
 - date: ke 12.3.
   title: Text 4 Köttbullar, sushi eller vegoburgare?
   grammar: verbit
