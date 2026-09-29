@@ -43,26 +43,6 @@
   desc: "yhteiskunta, terveys ja kansainvälinen vaikuttaminen"
   period: 5
 
-- name: rub9.3
-  code: 5
-  desc: "abien kertauskurssi"
-  period: 3
-
-- name: rub10.2
-  code: 1
-  desc: "kuuntelu ja kirjoittaminen abeille"
-  period: 1
-
-- name: rub10.3
-  code: 8
-  desc: "kuuntelu ja kirjoittaminen abeille"
-  period: 1
-
-- name: rub10.4
-  code: 4
-  desc: "kuuntelu ja kirjoittaminen abeille"
-  period: 3
-
 - name: rub11.2
   code: 4
   desc: "minun ruotsini"
