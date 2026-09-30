@@ -7029,6 +7029,9 @@ h6,
     width: 100%;
   }
 }
+.content-row .main-content > :first-child {
+  margin-top: 0;
+}
 .content-row .main-content table {
   background-color: #fff;
 }
