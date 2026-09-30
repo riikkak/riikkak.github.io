@@ -10,8 +10,9 @@
     Riikka Koskenranta
 </title>
 
-<link rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..500&family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+{% comment %} Every page uses these two fonts. Preloading them fetches them alongside the stylesheet instead of after it, so text doesn't first show in the fallback font. styles/main.less has the @font-face rules. {% endcomment %}
+<link rel="preload" href="/dist/fonts/public-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/dist/fonts/bricolage-grotesque-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/dist/css/styles.min.css">
 
 {% comment %} Sets page_nav and page_courses for course pages. header.liquid reads page_courses; the layouts pass page_nav to navigation.liquid. {% endcomment %}

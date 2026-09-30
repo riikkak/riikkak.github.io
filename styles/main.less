@@ -55,8 +55,45 @@ body {
 // --------------------------------------------------
 
 // Body text is Public Sans (@font-family-sans-serif), headings Bricolage
-// Grotesque (@font-family-display). _includes/head.liquid loads both from
-// Google Fonts.
+// Grotesque (@font-family-display). Both are self-hosted in dist/fonts/
+// (SIL Open Font License, see the OFL-*.txt files there), and
+// _includes/head.liquid preloads the two latin files so they arrive with
+// this stylesheet and text doesn't first show in the fallback font.
+//
+// The files and rules are the latin and latin-ext ones Google Fonts serves
+// for family=Bricolage+Grotesque:opsz,wght@12..96,400..500&family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700,
+// so the fonts render as they did from Google. Public Sans is one variable
+// file per style but keeps separate 400 and 700 faces as Google has them,
+// so weights in between (such as .h1–.h6 at 500) still use the 400 face.
+@unicode-range-latin:     ~"U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD";
+@unicode-range-latin-ext: ~"U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF";
+
+// Latin comes last so it wins for the characters both ranges cover.
+.font-face(@family; @file; @style; @weight) {
+  @font-face {
+    font-family: @family;
+    font-style: @style;
+    font-weight: @weight;
+    font-display: swap;
+    src: url("/dist/fonts/@{file}-latin-ext.woff2") format("woff2");
+    unicode-range: @unicode-range-latin-ext;
+  }
+  @font-face {
+    font-family: @family;
+    font-style: @style;
+    font-weight: @weight;
+    font-display: swap;
+    src: url("/dist/fonts/@{file}-latin.woff2") format("woff2");
+    unicode-range: @unicode-range-latin;
+  }
+}
+
+.font-face("Bricolage Grotesque"; bricolage-grotesque; normal; 400 500);
+.font-face("Public Sans"; public-sans; normal; 400);
+.font-face("Public Sans"; public-sans; normal; 700);
+.font-face("Public Sans"; public-sans-italic; italic; 400);
+.font-face("Public Sans"; public-sans-italic; italic; 700);
+
 h1, h2, h3, h4, h5, h6,
 .navbar-brand {
   font-family: @font-family-display;

@@ -41,7 +41,7 @@ Use the Chrome DevTools MCP tools (`new_page`, `navigate_page`, `resize_page`, `
 
 On one course page, click the menu button (`.navbar-toggle`) at phone width and check that the menu opens. At desktop width, open the Kurssit dropdown.
 
-In the screenshots, check the fonts (Bricolage Grotesque for headings and the navbar brand, Public Sans for body text) and colours, the header owl and the nav, and that on phones the schedule table stacks into rows without scrolling sideways. Both fonts fall back to the system font, so text that looks like the system font means the Google Fonts didn't load.
+In the screenshots, check the fonts (Bricolage Grotesque for headings and the navbar brand, Public Sans for body text) and colours, the header owl and the nav, and that on phones the schedule table stacks into rows without scrolling sideways. Both fonts fall back to the system font, so text that looks like the system font means the files in `dist/fonts/` didn't load. A console warning that a preloaded font wasn't used means the preload links in `_includes/head.liquid` no longer match the `@font-face` URLs in `styles/main.less`.
 
 If the Chrome DevTools tools aren't available, fetch each page with `curl`, check for status 200 and a link to `/dist/css/styles.min.css`, and say that you skipped the screenshots.
 
