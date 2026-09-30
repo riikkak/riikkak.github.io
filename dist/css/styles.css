@@ -7328,6 +7328,11 @@ h6,
 .course-menu .courses .language-wrapper .language .panel-body > h3:first-child {
   margin-top: 5px;
 }
+@media (min-width: 768px) {
+  .table.schedule > tbody > tr > .schedule-date {
+    width: 6em;
+  }
+}
 @media (max-width: 767px) {
   .table.schedule > thead {
     display: none;

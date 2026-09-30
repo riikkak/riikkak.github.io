@@ -322,6 +322,14 @@ h1, h2, h3, h4, h5, h6,
 // Course schedule
 // --------------------------------------------------
 
+// Wide enough for a date like "ma 26.10." on one line; week ranges such
+// as "ma 20. - 24.10." still wrap.
+@media (min-width: @screen-sm-min) {
+  .table.schedule > tbody > tr > .schedule-date {
+    width: 6em;
+  }
+}
+
 // Phones can't fit the schedule's five or six columns, so there each lesson
 // is a block: the date on top, then every filled-in cell with its column
 // name (data-label) hanging in the left padding. The label is an inline
