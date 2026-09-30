@@ -14,8 +14,8 @@ course: ena1
 <div class="sidebar">
 <div class="page-sidebar">
 <ul class="nav page-sidenav">
-<li><a href="#saannot">Säännöt</a></li></li>
-<li><a href="#kurssiarviointi">Kurssiarviointi</a></li></li>
+<li><a href="#saannot">Säännöt</a></li>
+<li><a href="#kurssiarviointi">Kurssiarviointi</a></li>
 </ul>
 </div>
 </div>

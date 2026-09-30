@@ -56,7 +56,3 @@ course: ena4
 </div>
 </div>
 </div>
-
-</div>
-</div>
-</div>
