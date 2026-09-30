@@ -12,7 +12,7 @@ course: rub4
 </div>
 <div class="content-row">
 <div class="sidebar">
-<div class="page-sidebar affix" data-spy="affix" data-offset-top="250">
+<div class="page-sidebar">
 <ul class="nav page-sidenav">
 <li><a href="#saannot">Säännöt</a></li>
 <li><a href="#kurssiarviointi">Kurssiarviointi</a></li>

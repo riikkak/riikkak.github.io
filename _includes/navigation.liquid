@@ -1,6 +1,6 @@
 <nav class="navbar navbar-default navbar-static-top" role="navigation">
     <div class="container">
-        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".course-navbar-collapse">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".course-navbar-collapse" aria-expanded="false">
             <span class="sr-only">Vaihda navigaatio</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -38,7 +38,7 @@
                 <li class="dropdown{% if navSelected %} active{% endif %}">
                     {% assign navSelected = false %}
                     <a id="d{{ url }}" href="/kurssit/{{ page.semester }}/{{ page.course }}/{{ url_path }}"
-                       data-toggle="dropdown" data-target="#">{{ navItem.page }} <span class="caret"></span>
+                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ navItem.page }} <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="d{{ url }}">
                         {% for subNavItem in navItem.subpages %}
@@ -60,7 +60,7 @@
                 {% endfor %}
                 {% if page.semester == site.semester %}
                 <li class="dropdown">
-                    <a id="dKurssit" href="/kurssit/" data-toggle="dropdown">Kurssit <span class="caret"></span></a>
+                    <a id="dKurssit" href="/kurssit/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kurssit <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="dKurssit">
                         {% assign eng_courses = "" %}
                         {% assign eng_urls = "" %}

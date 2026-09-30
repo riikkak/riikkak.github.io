@@ -7162,32 +7162,16 @@ h6,
     width: 66.66666667%;
   }
 }
-.page-sidebar.affix {
-  position: static;
-}
 .page-sidebar .page-sidenav {
   background-color: #99bbad;
 }
 .page-sidebar .page-sidenav a {
   color: #000;
 }
-/* Tablets/desktops and up */
-@media screen and (min-width: 992px) {
-  .page-sidebar.affix,
-  .page-sidebar.affix-bottom {
-    width: 213px;
-  }
-  .page-sidebar.affix {
-    position: fixed;
+@media (min-width: 992px) {
+  .content-row .sidebar {
+    position: sticky;
     top: 50px;
-  }
-  .page-sidebar.affix-bottom {
-    position: absolute;
-  }
-  .page-sidebar.affix-bottom .page-sidenav,
-  .page-sidebar.affix .page-sidenav {
-    margin-top: 0;
-    margin-bottom: 0;
   }
 }
 .course-menu .courses {

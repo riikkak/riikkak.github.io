@@ -302,10 +302,6 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .page-sidebar {
-  &.affix {
-    position:static;
-  }
-
   .page-sidenav {
     background-color: @footer-bg;
 
@@ -315,26 +311,14 @@ h1, h2, h3, h4, h5, h6,
   }
 }
 
-/* Tablets/desktops and up */
-@media screen and (min-width: 992px) {
-  .page-sidebar.affix,
-  .page-sidebar.affix-bottom {
-    width: 213px;
-  }
-  .page-sidebar.affix {
-    position: fixed;
+// On desktops the side menu of the 2013-2014 info pages stays in view while
+// the page scrolls. The column is sticky rather than .page-sidebar, because
+// .page-sidebar can only move within the column, which is no taller than the
+// menu. The column moves within the row, which is as tall as the content.
+@media (min-width: @screen-md-min) {
+  .content-row .sidebar {
+    position: sticky;
     top: 50px;
-  }
-
-  .page-sidebar.affix-bottom {
-    position: absolute;
-  }
-
-  .page-sidebar.affix-bottom, .page-sidebar.affix {
-    .page-sidenav {
-      margin-top: 0;
-      margin-bottom: 0;
-    }
   }
 }
 

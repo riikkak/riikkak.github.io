@@ -27,7 +27,7 @@ Check these, plus any paths given in `$ARGUMENTS`:
 | `/kurssit/<semester>/<course>/laksyt/` | Homework posts |
 | `/kurssit/arkisto/` | Course archive |
 | `/kurssit/2019-2020/rub7.2/` | An archived course with the older page structure |
-| `/kurssit/2013-2014/ena1/info/` | Info page with the affix sidebar (only 2013-2014 info pages have one) |
+| `/kurssit/2013-2014/ena1/info/` | Info page with the sticky sidebar (only 2013-2014 info pages have one) |
 | `/404.html` | Error page |
 
 Take `<semester>` from `_config.yml`. For `<course>`, pick one whose `period` in `_data/courses_<semester>.yml` includes the `period` in `_data/asetukset.yml`.
@@ -37,9 +37,9 @@ Take `<semester>` from `_config.yml`. For `<course>`, pick one whose `period` in
 Use the Chrome DevTools MCP tools (`new_page`, `navigate_page`, `resize_page`, `take_screenshot`, `list_console_messages`, `click`). For each page:
 
 1. Take a screenshot at phone width (375×812) and at desktop width (1280×800).
-2. Read the console messages. Errors matter, especially a failed jQuery `integrity` check or a stylesheet that didn't load.
+2. Read the console messages. Errors matter, especially a script error from `dist/js/site.js` or a stylesheet that didn't load.
 
-On one course page, click the menu button (`.navbar-toggle`) at phone width and check that the menu opens. At desktop width, open the Kurssit dropdown.
+On one course page, click the menu button (`.navbar-toggle`) at phone width and check that the menu opens and closes again. At desktop width, open the Kurssit dropdown and check that a click outside closes it. Then focus its toggle and check the keys: Down opens it and moves through the links, and Esc closes it. On the 2013-2014 info page at desktop width, scroll down and check that the side menu stays in view.
 
 In the screenshots, check the fonts (Bricolage Grotesque for headings and the navbar brand, Public Sans for body text) and colours, the header owl and the nav, and that on phones the schedule table stacks into rows without scrolling sideways. Both fonts fall back to the system font, so text that looks like the system font means the files in `dist/fonts/` didn't load. A console warning that a preloaded font wasn't used means the preload links in `_includes/head.liquid` no longer match the `@font-face` URLs in `styles/main.less`.
 
