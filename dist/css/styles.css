@@ -1073,7 +1073,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Cabin", Arial, sans-serif;
+  font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #222222;
@@ -1174,7 +1174,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Cabin", Arial, sans-serif;
+  font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -6036,7 +6036,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Cabin", Arial, sans-serif;
+  font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.42857143;
@@ -6154,7 +6154,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Cabin", Arial, sans-serif;
+  font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.42857143;
@@ -6838,7 +6838,7 @@ h4,
 h5,
 h6,
 .navbar-brand {
-  font-family: 'Lobster', cursive;
+  font-family: "Bricolage Grotesque", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 .header {
   background-color: #5b527f;
@@ -7327,6 +7327,11 @@ h6,
 }
 .course-menu .courses .language-wrapper .language .panel-body > h3:first-child {
   margin-top: 5px;
+}
+@media (min-width: 768px) {
+  .table.schedule > tbody > tr > .schedule-date {
+    width: 6em;
+  }
 }
 @media (max-width: 767px) {
   .table.schedule > thead {

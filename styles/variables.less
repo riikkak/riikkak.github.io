@@ -60,7 +60,11 @@
 @brand-primary:         @header-bg;
 @text-color:            @gray-darker;
 @body-bg:               #ebd8b7;
-@font-family-sans-serif:  "Cabin", Arial, sans-serif;
+
+// System fonts stand in until the Google Fonts load, or if they don't.
+@font-family-fallback:    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+@font-family-sans-serif:  "Public Sans", @font-family-fallback;
+@font-family-display:     "Bricolage Grotesque", @font-family-fallback;
 
 // Navbar
 @navbar-default-color:              @black;
