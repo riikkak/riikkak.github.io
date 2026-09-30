@@ -10,8 +10,11 @@
     Riikka Koskenranta
 </title>
 
-{% comment %} Sets page_theme, and page_nav/page_courses for course pages. The layouts pass them to the header and navigation. {% endcomment %}
-{% include theme-selector.liquid %}
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lobster&family=Cabin:wght@400;700&display=swap">
+<link rel="stylesheet" href="/themes/blog/css/styles.min.css">
+
+{% comment %} Sets page_nav/page_courses for course pages. The layouts pass them to the header and navigation. {% endcomment %}
 
 {% if page.course %}
     {% include course-variables.liquid %}
