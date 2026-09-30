@@ -42,7 +42,7 @@ exclude:
   - CNAME
   - package.json
   - package-lock.json
-  - less
+  - styles
   - node_modules
   - vendor
   - Gemfile

@@ -1,11 +1,19 @@
 //
+// Variables
+// --------------------------------------------------
+//
+// Only what the site changes; everything else comes from Bootstrap's
+// variables.less. main.less loads this after Bootstrap, and the last
+// definition of a Less variable wins, so these values apply inside
+// Bootstrap's own rules too.
+
+//
 // Bootstrap 3.0 look on Bootstrap 3.4
 // --------------------------------------------------
 //
-// The theme was designed on a Bootstrap 3.0 release candidate. Bootstrap
+// The site was designed on a Bootstrap 3.0 release candidate. Bootstrap
 // 3.4 changed some defaults the design relies on; these restore the old
-// values. Loaded after Bootstrap's variables and before the theme's own
-// variables.less, so the theme can still override them.
+// values.
 
 // Content 728px wide on tablets and 940px from the desktop breakpoint up.
 // Bootstrap 3.4 counts the container's side padding in its width; the RC
@@ -35,3 +43,25 @@
 // Linked list-group items use the normal link colours.
 @list-group-link-color:       @link-color;
 @list-group-link-hover-color: @link-hover-color;
+
+//
+// Site colours and fonts
+// --------------------------------------------------
+
+// Color theme from http://www.colourlovers.com/palette/1663351/Blue_Gum_Dreams
+
+@white: #fff;
+@black: #000;
+@header-bg: #5b527f;
+@header-color: @white;
+@footer-bg: #99bbad;
+@footer-color: @white;
+
+@brand-primary:         @header-bg;
+@text-color:            @gray-darker;
+@body-bg:               #ebd8b7;
+@font-family-sans-serif:  "Cabin", Arial, sans-serif;
+
+// Navbar
+@navbar-default-color:              @black;
+@navbar-default-link-color:         @black;

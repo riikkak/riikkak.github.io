@@ -1,3 +1,16 @@
+@import "bootstrap/bootstrap";
+// Load after Bootstrap: the last definition of a Less variable wins, so
+// these override Bootstrap's own variables.less everywhere.
+@import "variables";
+
+/*!
+ * Copyright 2013 Henri Koskenranta
+ * Blog-theme
+ * Licensed under the MIT
+ * http://choosealicense.com/licenses/mit/
+ *
+ */
+
 //
 // General
 // --------------------------------------------------
@@ -13,6 +26,17 @@ body > .content-wrapper {
 
 .content-wrapper {
   padding-bottom: 120px;
+}
+
+//
+// Typography
+// --------------------------------------------------
+
+// Body text is Cabin (@font-family-sans-serif). _includes/head.liquid loads
+// both fonts from Google Fonts.
+h1, h2, h3, h4, h5, h6,
+.navbar-brand {
+  font-family: 'Lobster', cursive;
 }
 
 //
@@ -136,6 +160,10 @@ body > .content-wrapper {
   }
 }
 
+//
+// Tables
+// --------------------------------------------------
+
 // Bootstrap 3.4 doubles the border under table headers; keep the RC's 1px.
 .table > thead > tr > th,
 .table-bordered > thead > tr > th {
@@ -156,6 +184,16 @@ body > .content-wrapper {
     h1 {
       margin: 0 0 10px;
     }
+  }
+}
+
+// The 404 page uses this in place of .main-header.
+.blog-header {
+  .make-xs-column(12);
+  .make-sm-column(12);
+
+  h1 {
+    margin: 20px 0 0;
   }
 }
 
@@ -226,6 +264,55 @@ body > .content-wrapper {
     .page-sidenav {
       margin-top: 0;
       margin-bottom: 0;
+    }
+  }
+}
+
+//
+// Course menu
+// --------------------------------------------------
+
+// The front page and the course archive.
+.course-menu {
+  .courses {
+    .make-row();
+
+    .courses-heading {
+      .make-xs-column(12);
+      .make-sm-column(12);
+
+      h1 {
+        margin: 20px 0;
+      }
+
+      p {
+        font-size: 16px;
+        text-align: justify;
+      }
+    }
+
+    .language-wrapper {
+      .top-buffer();
+      .make-xs-column(12);
+      .make-sm-column(6);
+
+      .language {
+        .panel();
+        .panel-primary();
+
+        h3 {
+          font-size: 16px;
+        }
+
+        // Title size and heading spacing as in the Bootstrap 3.0 RC, where
+        // the heading's margin collapsed into the first h3's.
+        .panel-title {
+          font-size: (@font-size-base * 1.25);
+        }
+        .panel-body > h3:first-child {
+          margin-top: 5px;
+        }
+      }
     }
   }
 }
@@ -352,19 +439,4 @@ body > .content-wrapper {
 
 .top-buffer() {
   padding-top: 20px;
-}
-
-// Only display content to screen readers
-// See: http://a11yproject.com/posts/how-to-hide-content/
-// -------------------------
-
-.sr-only {
-  border: 0;
-  clip: rect(0 0 0 0);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 1px;
 }
