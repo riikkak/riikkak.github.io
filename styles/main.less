@@ -205,7 +205,7 @@ h1, h2, h3, h4, h5, h6,
     .make-sm-column(12);
 
     h1 {
-      margin: 0 0 10px;
+      margin: 10px 0 20px;
     }
   }
 }
@@ -216,17 +216,22 @@ h1, h2, h3, h4, h5, h6,
   .make-sm-column(12);
 
   h1 {
-    margin: 20px 0 0;
+    margin: 20px 0;
   }
 }
 
 .content-row {
-  .top-buffer();
   .make-row();
 
   .main-content {
     .make-xs-column(12);
     .make-sm-column(12);
+
+    // The page title's bottom margin already separates it from the content,
+    // so a leading heading doesn't add its own top margin to the gap.
+    > :first-child {
+      margin-top: 0;
+    }
 
     table {
       background-color: @white;
@@ -247,6 +252,8 @@ h1, h2, h3, h4, h5, h6,
     .make-sm-column(3);
   }
 
+  // Cancels the first post title's top margin, so posts start as close to
+  // the page title as a table does.
   .posts {
     margin-top: -20px;
     .make-xs-column(12);
