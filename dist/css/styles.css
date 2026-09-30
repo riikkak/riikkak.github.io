@@ -6886,8 +6886,9 @@ h6,
     width: 83.33333333%;
   }
 }
-.header .wrapper .author h1,
-.header .wrapper .course h1 {
+.header .wrapper .author .h1,
+.header .wrapper .course .h1 {
+  font-family: "Bricolage Grotesque", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 42px;
   color: #fff;
 }

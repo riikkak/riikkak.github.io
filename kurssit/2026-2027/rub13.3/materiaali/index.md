@@ -5,11 +5,11 @@ course: rub13.3
 published: true
 ---
 
-### TIPS!
+## TIPS!
 
 - Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Svenska akademiens ordböcker](https://svenska.se/tre/?sok=&pz=1), sieltä ääntöohjeet antaa SO.
 
-### Quizlet - flashcardsit
+## Quizlet - flashcardsit
 
 - [Text 3 + dialog](https://quizlet.com/_b3nqjp?x=1qqt&i=dz01n)
 
@@ -26,7 +26,7 @@ published: true
 - [Temaord - medier](https://quizlet.com/_b3nskl?x=1jqt&i=dz01n)
 
 
-### Tarkistukset
+## Tarkistukset
 
 **[Tema Finland harjoitussaniksen tarkistus](/media/rub3/Finland_harjoitussanis.pdf)**
 

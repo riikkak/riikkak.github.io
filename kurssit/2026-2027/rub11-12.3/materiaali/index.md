@@ -4,11 +4,11 @@ title: Materiaali
 course: rub11-12.3
 published: true
 ---
-### TIPS!
+## TIPS!
 
 -Kun tarvitset apua ääntämisen tarkastamiseen, tsekkaa sivu [Svenska Akademiens ordböcker](https://svenska.se/?q=)). Sieltä ääntöohjeet antaa SO.
 
-### Quizletit
+## Quizletit
 
 - [Text 1 - fraser](https://quizlet.com/_a2zbi1?x=1qqt&i=dz01n)
 - [Text 2 - fraser](https://quizlet.com/_a4hkf8?x=1jqt&i=dz01n)
@@ -24,7 +24,7 @@ published: true
 - [Temaord - kläder](https://quizlet.com/_amfchp?x=1jqt&i=dz01n)
 - [Temaord - familj och släktingar](https://quizlet.com/_amfe7a?x=1qqt&i=dz01n)
 
-### TEHTÄVIEN TARKISTUS
+## TEHTÄVIEN TARKISTUS
 
 **[Verbien harjoituskoe s. 24 verbit](/media/rub2/Heikot + vahvat osa 1_lisäharjoitus_s-24.pdf)**
 

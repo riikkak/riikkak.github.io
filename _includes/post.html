@@ -1,5 +1,5 @@
 <article class="post">
-    <h1 class="title">{{ post.title }}</h1>
+    <h2 class="title">{{ post.title }}</h2>
     <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M%Z' }}">{{ post.date | date: "%d.%m.%Y"}}</time>
     <div class="entry">
         {{ post.content }}
