@@ -13,10 +13,7 @@
     "node": ">=24"
   },
   "scripts": {
-    "build:css": "npm run build:css:blog && npm run build:css:english && npm run build:css:swedish",
-    "build:css:blog": "lessc less/blog/main.less themes/blog/css/styles.css && cleancss -o themes/blog/css/styles.min.css themes/blog/css/styles.css",
-    "build:css:english": "lessc less/english/main.less themes/english/css/styles.css && cleancss -o themes/english/css/styles.min.css themes/english/css/styles.css",
-    "build:css:swedish": "lessc less/swedish/main.less themes/swedish/css/styles.css && cleancss -o themes/swedish/css/styles.min.css themes/swedish/css/styles.css"
+    "build:css": "lessc less/blog/main.less themes/blog/css/styles.css && cleancss -o themes/blog/css/styles.min.css themes/blog/css/styles.css"
   },
   "devDependencies": {
     "clean-css-cli": "^5.6.3",
