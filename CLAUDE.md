@@ -13,6 +13,10 @@ Jekyll site for Riikka Koskenranta's blog and high school course pages (English 
 
 `_config.yml` has `safe: true` because GitHub Pages builds it with the `github-pages` gem. Only whitelisted plugins work, and `jekyll-redirect-from` is the only one used.
 
+## Claude Code hooks and skills
+
+`.claude/settings.json` runs two hooks on Edit and Write. `.claude/hooks/protect-paths.sh` refuses edits in `_site/`, `dist/css/` and `styles/bootstrap/`. `.claude/hooks/rebuild-css.sh` runs `npm run build:css` after an edit in `styles/`, so commit the `dist/css/` changes it makes. The project skills are `/new-semester` (see "Adding a new semester") and `/check-site`, which builds and serves the site and screenshots key pages at phone and desktop widths with the Chrome DevTools MCP.
+
 ## Architecture
 
 Everything is keyed by **semester** (`YYYY-YYYY`, e.g. `2026-2027`) and **course name** (lowercase, e.g. `rub11-12.3`). The school year is split into teaching periods ("jakso", 1–5).
@@ -41,7 +45,7 @@ After pushing, pull before further work because a bot commit may have landed. Fi
 
 ## Adding a new semester
 
-Commit `c82b495e` ("Add 2026-2027 semester") is the reference, except that its edits to `course-variables.liquid`, `index.html` and the archive page are no longer needed. The steps:
+`/new-semester <YYYY-YYYY>` runs these steps: after `_data/courses_<new>.yml` is written, `.claude/skills/new-semester/scaffold.rb` does the rest. Commit `c82b495e` ("Add 2026-2027 semester") is the reference, except that its edits to `course-variables.liquid`, `index.html` and the archive page are no longer needed. The steps:
 1. Add `_data/courses_<new>.yml`, `_data/navigation_<new>.yml` and an empty `_data/schedule_<new>_<course>.yml` for each course.
 2. Create `kurssit/<new>/<course>/` pages. Copy them from the previous semester and change `course:` and the schedule data key.
 3. In `_config.yml`, set `semester` and add a defaults line for the new path.
