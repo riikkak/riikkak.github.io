@@ -21,7 +21,7 @@ course: ena5.2
 </div>
 </div>
 <div class="info-content">
-<h2 id="saannot">Säännöt</h2></p>
+<h2 id="saannot">Säännöt</h2>
 
 <ul>
 <li>Ole ajoissa</li>
