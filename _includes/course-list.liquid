@@ -1,17 +1,4 @@
 {% case include.time %}
-{% when "current" %}
-<h3>Menossa olevat kurssit</h3>
-<div class="list-group">
-    {% for course in include.db %}
-    {% if course.name contains include.name and course.period contains include.period or course.period == include.period %}
-    <a href="/kurssit/{{ include.year }}/{{ course.name | downcase }}/" class="list-group-item">
-        {{ course.name | upcase }}
-        {% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
-    </a>
-    {% endif %}
-    {% endfor %}
-</div>
-
 {% when "past" %}
 <h3>Menneet kurssit</h3>
 <div class="list-group">
@@ -26,17 +13,4 @@
     {% endfor %}
 </div>
 
-{% when "future" %}
-<h3>Tulevat kurssit {{ include.year }}</h3>
-<ul class="list-group">
-    {% for course in include.db %}
-    {% include last-period-var.liquid %}
-    {% if course.name contains include.name and last_period > include.period %}
-    <li class="list-group-item">
-        {{ course.name | upcase }}{% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
-        {% include periods_text.liquid period=course.period %}
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
 {% endcase %}

@@ -345,28 +345,48 @@ h1, h2, h3, h4, h5, h6,
       }
     }
 
+    // A column of course panels: on the front page the running and ended
+    // courses, or the upcoming ones; in the archive, one language.
+    .course-column,
     .language-wrapper {
       .top-buffer();
       .make-xs-column(12);
       .make-sm-column(6);
+    }
 
-      .language {
-        .panel();
-        .panel-primary();
-
-        h3 {
-          font-size: 16px;
-        }
-
-        // Title size and heading spacing as in the Bootstrap 3.0 RC, where
-        // the heading's margin collapsed into the first h3's.
-        .panel-title {
-          font-size: (@font-size-base * 1.25);
-        }
-        .panel-body > h3:first-child {
-          margin-top: 5px;
-        }
+    // On phones the front page's columns stack, so its panels keep the
+    // same gap between columns as within one.
+    @media (max-width: @screen-xs-max) {
+      .course-column + .course-column {
+        padding-top: 0;
       }
+    }
+
+    // Not nested in the columns above: .panel() is long, and the nesting
+    // would repeat each of its selectors for every column and panel pair.
+    .course-panel,
+    .language {
+      .panel();
+      .panel-primary();
+
+      h3 {
+        font-size: 16px;
+      }
+
+      // Title size and heading spacing as in the Bootstrap 3.0 RC, where
+      // the heading's margin collapsed into the first h3's.
+      .panel-title {
+        font-size: (@font-size-base * 1.25);
+      }
+      .panel-body > h3:first-child {
+        margin-top: 5px;
+      }
+    }
+
+    // The front page's panels end in a list, whose bottom margin would
+    // double the panel's padding.
+    .course-panel .panel-body > .list-group:last-child {
+      margin-bottom: 0;
     }
   }
 }

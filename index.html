@@ -6,25 +6,65 @@ redirect_from: /kurssit/
 
 {% assign courses_key = "courses_" | append: site.semester %}
 {% assign course_db = site.data[courses_key] %}
-{% assign cur_period=site.data.asetukset.period %}
-{% assign ena_count = 0 %}
-{% assign rub_count = 0 %}
+{% assign cur_period = site.data.asetukset.period %}
+{% assign next_period = cur_period | plus: 1 %}
+
+{% comment %}
+English and Swedish courses are listed together. A course is running from
+its first period to its last, has ended once its last period is over, and
+is upcoming until its first period starts. Upcoming courses are grouped by
+the period (1-5) they start in.
+{% endcomment %}
+{% capture current_courses %}
 {% for course in course_db %}
-    {% if course.name contains "ena" %}
-        {% assign ena_count = ena_count | plus:1 %}
-    {% endif %}
-    {% if course.name contains "rub" %}
-        {% assign rub_count = rub_count | plus:1 %}
-    {% endif %}
+    {% include first-period-var.liquid %}
     {% include last-period-var.liquid %}
-    {% if course.name contains "ena" and course.period contains cur_period or course.period == cur_period %}{% assign cur_english = true %}
-    {% elsif course.name contains "ena" and last_period < cur_period %}{% assign past_english = true %}
-    {% elsif course.name contains "ena" and last_period > cur_period %}{% assign future_english = true %}
-    {% elsif course.name contains "rub" and course.period contains cur_period or course.period == cur_period %}{% assign cur_swedish = true %}
-    {% elsif course.name contains "rub" and last_period < cur_period %}{% assign past_swedish = true %}
-    {% elsif course.name contains "rub" and last_period > cur_period %}{% assign future_swedish = true %}
+    {% if first_period <= cur_period and last_period >= cur_period %}
+    <a href="/kurssit/{{ site.semester }}/{{ course.name | downcase }}/" class="list-group-item">
+        {{ course.name | upcase }}{% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
+    </a>
     {% endif %}
 {% endfor %}
+{% endcapture %}
+{% assign current_courses = current_courses | strip %}
+
+{% capture past_courses %}
+{% for course in course_db %}
+    {% include last-period-var.liquid %}
+    {% if last_period < cur_period %}
+    <a href="/kurssit/{{ site.semester }}/{{ course.name | downcase }}/" class="list-group-item">
+        {{ course.name | upcase }}{% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
+        {% include periods_text.liquid period=course.period %}
+    </a>
+    {% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign past_courses = past_courses | strip %}
+
+{% capture future_courses %}
+{% for p in (next_period..5) %}
+    {% capture group %}
+    {% for course in course_db %}
+        {% include first-period-var.liquid %}
+        {% if first_period == p %}
+        {% include last-period-var.liquid %}
+        <li class="list-group-item">
+            {{ course.name | upcase }}{% if course.code %} (koodi {{ course.code | join: "/" }}){% endif %}
+            {% if last_period != first_period %}{% include periods_text.liquid period=course.period %}{% endif %}
+        </li>
+        {% endif %}
+    {% endfor %}
+    {% endcapture %}
+    {% assign group = group | strip %}
+    {% if group != "" %}
+    <h3>{{ p }}. jakso</h3>
+    <ul class="list-group">
+        {{ group }}
+    </ul>
+    {% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign future_courses = future_courses | strip %}
 
 <div class="course-menu">
     <div class="container">
@@ -37,50 +77,46 @@ redirect_from: /kurssit/
                     ei muuta kuin hommiin! <a href="/kurssit/arkisto/">Kurssiarkistosta</a> löydät vanhat kurssit.</p>
             </div>
 
-            <div class="language-wrapper">
-                <div class="language">
+            <div class="course-column">
+                <div class="course-panel">
                     <div class="panel-heading">
-                        <h2 class="panel-title">Englanti ({{ena_count}} kurssia)</h2>
+                        <h2 class="panel-title">Menossa nyt · {{ cur_period }}. jakso</h2>
                     </div>
                     <div class="panel-body">
-                        {% if cur_english %}
-                        {% include course-list.liquid db=course_db time="current" name="ena" period=cur_period year=site.semester %}
-                        {% endif %}
-
-                        {% if past_english %}
-                        {% include course-list.liquid db=course_db time="past" name="ena" period=cur_period year=site.semester %}
-                        {% endif %}
-
-                        {% if future_english %}
-                        {% include course-list.liquid db=course_db time="future" name="ena" period=cur_period year=site.semester %}
-                        {% endif %}
-
-                        {% if ena_count == 0 %}
-                            Ei kursseja tänä lukuvuonna.
+                        {% if current_courses != "" %}
+                        <div class="list-group">
+                            {{ current_courses }}
+                        </div>
+                        {% else %}
+                        Ei menossa olevia kursseja.
                         {% endif %}
                     </div>
                 </div>
-            </div>
-            <div class="language-wrapper">
-                <div class="language">
+
+                {% if past_courses != "" %}
+                <div class="course-panel">
                     <div class="panel-heading">
-                        <h2 class="panel-title">Ruotsi ({{rub_count}} kurssia)</h2>
+                        <h2 class="panel-title">Päättyneet kurssit</h2>
                     </div>
                     <div class="panel-body">
-                        {% if cur_swedish %}
-                        {% include course-list.liquid db=course_db time="current" name="rub" period=cur_period year=site.semester %}
-                        {% endif %}
+                        <div class="list-group">
+                            {{ past_courses }}
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            </div>
 
-                        {% if past_swedish %}
-                        {% include course-list.liquid db=course_db time="past" name="rub" period=cur_period year=site.semester %}
-                        {% endif %}
-
-                        {% if future_swedish %}
-                        {% include course-list.liquid db=course_db time="future" name="rub" period=cur_period year=site.semester %}
-                        {% endif %}
-
-                        {% if rub_count == 0 %}
-                        Ei kursseja tänä lukuvuonna.
+            <div class="course-column">
+                <div class="course-panel">
+                    <div class="panel-heading">
+                        <h2 class="panel-title">Tulevat kurssit {{ site.semester }}</h2>
+                    </div>
+                    <div class="panel-body">
+                        {% if future_courses != "" %}
+                        {{ future_courses }}
+                        {% else %}
+                        Ei tulevia kursseja tänä lukuvuonna.
                         {% endif %}
                     </div>
                 </div>

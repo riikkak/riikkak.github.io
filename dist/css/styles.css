@@ -7199,6 +7199,7 @@ h6,
   font-size: 16px;
   text-align: justify;
 }
+.course-menu .courses .course-column,
 .course-menu .courses .language-wrapper {
   padding-top: 20px;
   float: left;
@@ -7209,12 +7210,19 @@ h6,
   padding-left: 15px;
 }
 @media (min-width: 768px) {
+  .course-menu .courses .course-column,
   .course-menu .courses .language-wrapper {
     float: left;
     width: 50%;
   }
 }
-.course-menu .courses .language-wrapper .language {
+@media (max-width: 767px) {
+  .course-menu .courses .course-column + .course-column {
+    padding-top: 0;
+  }
+}
+.course-menu .courses .course-panel,
+.course-menu .courses .language {
   margin-bottom: 20px;
   background-color: #fff;
   border: 1px solid transparent;
@@ -7223,195 +7231,313 @@ h6,
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   border-color: #5b527f;
 }
-.course-menu .courses .language-wrapper .language > .list-group,
-.course-menu .courses .language-wrapper .language > .panel-collapse > .list-group {
+.course-menu .courses .course-panel > .list-group,
+.course-menu .courses .language > .list-group,
+.course-menu .courses .course-panel > .panel-collapse > .list-group,
+.course-menu .courses .language > .panel-collapse > .list-group {
   margin-bottom: 0;
 }
-.course-menu .courses .language-wrapper .language > .list-group .list-group-item,
-.course-menu .courses .language-wrapper .language > .panel-collapse > .list-group .list-group-item {
+.course-menu .courses .course-panel > .list-group .list-group-item,
+.course-menu .courses .language > .list-group .list-group-item,
+.course-menu .courses .course-panel > .panel-collapse > .list-group .list-group-item,
+.course-menu .courses .language > .panel-collapse > .list-group .list-group-item {
   border-width: 1px 0;
   border-radius: 0;
 }
-.course-menu .courses .language-wrapper .language > .list-group:first-child .list-group-item:first-child,
-.course-menu .courses .language-wrapper .language > .panel-collapse > .list-group:first-child .list-group-item:first-child {
+.course-menu .courses .course-panel > .list-group:first-child .list-group-item:first-child,
+.course-menu .courses .language > .list-group:first-child .list-group-item:first-child,
+.course-menu .courses .course-panel > .panel-collapse > .list-group:first-child .list-group-item:first-child,
+.course-menu .courses .language > .panel-collapse > .list-group:first-child .list-group-item:first-child {
   border-top: 0;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .list-group:last-child .list-group-item:last-child,
-.course-menu .courses .language-wrapper .language > .panel-collapse > .list-group:last-child .list-group-item:last-child {
+.course-menu .courses .course-panel > .list-group:last-child .list-group-item:last-child,
+.course-menu .courses .language > .list-group:last-child .list-group-item:last-child,
+.course-menu .courses .course-panel > .panel-collapse > .list-group:last-child .list-group-item:last-child,
+.course-menu .courses .language > .panel-collapse > .list-group:last-child .list-group-item:last-child {
   border-bottom: 0;
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .panel-heading + .panel-collapse > .list-group .list-group-item:first-child {
+.course-menu .courses .course-panel > .panel-heading + .panel-collapse > .list-group .list-group-item:first-child,
+.course-menu .courses .language > .panel-heading + .panel-collapse > .list-group .list-group-item:first-child {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-.course-menu .courses .language-wrapper .language > .table,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table,
-.course-menu .courses .language-wrapper .language > .panel-collapse > .table {
+.course-menu .courses .course-panel > .table,
+.course-menu .courses .language > .table,
+.course-menu .courses .course-panel > .table-responsive > .table,
+.course-menu .courses .language > .table-responsive > .table,
+.course-menu .courses .course-panel > .panel-collapse > .table,
+.course-menu .courses .language > .panel-collapse > .table {
   margin-bottom: 0;
 }
-.course-menu .courses .language-wrapper .language > .table caption,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table caption,
-.course-menu .courses .language-wrapper .language > .panel-collapse > .table caption {
+.course-menu .courses .course-panel > .table caption,
+.course-menu .courses .language > .table caption,
+.course-menu .courses .course-panel > .table-responsive > .table caption,
+.course-menu .courses .language > .table-responsive > .table caption,
+.course-menu .courses .course-panel > .panel-collapse > .table caption,
+.course-menu .courses .language > .panel-collapse > .table caption {
   padding-right: 15px;
   padding-left: 15px;
 }
-.course-menu .courses .language-wrapper .language > .table:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child {
+.course-menu .courses .course-panel > .table:first-child,
+.course-menu .courses .language > .table:first-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .table:first-child > thead:first-child > tr:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child,
-.course-menu .courses .language-wrapper .language > .table:first-child > tbody:first-child > tr:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child {
+.course-menu .courses .course-panel > .table:first-child > thead:first-child > tr:first-child,
+.course-menu .courses .language > .table:first-child > thead:first-child > tr:first-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child,
+.course-menu .courses .course-panel > .table:first-child > tbody:first-child > tr:first-child,
+.course-menu .courses .language > .table:first-child > tbody:first-child > tr:first-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .table:first-child > thead:first-child > tr:first-child td:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child td:first-child,
-.course-menu .courses .language-wrapper .language > .table:first-child > tbody:first-child > tr:first-child td:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child td:first-child,
-.course-menu .courses .language-wrapper .language > .table:first-child > thead:first-child > tr:first-child th:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child th:first-child,
-.course-menu .courses .language-wrapper .language > .table:first-child > tbody:first-child > tr:first-child th:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child th:first-child {
+.course-menu .courses .course-panel > .table:first-child > thead:first-child > tr:first-child td:first-child,
+.course-menu .courses .language > .table:first-child > thead:first-child > tr:first-child td:first-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child td:first-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child td:first-child,
+.course-menu .courses .course-panel > .table:first-child > tbody:first-child > tr:first-child td:first-child,
+.course-menu .courses .language > .table:first-child > tbody:first-child > tr:first-child td:first-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child td:first-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child td:first-child,
+.course-menu .courses .course-panel > .table:first-child > thead:first-child > tr:first-child th:first-child,
+.course-menu .courses .language > .table:first-child > thead:first-child > tr:first-child th:first-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child th:first-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child th:first-child,
+.course-menu .courses .course-panel > .table:first-child > tbody:first-child > tr:first-child th:first-child,
+.course-menu .courses .language > .table:first-child > tbody:first-child > tr:first-child th:first-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child th:first-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child th:first-child {
   border-top-left-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .table:first-child > thead:first-child > tr:first-child td:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child td:last-child,
-.course-menu .courses .language-wrapper .language > .table:first-child > tbody:first-child > tr:first-child td:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child td:last-child,
-.course-menu .courses .language-wrapper .language > .table:first-child > thead:first-child > tr:first-child th:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child th:last-child,
-.course-menu .courses .language-wrapper .language > .table:first-child > tbody:first-child > tr:first-child th:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child th:last-child {
+.course-menu .courses .course-panel > .table:first-child > thead:first-child > tr:first-child td:last-child,
+.course-menu .courses .language > .table:first-child > thead:first-child > tr:first-child td:last-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child td:last-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child td:last-child,
+.course-menu .courses .course-panel > .table:first-child > tbody:first-child > tr:first-child td:last-child,
+.course-menu .courses .language > .table:first-child > tbody:first-child > tr:first-child td:last-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child td:last-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child td:last-child,
+.course-menu .courses .course-panel > .table:first-child > thead:first-child > tr:first-child th:last-child,
+.course-menu .courses .language > .table:first-child > thead:first-child > tr:first-child th:last-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child th:last-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child th:last-child,
+.course-menu .courses .course-panel > .table:first-child > tbody:first-child > tr:first-child th:last-child,
+.course-menu .courses .language > .table:first-child > tbody:first-child > tr:first-child th:last-child,
+.course-menu .courses .course-panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child th:last-child,
+.course-menu .courses .language > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child th:last-child {
   border-top-right-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .table:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child {
+.course-menu .courses .course-panel > .table:last-child,
+.course-menu .courses .language > .table:last-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child {
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .table:last-child > tbody:last-child > tr:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child,
-.course-menu .courses .language-wrapper .language > .table:last-child > tfoot:last-child > tr:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child {
+.course-menu .courses .course-panel > .table:last-child > tbody:last-child > tr:last-child,
+.course-menu .courses .language > .table:last-child > tbody:last-child > tr:last-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child,
+.course-menu .courses .course-panel > .table:last-child > tfoot:last-child > tr:last-child,
+.course-menu .courses .language > .table:last-child > tfoot:last-child > tr:last-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child {
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .table:last-child > tbody:last-child > tr:last-child td:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child td:first-child,
-.course-menu .courses .language-wrapper .language > .table:last-child > tfoot:last-child > tr:last-child td:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child td:first-child,
-.course-menu .courses .language-wrapper .language > .table:last-child > tbody:last-child > tr:last-child th:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child th:first-child,
-.course-menu .courses .language-wrapper .language > .table:last-child > tfoot:last-child > tr:last-child th:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child th:first-child {
+.course-menu .courses .course-panel > .table:last-child > tbody:last-child > tr:last-child td:first-child,
+.course-menu .courses .language > .table:last-child > tbody:last-child > tr:last-child td:first-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child td:first-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child td:first-child,
+.course-menu .courses .course-panel > .table:last-child > tfoot:last-child > tr:last-child td:first-child,
+.course-menu .courses .language > .table:last-child > tfoot:last-child > tr:last-child td:first-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child td:first-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child td:first-child,
+.course-menu .courses .course-panel > .table:last-child > tbody:last-child > tr:last-child th:first-child,
+.course-menu .courses .language > .table:last-child > tbody:last-child > tr:last-child th:first-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child th:first-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child th:first-child,
+.course-menu .courses .course-panel > .table:last-child > tfoot:last-child > tr:last-child th:first-child,
+.course-menu .courses .language > .table:last-child > tfoot:last-child > tr:last-child th:first-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child th:first-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child th:first-child {
   border-bottom-left-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .table:last-child > tbody:last-child > tr:last-child td:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child td:last-child,
-.course-menu .courses .language-wrapper .language > .table:last-child > tfoot:last-child > tr:last-child td:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child td:last-child,
-.course-menu .courses .language-wrapper .language > .table:last-child > tbody:last-child > tr:last-child th:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child th:last-child,
-.course-menu .courses .language-wrapper .language > .table:last-child > tfoot:last-child > tr:last-child th:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child th:last-child {
+.course-menu .courses .course-panel > .table:last-child > tbody:last-child > tr:last-child td:last-child,
+.course-menu .courses .language > .table:last-child > tbody:last-child > tr:last-child td:last-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child td:last-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child td:last-child,
+.course-menu .courses .course-panel > .table:last-child > tfoot:last-child > tr:last-child td:last-child,
+.course-menu .courses .language > .table:last-child > tfoot:last-child > tr:last-child td:last-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child td:last-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child td:last-child,
+.course-menu .courses .course-panel > .table:last-child > tbody:last-child > tr:last-child th:last-child,
+.course-menu .courses .language > .table:last-child > tbody:last-child > tr:last-child th:last-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child th:last-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child th:last-child,
+.course-menu .courses .course-panel > .table:last-child > tfoot:last-child > tr:last-child th:last-child,
+.course-menu .courses .language > .table:last-child > tfoot:last-child > tr:last-child th:last-child,
+.course-menu .courses .course-panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child th:last-child,
+.course-menu .courses .language > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child th:last-child {
   border-bottom-right-radius: 3px;
 }
-.course-menu .courses .language-wrapper .language > .panel-body + .table,
-.course-menu .courses .language-wrapper .language > .panel-body + .table-responsive,
-.course-menu .courses .language-wrapper .language > .table + .panel-body,
-.course-menu .courses .language-wrapper .language > .table-responsive + .panel-body {
+.course-menu .courses .course-panel > .panel-body + .table,
+.course-menu .courses .language > .panel-body + .table,
+.course-menu .courses .course-panel > .panel-body + .table-responsive,
+.course-menu .courses .language > .panel-body + .table-responsive,
+.course-menu .courses .course-panel > .table + .panel-body,
+.course-menu .courses .language > .table + .panel-body,
+.course-menu .courses .course-panel > .table-responsive + .panel-body,
+.course-menu .courses .language > .table-responsive + .panel-body {
   border-top: 1px solid #ddd;
 }
-.course-menu .courses .language-wrapper .language > .table > tbody:first-child > tr:first-child th,
-.course-menu .courses .language-wrapper .language > .table > tbody:first-child > tr:first-child td {
+.course-menu .courses .course-panel > .table > tbody:first-child > tr:first-child th,
+.course-menu .courses .language > .table > tbody:first-child > tr:first-child th,
+.course-menu .courses .course-panel > .table > tbody:first-child > tr:first-child td,
+.course-menu .courses .language > .table > tbody:first-child > tr:first-child td {
   border-top: 0;
 }
-.course-menu .courses .language-wrapper .language > .table-bordered,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered {
+.course-menu .courses .course-panel > .table-bordered,
+.course-menu .courses .language > .table-bordered,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered,
+.course-menu .courses .language > .table-responsive > .table-bordered {
   border: 0;
 }
-.course-menu .courses .language-wrapper .language > .table-bordered > thead > tr > th:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > thead > tr > th:first-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > tbody > tr > th:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tbody > tr > th:first-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > tfoot > tr > th:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tfoot > tr > th:first-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > thead > tr > td:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > thead > tr > td:first-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > tbody > tr > td:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tbody > tr > td:first-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > tfoot > tr > td:first-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tfoot > tr > td:first-child {
+.course-menu .courses .course-panel > .table-bordered > thead > tr > th:first-child,
+.course-menu .courses .language > .table-bordered > thead > tr > th:first-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > thead > tr > th:first-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > thead > tr > th:first-child,
+.course-menu .courses .course-panel > .table-bordered > tbody > tr > th:first-child,
+.course-menu .courses .language > .table-bordered > tbody > tr > th:first-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tbody > tr > th:first-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > tbody > tr > th:first-child,
+.course-menu .courses .course-panel > .table-bordered > tfoot > tr > th:first-child,
+.course-menu .courses .language > .table-bordered > tfoot > tr > th:first-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tfoot > tr > th:first-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > tfoot > tr > th:first-child,
+.course-menu .courses .course-panel > .table-bordered > thead > tr > td:first-child,
+.course-menu .courses .language > .table-bordered > thead > tr > td:first-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > thead > tr > td:first-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > thead > tr > td:first-child,
+.course-menu .courses .course-panel > .table-bordered > tbody > tr > td:first-child,
+.course-menu .courses .language > .table-bordered > tbody > tr > td:first-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tbody > tr > td:first-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > tbody > tr > td:first-child,
+.course-menu .courses .course-panel > .table-bordered > tfoot > tr > td:first-child,
+.course-menu .courses .language > .table-bordered > tfoot > tr > td:first-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tfoot > tr > td:first-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > tfoot > tr > td:first-child {
   border-left: 0;
 }
-.course-menu .courses .language-wrapper .language > .table-bordered > thead > tr > th:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > thead > tr > th:last-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > tbody > tr > th:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tbody > tr > th:last-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > tfoot > tr > th:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tfoot > tr > th:last-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > thead > tr > td:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > thead > tr > td:last-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > tbody > tr > td:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tbody > tr > td:last-child,
-.course-menu .courses .language-wrapper .language > .table-bordered > tfoot > tr > td:last-child,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tfoot > tr > td:last-child {
+.course-menu .courses .course-panel > .table-bordered > thead > tr > th:last-child,
+.course-menu .courses .language > .table-bordered > thead > tr > th:last-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > thead > tr > th:last-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > thead > tr > th:last-child,
+.course-menu .courses .course-panel > .table-bordered > tbody > tr > th:last-child,
+.course-menu .courses .language > .table-bordered > tbody > tr > th:last-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tbody > tr > th:last-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > tbody > tr > th:last-child,
+.course-menu .courses .course-panel > .table-bordered > tfoot > tr > th:last-child,
+.course-menu .courses .language > .table-bordered > tfoot > tr > th:last-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tfoot > tr > th:last-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > tfoot > tr > th:last-child,
+.course-menu .courses .course-panel > .table-bordered > thead > tr > td:last-child,
+.course-menu .courses .language > .table-bordered > thead > tr > td:last-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > thead > tr > td:last-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > thead > tr > td:last-child,
+.course-menu .courses .course-panel > .table-bordered > tbody > tr > td:last-child,
+.course-menu .courses .language > .table-bordered > tbody > tr > td:last-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tbody > tr > td:last-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > tbody > tr > td:last-child,
+.course-menu .courses .course-panel > .table-bordered > tfoot > tr > td:last-child,
+.course-menu .courses .language > .table-bordered > tfoot > tr > td:last-child,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tfoot > tr > td:last-child,
+.course-menu .courses .language > .table-responsive > .table-bordered > tfoot > tr > td:last-child {
   border-right: 0;
 }
-.course-menu .courses .language-wrapper .language > .table-bordered > thead > tr:first-child > td,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > thead > tr:first-child > td,
-.course-menu .courses .language-wrapper .language > .table-bordered > tbody > tr:first-child > td,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tbody > tr:first-child > td,
-.course-menu .courses .language-wrapper .language > .table-bordered > thead > tr:first-child > th,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > thead > tr:first-child > th,
-.course-menu .courses .language-wrapper .language > .table-bordered > tbody > tr:first-child > th,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tbody > tr:first-child > th {
+.course-menu .courses .course-panel > .table-bordered > thead > tr:first-child > td,
+.course-menu .courses .language > .table-bordered > thead > tr:first-child > td,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > thead > tr:first-child > td,
+.course-menu .courses .language > .table-responsive > .table-bordered > thead > tr:first-child > td,
+.course-menu .courses .course-panel > .table-bordered > tbody > tr:first-child > td,
+.course-menu .courses .language > .table-bordered > tbody > tr:first-child > td,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tbody > tr:first-child > td,
+.course-menu .courses .language > .table-responsive > .table-bordered > tbody > tr:first-child > td,
+.course-menu .courses .course-panel > .table-bordered > thead > tr:first-child > th,
+.course-menu .courses .language > .table-bordered > thead > tr:first-child > th,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > thead > tr:first-child > th,
+.course-menu .courses .language > .table-responsive > .table-bordered > thead > tr:first-child > th,
+.course-menu .courses .course-panel > .table-bordered > tbody > tr:first-child > th,
+.course-menu .courses .language > .table-bordered > tbody > tr:first-child > th,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tbody > tr:first-child > th,
+.course-menu .courses .language > .table-responsive > .table-bordered > tbody > tr:first-child > th {
   border-bottom: 0;
 }
-.course-menu .courses .language-wrapper .language > .table-bordered > tbody > tr:last-child > td,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tbody > tr:last-child > td,
-.course-menu .courses .language-wrapper .language > .table-bordered > tfoot > tr:last-child > td,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tfoot > tr:last-child > td,
-.course-menu .courses .language-wrapper .language > .table-bordered > tbody > tr:last-child > th,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tbody > tr:last-child > th,
-.course-menu .courses .language-wrapper .language > .table-bordered > tfoot > tr:last-child > th,
-.course-menu .courses .language-wrapper .language > .table-responsive > .table-bordered > tfoot > tr:last-child > th {
+.course-menu .courses .course-panel > .table-bordered > tbody > tr:last-child > td,
+.course-menu .courses .language > .table-bordered > tbody > tr:last-child > td,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tbody > tr:last-child > td,
+.course-menu .courses .language > .table-responsive > .table-bordered > tbody > tr:last-child > td,
+.course-menu .courses .course-panel > .table-bordered > tfoot > tr:last-child > td,
+.course-menu .courses .language > .table-bordered > tfoot > tr:last-child > td,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tfoot > tr:last-child > td,
+.course-menu .courses .language > .table-responsive > .table-bordered > tfoot > tr:last-child > td,
+.course-menu .courses .course-panel > .table-bordered > tbody > tr:last-child > th,
+.course-menu .courses .language > .table-bordered > tbody > tr:last-child > th,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tbody > tr:last-child > th,
+.course-menu .courses .language > .table-responsive > .table-bordered > tbody > tr:last-child > th,
+.course-menu .courses .course-panel > .table-bordered > tfoot > tr:last-child > th,
+.course-menu .courses .language > .table-bordered > tfoot > tr:last-child > th,
+.course-menu .courses .course-panel > .table-responsive > .table-bordered > tfoot > tr:last-child > th,
+.course-menu .courses .language > .table-responsive > .table-bordered > tfoot > tr:last-child > th {
   border-bottom: 0;
 }
-.course-menu .courses .language-wrapper .language > .table-responsive {
+.course-menu .courses .course-panel > .table-responsive,
+.course-menu .courses .language > .table-responsive {
   margin-bottom: 0;
   border: 0;
 }
-.course-menu .courses .language-wrapper .language > .panel-heading {
+.course-menu .courses .course-panel > .panel-heading,
+.course-menu .courses .language > .panel-heading {
   color: #fff;
   background-color: #5b527f;
   border-color: #5b527f;
 }
-.course-menu .courses .language-wrapper .language > .panel-heading + .panel-collapse > .panel-body {
+.course-menu .courses .course-panel > .panel-heading + .panel-collapse > .panel-body,
+.course-menu .courses .language > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: #5b527f;
 }
-.course-menu .courses .language-wrapper .language > .panel-heading .badge {
+.course-menu .courses .course-panel > .panel-heading .badge,
+.course-menu .courses .language > .panel-heading .badge {
   color: #5b527f;
   background-color: #fff;
 }
-.course-menu .courses .language-wrapper .language > .panel-footer + .panel-collapse > .panel-body {
+.course-menu .courses .course-panel > .panel-footer + .panel-collapse > .panel-body,
+.course-menu .courses .language > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #5b527f;
 }
-.course-menu .courses .language-wrapper .language h3 {
+.course-menu .courses .course-panel h3,
+.course-menu .courses .language h3 {
   font-size: 16px;
 }
-.course-menu .courses .language-wrapper .language .panel-title {
+.course-menu .courses .course-panel .panel-title,
+.course-menu .courses .language .panel-title {
   font-size: 17.5px;
 }
-.course-menu .courses .language-wrapper .language .panel-body > h3:first-child {
+.course-menu .courses .course-panel .panel-body > h3:first-child,
+.course-menu .courses .language .panel-body > h3:first-child {
   margin-top: 5px;
+}
+.course-menu .courses .course-panel .panel-body > .list-group:last-child {
+  margin-bottom: 0;
 }
 @media (min-width: 768px) {
   .table.schedule > tbody > tr > .schedule-date {
