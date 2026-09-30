@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Monisteet
-theme: english
 course: ena1
 ---
 

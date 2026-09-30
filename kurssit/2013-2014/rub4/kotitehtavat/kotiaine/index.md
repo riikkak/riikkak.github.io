@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kotiaine
-theme: swedish
 course: rub4
 ---
 

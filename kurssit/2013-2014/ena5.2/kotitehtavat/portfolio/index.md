@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Portfolio
-theme: english
 course: ena5.2
 ---
 

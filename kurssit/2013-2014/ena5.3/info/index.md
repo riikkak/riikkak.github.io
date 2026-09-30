@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Info
-theme: english
 course: ena5.3
 ---
 

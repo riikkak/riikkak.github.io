@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Linkkejä
-theme: swedish
 course: rub1
 ---
 

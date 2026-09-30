@@ -1,7 +1,6 @@
 ---
 layout: content-main
 title: Arviointi
-theme: swedish
 course: rub3.6
 ---
 Kurssin arviointi perustuu ensisijaisesti läsnäoloon oppitunneilla ja niiden

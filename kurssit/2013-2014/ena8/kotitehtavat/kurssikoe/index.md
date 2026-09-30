@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kurssikoe
-theme: english
 course: ena8
 ---
 
