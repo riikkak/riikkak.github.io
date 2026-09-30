@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Info
-theme: swedish
 course: rub6
 ---
 

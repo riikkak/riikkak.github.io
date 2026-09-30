@@ -1,7 +1,6 @@
 ---
 layout: content-main
 title: Kurssikoe
-theme: english
 course: rub4.4
 ---
 

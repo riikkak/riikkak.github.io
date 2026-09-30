@@ -1,7 +1,6 @@
 ---
 layout: content-main
 title: Kurssikoe
-theme: english
 course: rub4.5
 ---
 Kurssikoe pidetään koeviikolla, sille varattuna päivänä.

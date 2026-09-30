@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Monisteet
-theme: swedish
 course: rub1
 ---
 

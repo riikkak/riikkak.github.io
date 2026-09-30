@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Linkkejä
-theme: english
 course: ena1
 ---
 

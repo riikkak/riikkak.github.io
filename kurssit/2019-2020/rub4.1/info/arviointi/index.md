@@ -1,7 +1,6 @@
 ---
 layout: content-main
 title: Arviointi
-theme: swedish
 course: rub4.1
 published: true
 ---

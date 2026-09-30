@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kirjallinen tiivistelmä
-theme: english
 course: ena6
 ---
 

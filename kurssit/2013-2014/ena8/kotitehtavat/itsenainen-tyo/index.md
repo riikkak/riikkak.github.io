@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Itsenäinen työ
-theme: english
 course: ena8
 ---
 

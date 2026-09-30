@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Suullinen tiivistelmä
-theme: english
 course: ena6
 ---
 
