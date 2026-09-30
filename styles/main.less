@@ -82,7 +82,10 @@ h1, h2, h3, h4, h5, h6,
       .make-xs-column(10);
       .make-sm-column(10);
 
-      h1 {
+      // The site name and course code are styled as an h1 but aren't
+      // headings, so each page's own title is its only h1.
+      .h1 {
+        font-family: @font-family-display;
         font-size: 42px;
         color: @header-color;
       }

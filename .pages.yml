@@ -51,6 +51,7 @@ content:
       - name: body
         label: Sisältö
         type: rich-text
+        description: "Läksyn otsikko näkyy sivulla H2-tasoisena. Jos tarvitset tekstissä väliotsikoita, käytä tasoa H3."
 
   - name: ena01-02_8
     label: ENA01-02.8
@@ -88,6 +89,7 @@ content:
           - name: body
             label: Sisältö
             type: rich-text
+            description: "Sivun nimi on jo pääotsikko (H1). Käytä väliotsikoissa tasoa H2 ja niiden alaotsikoissa tasoa H3."
       - name: ena01-02_8_kurssiinfo
         label: Kurssi-info
         type: file
