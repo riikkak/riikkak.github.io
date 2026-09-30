@@ -38,7 +38,6 @@ exclude:
   - README.md
   - LICENSE.md
   - CLAUDE.md
-  - TODO.md
   - CNAME
   - package.json
   - package-lock.json
@@ -47,4 +46,3 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
-  - docs
