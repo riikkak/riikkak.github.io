@@ -6830,6 +6830,24 @@ body > .content-wrapper {
 }
 .content-wrapper {
   padding-bottom: 120px;
+  background-color: #ebd8b7;
+}
+body {
+  background-color: #5b527f;
+}
+@supports (animation-timeline: scroll()) {
+  body {
+    animation: canvas-bg linear both;
+    animation-timeline: scroll(root);
+  }
+}
+@keyframes canvas-bg {
+  from {
+    background-color: #5b527f;
+  }
+  to {
+    background-color: #99bbad;
+  }
 }
 h1,
 h2,
