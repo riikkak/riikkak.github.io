@@ -26,6 +26,28 @@ body > .content-wrapper {
 
 .content-wrapper {
   padding-bottom: 120px;
+  background-color: @body-bg;
+}
+
+// Safari on iOS fills the area past either end of the page, and the strips
+// behind its status bar and toolbar, with the body background. The page
+// itself is beige on .content-wrapper, and the body scrolls from the
+// header's purple at the top to the footer's green at the bottom so each
+// end matches.
+body {
+  background-color: @header-bg;
+}
+
+@supports (animation-timeline: scroll()) {
+  body {
+    animation: canvas-bg linear both;
+    animation-timeline: scroll(root);
+  }
+}
+
+@keyframes canvas-bg {
+  from { background-color: @header-bg; }
+  to   { background-color: @footer-bg; }
 }
 
 //
