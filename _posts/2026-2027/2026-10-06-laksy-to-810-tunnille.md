@@ -5,7 +5,7 @@ published: true
 ---
 **PAKOLLISET:**
 
-Täydennä medier-teeman sanastolaatikot (pepp och prep -vihkon sivuilla 11 ja 12 digikirjan avulla.
+Täydennä Tema medier sanastolaatikot (Pepp och prep -vihkon sivuilla 11 ja 12) digikirjan teemasanaston avulla.
 
 
 
