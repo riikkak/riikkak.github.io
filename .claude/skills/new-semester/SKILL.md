@@ -21,7 +21,7 @@ If the arguments don't give all of this, ask for it. Don't guess codes or period
 
 ## 2. Write the courses file
 
-Pull first, since Pages CMS and the bots commit to `master`. Then write `_data/courses_<semester>.yml` in the format of the previous semester's file:
+Pull first, since Pages CMS and the bots commit to `master`. Then write `_data/<semester>/courses.yml` in the format of the previous semester's file:
 
 ```yaml
 - name: rub11-12.3
@@ -47,7 +47,7 @@ ruby .claude/skills/new-semester/scaffold.rb <semester>
 
 It creates the files that don't exist yet and leaves existing ones alone, so rerun it after fixing the courses file:
 
-- `_data/schedule_<semester>_<course>.yml` (empty) and `_data/navigation_<semester>.yml`
+- `_data/<semester>/schedules/<course>.yml` (empty) and `_data/<semester>/navigation.yml`
 - `kurssit/<semester>/<course>/` with the Aikataulu, Läksyt, Materiaali and Kurssi-info pages
 - `_posts/<semester>/.gitkeep`, the folder Pages CMS writes homework to
 

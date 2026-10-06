@@ -3,7 +3,7 @@
 # Läksyt dropdown only offers courses that are running now.
 #
 # Reads: _config.yml (semester), _data/asetukset.yml (period),
-#        _data/courses_<semester>.yml (course periods).
+#        _data/<semester>/courses.yml (course periods).
 # Run by .github/workflows/pages-cms-courses.yml; can also be run locally.
 require "yaml"
 
@@ -18,7 +18,7 @@ end
 semester = YAML.load_file("_config.yml")["semester"] or abort "_config.yml: no semester set"
 period = YAML.load_file("_data/asetukset.yml")["period"].to_i
 
-courses_file = "_data/courses_#{semester}.yml"
+courses_file = "_data/#{semester}/courses.yml"
 unless File.exist?(courses_file)
   abort "#{courses_file} not found. _config.yml says the semester is #{semester}; " \
         "add the courses file first (see \"Adding a new semester\" in CLAUDE.md)."

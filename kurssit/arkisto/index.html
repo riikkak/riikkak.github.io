@@ -10,8 +10,7 @@ title: Kurssit
             {% assign last_start = current_start | minus: 1 %}
             {% for start in (2013..last_start) reversed %}
             {% assign year = start | plus: 1 | prepend: "-" | prepend: start %}
-            {% assign courses_key = "courses_" | append: year %}
-            {% assign course_db = site.data[courses_key] %}
+            {% assign course_db = site.data[year].courses %}
             <div class="courses-heading">
                 {% if forloop.first %}<h1>Kurssiarkisto</h1>{% endif %}
                 <h2>{{ year }}</h2>

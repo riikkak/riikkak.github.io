@@ -4,8 +4,7 @@ title: Kurssit
 redirect_from: /kurssit/
 ---
 
-{% assign courses_key = "courses_" | append: site.semester %}
-{% assign course_db = site.data[courses_key] %}
+{% assign course_db = site.data[site.semester].courses %}
 {% assign cur_period = site.data.asetukset.period %}
 {% assign next_period = cur_period | plus: 1 %}
 

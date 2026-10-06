@@ -1,4 +1,2 @@
-{% assign nav_key = "navigation_" | append: page.semester %}
-{% assign courses_key = "courses_" | append: page.semester %}
-{% assign page_nav = site.data[nav_key] %}
-{% assign page_courses = site.data[courses_key] %}
+{% assign page_nav = site.data[page.semester].navigation %}
+{% assign page_courses = site.data[page.semester].courses %}

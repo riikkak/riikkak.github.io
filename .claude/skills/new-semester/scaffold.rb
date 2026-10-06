@@ -1,10 +1,10 @@
 # Scaffolds a new semester from its course list, following "Adding a new
-# semester" in CLAUDE.md. Write _data/courses_<semester>.yml first, then run:
+# semester" in CLAUDE.md. Write _data/<semester>/courses.yml first, then run:
 #
 #   ruby .claude/skills/new-semester/scaffold.rb 2027-2028
 #
 # Creates the files that don't exist yet: an empty schedule file per course,
-# _data/navigation_<semester>.yml, the four pages of each course and
+# _data/<semester>/navigation.yml, the four pages of each course and
 # _posts/<semester>/.gitkeep. Then points _config.yml, .pages.yml and
 # _data/asetukset.yml at the new semester and reruns
 # .github/scripts/pages-cms-courses.rb. Existing files are left alone, so it
@@ -18,7 +18,7 @@ semester = ARGV[0].to_s
 years = semester.match(/\A(\d{4})-(\d{4})\z/) or abort "Usage: ruby #{$PROGRAM_NAME} YYYY-YYYY"
 abort "#{semester}: the years must be consecutive" unless years[2].to_i == years[1].to_i + 1
 
-courses_file = "_data/courses_#{semester}.yml"
+courses_file = "_data/#{semester}/courses.yml"
 abort "#{courses_file} not found. Write the course list first." unless File.exist?(courses_file)
 courses = YAML.load_file(courses_file)
 abort "#{courses_file} has no courses" unless courses.is_a?(Array) && !courses.empty?
@@ -61,7 +61,7 @@ end
 courses.each do |course|
   name = course["name"]
   dir = "kurssit/#{semester}/#{name}"
-  create("_data/schedule_#{semester}_#{key(name)}.yml", "")
+  create("_data/#{semester}/schedules/#{key(name)}.yml", "")
   create("#{dir}/index.html", <<~PAGE)
     ---
     layout: content-main
@@ -69,7 +69,7 @@ courses.each do |course|
     course: #{name}
     ---
 
-    {% include course-schedule.html data=site.data.schedule_#{semester}_#{key(name)} prework=false %}
+    {% include course-schedule.html data=site.data.#{semester}.schedules.#{key(name)} prework=false %}
   PAGE
   create("#{dir}/laksyt/index.html", <<~PAGE)
     ---
@@ -106,7 +106,7 @@ navigation = courses.map do |course|
         - page: Kurssi-info
   NAV
 end
-create("_data/navigation_#{semester}.yml", navigation.join)
+create("_data/#{semester}/navigation.yml", navigation.join)
 create("_posts/#{semester}/.gitkeep", "")
 
 update("_config.yml") do |text|
@@ -145,7 +145,7 @@ update(".pages.yml") do |text|
           - name: #{id}_aikataulu
             label: Aikataulu
             type: file
-            path: _data/schedule_#{semester}_#{id}.yml
+            path: _data/#{semester}/schedules/#{id}.yml
             format: yaml
             list: true
             fields: *aikataulu

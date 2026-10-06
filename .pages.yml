@@ -60,7 +60,7 @@ content:
       - name: ena01-02_8_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_ena01-02_8.yml
+        path: _data/2026-2027/schedules/ena01-02_8.yml
         format: yaml
         list: true
         fields: &aikataulu
@@ -103,7 +103,7 @@ content:
       - name: rub11-12_3_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub11-12_3.yml
+        path: _data/2026-2027/schedules/rub11-12_3.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -125,7 +125,7 @@ content:
       - name: rub11-12_9_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub11-12_9.yml
+        path: _data/2026-2027/schedules/rub11-12_9.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -147,7 +147,7 @@ content:
       - name: rub112_4_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub112_4.yml
+        path: _data/2026-2027/schedules/rub112_4.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -169,7 +169,7 @@ content:
       - name: rub13_3_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub13_3.yml
+        path: _data/2026-2027/schedules/rub13_3.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -191,7 +191,7 @@ content:
       - name: rub13_5_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub13_5.yml
+        path: _data/2026-2027/schedules/rub13_5.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -213,7 +213,7 @@ content:
       - name: rub14_8_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub14_8.yml
+        path: _data/2026-2027/schedules/rub14_8.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -235,7 +235,7 @@ content:
       - name: rub14_9_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub14_9.yml
+        path: _data/2026-2027/schedules/rub14_9.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -257,7 +257,7 @@ content:
       - name: rub15_9_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub15_9.yml
+        path: _data/2026-2027/schedules/rub15_9.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -279,7 +279,7 @@ content:
       - name: rub16_4_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub16_4.yml
+        path: _data/2026-2027/schedules/rub16_4.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -301,7 +301,7 @@ content:
       - name: rub17_1_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub17_1.yml
+        path: _data/2026-2027/schedules/rub17_1.yml
         format: yaml
         list: true
         fields: *aikataulu
@@ -323,7 +323,7 @@ content:
       - name: rub17_4_aikataulu
         label: Aikataulu
         type: file
-        path: _data/schedule_2026-2027_rub17_4.yml
+        path: _data/2026-2027/schedules/rub17_4.yml
         format: yaml
         list: true
         fields: *aikataulu

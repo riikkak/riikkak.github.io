@@ -30,7 +30,7 @@ Check these, plus any paths given in `$ARGUMENTS`:
 | `/kurssit/2013-2014/ena1/info/` | Info page with the sticky sidebar (only 2013-2014 info pages have one) |
 | `/404.html` | Error page |
 
-Take `<semester>` from `_config.yml`. For `<course>`, pick one whose `period` in `_data/courses_<semester>.yml` includes the `period` in `_data/asetukset.yml`.
+Take `<semester>` from `_config.yml`. For `<course>`, pick one whose `period` in `_data/<semester>/courses.yml` includes the `period` in `_data/asetukset.yml`.
 
 ## 4. Screenshots
 

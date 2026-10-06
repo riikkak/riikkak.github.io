@@ -7,7 +7,7 @@ on:
     branches: [master]
     paths:
       - _data/asetukset.yml
-      - "_data/courses_*.yml"
+      - "_data/*/courses.yml"
       - _config.yml
       - .github/scripts/pages-cms-courses.rb
       - .github/workflows/pages-cms-courses.yml
