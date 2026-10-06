@@ -5,9 +5,11 @@ published: true
 ---
 **PAKOLLISET:** 
 
-1. (Kuuntele ja) Lue digikirjasta teksti 4 Ett liv utan sopor ja vastaa vihkossa (grammatik-vihko) oleviin sisältökysymyksiin. 
+1. (Kuuntele ja) Lue digikirjasta teksti 4 Ett liv utan sopor ja vastaa vihkossa (grammatik-vihko) oleviin sisältökysymyksiin.
 
 Tee sitten digikirjasta tehtävät 4a, 4b ja 4d.
+
+**OBS!** Usealta puuttuu vielä liittyminen ryhmiin, katso lähettämästäni Wilma-viestistä koodit ja tee se välittömästi.
 
 **POISSAOLIJAT:**
 
