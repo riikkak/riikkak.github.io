@@ -7,6 +7,8 @@ published: true
 
 Täydennä Tema medier sanastolaatikot (Pepp och prep -vihkon sivuilla 11 ja 12) digikirjan teemasanaston avulla.
 
+Olethan liittynyt Novan ja Teamsin ryhmiin? Jos et vielä, tee se heti.
+
 
 
 &nbsp;
