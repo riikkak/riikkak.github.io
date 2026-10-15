@@ -13,7 +13,7 @@
   other: Sanakoe Text 1
 - date: to 15.10.
   title: Tema - Fritid, ajanmääreet
-  grammar: Kysymyslause
+  grammar: Päälauseen sanajärjestys
 - date: vk 43
   title: HÖSTLOV
 - date: ma 26.10.
@@ -24,6 +24,7 @@
   grammar: verbit
 - date: to 29.10.
   title: Harjoituksia
+  grammar: verbit
   other: kuuntelukoe 1, ohjattu kirjoitusharjoitus
 - date: ma 2.11.
   title: Temaord - kompisar och vänner
