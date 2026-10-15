@@ -8,8 +8,8 @@
   title: Text 1 jatkuu + tema Sverige
   grammar: Päälause
 - date: ke 14.10.
-  title: Tema - Fritid 
-  grammar: Päälause, Kys. lause
+  title: Tema - Fritid
+  grammar: Päälause
   other: Sanakoe Text 1
 - date: to 15.10.
   title: Tema - Fritid, ajanmääreet
@@ -20,7 +20,7 @@
   title: Text 2 Musik, sport, datorer eller något annat?
   grammar: Kysymyslause
 - date: ke 28.10.
-  title: Text 2 jatkuu 
+  title: Text 2 jatkuu
   grammar: verbit
 - date: to 29.10.
   title: Harjoituksia
