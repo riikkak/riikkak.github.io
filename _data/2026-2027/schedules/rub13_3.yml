@@ -45,15 +45,15 @@
   grammar: varje
   other: REK
 - date: to 5.11.
-  title: Tema Finland - text 1
+  title: Tema Finland
   grammar: paljoussanat
   other: ELSI
 - date: ma 9.11.
-  title: Tema Finland - Text 1 jatkuu
+  title: "Tema Finland - Text 1 "
   grammar: den här, den där
   other: REK
 - date: ti 10.11.
-  title: Tema Finland
+  title: Tema Finland - Text 1 jatkuu
   grammar: samma, densamma
   other: REK
 - date: to 12.11.
