@@ -65,17 +65,16 @@
   grammar: prepositiot paikanilmauksissa
   other: REK
 - date: ti 17.11.
-  title: SANAKOE FINLAND, Tema Finland
   grammar: relatiivilause
   other: REK
 - date: to 19.11.
-  title: KUUNTELUKOE
+  title: SANA- ja KUUNTELUKOE
   grammar: relatiivilause
   other: ELSI
+- date: ma 23.11.
+  title: Tema Finland
+  grammar: Pronominikertaus
 - date: ke 25.11.
   title: PÄÄTTÖPÄIVÄ
   grammar: suullinen koe, kielioppi, luettu, käännöslauseet
   other: MUKAAN RUOTSI-KANSIO, LÄPPÄRI, KYNÄ JA KUMI
-- date: ma 23.11.
-  title: Tema Finland
-  grammar: Pronominikertaus
