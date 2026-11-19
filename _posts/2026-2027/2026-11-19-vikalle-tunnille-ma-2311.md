@@ -24,4 +24,7 @@ Nämä plussat on annettu:
 - lauseenvastikkeet
 - trafik
 - genetiivi
+- kertausmoniste (sanasto ja kielioppi)
+
+Kuuntelutehtävien plussa löytyy digistä tehtäväpakettina, tee halutessasi.
 
